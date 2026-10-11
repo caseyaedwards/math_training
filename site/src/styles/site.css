@@ -47,8 +47,25 @@ body {
   line-height: 1.65;
 }
 
+/* Page width. The reader picks one in the masthead; medium is the default. */
+:root {
+  --page-width: 46rem;
+}
+:root[data-width='slim'] {
+  --page-width: 38rem;
+}
+:root[data-width='wide'] {
+  --page-width: 64rem;
+}
+:root[data-width='full'] {
+  --page-width: none;
+}
+:root[data-width='full'] .wrap {
+  padding: 0 2rem;
+}
+
 .wrap {
-  max-width: 46rem;
+  max-width: var(--page-width);
   margin: 0 auto;
   padding: 0 1rem;
 }
@@ -301,6 +318,34 @@ pre {
   margin-left: auto;
 }
 
+.width-picker {
+  float: right;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  margin-top: 0.3rem;
+  font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+.width-picker button {
+  font: inherit;
+  color: var(--link);
+  background: transparent;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  padding: 0.05rem 0.45rem;
+  cursor: pointer;
+}
+.width-picker button:hover {
+  border-color: var(--link);
+}
+.width-picker button[aria-pressed='true'] {
+  color: var(--fg);
+  font-weight: 600;
+  border-color: var(--accent);
+}
+
 .footer {
   border-top: 1px solid var(--rule);
   margin-top: 2rem;
@@ -308,6 +353,12 @@ pre {
   padding-bottom: 2rem;
   font-size: 0.9rem;
   color: var(--muted);
+}
+
+@media (max-width: 760px) {
+  .width-picker {
+    display: none;
+  }
 }
 
 @media (max-width: 600px) {

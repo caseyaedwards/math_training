@@ -3,12 +3,12 @@ workshop: Number Theory for Cryptography
 status: not-started
 started:
 finished:
-material: https://github.com/caseyaedwards/math_training/tree/main/workshops/number-theory-for-cryptography
+material: https://caseyaedwards.github.io/math_training/workshops/number-theory-for-cryptography/
 tags: [workshop]
 ---
 # Number Theory for Cryptography
 
-**Material:** [workshops/number-theory-for-cryptography on GitHub](https://github.com/caseyaedwards/math_training/tree/main/workshops/number-theory-for-cryptography)
+**Read it:** [Number Theory for Cryptography on the website](https://caseyaedwards.github.io/math_training/workshops/number-theory-for-cryptography/) · [source and code on GitHub](https://github.com/caseyaedwards/math_training/tree/main/workshops/number-theory-for-cryptography)
 
 ## Math It Uses
 -

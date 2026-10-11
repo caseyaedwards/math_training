@@ -3,12 +3,12 @@ workshop: Linear Algebra for Graphics and ML
 status: not-started
 started:
 finished:
-material: https://github.com/caseyaedwards/math_training/tree/main/workshops/linear-algebra-for-graphics-and-ml
+material: https://caseyaedwards.github.io/math_training/workshops/linear-algebra-for-graphics-and-ml/
 tags: [workshop]
 ---
 # Linear Algebra for Graphics and ML
 
-**Material:** [workshops/linear-algebra-for-graphics-and-ml on GitHub](https://github.com/caseyaedwards/math_training/tree/main/workshops/linear-algebra-for-graphics-and-ml)
+**Read it:** [Linear Algebra for Graphics and ML on the website](https://caseyaedwards.github.io/math_training/workshops/linear-algebra-for-graphics-and-ml/) · [source and code on GitHub](https://github.com/caseyaedwards/math_training/tree/main/workshops/linear-algebra-for-graphics-and-ml)
 
 ## Math It Uses
 -

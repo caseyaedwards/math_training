@@ -10,6 +10,7 @@ The material lives in the repository. This vault tracks my progress.
 - [[Status Board]] · [[Goals]] · [[Conventions]]
 
 ## Where I Am
+- **Website:** [Math Training](https://caseyaedwards.github.io/math_training/) · [study plan](https://caseyaedwards.github.io/math_training/docs/STUDY_PLAN/) · [diagram showcase](https://caseyaedwards.github.io/math_training/diagrams/)
 - **Course:** [[Course Overview]]
 - **Tracks:** [[Tracks Overview]]
 - **Workshops:** [[Workshops Overview]]

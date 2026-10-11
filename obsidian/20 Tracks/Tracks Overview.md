@@ -3,26 +3,29 @@ tags: [track, dashboard]
 ---
 # Tracks Overview
 
-Topic tracks cut across the course levels. The list is provisional.
+20 topic tracks cut across the course levels. Each track goes deeper on one field after the course introduces it.
+Read them on the [website](https://caseyaedwards.github.io/math_training/tracks/).
 
-- [[Arithmetic and Number Sense]]
-- [[Algebra]]
-- [[Geometry]]
-- [[Trigonometry]]
-- [[Calculus]]
-- [[Linear Algebra]]
-- [[Probability]]
-- [[Statistics]]
-- [[Number Theory]]
-- [[Discrete Math]]
-- [[Combinatorics]]
-- [[Graph Theory]]
-- [[Logic and Set Theory]]
-- [[Differential Equations]]
 - [[Abstract Algebra]]
-- [[Real Analysis]]
+- [[Algebra]]
+- [[Arithmetic and Number Sense]]
+- [[Calculus]]
+- [[Combinatorics]]
 - [[Complex Analysis]]
+- [[Differential Equations]]
+- [[Discrete Math]]
+- [[Geometry]]
+- [[Graph Theory]]
+- [[Information Theory]]
+- [[Linear Algebra]]
+- [[Logic and Set Theory]]
+- [[Number Theory]]
+- [[Numerical Methods]]
+- [[Probability]]
+- [[Real Analysis]]
+- [[Statistics]]
 - [[Topology]]
+- [[Trigonometry]]
 
 ```dataview
 TABLE status, confidence, started

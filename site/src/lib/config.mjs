@@ -19,14 +19,8 @@ export const CONTENT_DIRS = ['course', 'tracks', 'workshops', 'history', 'resour
 // Non-Markdown files served from the site at the same relative path.
 export const ASSET_EXTS = new Set(['.svg', '.png', '.jpg', '.jpeg', '.gif', '.webp', '.tsv', '.csv', '.go']);
 
-// Top navigation. An entry appears only when its README.md exists.
-export const NAV = [
-  { label: 'Home', dir: '' },
-  { label: 'Course', dir: 'course' },
-  { label: 'Tracks', dir: 'tracks' },
-  { label: 'Workshops', dir: 'workshops' },
-  { label: 'History', dir: 'history' },
-  { label: 'Resources', dir: 'resources' },
-  // The diagram showcase is generated into public/diagrams/ by svg-generator in CI.
-  { label: 'Diagrams', dir: 'svg-generator', href: '/diagrams/' },
-];
+// Site title in the header and the browser tab.
+export const SITE_TITLE = 'Math Training';
+
+// The diagram showcase is generated into public/diagrams/ by svg-generator in CI.
+export const DIAGRAMS_PATH = '/diagrams/';

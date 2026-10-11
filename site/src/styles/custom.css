@@ -1,0 +1,77 @@
+/*
+ * Page elements that come from the repository Markdown. Colours come only from
+ * Starlight's --sl-color-* variables, set to the ivory and clay palette in
+ * theme.css and swapped by Starlight when the light/dark toggle changes, so
+ * nothing here needs a dark-mode variant.
+ */
+
+/*
+ * Answer blocks: <details> in the Markdown. Styled like the reference site's
+ * side lab, a bordered panel on the nav surface with a clay edge.
+ */
+.sl-markdown-content details {
+  border: 1px solid var(--sl-color-hairline);
+  border-inline-start: 0.25rem solid var(--sl-color-accent);
+  border-radius: 0.25rem;
+  background-color: var(--sl-color-bg-nav);
+}
+.sl-markdown-content details > summary {
+  padding: 0.6rem 1rem;
+  color: var(--sl-color-white);
+  font-weight: 600;
+  cursor: pointer;
+}
+.sl-markdown-content details > summary:focus-visible {
+  outline: 2px solid var(--sl-color-accent-high);
+  outline-offset: 2px;
+}
+.sl-markdown-content details[open] > summary {
+  border-bottom: 1px solid var(--sl-color-hairline);
+}
+.sl-markdown-content details > :not(summary) {
+  margin-inline: 1rem;
+}
+.sl-markdown-content details > :last-child {
+  margin-bottom: 0.75rem;
+}
+
+/*
+ * Math (KaTeX). Display math scrolls sideways on narrow screens instead of
+ * widening the page. Starlight's prose rhythm adds margins to every child, so
+ * KaTeX's own nested spans are excluded from it.
+ */
+.sl-markdown-content .katex {
+  font-size: 1.08em;
+}
+.sl-markdown-content .katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding-block: 0.25rem;
+}
+.sl-markdown-content .katex * {
+  margin-top: 0;
+}
+
+/* Code blocks keep tab characters (tabWidth: 0 in astro.config.mjs), so a
+   copied Makefile recipe still starts with a tab. Draw each tab four columns wide. */
+.expressive-code pre {
+  tab-size: 4;
+}
+
+/*
+ * Type, after the reference page: headings in a serif at weight 500 with slight
+ * negative tracking, body text in the system sans. System font stacks only, so
+ * the site loads no web fonts. Focus rings in this file and diagrams.css use
+ * --sl-color-accent-high: clay itself is 2.96:1 on ivory, just under the 3:1 a
+ * focus indicator needs.
+ */
+:root {
+  --fsp-font-serif: ui-serif, Georgia, 'Times New Roman', Times, serif;
+}
+.sl-markdown-content :is(h1, h2, h3):not(.not-content *),
+h1#_top,
+.site-title {
+  font-family: var(--fsp-font-serif);
+  font-weight: 500;
+  letter-spacing: -0.012em;
+}

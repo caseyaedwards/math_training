@@ -1,5 +1,6 @@
-// Loads the repository Markdown at build time and renders it to HTML.
+// Finds the repository Markdown and renders it to HTML at build time.
 // Nothing is copied into site/: the files are read straight from the repo.
+// src/lib/loader.mjs feeds the result to Starlight's docs collection.
 import fs from 'node:fs';
 import path from 'node:path';
 import { unified } from 'unified';
@@ -12,6 +13,7 @@ import rehypeSlug from 'rehype-slug';
 import rehypeKatex from 'rehype-katex';
 import rehypeStringify from 'rehype-stringify';
 import { visit, SKIP } from 'unist-util-visit';
+import { VFile } from 'vfile';
 import { toString } from 'hast-util-to-string';
 import { REPO_ROOT, CONTENT_DIRS, ASSET_EXTS, BASE, GITHUB_BLOB, GITHUB_TREE } from './config.mjs';
 
@@ -29,6 +31,13 @@ export function routeFor(repoPath) {
 }
 
 export const withBase = (route) => BASE + route;
+
+/** Repo path of a Markdown file -> Starlight entry id, for example "course/101". The root README.md is "index". */
+export function idFor(repoPath) {
+  if (repoPath === 'README.md') return 'index';
+  if (repoPath.endsWith('/README.md')) return repoPath.slice(0, -'/README.md'.length);
+  return repoPath.replace(/\.md$/, '');
+}
 
 function* walkMarkdown(dir) {
   let entries;
@@ -105,9 +114,9 @@ export function rewriteUrl(url, repoPath, { isImage = false } = {}) {
   return (isDir ? GITHUB_TREE : GITHUB_BLOB) + enc(clean) + suffix;
 }
 
-function rehypeRepoLinks(options) {
-  const { repoPath } = options;
-  return (tree) => {
+function rehypeRepoLinks() {
+  return (tree, file) => {
+    const { repoPath } = file.data;
     visit(tree, (node, index, parent) => {
       if (node.type === 'comment' && parent && index != null) {
         parent.children.splice(index, 1); // Drop <!-- diagram: ... --> and other comments.
@@ -151,27 +160,70 @@ function remarkDoubleDollarDisplay() {
   };
 }
 
-function rehypeCollectHeadings(options) {
-  return (tree) => {
+/**
+ * Takes the first H1 as the page title and removes it from the body, because
+ * Starlight prints the title above the content. Collects H2 and H3 headings for
+ * the "On this page" list. Runs before KaTeX so that heading text keeps the
+ * plain TeX source instead of the rendered markup.
+ */
+function rehypeTitleAndHeadings() {
+  return (tree, file) => {
     let title = null;
     const headings = [];
-    visit(tree, 'element', (node) => {
-      if (!/^h[1-3]$/.test(node.tagName)) return;
-      const text = toString(node).trim();
-      if (node.tagName === 'h1' && title == null) title = text;
-      if (node.tagName === 'h2') headings.push({ id: node.properties?.id, text });
+    visit(tree, 'element', (node, index, parent) => {
+      if (!/^h[1-6]$/.test(node.tagName)) return;
+      const text = toString(node).replace(/\s+/g, ' ').trim();
+      if (node.tagName === 'h1' && title == null) {
+        title = text;
+        if (parent && index != null) {
+          parent.children.splice(index, 1);
+          return [SKIP, index];
+        }
+        return;
+      }
+      const depth = Number(node.tagName[1]);
+      if ((depth === 2 || depth === 3) && node.properties?.id) {
+        headings.push({ depth, slug: String(node.properties.id), text });
+      }
     });
-    options.result.title = title;
-    options.result.headings = headings;
+    file.data.title = title;
+    file.data.headings = headings;
   };
 }
 
-/** Render the Markdown file at repoPath. */
-export async function renderSource(repoPath) {
-  let md = fs.readFileSync(path.join(REPO_ROOT, repoPath), 'utf8');
-  md = md.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, ''); // Ignore front matter if any.
-  const result = {};
-  const file = await unified()
+/**
+ * KaTeX writes each formula twice: MathML for screen readers and HTML for the
+ * eye. Pagefind would index both, so search excerpts would repeat every
+ * formula as garbled text. Keep only the TeX source (the MathML annotation)
+ * in the search index.
+ */
+function rehypeKatexSearchText() {
+  return (tree) => {
+    visit(tree, 'element', (node) => {
+      const cls = node.properties?.className;
+      if (Array.isArray(cls) && cls.includes('katex-html')) {
+        node.properties.dataPagefindIgnore = '';
+        return SKIP;
+      }
+      if (node.tagName === 'semantics') {
+        for (const child of node.children) {
+          if (child.type === 'element' && child.tagName !== 'annotation') {
+            child.properties = { ...child.properties, dataPagefindIgnore: '' };
+          }
+        }
+        return SKIP;
+      }
+    });
+  };
+}
+
+/**
+ * Build the Markdown to HTML processor. extraRehypePlugins run last, on the
+ * finished HTML tree: the loader passes the plugins that Starlight and
+ * Expressive Code register with Astro (heading anchor links, code frames).
+ */
+export function createRenderer({ extraRehypePlugins = [] } = {}) {
+  const processor = unified()
     .use(remarkParse)
     .use(remarkGfm)
     .use(remarkMath)
@@ -179,20 +231,39 @@ export async function renderSource(repoPath) {
     .use(remarkRehype, { allowDangerousHtml: true })
     .use(rehypeRaw)
     .use(rehypeSlug)
-    .use(rehypeRepoLinks, { repoPath })
+    .use(rehypeTitleAndHeadings)
+    .use(rehypeRepoLinks)
     .use(rehypeKatex, { throwOnError: false, strict: 'ignore' })
-    .use(rehypeCollectHeadings, { result })
-    .use(rehypeStringify)
-    .process(md);
-  const fallback = path.posix.basename(repoPath, '.md');
-  return {
-    html: String(file),
-    title: result.title || (fallback === 'README' ? path.posix.basename(path.posix.dirname(repoPath)) : fallback),
-    headings: result.headings || [],
+    .use(rehypeKatexSearchText);
+  for (const plugin of extraRehypePlugins) {
+    if (Array.isArray(plugin)) processor.use(plugin[0], plugin[1]);
+    else processor.use(plugin);
+  }
+  processor.use(rehypeStringify).freeze();
+
+  /** Render the Markdown file at repoPath. */
+  return async function renderSource(repoPath) {
+    const full = path.join(REPO_ROOT, repoPath);
+    let md = fs.readFileSync(full, 'utf8');
+    md = md.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, ''); // Ignore front matter if any.
+    // The absolute path lets Starlight's plugins check markdown.processedDirs.
+    const file = new VFile({ value: md, path: full, data: { repoPath } });
+    const out = await processor.process(file);
+    return {
+      source: md,
+      html: String(out),
+      title: file.data.title || fallbackTitle(repoPath),
+      headings: file.data.headings || [],
+    };
   };
 }
 
-/** Cheap title lookup (first "# " heading) without a full render, for breadcrumbs and prev/next. */
+function fallbackTitle(repoPath) {
+  const base = path.posix.basename(repoPath, '.md');
+  return base === 'README' ? path.posix.basename(path.posix.dirname(repoPath)) : base;
+}
+
+/** Cheap title lookup (first "# " heading) without a full render, for the sidebar. */
 const titleCache = new Map();
 export function quickTitle(repoPath) {
   if (titleCache.has(repoPath)) return titleCache.get(repoPath);
@@ -202,61 +273,7 @@ export function quickTitle(repoPath) {
     const m = md.match(/^#\s+(.+?)\s*#*\s*$/m);
     if (m) title = m[1].replace(/[*_`]/g, '').replace(/\[([^\]]*)\]\([^)]*\)/g, '$1');
   } catch {}
-  if (!title) {
-    const base = path.posix.basename(repoPath, '.md');
-    title = base === 'README' ? path.posix.basename(path.posix.dirname(repoPath)) : base;
-  }
+  if (!title) title = fallbackTitle(repoPath);
   titleCache.set(repoPath, title);
   return title;
-}
-
-/** Folder that "owns" a page for prev/next purposes. */
-function groupOf(repoPath) {
-  const dir = path.posix.dirname(repoPath);
-  if (path.posix.basename(repoPath) === 'README.md') return dir === '.' ? null : path.posix.dirname(dir);
-  return dir;
-}
-
-/** Page index with breadcrumbs and neighbours. */
-export function buildIndex() {
-  const sources = listSources();
-  const set = new Set(sources);
-  const groups = new Map();
-  for (const s of sources) {
-    const g = groupOf(s);
-    if (g == null) continue;
-    if (!groups.has(g)) groups.set(g, []);
-    groups.get(g).push(s);
-  }
-  for (const list of groups.values()) list.sort((a, b) => routeFor(a).localeCompare(routeFor(b)));
-
-  return sources.map((repoPath) => {
-    // Breadcrumb: every ancestor folder that has a README page.
-    const crumbs = [];
-    const parts = repoPath.split('/');
-    const isReadme = parts[parts.length - 1] === 'README.md';
-    const depth = isReadme ? parts.length - 2 : parts.length - 1;
-    if (repoPath !== 'README.md') crumbs.push({ title: 'Home', href: withBase('/') });
-    for (let i = 1; i <= depth; i++) {
-      const readme = parts.slice(0, i).join('/') + '/README.md';
-      if (set.has(readme)) crumbs.push({ title: quickTitle(readme), href: withBase(routeFor(readme)) });
-    }
-    const g = groupOf(repoPath);
-    const siblings = g != null ? groups.get(g) || [] : [];
-    const i = siblings.indexOf(repoPath);
-    const link = (p) => (p ? { title: quickTitle(p), href: withBase(routeFor(p)) } : null);
-    return {
-      repoPath,
-      route: routeFor(repoPath),
-      crumbs,
-      prev: siblings.length > 1 && i > 0 ? link(siblings[i - 1]) : null,
-      next: siblings.length > 1 && i >= 0 && i < siblings.length - 1 ? link(siblings[i + 1]) : null,
-    };
-  });
-}
-
-export function navItems(nav) {
-  return nav
-    .filter((n) => fs.existsSync(path.join(REPO_ROOT, n.dir, 'README.md')))
-    .map((n) => ({ ...n, href: withBase(n.href ?? (n.dir ? '/' + n.dir + '/' : '/')) }));
 }

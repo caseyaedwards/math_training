@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="4" fill="#fff"/><text x="16" y="24" font-family="Georgia,serif" font-size="22" text-anchor="middle" fill="#d9480f">&#8721;</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <style>
+    .mark { fill: #d97757; }
+    .ink { fill: #faf9f5; }
+    @media (prefers-color-scheme: dark) {
+      .mark { fill: #e5896b; }
+      .ink { fill: #1c1b19; }
+    }
+  </style>
+  <rect class="mark" width="32" height="32" rx="7"/>
+  <text class="ink" x="16" y="24" font-family="Georgia,serif" font-size="22" text-anchor="middle">&#8721;</text>
+</svg>

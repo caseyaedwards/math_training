@@ -1,0 +1,41 @@
+/*
+ * Lesson diagrams. The Markdown embeds SVG files from svg-generator as <img>
+ * (content.mjs adds class="diagram" to every SVG image). Each SVG paints its
+ * own white background with dark ink, so CSS cannot recolour it the way the
+ * reference site recolours its inline D2 diagrams. Instead every diagram sits
+ * on a paper card: white in light mode, where it matches the paper surfaces
+ * (--sl-color-gray-7), and a white card with a clay-tinted frame in dark mode,
+ * dimmed slightly so it does not glare against the warm near-black page.
+ */
+.sl-markdown-content img {
+  max-width: 100%;
+  height: auto;
+}
+
+.sl-markdown-content img.diagram {
+  display: block;
+  margin-inline: auto;
+  padding: 0.75rem;
+  border: 1px solid var(--sl-color-hairline);
+  border-radius: 0.5rem;
+  background-color: #ffffff;
+}
+
+:root[data-theme='dark'] .sl-markdown-content img.diagram {
+  border-color: var(--sl-color-gray-4);
+  filter: brightness(0.92);
+}
+
+@media print {
+  :root[data-theme='dark'] .sl-markdown-content img.diagram {
+    filter: none;
+  }
+}
+
+/* A figure caption, when the Markdown wraps a diagram in <figure>. */
+.sl-markdown-content figcaption {
+  margin-top: 0.5rem;
+  text-align: center;
+  font-size: var(--sl-text-sm);
+  color: var(--sl-color-gray-3);
+}

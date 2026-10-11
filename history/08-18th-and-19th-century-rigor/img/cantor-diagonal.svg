@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" width="700" height="420" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>Cantor's diagonal argument on a list of binary sequences</title>
+<rect x="0" y="0" width="700" height="420" fill="#ffffff"/>
+<text x="350.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">Cantor (1891): The Diagonal Argument</text>
+<text x="150.0" y="96.0" text-anchor="end" font-size="15" fill="#222222" font-weight="normal">s1 =</text>
+<rect x="170.0" y="70.0" width="40.0" height="40.0" rx="0" fill="#fff4e6" stroke="#d9480f" stroke-width="2"/>
+<text x="190.0" y="96.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">0</text>
+<rect x="210.0" y="70.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="230.0" y="96.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">1</text>
+<rect x="250.0" y="70.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="270.0" y="96.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">0</text>
+<rect x="290.0" y="70.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="310.0" y="96.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">1</text>
+<rect x="330.0" y="70.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="350.0" y="96.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">1</text>
+<rect x="370.0" y="70.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="390.0" y="96.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">0</text>
+<text x="422.0" y="96.0" text-anchor="start" font-size="15" fill="#222222" font-weight="normal">...</text>
+<text x="150.0" y="136.0" text-anchor="end" font-size="15" fill="#222222" font-weight="normal">s2 =</text>
+<rect x="170.0" y="110.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="190.0" y="136.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">1</text>
+<rect x="210.0" y="110.0" width="40.0" height="40.0" rx="0" fill="#fff4e6" stroke="#d9480f" stroke-width="2"/>
+<text x="230.0" y="136.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">1</text>
+<rect x="250.0" y="110.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="270.0" y="136.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">0</text>
+<rect x="290.0" y="110.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="310.0" y="136.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">0</text>
+<rect x="330.0" y="110.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="350.0" y="136.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">1</text>
+<rect x="370.0" y="110.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="390.0" y="136.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">0</text>
+<text x="422.0" y="136.0" text-anchor="start" font-size="15" fill="#222222" font-weight="normal">...</text>
+<text x="150.0" y="176.0" text-anchor="end" font-size="15" fill="#222222" font-weight="normal">s3 =</text>
+<rect x="170.0" y="150.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="190.0" y="176.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">0</text>
+<rect x="210.0" y="150.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="230.0" y="176.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">0</text>
+<rect x="250.0" y="150.0" width="40.0" height="40.0" rx="0" fill="#fff4e6" stroke="#d9480f" stroke-width="2"/>
+<text x="270.0" y="176.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">0</text>
+<rect x="290.0" y="150.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="310.0" y="176.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">1</text>
+<rect x="330.0" y="150.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="350.0" y="176.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">0</text>
+<rect x="370.0" y="150.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="390.0" y="176.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">1</text>
+<text x="422.0" y="176.0" text-anchor="start" font-size="15" fill="#222222" font-weight="normal">...</text>
+<text x="150.0" y="216.0" text-anchor="end" font-size="15" fill="#222222" font-weight="normal">s4 =</text>
+<rect x="170.0" y="190.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="190.0" y="216.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">1</text>
+<rect x="210.0" y="190.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="230.0" y="216.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">0</text>
+<rect x="250.0" y="190.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="270.0" y="216.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">1</text>
+<rect x="290.0" y="190.0" width="40.0" height="40.0" rx="0" fill="#fff4e6" stroke="#d9480f" stroke-width="2"/>
+<text x="310.0" y="216.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">1</text>
+<rect x="330.0" y="190.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="350.0" y="216.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">0</text>
+<rect x="370.0" y="190.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="390.0" y="216.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">0</text>
+<text x="422.0" y="216.0" text-anchor="start" font-size="15" fill="#222222" font-weight="normal">...</text>
+<text x="150.0" y="256.0" text-anchor="end" font-size="15" fill="#222222" font-weight="normal">s5 =</text>
+<rect x="170.0" y="230.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="190.0" y="256.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">0</text>
+<rect x="210.0" y="230.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="230.0" y="256.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">1</text>
+<rect x="250.0" y="230.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="270.0" y="256.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">1</text>
+<rect x="290.0" y="230.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="310.0" y="256.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">0</text>
+<rect x="330.0" y="230.0" width="40.0" height="40.0" rx="0" fill="#fff4e6" stroke="#d9480f" stroke-width="2"/>
+<text x="350.0" y="256.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">0</text>
+<rect x="370.0" y="230.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="390.0" y="256.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">1</text>
+<text x="422.0" y="256.0" text-anchor="start" font-size="15" fill="#222222" font-weight="normal">...</text>
+<text x="150.0" y="296.0" text-anchor="end" font-size="15" fill="#222222" font-weight="normal">s6 =</text>
+<rect x="170.0" y="270.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="190.0" y="296.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">1</text>
+<rect x="210.0" y="270.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="230.0" y="296.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">1</text>
+<rect x="250.0" y="270.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="270.0" y="296.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">1</text>
+<rect x="290.0" y="270.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="310.0" y="296.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">0</text>
+<rect x="330.0" y="270.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="350.0" y="296.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="normal">1</text>
+<rect x="370.0" y="270.0" width="40.0" height="40.0" rx="0" fill="#fff4e6" stroke="#d9480f" stroke-width="2"/>
+<text x="390.0" y="296.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">0</text>
+<text x="422.0" y="296.0" text-anchor="start" font-size="15" fill="#222222" font-weight="normal">...</text>
+<text x="290.0" y="336.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="normal">...</text>
+<text x="150.0" y="386.0" text-anchor="end" font-size="15" fill="#d9480f" font-weight="bold">new =</text>
+<rect x="170.0" y="360.0" width="40.0" height="40.0" rx="0" fill="#d9480f" stroke="#222222" stroke-width="1.5" fill-opacity="0.2"/>
+<text x="190.0" y="386.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">1</text>
+<rect x="210.0" y="360.0" width="40.0" height="40.0" rx="0" fill="#d9480f" stroke="#222222" stroke-width="1.5" fill-opacity="0.2"/>
+<text x="230.0" y="386.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">0</text>
+<rect x="250.0" y="360.0" width="40.0" height="40.0" rx="0" fill="#d9480f" stroke="#222222" stroke-width="1.5" fill-opacity="0.2"/>
+<text x="270.0" y="386.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">1</text>
+<rect x="290.0" y="360.0" width="40.0" height="40.0" rx="0" fill="#d9480f" stroke="#222222" stroke-width="1.5" fill-opacity="0.2"/>
+<text x="310.0" y="386.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">0</text>
+<rect x="330.0" y="360.0" width="40.0" height="40.0" rx="0" fill="#d9480f" stroke="#222222" stroke-width="1.5" fill-opacity="0.2"/>
+<text x="350.0" y="386.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">1</text>
+<rect x="370.0" y="360.0" width="40.0" height="40.0" rx="0" fill="#d9480f" stroke="#222222" stroke-width="1.5" fill-opacity="0.2"/>
+<text x="390.0" y="386.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">1</text>
+<text x="422.0" y="386.0" text-anchor="start" font-size="15" fill="#222222" font-weight="normal">...</text>
+<text x="470.0" y="110.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">Flip each diagonal digit:</text>
+<text x="470.0" y="132.0" text-anchor="start" font-size="14" fill="#868e96" font-weight="normal">diagonal 010100</text>
+<text x="470.0" y="154.0" text-anchor="start" font-size="14" fill="#d9480f" font-weight="bold">flipped  101011</text>
+<text x="470.0" y="196.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">new differs from s1 in</text>
+<text x="470.0" y="216.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">place 1, from s2 in place 2,</text>
+<text x="470.0" y="236.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">from sn in place n.</text>
+<text x="470.0" y="276.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">No list catches every</text>
+<text x="470.0" y="296.0" text-anchor="start" font-size="14" fill="#222222" font-weight="bold">infinite sequence.</text>
+</svg>

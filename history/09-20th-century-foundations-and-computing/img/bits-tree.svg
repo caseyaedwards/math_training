@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="800" height="350" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>Three yes-no questions pick one of eight outcomes: three bits</title>
+<rect x="0" y="0" width="800" height="350" fill="#ffffff"/>
+<text x="400.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">Shannon (1948): Information Counted in Bits</text>
+<line x1="450.0" y1="82.0" x2="290.0" y2="128.0" stroke="#868e96" stroke-width="1.5"/>
+<text x="360.0" y="105.0" text-anchor="end" font-size="13" fill="#d9480f" font-weight="bold">0</text>
+<line x1="450.0" y1="82.0" x2="610.0" y2="128.0" stroke="#868e96" stroke-width="1.5"/>
+<text x="540.0" y="105.0" text-anchor="start" font-size="13" fill="#d9480f" font-weight="bold">1</text>
+<line x1="290.0" y1="152.0" x2="210.0" y2="198.0" stroke="#868e96" stroke-width="1.5"/>
+<text x="240.0" y="175.0" text-anchor="end" font-size="13" fill="#d9480f" font-weight="bold">0</text>
+<line x1="290.0" y1="152.0" x2="370.0" y2="198.0" stroke="#868e96" stroke-width="1.5"/>
+<text x="340.0" y="175.0" text-anchor="start" font-size="13" fill="#d9480f" font-weight="bold">1</text>
+<line x1="610.0" y1="152.0" x2="530.0" y2="198.0" stroke="#868e96" stroke-width="1.5"/>
+<text x="560.0" y="175.0" text-anchor="end" font-size="13" fill="#d9480f" font-weight="bold">0</text>
+<line x1="610.0" y1="152.0" x2="690.0" y2="198.0" stroke="#868e96" stroke-width="1.5"/>
+<text x="660.0" y="175.0" text-anchor="start" font-size="13" fill="#d9480f" font-weight="bold">1</text>
+<line x1="210.0" y1="222.0" x2="170.0" y2="268.0" stroke="#868e96" stroke-width="1.5"/>
+<text x="180.0" y="245.0" text-anchor="end" font-size="13" fill="#d9480f" font-weight="bold">0</text>
+<line x1="210.0" y1="222.0" x2="250.0" y2="268.0" stroke="#868e96" stroke-width="1.5"/>
+<text x="240.0" y="245.0" text-anchor="start" font-size="13" fill="#d9480f" font-weight="bold">1</text>
+<line x1="370.0" y1="222.0" x2="330.0" y2="268.0" stroke="#868e96" stroke-width="1.5"/>
+<text x="340.0" y="245.0" text-anchor="end" font-size="13" fill="#d9480f" font-weight="bold">0</text>
+<line x1="370.0" y1="222.0" x2="410.0" y2="268.0" stroke="#868e96" stroke-width="1.5"/>
+<text x="400.0" y="245.0" text-anchor="start" font-size="13" fill="#d9480f" font-weight="bold">1</text>
+<line x1="530.0" y1="222.0" x2="490.0" y2="268.0" stroke="#868e96" stroke-width="1.5"/>
+<text x="500.0" y="245.0" text-anchor="end" font-size="13" fill="#d9480f" font-weight="bold">0</text>
+<line x1="530.0" y1="222.0" x2="570.0" y2="268.0" stroke="#868e96" stroke-width="1.5"/>
+<text x="560.0" y="245.0" text-anchor="start" font-size="13" fill="#d9480f" font-weight="bold">1</text>
+<line x1="690.0" y1="222.0" x2="650.0" y2="268.0" stroke="#868e96" stroke-width="1.5"/>
+<text x="660.0" y="245.0" text-anchor="end" font-size="13" fill="#d9480f" font-weight="bold">0</text>
+<line x1="690.0" y1="222.0" x2="730.0" y2="268.0" stroke="#868e96" stroke-width="1.5"/>
+<text x="720.0" y="245.0" text-anchor="start" font-size="13" fill="#d9480f" font-weight="bold">1</text>
+<circle cx="450.0" cy="70.0" r="12.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="290.0" cy="140.0" r="12.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="610.0" cy="140.0" r="12.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="210.0" cy="210.0" r="12.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="370.0" cy="210.0" r="12.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="530.0" cy="210.0" r="12.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="690.0" cy="210.0" r="12.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="170.0" cy="280.0" r="12.0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<text x="170.0" y="312.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">000</text>
+<circle cx="250.0" cy="280.0" r="12.0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<text x="250.0" y="312.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">001</text>
+<circle cx="330.0" cy="280.0" r="12.0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<text x="330.0" y="312.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">010</text>
+<circle cx="410.0" cy="280.0" r="12.0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<text x="410.0" y="312.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">011</text>
+<circle cx="490.0" cy="280.0" r="12.0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<text x="490.0" y="312.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">100</text>
+<circle cx="570.0" cy="280.0" r="12.0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<text x="570.0" y="312.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">101</text>
+<circle cx="650.0" cy="280.0" r="12.0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<text x="650.0" y="312.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">110</text>
+<circle cx="730.0" cy="280.0" r="12.0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<text x="730.0" y="312.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">111</text>
+<text x="40.0" y="145.0" text-anchor="start" font-size="12" fill="#868e96" font-weight="normal">question 1</text>
+<text x="40.0" y="215.0" text-anchor="start" font-size="12" fill="#868e96" font-weight="normal">question 2</text>
+<text x="40.0" y="285.0" text-anchor="start" font-size="12" fill="#868e96" font-weight="normal">question 3</text>
+<text x="400.0" y="340.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">8 equally likely outcomes need log₂ 8 = 3 bits. A fair coin flip carries exactly 1 bit.</text>
+</svg>

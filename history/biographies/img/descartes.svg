@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 290" width="820" height="290" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>Life timeline of René Descartes</title>
+<rect x="0" y="0" width="820" height="290" fill="#ffffff"/>
+<text x="410.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">René Descartes: 1596 to 1650</text>
+<text x="410.0" y="50.0" text-anchor="middle" font-size="13" fill="#868e96" font-weight="normal">Lived in: France, Netherlands, Sweden. Life span about 54 years.</text>
+<line x1="60.0" y1="120.0" x2="760.0" y2="120.0" stroke="#868e96" stroke-width="1.5"/>
+<rect x="108.3" y="113.0" width="603.4" height="14.0" rx="7" fill="#d9480f" stroke="#222222" stroke-width="1" fill-opacity="0.35"/>
+<text x="108.3" y="104.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="bold">born 1596</text>
+<text x="711.7" y="104.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="bold">died 1650</text>
+<line x1="566.4" y1="127.0" x2="566.4" y2="148.0" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="566.4" cy="120.0" r="5.0" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="570.4" y="160.0" text-anchor="end" font-size="13" fill="#222222" font-weight="normal">1637: La Géométrie: coordinates</text>
+<line x1="611.1" y1="127.0" x2="611.1" y2="178.0" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="611.1" cy="120.0" r="5.0" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="615.1" y="190.0" text-anchor="end" font-size="13" fill="#222222" font-weight="normal">1641: Meditations</text>
+<line x1="711.7" y1="127.0" x2="711.7" y2="208.0" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="711.7" cy="120.0" r="5.0" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="715.7" y="220.0" text-anchor="end" font-size="13" fill="#222222" font-weight="normal">1650: dies in Stockholm</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 400" width="820" height="400" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>Proof of the Pythagorean theorem by rearranging four triangles in a square</title>
+<rect x="0" y="0" width="820" height="400" fill="#ffffff"/>
+<text x="410.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">Pythagoras by Rearrangement: Same Big Square, Same Four Triangles</text>
+<polygon points="60.0,60.0 180.0,60.0 60.0,220.0" fill="#ced4da" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="340.0,60.0 340.0,180.0 180.0,60.0" fill="#ced4da" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="340.0,340.0 220.0,340.0 340.0,180.0" fill="#ced4da" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="60.0,340.0 60.0,220.0 220.0,340.0" fill="#ced4da" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="180.0,60.0 340.0,180.0 220.0,340.0 60.0,220.0" fill="#fff4e6" stroke="#d9480f" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="200.0" y="206.0" text-anchor="middle" font-size="20" fill="#d9480f" font-weight="bold">c²</text>
+<rect x="60.0" y="60.0" width="280.0" height="280.0" rx="0" fill="none" stroke="#222222" stroke-width="2"/>
+<text x="120.0" y="52.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal" font-style="italic">a</text>
+<text x="260.0" y="52.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal" font-style="italic">b</text>
+<rect x="460.0" y="60.0" width="120.0" height="120.0" rx="0" fill="#fff4e6" stroke="#d9480f" stroke-width="2.5"/>
+<text x="520.0" y="126.0" text-anchor="middle" font-size="18" fill="#d9480f" font-weight="bold">a²</text>
+<rect x="580.0" y="180.0" width="160.0" height="160.0" rx="0" fill="#fff4e6" stroke="#d9480f" stroke-width="2.5"/>
+<text x="660.0" y="266.0" text-anchor="middle" font-size="18" fill="#d9480f" font-weight="bold">b²</text>
+<polygon points="580.0,60.0 740.0,60.0 740.0,180.0" fill="#ced4da" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="580.0,60.0 580.0,180.0 740.0,180.0" fill="#ced4da" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="460.0,180.0 580.0,180.0 580.0,340.0" fill="#ced4da" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="460.0,180.0 460.0,340.0 580.0,340.0" fill="#ced4da" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="460.0" y="60.0" width="280.0" height="280.0" rx="0" fill="none" stroke="#222222" stroke-width="2"/>
+<text x="520.0" y="52.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal" font-style="italic">a</text>
+<text x="660.0" y="52.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal" font-style="italic">b</text>
+<text x="410.0" y="375.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Both squares have side a + b and hold four gray triangles. What is left over must match: c² = a² + b².</text>
+<text x="410.0" y="395.0" text-anchor="middle" font-size="13" fill="#868e96" font-weight="normal">Drawn with a = 3, b = 4, c = 5: 25 = 9 + 16.</text>
+</svg>

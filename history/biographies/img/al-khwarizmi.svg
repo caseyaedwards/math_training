@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 290" width="820" height="290" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>Life timeline of Muhammad ibn Musa al-Khwarizmi</title>
+<rect x="0" y="0" width="820" height="290" fill="#ffffff"/>
+<text x="410.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">Muhammad ibn Musa al-Khwarizmi: c. 780 to c. 850</text>
+<text x="410.0" y="50.0" text-anchor="middle" font-size="13" fill="#868e96" font-weight="normal">Lived in: Baghdad, House of Wisdom. Life span about 70 years.</text>
+<line x1="60.0" y1="120.0" x2="760.0" y2="120.0" stroke="#868e96" stroke-width="1.5"/>
+<rect x="108.3" y="113.0" width="603.4" height="14.0" rx="7" fill="#d9480f" stroke="#222222" stroke-width="1" fill-opacity="0.35"/>
+<text x="108.3" y="104.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="bold">born c. 780</text>
+<text x="711.7" y="104.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="bold">died c. 850</text>
+<line x1="453.1" y1="127.0" x2="453.1" y2="148.0" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="453.1" cy="120.0" r="5.0" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="457.1" y="160.0" text-anchor="end" font-size="13" fill="#222222" font-weight="normal">c. 820: al-jabr: the book of algebra</text>
+<line x1="496.2" y1="127.0" x2="496.2" y2="178.0" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="496.2" cy="120.0" r="5.0" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="500.2" y="190.0" text-anchor="end" font-size="13" fill="#222222" font-weight="normal">c. 825: book on Hindu numerals</text>
+<text x="410.0" y="284.0" text-anchor="middle" font-size="12" fill="#868e96" font-weight="normal">c. = circa (about): this date is uncertain.</text>
+</svg>

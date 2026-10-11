@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 250" width="960" height="250" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>The Life of Pi</title>
+<rect x="0" y="0" width="960" height="250" fill="#ffffff"/>
+<text x="480.0" y="30.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">The Life of Pi</text>
+<line x1="40.0" y1="100.0" x2="920.0" y2="100.0" stroke="#222222" stroke-width="2"/>
+<circle cx="70.0" cy="100.0" r="7.0" fill="#d9480f" stroke="#d9480f" stroke-width="2"/>
+<text x="70.0" y="82.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">c. 1550 BCE</text>
+<text x="70.0" y="130.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Rhind: (16/9)²</text>
+<text x="70.0" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">≈ 3.16</text>
+<circle cx="206.7" cy="100.0" r="7.0" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="206.7" y="82.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">c. 250 BCE</text>
+<text x="206.7" y="130.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Archimedes:</text>
+<text x="206.7" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">96-gon bounds</text>
+<circle cx="343.3" cy="100.0" r="7.0" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="343.3" y="82.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">c. 480</text>
+<text x="343.3" y="130.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Zu Chongzhi:</text>
+<text x="343.3" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">355/113</text>
+<circle cx="480.0" cy="100.0" r="7.0" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="480.0" y="82.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">c. 1400</text>
+<text x="480.0" y="130.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Madhava:</text>
+<text x="480.0" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">infinite series</text>
+<circle cx="616.7" cy="100.0" r="7.0" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="616.7" y="82.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">1706</text>
+<text x="616.7" y="130.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Jones names it</text>
+<text x="616.7" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">π, Machin 100</text>
+<text x="616.7" y="166.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">digits</text>
+<circle cx="753.3" cy="100.0" r="7.0" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="753.3" y="82.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">1882</text>
+<text x="753.3" y="130.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Lindemann: π is</text>
+<text x="753.3" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">transcendental</text>
+<circle cx="890.0" cy="100.0" r="7.0" fill="#d9480f" stroke="#d9480f" stroke-width="2"/>
+<text x="890.0" y="82.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">2020s</text>
+<text x="890.0" y="130.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">trillions of</text>
+<text x="890.0" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">digits by</text>
+<text x="890.0" y="166.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">computer</text>
+<text x="480.0" y="238.0" text-anchor="middle" font-size="12" fill="#868e96" font-weight="normal">Milestones are evenly spaced, not drawn to scale.</text>
+</svg>

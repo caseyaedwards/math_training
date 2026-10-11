@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" width="640" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>Russell's paradox: the set of all sets that do not contain themselves</title>
+<rect x="0" y="0" width="640" height="300" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<text x="320.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">Russell (1901): A Set That Breaks Naive Set Theory</text>
+<text x="320.0" y="62.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">R = the set of all sets that are not members of themselves</text>
+<rect x="70.0" y="110.0" width="210.0" height="70.0" rx="8" fill="#f8f9fa" stroke="#222222" stroke-width="1.5"/>
+<text x="175.0" y="140.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Suppose R is in R.</text>
+<text x="175.0" y="162.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Then R breaks the rule.</text>
+<rect x="360.0" y="110.0" width="210.0" height="70.0" rx="8" fill="#f8f9fa" stroke="#222222" stroke-width="1.5"/>
+<text x="465.0" y="140.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Suppose R is not in R.</text>
+<text x="465.0" y="162.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Then R obeys the rule.</text>
+<path d="M 280 125 C 310 105, 330 105, 358 125" fill="none" stroke="#d9480f" stroke-width="2"/>
+<path d="M 358 125 l -11 -2 l 5 -8 z" fill="#d9480f"/>
+<path d="M 360 168 C 330 190, 310 190, 282 168" fill="none" stroke="#d9480f" stroke-width="2"/>
+<path d="M 282 168 l 11 1 l -5 8 z" fill="#d9480f"/>
+<text x="320.0" y="96.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="normal">so R is not in R</text>
+<text x="320.0" y="206.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="normal">so R is in R</text>
+<text x="320.0" y="250.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Each answer forces the other. Unrestricted set-building is contradictory.</text>
+<text x="320.0" y="274.0" text-anchor="middle" font-size="14" fill="#868e96" font-weight="normal">Fix (Zermelo 1908, later ZFC): only build subsets of sets you already have.</text>
+</svg>

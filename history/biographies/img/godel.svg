@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 290" width="820" height="290" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>Life timeline of Kurt Gödel</title>
+<rect x="0" y="0" width="820" height="290" fill="#ffffff"/>
+<text x="410.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">Kurt Gödel: 1906 to 1978</text>
+<text x="410.0" y="50.0" text-anchor="middle" font-size="13" fill="#868e96" font-weight="normal">Lived in: Brno, Vienna; Princeton, USA. Life span about 72 years.</text>
+<line x1="60.0" y1="120.0" x2="760.0" y2="120.0" stroke="#868e96" stroke-width="1.5"/>
+<rect x="108.3" y="113.0" width="603.4" height="14.0" rx="7" fill="#d9480f" stroke="#222222" stroke-width="1" fill-opacity="0.35"/>
+<text x="108.3" y="104.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="bold">born 1906</text>
+<text x="711.7" y="104.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="bold">died 1978</text>
+<line x1="301.0" y1="127.0" x2="301.0" y2="148.0" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="301.0" cy="120.0" r="5.0" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="297.0" y="160.0" text-anchor="start" font-size="13" fill="#222222" font-weight="normal">1929: completeness theorem</text>
+<line x1="317.8" y1="127.0" x2="317.8" y2="178.0" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="317.8" cy="120.0" r="5.0" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="313.8" y="190.0" text-anchor="start" font-size="13" fill="#222222" font-weight="normal">1931: incompleteness theorems</text>
+<line x1="393.2" y1="127.0" x2="393.2" y2="208.0" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="393.2" cy="120.0" r="5.0" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="389.2" y="220.0" text-anchor="start" font-size="13" fill="#222222" font-weight="normal">1940: choice and continuum: consistent</text>
+</svg>

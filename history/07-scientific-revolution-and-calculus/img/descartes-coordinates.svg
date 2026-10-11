@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 470" width="660" height="470" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>Coordinates turn the circle into the equation x squared plus y squared equals 25</title>
+<rect x="0" y="0" width="660" height="470" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<text x="330.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">Descartes (1637): A Curve Becomes an Equation</text>
+<line x1="30.0" y1="60.0" x2="30.0" y2="420.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="30.0" y1="60.0" x2="390.0" y2="60.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="60.0" y1="60.0" x2="60.0" y2="420.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="30.0" y1="90.0" x2="390.0" y2="90.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="90.0" y1="60.0" x2="90.0" y2="420.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="30.0" y1="120.0" x2="390.0" y2="120.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="120.0" y1="60.0" x2="120.0" y2="420.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="30.0" y1="150.0" x2="390.0" y2="150.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="150.0" y1="60.0" x2="150.0" y2="420.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="30.0" y1="180.0" x2="390.0" y2="180.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="180.0" y1="60.0" x2="180.0" y2="420.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="30.0" y1="210.0" x2="390.0" y2="210.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="210.0" y1="60.0" x2="210.0" y2="420.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="30.0" y1="240.0" x2="390.0" y2="240.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="240.0" y1="60.0" x2="240.0" y2="420.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="30.0" y1="270.0" x2="390.0" y2="270.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="270.0" y1="60.0" x2="270.0" y2="420.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="30.0" y1="300.0" x2="390.0" y2="300.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="300.0" y1="60.0" x2="300.0" y2="420.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="30.0" y1="330.0" x2="390.0" y2="330.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="330.0" y1="60.0" x2="330.0" y2="420.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="30.0" y1="360.0" x2="390.0" y2="360.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="360.0" y1="60.0" x2="360.0" y2="420.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="30.0" y1="390.0" x2="390.0" y2="390.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="390.0" y1="60.0" x2="390.0" y2="420.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="30.0" y1="420.0" x2="390.0" y2="420.0" stroke="#e9ecef" stroke-width="1"/>
+<line x1="15.0" y1="240.0" x2="405.0" y2="240.0" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="210.0" y1="435.0" x2="210.0" y2="45.0" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="409.0" y="258.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal" font-style="italic">x</text>
+<text x="220.0" y="51.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal" font-style="italic">y</text>
+<text x="366.0" y="258.0" text-anchor="start" font-size="12" fill="#868e96" font-weight="normal">5</text>
+<text x="54.0" y="258.0" text-anchor="end" font-size="12" fill="#868e96" font-weight="normal">−5</text>
+<text x="204.0" y="84.0" text-anchor="end" font-size="12" fill="#868e96" font-weight="normal">5</text>
+<text x="204.0" y="408.0" text-anchor="end" font-size="12" fill="#868e96" font-weight="normal">−5</text>
+<circle cx="210.0" cy="240.0" r="150.0" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<line x1="210.0" y1="240.0" x2="300.0" y2="120.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="300.0" y1="120.0" x2="300.0" y2="240.0" stroke="#222222" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="255.0" y="258.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">3</text>
+<text x="308.0" y="180.0" text-anchor="start" font-size="14" fill="#222222" font-weight="bold">4</text>
+<text x="246.0" y="168.0" text-anchor="end" font-size="14" fill="#222222" font-weight="bold">5</text>
+<circle cx="300.0" cy="120.0" r="5.0" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="308.0" y="112.0" text-anchor="start" font-size="14" fill="#d9480f" font-weight="bold">(3, 4)</text>
+<text x="448.0" y="90.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">Every point is a</text>
+<text x="448.0" y="110.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">pair of numbers.</text>
+<text x="448.0" y="150.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">The circle is every</text>
+<text x="448.0" y="170.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">pair that satisfies</text>
+<text x="448.0" y="196.0" text-anchor="start" font-size="16" fill="#d9480f" font-weight="bold">x² + y² = 25</text>
+<text x="448.0" y="236.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">Check (3, 4):</text>
+<text x="448.0" y="256.0" text-anchor="start" font-size="14" fill="#222222" font-weight="bold">9 + 16 = 25</text>
+<text x="330.0" y="460.0" text-anchor="middle" font-size="13" fill="#868e96" font-weight="normal">Modern perpendicular axes came after Descartes, but the idea is his and Fermat's.</text>
+</svg>

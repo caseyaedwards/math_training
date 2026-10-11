@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 420" width="780" height="420" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>Pascal's triangle rows 0 to 7, with row 4 counting coin-flip outcomes</title>
+<rect x="0" y="0" width="780" height="420" fill="#ffffff"/>
+<text x="390.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">Pascal's Triangle (1654): Each Number Is the Sum of the Two Above</text>
+<circle cx="300.0" cy="70.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="300.0" y="75.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">1</text>
+<text x="60.0" y="75.0" text-anchor="start" font-size="12" fill="#868e96" font-weight="normal">row 0</text>
+<circle cx="274.0" cy="110.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="274.0" y="115.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">1</text>
+<circle cx="326.0" cy="110.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="326.0" y="115.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">1</text>
+<text x="60.0" y="115.0" text-anchor="start" font-size="12" fill="#868e96" font-weight="normal">row 1</text>
+<circle cx="248.0" cy="150.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="248.0" y="155.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">1</text>
+<circle cx="300.0" cy="150.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="300.0" y="155.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">2</text>
+<circle cx="352.0" cy="150.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="352.0" y="155.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">1</text>
+<text x="60.0" y="155.0" text-anchor="start" font-size="12" fill="#868e96" font-weight="normal">row 2</text>
+<circle cx="222.0" cy="190.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="222.0" y="195.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">1</text>
+<circle cx="274.0" cy="190.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="274.0" y="195.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">3</text>
+<circle cx="326.0" cy="190.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="326.0" y="195.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">3</text>
+<circle cx="378.0" cy="190.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="378.0" y="195.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">1</text>
+<text x="60.0" y="195.0" text-anchor="start" font-size="12" fill="#868e96" font-weight="normal">row 3</text>
+<circle cx="196.0" cy="230.0" r="17.0" fill="#fff4e6" stroke="#d9480f" stroke-width="2"/>
+<text x="196.0" y="235.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">1</text>
+<circle cx="248.0" cy="230.0" r="17.0" fill="#fff4e6" stroke="#d9480f" stroke-width="2"/>
+<text x="248.0" y="235.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">4</text>
+<circle cx="300.0" cy="230.0" r="17.0" fill="#fff4e6" stroke="#d9480f" stroke-width="2"/>
+<text x="300.0" y="235.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">6</text>
+<circle cx="352.0" cy="230.0" r="17.0" fill="#fff4e6" stroke="#d9480f" stroke-width="2"/>
+<text x="352.0" y="235.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">4</text>
+<circle cx="404.0" cy="230.0" r="17.0" fill="#fff4e6" stroke="#d9480f" stroke-width="2"/>
+<text x="404.0" y="235.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">1</text>
+<text x="60.0" y="235.0" text-anchor="start" font-size="12" fill="#868e96" font-weight="normal">row 4</text>
+<circle cx="170.0" cy="270.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="170.0" y="275.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">1</text>
+<circle cx="222.0" cy="270.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="222.0" y="275.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">5</text>
+<circle cx="274.0" cy="270.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="274.0" y="275.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="normal">10</text>
+<circle cx="326.0" cy="270.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="326.0" y="275.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="normal">10</text>
+<circle cx="378.0" cy="270.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="378.0" y="275.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">5</text>
+<circle cx="430.0" cy="270.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="430.0" y="275.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">1</text>
+<text x="60.0" y="275.0" text-anchor="start" font-size="12" fill="#868e96" font-weight="normal">row 5</text>
+<circle cx="144.0" cy="310.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="144.0" y="315.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">1</text>
+<circle cx="196.0" cy="310.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="196.0" y="315.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">6</text>
+<circle cx="248.0" cy="310.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="248.0" y="315.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="normal">15</text>
+<circle cx="300.0" cy="310.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="300.0" y="315.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="normal">20</text>
+<circle cx="352.0" cy="310.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="352.0" y="315.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="normal">15</text>
+<circle cx="404.0" cy="310.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="404.0" y="315.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">6</text>
+<circle cx="456.0" cy="310.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="456.0" y="315.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">1</text>
+<text x="60.0" y="315.0" text-anchor="start" font-size="12" fill="#868e96" font-weight="normal">row 6</text>
+<circle cx="118.0" cy="350.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="118.0" y="355.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">1</text>
+<circle cx="170.0" cy="350.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="170.0" y="355.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">7</text>
+<circle cx="222.0" cy="350.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="222.0" y="355.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="normal">21</text>
+<circle cx="274.0" cy="350.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="274.0" y="355.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="normal">35</text>
+<circle cx="326.0" cy="350.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="326.0" y="355.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="normal">35</text>
+<circle cx="378.0" cy="350.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="378.0" y="355.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="normal">21</text>
+<circle cx="430.0" cy="350.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="430.0" y="355.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">7</text>
+<circle cx="482.0" cy="350.0" r="17.0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="482.0" y="355.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">1</text>
+<text x="60.0" y="355.0" text-anchor="start" font-size="12" fill="#868e96" font-weight="normal">row 7</text>
+<text x="560.0" y="120.0" text-anchor="start" font-size="14" fill="#d9480f" font-weight="bold">Flip 4 coins: 16 outcomes</text>
+<text x="560.0" y="146.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">0 heads: 1 way</text>
+<text x="560.0" y="172.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">1 head: 4 ways</text>
+<text x="560.0" y="198.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">2 heads: 6 ways</text>
+<text x="560.0" y="224.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">3 heads: 4 ways</text>
+<text x="560.0" y="250.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">4 heads: 1 way</text>
+<text x="560.0" y="276.0" text-anchor="start" font-size="14" fill="#d9480f" font-weight="bold">1 + 4 + 6 + 4 + 1 = 16</text>
+<text x="560.0" y="302.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">P(exactly 2 heads) = 6/16</text>
+<text x="390.0" y="405.0" text-anchor="middle" font-size="12" fill="#868e96" font-weight="normal">Known centuries earlier in India (Pingala), Persia (al-Karaji), and China (Yang Hui, 1261). Pascal works out its theory.</text>
+</svg>

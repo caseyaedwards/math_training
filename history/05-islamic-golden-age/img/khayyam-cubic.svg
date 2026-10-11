@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 420" width="820" height="420" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>Omar Khayyam solves x cubed plus 4x equals 16 where a parabola meets a circle</title>
+<rect x="0" y="0" width="820" height="420" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<text x="410.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">Omar Khayyam: Solve a Cubic Where Two Curves Cross</text>
+<line x1="62.0" y1="360.0" x2="380.0" y2="360.0" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="80.0" y1="378.0" x2="80.0" y2="60.0" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<text x="380.0" y="381.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal" font-style="italic">x</text>
+<text x="92.0" y="64.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal" font-style="italic">y</text>
+<polyline points="80.0,360.0 83.1,359.9 86.2,359.7 89.3,359.3 92.4,358.7 95.5,358.0 98.6,357.1 101.7,356.1 104.8,354.9 107.9,353.5 111.0,352.0 114.1,350.3 117.2,348.5 120.3,346.5 123.4,344.3 126.5,342.0 129.6,339.5 132.7,336.9 135.8,334.1 138.9,331.1 142.0,328.0 145.1,324.7 148.2,321.2 151.3,317.6 154.4,313.9 157.5,309.9 160.6,305.9 163.7,301.6 166.8,297.2 169.9,292.6 173.0,287.9 176.1,283.0 179.2,278.0 182.3,272.8 185.4,267.4 188.5,261.9 191.6,256.2 194.7,250.4 197.8,244.4 200.9,238.2 204.0,231.9 207.1,225.4 210.2,218.7 213.3,211.9 216.4,205.0 219.5,197.8 222.6,190.5 225.7,183.1 228.8,175.5 231.9,167.7 235.0,159.8 238.1,151.7 241.2,143.5 244.3,135.0 247.4,126.5 250.5,117.7 253.6,108.9 256.7,99.8 259.8,90.6 262.9,81.2 266.0,71.7" fill="none" stroke="#222222" stroke-width="2.5" stroke-linejoin="round"/>
+<polyline points="320.0,360.0 319.8,353.7 319.3,347.5 318.5,341.2 317.4,335.1 315.9,328.9 314.1,322.9 312.0,317.0 309.6,311.2 306.9,305.5 303.9,300.0 300.6,294.6 297.1,289.5 293.3,284.5 289.2,279.7 284.9,275.1 280.3,270.8 275.5,266.7 270.5,262.9 265.4,259.4 260.0,256.1 254.5,253.1 248.8,250.4 243.0,248.0 237.1,245.9 231.1,244.1 224.9,242.6 218.8,241.5 212.5,240.7 206.3,240.2 200.0,240.0 193.7,240.2 187.5,240.7 181.2,241.5 175.1,242.6 168.9,244.1 162.9,245.9 157.0,248.0 151.2,250.4 145.5,253.1 140.0,256.1 134.6,259.4 129.5,262.9 124.5,266.7 119.7,270.8 115.1,275.1 110.8,279.7 106.7,284.5 102.9,289.5 99.4,294.6 96.1,300.0 93.1,305.5 90.4,311.2 88.0,317.0 85.9,322.9 84.1,328.9 82.6,335.1 81.5,341.2 80.7,347.5 80.2,353.7 80.0,360.0" fill="none" stroke="#d9480f" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="140.0" y="378.0" text-anchor="middle" font-size="12" fill="#868e96" font-weight="normal">1</text>
+<text x="72.0" y="304.0" text-anchor="end" font-size="12" fill="#868e96" font-weight="normal">1</text>
+<text x="200.0" y="378.0" text-anchor="middle" font-size="12" fill="#868e96" font-weight="normal">2</text>
+<text x="72.0" y="244.0" text-anchor="end" font-size="12" fill="#868e96" font-weight="normal">2</text>
+<text x="260.0" y="378.0" text-anchor="middle" font-size="12" fill="#868e96" font-weight="normal">3</text>
+<text x="72.0" y="184.0" text-anchor="end" font-size="12" fill="#868e96" font-weight="normal">3</text>
+<text x="320.0" y="378.0" text-anchor="middle" font-size="12" fill="#868e96" font-weight="normal">4</text>
+<text x="72.0" y="124.0" text-anchor="end" font-size="12" fill="#868e96" font-weight="normal">4</text>
+<line x1="200.0" y1="360.0" x2="200.0" y2="240.0" stroke="#868e96" stroke-width="1.2" stroke-dasharray="5 4"/>
+<circle cx="200.0" cy="240.0" r="6.0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<text x="210.0" y="230.0" text-anchor="start" font-size="14" fill="#d9480f" font-weight="bold">(2, 2)</text>
+<text x="269.0" y="66.0" text-anchor="start" font-size="13" fill="#222222" font-weight="normal">parabola y = x²/2</text>
+<text x="272.0" y="264.0" text-anchor="start" font-size="13" fill="#d9480f" font-weight="normal">circle: center (2, 0), radius 2</text>
+<text x="480.0" y="90.0" text-anchor="start" font-size="14" fill="#d9480f" font-weight="bold">Solve x³ + 4x = 16.</text>
+<text x="480.0" y="118.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">Khayyam: 4 = a², so a = 2.</text>
+<text x="480.0" y="146.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">Parabola x² = a y, that is y = x²/2.</text>
+<text x="480.0" y="174.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">Circle on diameter 16/4 = 4.</text>
+<text x="480.0" y="202.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">They cross at x = 2.</text>
+<text x="480.0" y="230.0" text-anchor="start" font-size="14" fill="#d9480f" font-weight="bold">Check: 8 + 8 = 16.</text>
+</svg>

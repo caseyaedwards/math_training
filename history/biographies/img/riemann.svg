@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 290" width="820" height="290" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>Life timeline of Bernhard Riemann</title>
+<rect x="0" y="0" width="820" height="290" fill="#ffffff"/>
+<text x="410.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">Bernhard Riemann: 1826 to 1866</text>
+<text x="410.0" y="50.0" text-anchor="middle" font-size="13" fill="#868e96" font-weight="normal">Lived in: Göttingen, Germany. Life span about 40 years.</text>
+<line x1="60.0" y1="120.0" x2="760.0" y2="120.0" stroke="#868e96" stroke-width="1.5"/>
+<rect x="118.3" y="113.0" width="583.3" height="14.0" rx="7" fill="#d9480f" stroke="#222222" stroke-width="1" fill-opacity="0.35"/>
+<text x="118.3" y="104.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="bold">born 1826</text>
+<text x="701.7" y="104.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="bold">died 1866</text>
+<line x1="526.7" y1="127.0" x2="526.7" y2="148.0" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="526.7" cy="120.0" r="5.0" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="530.7" y="160.0" text-anchor="end" font-size="13" fill="#222222" font-weight="normal">1854: lecture: foundations of geometry</text>
+<line x1="599.6" y1="127.0" x2="599.6" y2="178.0" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="599.6" cy="120.0" r="5.0" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="603.6" y="190.0" text-anchor="end" font-size="13" fill="#222222" font-weight="normal">1859: zeta paper: Riemann hypothesis</text>
+<line x1="701.7" y1="127.0" x2="701.7" y2="208.0" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="701.7" cy="120.0" r="5.0" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="705.7" y="220.0" text-anchor="end" font-size="13" fill="#222222" font-weight="normal">1866: dies of tuberculosis in Italy</text>
+</svg>

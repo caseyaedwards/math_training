@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>Tally, token and numeral: three stages of recording a count of 7 sheep</title>
+<rect x="0" y="0" width="760" height="300" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<text x="380.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">From One-to-One Matching to Written Numbers</text>
+<text x="130.0" y="60.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">7 sheep ...</text>
+<ellipse cx="70" cy="80" rx="14" ry="10" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<ellipse cx="110" cy="80" rx="14" ry="10" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<ellipse cx="150" cy="80" rx="14" ry="10" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<ellipse cx="190" cy="80" rx="14" ry="10" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<ellipse cx="70" cy="120" rx="14" ry="10" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<ellipse cx="110" cy="120" rx="14" ry="10" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<ellipse cx="150" cy="120" rx="14" ry="10" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<line x1="70.0" y1="92.0" x2="70.0" y2="150.0" stroke="#868e96" stroke-width="1" stroke-dasharray="3 3"/>
+<circle cx="70.0" cy="162.0" r="6.0" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<line x1="110.0" y1="92.0" x2="110.0" y2="150.0" stroke="#868e96" stroke-width="1" stroke-dasharray="3 3"/>
+<circle cx="110.0" cy="162.0" r="6.0" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<line x1="150.0" y1="92.0" x2="150.0" y2="150.0" stroke="#868e96" stroke-width="1" stroke-dasharray="3 3"/>
+<circle cx="150.0" cy="162.0" r="6.0" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<line x1="190.0" y1="92.0" x2="190.0" y2="150.0" stroke="#868e96" stroke-width="1" stroke-dasharray="3 3"/>
+<circle cx="190.0" cy="162.0" r="6.0" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<line x1="70.0" y1="132.0" x2="70.0" y2="190.0" stroke="#868e96" stroke-width="1" stroke-dasharray="3 3"/>
+<circle cx="70.0" cy="202.0" r="6.0" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<line x1="110.0" y1="132.0" x2="110.0" y2="190.0" stroke="#868e96" stroke-width="1" stroke-dasharray="3 3"/>
+<circle cx="110.0" cy="202.0" r="6.0" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<line x1="150.0" y1="132.0" x2="150.0" y2="190.0" stroke="#868e96" stroke-width="1" stroke-dasharray="3 3"/>
+<circle cx="150.0" cy="202.0" r="6.0" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="130.0" y="245.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">... matched to 7 pebbles</text>
+<text x="130.0" y="265.0" text-anchor="middle" font-size="13" fill="#868e96" font-weight="normal">(one-to-one correspondence)</text>
+<line x1="250.0" y1="150.0" x2="300.0" y2="150.0" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="400.0" y="60.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Tally marks on a stick</text>
+<rect x="320.0" y="110.0" width="160.0" height="40.0" rx="0" fill="#f8f9fa" stroke="#868e96" stroke-width="1.5"/>
+<line x1="345.0" y1="114.0" x2="345.0" y2="146.0" stroke="#222222" stroke-width="2"/>
+<line x1="361.0" y1="114.0" x2="361.0" y2="146.0" stroke="#222222" stroke-width="2"/>
+<line x1="377.0" y1="114.0" x2="377.0" y2="146.0" stroke="#222222" stroke-width="2"/>
+<line x1="393.0" y1="114.0" x2="393.0" y2="146.0" stroke="#222222" stroke-width="2"/>
+<line x1="409.0" y1="114.0" x2="409.0" y2="146.0" stroke="#222222" stroke-width="2"/>
+<line x1="425.0" y1="114.0" x2="425.0" y2="146.0" stroke="#222222" stroke-width="2"/>
+<line x1="441.0" y1="114.0" x2="441.0" y2="146.0" stroke="#222222" stroke-width="2"/>
+<text x="400.0" y="190.0" text-anchor="middle" font-size="13" fill="#868e96" font-weight="normal">a permanent record</text>
+<line x1="500.0" y1="150.0" x2="550.0" y2="150.0" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="650.0" y="60.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">A symbol for a group</text>
+<line x1="590.0" y1="114.0" x2="590.0" y2="146.0" stroke="#222222" stroke-width="2"/>
+<line x1="604.0" y1="114.0" x2="604.0" y2="146.0" stroke="#222222" stroke-width="2"/>
+<line x1="618.0" y1="114.0" x2="618.0" y2="146.0" stroke="#222222" stroke-width="2"/>
+<line x1="632.0" y1="114.0" x2="632.0" y2="146.0" stroke="#222222" stroke-width="2"/>
+<line x1="646.0" y1="114.0" x2="646.0" y2="146.0" stroke="#222222" stroke-width="2"/>
+<line x1="582.0" y1="140.0" x2="652.0" y2="118.0" stroke="#d9480f" stroke-width="2.5"/>
+<line x1="670.0" y1="114.0" x2="670.0" y2="146.0" stroke="#222222" stroke-width="2"/>
+<line x1="684.0" y1="114.0" x2="684.0" y2="146.0" stroke="#222222" stroke-width="2"/>
+<text x="650.0" y="190.0" text-anchor="middle" font-size="13" fill="#868e96" font-weight="normal">group by 5 (or 10, or 60)</text>
+<text x="650.0" y="210.0" text-anchor="middle" font-size="13" fill="#868e96" font-weight="normal">then name the group</text>
+</svg>

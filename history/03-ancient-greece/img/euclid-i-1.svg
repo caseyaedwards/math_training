@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 425" width="640" height="425" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>Euclid Elements Book I Proposition 1: construct an equilateral triangle on AB</title>
+<rect x="0" y="0" width="640" height="425" fill="#ffffff"/>
+<text x="320.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">Euclid, Elements I.1: An Equilateral Triangle on a Given Line</text>
+<circle cx="250.0" cy="230.0" r="120.0" fill="none" stroke="#868e96" stroke-width="1.5" stroke-dasharray="6 4"/>
+<circle cx="370.0" cy="230.0" r="120.0" fill="none" stroke="#868e96" stroke-width="1.5" stroke-dasharray="6 4"/>
+<polygon points="250.0,230.0 370.0,230.0 310.0,126.1" fill="#fff4e6" stroke="#d9480f" stroke-width="2.5" stroke-linejoin="round"/>
+<line x1="250.0" y1="230.0" x2="370.0" y2="230.0" stroke="#222222" stroke-width="3"/>
+<circle cx="250.0" cy="230.0" r="4.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<text x="234.0" y="248.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">A</text>
+<circle cx="370.0" cy="230.0" r="4.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<text x="380.0" y="248.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">B</text>
+<circle cx="310.0" cy="126.1" r="4.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<text x="310.0" y="116.1" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">C</text>
+<text x="190.0" y="370.0" text-anchor="start" font-size="13" fill="#868e96" font-weight="normal">circle centered A, radius AB</text>
+<text x="430.0" y="370.0" text-anchor="start" font-size="13" fill="#868e96" font-weight="normal">circle centered B, radius BA</text>
+<text x="320.0" y="408.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">AC = AB (radii of circle A) and BC = BA (radii of circle B), so AB = BC = CA.</text>
+</svg>

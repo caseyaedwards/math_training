@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 250" width="960" height="250" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>The Life of Zero</title>
+<rect x="0" y="0" width="960" height="250" fill="#ffffff"/>
+<text x="480.0" y="30.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">The Life of Zero</text>
+<line x1="40.0" y1="100.0" x2="920.0" y2="100.0" stroke="#222222" stroke-width="2"/>
+<circle cx="70.0" cy="100.0" r="7.0" fill="#d9480f" stroke="#d9480f" stroke-width="2"/>
+<text x="70.0" y="82.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">c. 300 BCE</text>
+<text x="70.0" y="130.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Babylonian</text>
+<text x="70.0" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">placeholder</text>
+<text x="70.0" y="166.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">sign</text>
+<circle cx="206.7" cy="100.0" r="7.0" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="206.7" y="82.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">first mill. CE</text>
+<text x="206.7" y="130.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Maya zero in</text>
+<text x="206.7" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">the calendar</text>
+<circle cx="343.3" cy="100.0" r="7.0" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="343.3" y="82.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">628</text>
+<text x="343.3" y="130.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Brahmagupta:</text>
+<text x="343.3" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">zero as a</text>
+<text x="343.3" y="166.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">number</text>
+<circle cx="480.0" cy="100.0" r="7.0" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="480.0" y="82.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">c. 825</text>
+<text x="480.0" y="130.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">al-Khwarizmi on</text>
+<text x="480.0" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Hindu numerals</text>
+<circle cx="616.7" cy="100.0" r="7.0" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="616.7" y="82.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">876</text>
+<text x="616.7" y="130.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Gwalior</text>
+<text x="616.7" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">inscription: a</text>
+<text x="616.7" y="166.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">written 0</text>
+<circle cx="753.3" cy="100.0" r="7.0" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="753.3" y="82.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">1202</text>
+<text x="753.3" y="130.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Fibonacci</text>
+<text x="753.3" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">brings 0 to</text>
+<text x="753.3" y="166.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Europe</text>
+<circle cx="890.0" cy="100.0" r="7.0" fill="#d9480f" stroke="#d9480f" stroke-width="2"/>
+<text x="890.0" y="82.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">1940s</text>
+<text x="890.0" y="130.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">binary</text>
+<text x="890.0" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">computers: 0</text>
+<text x="890.0" y="166.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">and 1</text>
+<text x="480.0" y="238.0" text-anchor="middle" font-size="12" fill="#868e96" font-weight="normal">Milestones are evenly spaced, not drawn to scale.</text>
+</svg>

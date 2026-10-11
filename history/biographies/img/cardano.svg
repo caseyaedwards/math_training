@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 290" width="820" height="290" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>Life timeline of Gerolamo Cardano</title>
+<rect x="0" y="0" width="820" height="290" fill="#ffffff"/>
+<text x="410.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">Gerolamo Cardano: 1501 to 1576</text>
+<text x="410.0" y="50.0" text-anchor="middle" font-size="13" fill="#868e96" font-weight="normal">Lived in: Pavia and Milan, Italy. Life span about 75 years.</text>
+<line x1="60.0" y1="120.0" x2="760.0" y2="120.0" stroke="#868e96" stroke-width="1.5"/>
+<rect x="108.3" y="113.0" width="603.4" height="14.0" rx="7" fill="#d9480f" stroke="#222222" stroke-width="1" fill-opacity="0.35"/>
+<text x="108.3" y="104.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="bold">born 1501</text>
+<text x="711.7" y="104.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="bold">died 1576</text>
+<line x1="414.0" y1="127.0" x2="414.0" y2="148.0" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="414.0" cy="120.0" r="5.0" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="418.0" y="160.0" text-anchor="end" font-size="13" fill="#222222" font-weight="normal">1539: gets Tartaglia's cubic method</text>
+<line x1="462.3" y1="127.0" x2="462.3" y2="178.0" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="462.3" cy="120.0" r="5.0" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="466.3" y="190.0" text-anchor="end" font-size="13" fill="#222222" font-weight="normal">1545: Ars Magna</text>
+<line x1="663.4" y1="127.0" x2="663.4" y2="148.0" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="663.4" cy="120.0" r="5.0" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="667.4" y="160.0" text-anchor="end" font-size="13" fill="#222222" font-weight="normal">1570: jailed by the Inquisition</text>
+</svg>

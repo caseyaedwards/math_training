@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 524" width="900" height="524" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>Human needs on the left drive the mathematics on the right, era by era</title>
+<rect x="0" y="0" width="900" height="524" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<text x="450.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">What People Needed, and the Math It Produced</text>
+<text x="190.0" y="60.0" text-anchor="middle" font-size="14" fill="#868e96" font-weight="normal">the need</text>
+<text x="640.0" y="60.0" text-anchor="middle" font-size="14" fill="#868e96" font-weight="normal">the math</text>
+<rect x="40.0" y="80.0" width="300.0" height="34.0" rx="6" fill="#f8f9fa" stroke="#222222" stroke-width="1.2"/>
+<text x="190.0" y="102.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Herds, food, seasons</text>
+<line x1="344" y1="97" x2="456" y2="97" stroke="#d9480f" stroke-width="2" marker-end="url(#aa)"/>
+<text x="400.0" y="91.0" text-anchor="middle" font-size="11" fill="#d9480f" font-weight="bold">ch. 01</text>
+<rect x="460.0" y="80.0" width="360.0" height="34.0" rx="6" fill="#fff4e6" stroke="#d9480f" stroke-width="1.2"/>
+<text x="640.0" y="102.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">counting, tallies, number words</text>
+<rect x="40.0" y="126.0" width="300.0" height="34.0" rx="6" fill="#f8f9fa" stroke="#222222" stroke-width="1.2"/>
+<text x="190.0" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Taxes, rations, land plots</text>
+<line x1="344" y1="143" x2="456" y2="143" stroke="#d9480f" stroke-width="2" marker-end="url(#aa)"/>
+<text x="400.0" y="137.0" text-anchor="middle" font-size="11" fill="#d9480f" font-weight="bold">ch. 02</text>
+<rect x="460.0" y="126.0" width="360.0" height="34.0" rx="6" fill="#fff4e6" stroke="#d9480f" stroke-width="1.2"/>
+<text x="640.0" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">arithmetic, fractions, area</text>
+<rect x="40.0" y="172.0" width="300.0" height="34.0" rx="6" fill="#f8f9fa" stroke="#222222" stroke-width="1.2"/>
+<text x="190.0" y="194.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Temples, pyramids, canals</text>
+<line x1="344" y1="189" x2="456" y2="189" stroke="#d9480f" stroke-width="2" marker-end="url(#aa)"/>
+<text x="400.0" y="183.0" text-anchor="middle" font-size="11" fill="#d9480f" font-weight="bold">ch. 02 03</text>
+<rect x="460.0" y="172.0" width="360.0" height="34.0" rx="6" fill="#fff4e6" stroke="#d9480f" stroke-width="1.2"/>
+<text x="640.0" y="194.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">geometry, volume, right angles</text>
+<rect x="40.0" y="218.0" width="300.0" height="34.0" rx="6" fill="#f8f9fa" stroke="#222222" stroke-width="1.2"/>
+<text x="190.0" y="240.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Calendars, eclipses, astrology</text>
+<line x1="344" y1="235" x2="456" y2="235" stroke="#d9480f" stroke-width="2" marker-end="url(#aa)"/>
+<text x="400.0" y="229.0" text-anchor="middle" font-size="11" fill="#d9480f" font-weight="bold">ch. 02 04 05</text>
+<rect x="460.0" y="218.0" width="360.0" height="34.0" rx="6" fill="#fff4e6" stroke="#d9480f" stroke-width="1.2"/>
+<text x="640.0" y="240.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">trigonometry, base 60, tables</text>
+<rect x="40.0" y="264.0" width="300.0" height="34.0" rx="6" fill="#f8f9fa" stroke="#222222" stroke-width="1.2"/>
+<text x="190.0" y="286.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Trade, inheritance, banking</text>
+<line x1="344" y1="281" x2="456" y2="281" stroke="#d9480f" stroke-width="2" marker-end="url(#aa)"/>
+<text x="400.0" y="275.0" text-anchor="middle" font-size="11" fill="#d9480f" font-weight="bold">ch. 04 05 06</text>
+<rect x="460.0" y="264.0" width="360.0" height="34.0" rx="6" fill="#fff4e6" stroke="#d9480f" stroke-width="1.2"/>
+<text x="640.0" y="286.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">algebra, Hindu-Arabic digits, zero</text>
+<rect x="40.0" y="310.0" width="300.0" height="34.0" rx="6" fill="#f8f9fa" stroke="#222222" stroke-width="1.2"/>
+<text x="190.0" y="332.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Navigation, cannons, planets</text>
+<line x1="344" y1="327" x2="456" y2="327" stroke="#d9480f" stroke-width="2" marker-end="url(#aa)"/>
+<text x="400.0" y="321.0" text-anchor="middle" font-size="11" fill="#d9480f" font-weight="bold">ch. 07</text>
+<rect x="460.0" y="310.0" width="360.0" height="34.0" rx="6" fill="#fff4e6" stroke="#d9480f" stroke-width="1.2"/>
+<text x="640.0" y="332.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">logarithms, coordinates, calculus</text>
+<rect x="40.0" y="356.0" width="300.0" height="34.0" rx="6" fill="#f8f9fa" stroke="#222222" stroke-width="1.2"/>
+<text x="190.0" y="378.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Engines, surveying, insurance</text>
+<line x1="344" y1="373" x2="456" y2="373" stroke="#d9480f" stroke-width="2" marker-end="url(#aa)"/>
+<text x="400.0" y="367.0" text-anchor="middle" font-size="11" fill="#d9480f" font-weight="bold">ch. 08</text>
+<rect x="460.0" y="356.0" width="360.0" height="34.0" rx="6" fill="#fff4e6" stroke="#d9480f" stroke-width="1.2"/>
+<text x="640.0" y="378.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">rigorous analysis, statistics, graphs</text>
+<rect x="40.0" y="402.0" width="300.0" height="34.0" rx="6" fill="#f8f9fa" stroke="#222222" stroke-width="1.2"/>
+<text x="190.0" y="424.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Codes, war logistics, telephones</text>
+<line x1="344" y1="419" x2="456" y2="419" stroke="#d9480f" stroke-width="2" marker-end="url(#aa)"/>
+<text x="400.0" y="413.0" text-anchor="middle" font-size="11" fill="#d9480f" font-weight="bold">ch. 09</text>
+<rect x="460.0" y="402.0" width="360.0" height="34.0" rx="6" fill="#fff4e6" stroke="#d9480f" stroke-width="1.2"/>
+<text x="640.0" y="424.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">logic, computation, information</text>
+<rect x="40.0" y="448.0" width="300.0" height="34.0" rx="6" fill="#f8f9fa" stroke="#222222" stroke-width="1.2"/>
+<text x="190.0" y="470.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Internet, data, simulation</text>
+<line x1="344" y1="465" x2="456" y2="465" stroke="#d9480f" stroke-width="2" marker-end="url(#aa)"/>
+<text x="400.0" y="459.0" text-anchor="middle" font-size="11" fill="#d9480f" font-weight="bold">ch. 10</text>
+<rect x="460.0" y="448.0" width="360.0" height="34.0" rx="6" fill="#fff4e6" stroke="#d9480f" stroke-width="1.2"/>
+<text x="640.0" y="470.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">cryptography, algorithms, chaos</text>
+<text x="450.0" y="512.0" text-anchor="middle" font-size="13" fill="#868e96" font-weight="normal">Read top to bottom as roughly 20,000 years. Each row also feeds the rows below it.</text>
+</svg>

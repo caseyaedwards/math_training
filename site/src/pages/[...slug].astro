@@ -1,0 +1,17 @@
+---
+import Page from '../layouts/Page.astro';
+import { buildIndex, renderSource } from '../lib/content.mjs';
+
+export async function getStaticPaths() {
+  return buildIndex().map((entry) => ({
+    params: { slug: entry.route === '/' ? undefined : entry.route.slice(1, -1) },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { html, title, headings } = await renderSource(entry.repoPath);
+---
+<Page title={title} entry={entry} headings={headings}>
+  <Fragment set:html={html} />
+</Page>

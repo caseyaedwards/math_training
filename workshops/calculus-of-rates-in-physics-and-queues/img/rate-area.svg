@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" font-family="sans-serif" font-size="14">
+<title>Area under the rate curve equals the total increase</title>
+<rect x="0" y="0" width="760" height="440" fill="#ffffff"/>
+<line x1="90" y1="350.0" x2="710" y2="350.0" stroke="#e6e6e6"/>
+<text x="82" y="355.0" text-anchor="end" font-size="12" fill="#222222">0</text>
+<line x1="90" y1="300.0" x2="710" y2="300.0" stroke="#e6e6e6"/>
+<text x="82" y="305.0" text-anchor="end" font-size="12" fill="#222222">20</text>
+<line x1="90" y1="250.0" x2="710" y2="250.0" stroke="#e6e6e6"/>
+<text x="82" y="255.0" text-anchor="end" font-size="12" fill="#222222">40</text>
+<line x1="90" y1="200.0" x2="710" y2="200.0" stroke="#e6e6e6"/>
+<text x="82" y="205.0" text-anchor="end" font-size="12" fill="#222222">60</text>
+<line x1="90" y1="150.0" x2="710" y2="150.0" stroke="#e6e6e6"/>
+<text x="82" y="155.0" text-anchor="end" font-size="12" fill="#222222">80</text>
+<line x1="90" y1="100.0" x2="710" y2="100.0" stroke="#e6e6e6"/>
+<text x="82" y="105.0" text-anchor="end" font-size="12" fill="#222222">100</text>
+<line x1="90" y1="50.0" x2="710" y2="50.0" stroke="#e6e6e6"/>
+<text x="82" y="55.0" text-anchor="end" font-size="12" fill="#222222">120</text>
+<line x1="90.0" y1="350" x2="90.0" y2="355" stroke="#222222"/>
+<text x="90.0" y="370" text-anchor="middle" font-size="12" fill="#222222">0</text>
+<line x1="214.0" y1="350" x2="214.0" y2="355" stroke="#222222"/>
+<text x="214.0" y="370" text-anchor="middle" font-size="12" fill="#222222">60</text>
+<line x1="338.0" y1="350" x2="338.0" y2="355" stroke="#222222"/>
+<text x="338.0" y="370" text-anchor="middle" font-size="12" fill="#222222">120</text>
+<line x1="462.0" y1="350" x2="462.0" y2="355" stroke="#222222"/>
+<text x="462.0" y="370" text-anchor="middle" font-size="12" fill="#222222">180</text>
+<line x1="586.0" y1="350" x2="586.0" y2="355" stroke="#222222"/>
+<text x="586.0" y="370" text-anchor="middle" font-size="12" fill="#222222">240</text>
+<line x1="710.0" y1="350" x2="710.0" y2="355" stroke="#222222"/>
+<text x="710.0" y="370" text-anchor="middle" font-size="12" fill="#222222">300</text>
+<line x1="90" y1="350" x2="710" y2="350" stroke="#222222" stroke-width="1.5"/>
+<line x1="90" y1="50" x2="90" y2="350" stroke="#222222" stroke-width="1.5"/>
+<text x="400.0" y="390" text-anchor="middle" fill="#222222">time t (s)</text>
+<text x="40" y="200.0" text-anchor="middle" fill="#222222" transform="rotate(-90 40 200.0)">rate r(t) (req/s)</text>
+<rect x="90.0" y="225.0" width="31.0" height="125.0" fill="#fde4d6" stroke="#d9480f" stroke-width="1"/>
+<rect x="121.0" y="217.5" width="31.0" height="132.5" fill="#fde4d6" stroke="#d9480f" stroke-width="1"/>
+<rect x="152.0" y="210.0" width="31.0" height="140.0" fill="#fde4d6" stroke="#d9480f" stroke-width="1"/>
+<rect x="183.0" y="202.5" width="31.0" height="147.5" fill="#fde4d6" stroke="#d9480f" stroke-width="1"/>
+<rect x="214.0" y="195.0" width="31.0" height="155.0" fill="#fde4d6" stroke="#d9480f" stroke-width="1"/>
+<rect x="245.0" y="187.5" width="31.0" height="162.5" fill="#fde4d6" stroke="#d9480f" stroke-width="1"/>
+<rect x="276.0" y="180.0" width="31.0" height="170.0" fill="#fde4d6" stroke="#d9480f" stroke-width="1"/>
+<rect x="307.0" y="172.5" width="31.0" height="177.5" fill="#fde4d6" stroke="#d9480f" stroke-width="1"/>
+<rect x="338.0" y="165.0" width="31.0" height="185.0" fill="#fde4d6" stroke="#d9480f" stroke-width="1"/>
+<rect x="369.0" y="157.5" width="31.0" height="192.5" fill="#fde4d6" stroke="#d9480f" stroke-width="1"/>
+<rect x="400.0" y="150.0" width="31.0" height="200.0" fill="#fde4d6" stroke="#d9480f" stroke-width="1"/>
+<rect x="431.0" y="142.5" width="31.0" height="207.5" fill="#fde4d6" stroke="#d9480f" stroke-width="1"/>
+<rect x="462.0" y="135.0" width="31.0" height="215.0" fill="#fde4d6" stroke="#d9480f" stroke-width="1"/>
+<rect x="493.0" y="127.5" width="31.0" height="222.5" fill="#fde4d6" stroke="#d9480f" stroke-width="1"/>
+<rect x="524.0" y="120.0" width="31.0" height="230.0" fill="#fde4d6" stroke="#d9480f" stroke-width="1"/>
+<rect x="555.0" y="112.5" width="31.0" height="237.5" fill="#fde4d6" stroke="#d9480f" stroke-width="1"/>
+<rect x="586.0" y="105.0" width="31.0" height="245.0" fill="#fde4d6" stroke="#d9480f" stroke-width="1"/>
+<rect x="617.0" y="97.5" width="31.0" height="252.5" fill="#fde4d6" stroke="#d9480f" stroke-width="1"/>
+<rect x="648.0" y="90.0" width="31.0" height="260.0" fill="#fde4d6" stroke="#d9480f" stroke-width="1"/>
+<rect x="679.0" y="82.5" width="31.0" height="267.5" fill="#fde4d6" stroke="#d9480f" stroke-width="1"/>
+<polyline points="90.0,225.0 710.0,75.0" fill="none" stroke="#222222" stroke-width="2.5"/>
+<rect x="260.0" y="260.0" width="280" height="70.0" fill="#ffffff" stroke="#d9480f" rx="4"/>
+<text x="400.0" y="275.0" text-anchor="middle" fill="#222222">area = total requests</text>
+<text x="400.0" y="300.0" text-anchor="middle" fill="#222222" font-size="12">exact (trapezoid) = 24,000</text>
+<text x="400.0" y="320.0" text-anchor="middle" fill="#d9480f" font-size="12">20 left rectangles (dt = 15 s) = 23,550</text>
+<text x="503.3" y="80.0" text-anchor="middle" fill="#222222" font-size="12">r(t) = 50 + 0.2t</text>
+<text x="380" y="28" text-anchor="middle" fill="#222222">Sum of rate × dt gives back the counter change</text>
+</svg>

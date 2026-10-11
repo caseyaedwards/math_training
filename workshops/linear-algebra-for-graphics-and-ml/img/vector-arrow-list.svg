@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" width="700" height="300">
+  <title>A vector as an arrow and as a list, and adding two vectors tip to tail</title>
+  <defs>
+    <marker id="ha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+    <marker id="hk" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#212529"/></marker>
+  </defs>
+  <rect width="700" height="300" fill="#ffffff"/>
+  <line x1="50.0" y1="268.0" x2="50.0" y2="52.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="110.0" y1="268.0" x2="110.0" y2="52.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="170.0" y1="268.0" x2="170.0" y2="52.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="230.0" y1="268.0" x2="230.0" y2="52.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="290.0" y1="268.0" x2="290.0" y2="52.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="32.0" y1="250.0" x2="308.0" y2="250.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="32.0" y1="190.0" x2="308.0" y2="190.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="32.0" y1="130.0" x2="308.0" y2="130.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="32.0" y1="70.0" x2="308.0" y2="70.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="32.0" y1="250.0" x2="308.0" y2="250.0" stroke="#868e96" stroke-width="1.5"/>
+  <line x1="50.0" y1="268.0" x2="50.0" y2="52.0" stroke="#868e96" stroke-width="1.5"/>
+  <line x1="50.0" y1="250.0" x2="230.0" y2="250.0" stroke="#212529" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <line x1="230.0" y1="250.0" x2="230.0" y2="190.0" stroke="#212529" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <line x1="50.0" y1="250.0" x2="230.0" y2="190.0" stroke="#d9480f" stroke-width="3" marker-end="url(#ha)"/>
+  <text x="140.0" y="270.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#212529" stroke="#ffffff" stroke-width="3" paint-order="stroke">3 steps right</text>
+  <text x="238.0" y="225.0" font-family="sans-serif" font-size="14" text-anchor="start" fill="#212529" stroke="#ffffff" stroke-width="3" paint-order="stroke">1 up</text>
+  <text x="240.0" y="182.0" font-family="sans-serif" font-size="14" text-anchor="start" fill="#d9480f" stroke="#ffffff" stroke-width="3" paint-order="stroke">v = (3, 1)</text>
+  <text x="170.0" y="28.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#212529" stroke="#ffffff" stroke-width="3" paint-order="stroke">One vector, two faces</text>
+  <text x="170.0" y="50.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">arrow: length and direction</text>
+  <rect x="80" y="70" width="40" height="56" fill="none" stroke="#d9480f" stroke-width="2"/>
+  <text x="100.0" y="94.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#d9480f" stroke="#ffffff" stroke-width="3" paint-order="stroke">3</text>
+  <text x="100.0" y="118.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#d9480f" stroke="#ffffff" stroke-width="3" paint-order="stroke">1</text>
+  <text x="130.0" y="102.0" font-family="sans-serif" font-size="14" text-anchor="start" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">list: just numbers</text>
+  <line x1="380.0" y1="268.0" x2="380.0" y2="52.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="440.0" y1="268.0" x2="440.0" y2="52.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="500.0" y1="268.0" x2="500.0" y2="52.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="560.0" y1="268.0" x2="560.0" y2="52.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="620.0" y1="268.0" x2="620.0" y2="52.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="362.0" y1="250.0" x2="638.0" y2="250.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="362.0" y1="190.0" x2="638.0" y2="190.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="362.0" y1="130.0" x2="638.0" y2="130.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="362.0" y1="70.0" x2="638.0" y2="70.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="362.0" y1="250.0" x2="638.0" y2="250.0" stroke="#868e96" stroke-width="1.5"/>
+  <line x1="380.0" y1="268.0" x2="380.0" y2="52.0" stroke="#868e96" stroke-width="1.5"/>
+  <line x1="380.0" y1="250.0" x2="560.0" y2="190.0" stroke="#d9480f" stroke-width="3" marker-end="url(#ha)"/>
+  <line x1="560.0" y1="190.0" x2="620.0" y2="70.0" stroke="#212529" stroke-width="3" marker-end="url(#hk)"/>
+  <line x1="380.0" y1="250.0" x2="620.0" y2="70.0" stroke="#212529" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="476.0" y="240.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#d9480f" stroke="#ffffff" stroke-width="3" paint-order="stroke">(3, 1)</text>
+  <text x="600.0" y="134.0" font-family="sans-serif" font-size="14" text-anchor="start" fill="#212529" stroke="#ffffff" stroke-width="3" paint-order="stroke">(1, 2)</text>
+  <text x="612.0" y="62.0" font-family="sans-serif" font-size="14" text-anchor="end" fill="#212529" stroke="#ffffff" stroke-width="3" paint-order="stroke">sum (4, 3)</text>
+  <text x="500.0" y="28.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#212529" stroke="#ffffff" stroke-width="3" paint-order="stroke">Adding: walk one, then the other</text>
+  <text x="500.0" y="50.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">(3, 1) + (1, 2) = (4, 3)</text>
+</svg>

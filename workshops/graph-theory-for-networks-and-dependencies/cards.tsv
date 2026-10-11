@@ -1,0 +1,14 @@
+What is a vertex and what is an edge?	A vertex is a dot (a service, a region). An edge is a line between two dots. A directed edge is an arrow.	math::workshop::graph-theory
+Adjacency list versus adjacency matrix: memory cost?	List: grows with \(|V| + |E|\). Matrix: grows with \(|V|^2\). Sparse graphs (most real ones) favor the list.	math::workshop::graph-theory
+What is a topological order?	A list of all vertices where, for each arrow \(A \to B\) meaning A needs B, B comes first. A safe start order. It exists exactly when the graph has no cycle.	math::workshop::graph-theory
+Kahn algorithm in one line?	Queue every vertex with zero unmet dependencies, pop one, decrement its dependents, enqueue any that hit zero, repeat.	math::workshop::graph-theory
+How does Kahn reveal a cycle?	The queue empties before every vertex is placed. Order length < \(|V|\) means a cycle exists.	math::workshop::graph-theory
+Three colors in cycle-finding DFS?	WHITE: not seen. GRAY: on the current walk. BLACK: finished. An arrow into a GRAY vertex (a back edge) closes a cycle.	math::workshop::graph-theory
+Dijkstra relaxation rule?	\(d(v) \leftarrow \min(d(v),\ d(u) + w(u,v))\)	math::workshop::graph-theory
+Why does Dijkstra need non-negative weights?	It finishes vertices in order of distance. A negative edge lets a later detour come out shorter, which breaks that order.	math::workshop::graph-theory
+When is BFS enough for shortest paths?	When every edge counts the same (hop count). BFS visits vertices in rings of 0, 1, 2 hops.	math::workshop::graph-theory
+us-east to ap-south: fewest hops versus lowest latency in the workshop?	Direct link: 1 hop, 230 ms. Via eu-west: 2 hops, 75 + 120 = 195 ms.	math::workshop::graph-theory
+What is the blast radius of service x?	Every service with a path of dependency arrows to x. Compute it with BFS on reversed edges.	math::workshop::graph-theory
+Why is in-degree not the whole risk picture?	It counts only direct dependents. config has in-degree 1 but a blast radius of 4 because it sits under auth, which sits under api.	math::workshop::graph-theory
+What is an articulation point?	A vertex whose removal splits a two-way graph into separate pieces. A single point of failure in the topology.	math::workshop::graph-theory
+Tarjan test for a non-root cut vertex u?	Some DFS child v has \(\text{low}(v) \ge \text{disc}(u)\): nothing below v has a way around u.	math::workshop::graph-theory

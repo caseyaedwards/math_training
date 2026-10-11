@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 260" width="460" height="260">
+  <title>Residuals of the CPU fit as bars above and below zero</title>
+  <defs>
+    <marker id="ha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+    <marker id="hk" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#212529"/></marker>
+  </defs>
+  <rect width="460" height="260" fill="#ffffff"/>
+  <line x1="70.0" y1="190.0" x2="430.0" y2="190.0" stroke="#ced4da" stroke-width="1"/>
+  <text x="62.0" y="195.0" font-family="sans-serif" font-size="14" text-anchor="end" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">-2</text>
+  <line x1="70.0" y1="160.0" x2="430.0" y2="160.0" stroke="#ced4da" stroke-width="1"/>
+  <text x="62.0" y="165.0" font-family="sans-serif" font-size="14" text-anchor="end" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">-1</text>
+  <line x1="70.0" y1="100.0" x2="430.0" y2="100.0" stroke="#ced4da" stroke-width="1"/>
+  <text x="62.0" y="105.0" font-family="sans-serif" font-size="14" text-anchor="end" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">+1</text>
+  <line x1="70.0" y1="70.0" x2="430.0" y2="70.0" stroke="#ced4da" stroke-width="1"/>
+  <text x="62.0" y="75.0" font-family="sans-serif" font-size="14" text-anchor="end" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">+2</text>
+  <line x1="70.0" y1="130.0" x2="430.0" y2="130.0" stroke="#868e96" stroke-width="1.5"/>
+  <text x="62.0" y="135.0" font-family="sans-serif" font-size="14" text-anchor="end" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">0</text>
+  <rect x="90.0" y="130.0" width="40" height="18.0" fill="#212529" fill-opacity="0.6"/>
+  <text x="110.0" y="166.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#212529" stroke="#ffffff" stroke-width="3" paint-order="stroke">-0.6</text>
+  <text x="110.0" y="230.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">100</text>
+  <rect x="162.0" y="109.0" width="40" height="21.0" fill="#d9480f" fill-opacity="0.8"/>
+  <text x="182.0" y="103.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#d9480f" stroke="#ffffff" stroke-width="3" paint-order="stroke">+0.7</text>
+  <text x="182.0" y="230.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">200</text>
+  <rect x="234.0" y="130.0" width="40" height="30.0" fill="#212529" fill-opacity="0.6"/>
+  <text x="254.0" y="178.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#212529" stroke="#ffffff" stroke-width="3" paint-order="stroke">-1.0</text>
+  <text x="254.0" y="230.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">300</text>
+  <rect x="306.0" y="61.0" width="40" height="69.0" fill="#d9480f" fill-opacity="0.8"/>
+  <text x="326.0" y="55.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#d9480f" stroke="#ffffff" stroke-width="3" paint-order="stroke">+2.3</text>
+  <text x="326.0" y="230.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">400</text>
+  <rect x="378.0" y="130.0" width="40" height="42.0" fill="#212529" fill-opacity="0.6"/>
+  <text x="398.0" y="190.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#212529" stroke="#ffffff" stroke-width="3" paint-order="stroke">-1.4</text>
+  <text x="398.0" y="230.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">500</text>
+  <text x="230.0" y="250.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#212529" stroke="#ffffff" stroke-width="3" paint-order="stroke">request rate (req/s). Bars sum to zero. No pattern: a line fits.</text>
+  <text x="230.0" y="24.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#212529" stroke="#ffffff" stroke-width="3" paint-order="stroke">residual = actual − predicted (CPU points)</text>
+</svg>

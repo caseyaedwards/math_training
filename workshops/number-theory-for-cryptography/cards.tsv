@@ -1,0 +1,15 @@
+What does \(a \bmod m\) mean?	The remainder after dividing \(a\) by \(m\), a number from 0 to \(m - 1\).	math::workshop::crypto
+What does Go print for <code>-3 % 7</code>, and how do you fix it?	<code>-3</code>, because Go keeps the sign of the left side. Use <code>((a % m) + m) % m</code> to get 4.	math::workshop::crypto go
+What does \(a \equiv b \pmod m\) mean?	\(a\) and \(b\) leave the same remainder mod \(m\); equivalently \(m\) divides \(a - b\).	math::workshop::crypto
+Euclid step for the gcd	\(\gcd(a, b) = \gcd(b, a \bmod b)\). Repeat until the remainder is 0; the last nonzero remainder is the gcd.	math::workshop::crypto
+What does the extended Euclidean algorithm return?	Whole numbers \(x, y\) with \(ax + by = \gcd(a, b)\) (the Bezout identity).	math::workshop::crypto
+When does \(e\) have an inverse mod \(m\)?	Exactly when \(\gcd(e, m) = 1\).	math::workshop::crypto
+Inverse of 17 mod 3120	2753, because \(17 \cdot 2753 = 46801 = 15 \cdot 3120 + 1\).	math::workshop::crypto
+Square-and-multiply in one sentence	Read the exponent in binary: square for every bit, and also multiply by the base for every 1 bit, reducing mod \(n\) each time.	math::workshop::crypto
+What is \(\varphi(pq)\) for different primes \(p, q\)?	\((p - 1)(q - 1)\). For 61 and 53 it is 3120.	math::workshop::crypto
+Euler theorem	If \(\gcd(a, n) = 1\) then \(a^{\varphi(n)} \equiv 1 \pmod n\). Exponents only matter mod \(\varphi(n)\).	math::workshop::crypto
+Toy RSA key with p = 61, q = 53, e = 17	Public \((n, e) = (3233, 17)\); private \(d = 2753\). Encrypt \(c = m^e \bmod n\); decrypt \(m = c^d \bmod n\).	math::workshop::crypto
+Why does RSA decryption return \(m\)?	\(ed = 1 + k\varphi(n)\), so \(m^{ed} = m \cdot (m^{\varphi(n)})^k \equiv m\).	math::workshop::crypto
+What keeps RSA secure?	Finding \(d\) needs \(\varphi(n)\), which needs the factors of \(n\). Factoring a 2,048-bit \(n\) is out of reach.	math::workshop::crypto
+Diffie-Hellman shared secret	Alice sends \(A = g^a\), Bob sends \(B = g^b\) (mod \(p\)); both compute \(g^{ab} = B^a = A^b\).	math::workshop::crypto
+Fraction of keys that move when <code>hash % N</code> goes to \(N + 1\) buckets	About \(N/(N+1)\), for example 80% from 4 to 5. Consistent hashing moves only about \(1/(N+1)\).	math::workshop::crypto sharding

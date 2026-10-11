@@ -1,0 +1,15 @@
+Frequency and period of a tone	f = cycles per second (Hz), T = 1/f. A4 = 440 Hz has T = 2.273 ms.	math::workshops::music-and-frequencies::waves
+What sets pitch and what sets loudness in \(A\sin(2\pi f t)\)?	Frequency f sets pitch; amplitude A sets loudness.	math::workshops::music-and-frequencies::waves
+Frequency ratio of an octave	2 : 1	math::workshops::music-and-frequencies::ratios
+Ratios of the perfect fifth, fourth, and major third	3:2, 4:3, 5:4	math::workshops::music-and-frequencies::ratios
+How often do the peaks of 440 Hz and 660 Hz line up?	Every \(1/\gcd(440, 660) = 1/220\) s = 4.545 ms	math::workshops::music-and-frequencies::ratios
+Equal-tempered semitone ratio	\(2^{1/12} \approx 1.059463\)	math::workshops::music-and-frequencies::tuning
+Frequency n semitones above A4	\(440 \cdot 2^{n/12}\) Hz	math::workshops::music-and-frequencies::tuning
+Cents between f1 and f2	\(1200 \log_2(f_2/f_1)\). One semitone = 100 cents, one octave = 1,200.	math::workshops::music-and-frequencies::tuning
+How far is the equal-tempered fifth from 3/2?	About 1.955 cents narrow	math::workshops::music-and-frequencies::tuning
+How far is the equal-tempered major third from 5/4?	About 13.7 cents wide	math::workshops::music-and-frequencies::tuning
+Piano key number to frequency	\(f = 440 \cdot 2^{(\text{key} - 49)/12}\)	math::workshops::music-and-frequencies::logscale
+Harmonics of a note at f	Whole-number multiples: f, 2f, 3f, 4f, ...	math::workshops::music-and-frequencies::harmonics
+Fourier series of a square wave	\(\frac{4}{\pi}(\sin x + \frac{\sin 3x}{3} + \frac{\sin 5x}{5} + \cdots)\): odd harmonics only	math::workshops::music-and-frequencies::fourier
+DFT bin width and bin for frequency f	Bin width = rate / N; bin k = f / (rate / N)	math::workshops::music-and-frequencies::fourier
+Nyquist frequency and aliasing	Half the sample rate. A faster signal folds back to \(|f - m f_s|\), for example 60 s scraped every 50 s looks like 300 s.	math::workshops::music-and-frequencies::sampling

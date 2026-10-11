@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 380" width="680" height="380" role="img" aria-label="Euler steps for y prime equals y, step 0.5, compared with the exact curve e to the t">
+<title>Euler steps for y prime equals y, step 0.5, compared with the exact curve e to the t</title>
+<rect x="0" y="0" width="680" height="380" fill="#ffffff"/>
+<text x="340.0" y="26.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="bold">Euler steps for dy/dt = y: walk along the slope, then re-aim</text>
+<line x1="70.0" y1="300.0" x2="640.0" y2="300.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="70.0" y1="50.0" x2="70.0" y2="300.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="65.0" y1="292.6" x2="70.0" y2="292.6" stroke="#222222" stroke-width="1.5"/>
+<text x="62.0" y="297.6" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="end" font-weight="normal">1</text>
+<line x1="65.0" y1="219.1" x2="70.0" y2="219.1" stroke="#222222" stroke-width="1.5"/>
+<text x="62.0" y="224.1" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="end" font-weight="normal">3</text>
+<line x1="65.0" y1="145.6" x2="70.0" y2="145.6" stroke="#222222" stroke-width="1.5"/>
+<text x="62.0" y="150.6" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="end" font-weight="normal">5</text>
+<line x1="65.0" y1="72.1" x2="70.0" y2="72.1" stroke="#222222" stroke-width="1.5"/>
+<text x="62.0" y="77.1" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="end" font-weight="normal">7</text>
+<line x1="70.0" y1="300.0" x2="70.0" y2="305.0" stroke="#222222" stroke-width="1.5"/>
+<text x="70.0" y="322.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">0</text>
+<line x1="212.5" y1="300.0" x2="212.5" y2="305.0" stroke="#222222" stroke-width="1.5"/>
+<text x="212.5" y="322.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">0.5</text>
+<line x1="355.0" y1="300.0" x2="355.0" y2="305.0" stroke="#222222" stroke-width="1.5"/>
+<text x="355.0" y="322.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">1</text>
+<line x1="497.5" y1="300.0" x2="497.5" y2="305.0" stroke="#222222" stroke-width="1.5"/>
+<text x="497.5" y="322.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">1.5</text>
+<line x1="640.0" y1="300.0" x2="640.0" y2="305.0" stroke="#222222" stroke-width="1.5"/>
+<text x="640.0" y="322.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">2</text>
+<text x="355.0" y="344.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">t</text>
+<polyline points="70.0,292.6 72.8,292.3 75.7,291.9 78.5,291.5 81.4,291.1 84.2,290.8 87.1,290.4 90.0,290.0 92.8,289.6 95.7,289.2 98.5,288.8 101.3,288.4 104.2,288.0 107.1,287.5 109.9,287.1 112.8,286.7 115.6,286.3 118.5,285.8 121.3,285.4 124.2,285.0 127.0,284.5 129.8,284.1 132.7,283.6 135.6,283.1 138.4,282.7 141.2,282.2 144.1,281.7 146.9,281.3 149.8,280.8 152.6,280.3 155.5,279.8 158.3,279.3 161.2,278.8 164.1,278.3 166.9,277.8 169.8,277.2 172.6,276.7 175.4,276.2 178.3,275.7 181.2,275.1 184.0,274.6 186.8,274.0 189.7,273.5 192.6,272.9 195.4,272.3 198.2,271.8 201.1,271.2 203.9,270.6 206.8,270.0 209.7,269.4 212.5,268.8 215.3,268.2 218.2,267.6 221.1,267.0 223.9,266.3 226.8,265.7 229.6,265.0 232.4,264.4 235.3,263.7 238.1,263.1 241.0,262.4 243.8,261.7 246.7,261.1 249.6,260.4 252.4,259.7 255.2,259.0 258.1,258.3 261.0,257.6 263.8,256.8 266.6,256.1 269.5,255.4 272.4,254.6 275.2,253.9 278.0,253.1 280.9,252.4 283.8,251.6 286.6,250.8 289.5,250.0 292.3,249.2 295.1,248.4 298.0,247.6 300.9,246.8 303.7,245.9 306.5,245.1 309.4,244.3 312.2,243.4 315.1,242.5 317.9,241.7 320.8,240.8 323.6,239.9 326.5,239.0 329.4,238.1 332.2,237.2 335.1,236.2 337.9,235.3 340.8,234.3 343.6,233.4 346.4,232.4 349.3,231.5 352.1,230.5 355.0,229.5 357.9,228.5 360.7,227.5 363.6,226.4 366.4,225.4 369.2,224.4 372.1,223.3 375.0,222.2 377.8,221.2 380.7,220.1 383.5,219.0 386.4,217.9 389.2,216.7 392.0,215.6 394.9,214.5 397.8,213.3 400.6,212.1 403.4,211.0 406.3,209.8 409.1,208.6 412.0,207.3 414.8,206.1 417.7,204.9 420.6,203.6 423.4,202.4 426.2,201.1 429.1,199.8 431.9,198.5 434.8,197.2 437.7,195.9 440.5,194.5 443.4,193.2 446.2,191.8 449.1,190.4 451.9,189.0 454.8,187.6 457.6,186.2 460.5,184.7 463.3,183.3 466.1,181.8 469.0,180.3 471.8,178.8 474.7,177.3 477.5,175.8 480.4,174.2 483.2,172.7 486.1,171.1 488.9,169.5 491.8,167.9 494.6,166.3 497.5,164.6 500.4,163.0 503.2,161.3 506.1,159.6 508.9,157.9 511.8,156.2 514.6,154.5 517.5,152.7 520.3,150.9 523.2,149.1 526.0,147.3 528.9,145.5 531.7,143.6 534.5,141.8 537.4,139.9 540.2,138.0 543.1,136.1 546.0,134.1 548.8,132.1 551.6,130.2 554.5,128.2 557.3,126.1 560.2,124.1 563.0,122.0 565.9,120.0 568.8,117.8 571.6,115.7 574.5,113.6 577.3,111.4 580.2,109.2 583.0,107.0 585.9,104.8 588.7,102.5 591.6,100.2 594.4,97.9 597.2,95.6 600.1,93.2 603.0,90.9 605.8,88.5 608.6,86.1 611.5,83.6 614.4,81.1 617.2,78.6 620.0,76.1 622.9,73.6 625.8,71.0 628.6,68.4 631.5,65.8 634.3,63.1 637.1,60.5 640.0,57.8" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<text x="84.2" y="72.1" font-family="sans-serif" font-size="13" fill="#d9480f" text-anchor="start" font-weight="normal">exact curve e^t: 7.39 at t = 2</text>
+<polyline points="70.0,292.6 212.5,274.3 355.0,246.7 497.5,205.3 640.0,143.3" fill="none" stroke="#222222" stroke-width="2"/>
+<circle cx="70.0" cy="292.6" r="4.5" fill="#222222"/>
+<circle cx="212.5" cy="274.3" r="4.5" fill="#222222"/>
+<circle cx="355.0" cy="246.7" r="4.5" fill="#222222"/>
+<circle cx="497.5" cy="205.3" r="4.5" fill="#222222"/>
+<circle cx="640.0" cy="143.3" r="4.5" fill="#222222"/>
+<text x="84.2" y="97.8" font-family="sans-serif" font-size="13" fill="#222222" text-anchor="start" font-weight="normal">Euler steps, dt = 0.5: 5.06 at t = 2</text>
+<text x="84.2" y="123.5" font-family="sans-serif" font-size="13" fill="#555555" text-anchor="start" font-weight="normal">each step: new = old + slope x dt</text>
+</svg>

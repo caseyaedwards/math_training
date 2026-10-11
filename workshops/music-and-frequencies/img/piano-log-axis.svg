@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" width="760" height="330" role="img" aria-label="Three octaves of piano keys from A2 to A5 above a log frequency axis and a linear frequency axis">
+<title>Three octaves of piano keys from A2 to A5 above a log frequency axis and a linear frequency axis</title>
+<rect x="0" y="0" width="760" height="330" fill="#ffffff"/>
+<text x="380.0" y="28.0" font-family="sans-serif" font-size="13" fill="#222222" text-anchor="middle" font-weight="bold">Piano keys follow a log scale: each octave is the same width and doubles the frequency</text>
+<rect x="30.0" y="50" width="31.8" height="120" fill="#fde3d6" stroke="#222222" stroke-width="1.2"/>
+<text x="45.9" y="162.0" font-family="sans-serif" font-size="11" fill="#222222" text-anchor="middle" font-weight="normal">A2</text>
+<rect x="61.8" y="50" width="31.8" height="120" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<rect x="93.6" y="50" width="31.8" height="120" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="109.5" y="162.0" font-family="sans-serif" font-size="11" fill="#222222" text-anchor="middle" font-weight="normal">C3</text>
+<rect x="125.5" y="50" width="31.8" height="120" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<rect x="157.3" y="50" width="31.8" height="120" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<rect x="189.1" y="50" width="31.8" height="120" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<rect x="220.9" y="50" width="31.8" height="120" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<rect x="252.7" y="50" width="31.8" height="120" fill="#fde3d6" stroke="#222222" stroke-width="1.2"/>
+<text x="268.6" y="162.0" font-family="sans-serif" font-size="11" fill="#222222" text-anchor="middle" font-weight="normal">A3</text>
+<rect x="284.5" y="50" width="31.8" height="120" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<rect x="316.4" y="50" width="31.8" height="120" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="332.3" y="162.0" font-family="sans-serif" font-size="11" fill="#222222" text-anchor="middle" font-weight="normal">C4</text>
+<rect x="348.2" y="50" width="31.8" height="120" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<rect x="380.0" y="50" width="31.8" height="120" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<rect x="411.8" y="50" width="31.8" height="120" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<rect x="443.6" y="50" width="31.8" height="120" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<rect x="475.5" y="50" width="31.8" height="120" fill="#fde3d6" stroke="#222222" stroke-width="1.2"/>
+<text x="491.4" y="162.0" font-family="sans-serif" font-size="11" fill="#222222" text-anchor="middle" font-weight="normal">A4</text>
+<rect x="507.3" y="50" width="31.8" height="120" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<rect x="539.1" y="50" width="31.8" height="120" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="555.0" y="162.0" font-family="sans-serif" font-size="11" fill="#222222" text-anchor="middle" font-weight="normal">C5</text>
+<rect x="570.9" y="50" width="31.8" height="120" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<rect x="602.7" y="50" width="31.8" height="120" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<rect x="634.5" y="50" width="31.8" height="120" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<rect x="666.4" y="50" width="31.8" height="120" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<rect x="698.2" y="50" width="31.8" height="120" fill="#fde3d6" stroke="#222222" stroke-width="1.2"/>
+<text x="714.1" y="162.0" font-family="sans-serif" font-size="11" fill="#222222" text-anchor="middle" font-weight="normal">A5</text>
+<rect x="52.3" y="50" width="19.1" height="74.4" fill="#222222"/>
+<rect x="115.9" y="50" width="19.1" height="74.4" fill="#222222"/>
+<rect x="147.7" y="50" width="19.1" height="74.4" fill="#222222"/>
+<rect x="211.4" y="50" width="19.1" height="74.4" fill="#222222"/>
+<rect x="243.2" y="50" width="19.1" height="74.4" fill="#222222"/>
+<rect x="275.0" y="50" width="19.1" height="74.4" fill="#222222"/>
+<rect x="338.6" y="50" width="19.1" height="74.4" fill="#222222"/>
+<rect x="370.5" y="50" width="19.1" height="74.4" fill="#222222"/>
+<rect x="434.1" y="50" width="19.1" height="74.4" fill="#222222"/>
+<rect x="465.9" y="50" width="19.1" height="74.4" fill="#222222"/>
+<rect x="497.7" y="50" width="19.1" height="74.4" fill="#222222"/>
+<rect x="561.4" y="50" width="19.1" height="74.4" fill="#222222"/>
+<rect x="593.2" y="50" width="19.1" height="74.4" fill="#222222"/>
+<rect x="656.8" y="50" width="19.1" height="74.4" fill="#222222"/>
+<rect x="688.6" y="50" width="19.1" height="74.4" fill="#222222"/>
+<line x1="35.9" y1="215.0" x2="724.1" y2="215.0" stroke="#222222" stroke-width="1.5"/>
+<text x="30.0" y="205.0" font-family="sans-serif" font-size="12" fill="#555555" text-anchor="start" font-weight="normal">log axis</text>
+<line x1="45.9" y1="209.0" x2="45.9" y2="221.0" stroke="#d9480f" stroke-width="2"/>
+<text x="45.9" y="237.0" font-family="sans-serif" font-size="14" fill="#d9480f" text-anchor="middle" font-weight="normal">110 Hz</text>
+<line x1="45.9" y1="170.0" x2="45.9" y2="209.0" stroke="#d9480f" stroke-width="1" stroke-dasharray="3,3"/>
+<line x1="268.6" y1="209.0" x2="268.6" y2="221.0" stroke="#d9480f" stroke-width="2"/>
+<text x="268.6" y="237.0" font-family="sans-serif" font-size="14" fill="#d9480f" text-anchor="middle" font-weight="normal">220 Hz</text>
+<line x1="268.6" y1="170.0" x2="268.6" y2="209.0" stroke="#d9480f" stroke-width="1" stroke-dasharray="3,3"/>
+<line x1="491.4" y1="209.0" x2="491.4" y2="221.0" stroke="#d9480f" stroke-width="2"/>
+<text x="491.4" y="237.0" font-family="sans-serif" font-size="14" fill="#d9480f" text-anchor="middle" font-weight="normal">440 Hz</text>
+<line x1="491.4" y1="170.0" x2="491.4" y2="209.0" stroke="#d9480f" stroke-width="1" stroke-dasharray="3,3"/>
+<line x1="714.1" y1="209.0" x2="714.1" y2="221.0" stroke="#d9480f" stroke-width="2"/>
+<text x="714.1" y="237.0" font-family="sans-serif" font-size="14" fill="#d9480f" text-anchor="middle" font-weight="normal">880 Hz</text>
+<line x1="714.1" y1="170.0" x2="714.1" y2="209.0" stroke="#d9480f" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="157.3" y="209.0" font-family="sans-serif" font-size="12" fill="#555555" text-anchor="middle" font-weight="normal">x2</text>
+<text x="380.0" y="209.0" font-family="sans-serif" font-size="12" fill="#555555" text-anchor="middle" font-weight="normal">x2</text>
+<text x="602.7" y="209.0" font-family="sans-serif" font-size="12" fill="#555555" text-anchor="middle" font-weight="normal">x2</text>
+<line x1="35.9" y1="285.0" x2="724.1" y2="285.0" stroke="#222222" stroke-width="1.5"/>
+<text x="30.0" y="275.0" font-family="sans-serif" font-size="12" fill="#555555" text-anchor="start" font-weight="normal">linear axis</text>
+<line x1="45.9" y1="279.0" x2="45.9" y2="291.0" stroke="#222222" stroke-width="2"/>
+<text x="45.9" y="307.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">110 Hz</text>
+<line x1="141.4" y1="279.0" x2="141.4" y2="291.0" stroke="#222222" stroke-width="2"/>
+<text x="141.4" y="307.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">220 Hz</text>
+<line x1="332.3" y1="279.0" x2="332.3" y2="291.0" stroke="#222222" stroke-width="2"/>
+<text x="332.3" y="307.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">440 Hz</text>
+<line x1="714.1" y1="279.0" x2="714.1" y2="291.0" stroke="#222222" stroke-width="2"/>
+<text x="714.1" y="307.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">880 Hz</text>
+<text x="724.1" y="275.0" font-family="sans-serif" font-size="12" fill="#555555" text-anchor="end" font-weight="normal">octaves squeeze left</text>
+</svg>

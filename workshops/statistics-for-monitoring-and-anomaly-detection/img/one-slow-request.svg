@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" width="700" height="300" font-family="sans-serif" font-size="14">
+<title>One slow request moves the mean but not the median</title>
+<rect x="0" y="0" width="700" height="300" fill="#fff"/>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker></defs>
+<text x="20.0" y="28.0" text-anchor="start" fill="#222" font-size="14" font-weight="bold">Add one 30,000 ms timeout to 100 requests</text>
+<text x="20.0" y="60.0" text-anchor="start" fill="#222" font-size="14" font-weight="bold">before</text>
+<line x1="60.0" y1="90.0" x2="640.0" y2="90.0" stroke="#222" stroke-width="1.5"/>
+<line x1="60.0" y1="86.0" x2="60.0" y2="94.0" stroke="#222" stroke-width="1"/>
+<text x="60.0" y="112.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">0</text>
+<line x1="188.9" y1="86.0" x2="188.9" y2="94.0" stroke="#222" stroke-width="1"/>
+<text x="188.9" y="112.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">100</text>
+<line x1="317.8" y1="86.0" x2="317.8" y2="94.0" stroke="#222" stroke-width="1"/>
+<text x="317.8" y="112.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">200</text>
+<line x1="446.7" y1="86.0" x2="446.7" y2="94.0" stroke="#222" stroke-width="1"/>
+<text x="446.7" y="112.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">300</text>
+<line x1="575.6" y1="86.0" x2="575.6" y2="94.0" stroke="#222" stroke-width="1"/>
+<text x="575.6" y="112.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">400</text>
+<circle cx="172.0" cy="90.0" r="7" fill="#222" stroke="none" stroke-width="0"/>
+<text x="172.0" y="76.0" text-anchor="middle" fill="#222" font-size="13" font-weight="normal">median 86.9</text>
+<circle cx="189.9" cy="90.0" r="7" fill="#d9480f" stroke="none" stroke-width="0"/>
+<text x="189.9" y="132.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">mean 100.8</text>
+<text x="20.0" y="160.0" text-anchor="start" fill="#222" font-size="14" font-weight="bold">after</text>
+<line x1="60.0" y1="190.0" x2="640.0" y2="190.0" stroke="#222" stroke-width="1.5"/>
+<line x1="60.0" y1="186.0" x2="60.0" y2="194.0" stroke="#222" stroke-width="1"/>
+<text x="60.0" y="212.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">0</text>
+<line x1="188.9" y1="186.0" x2="188.9" y2="194.0" stroke="#222" stroke-width="1"/>
+<text x="188.9" y="212.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">100</text>
+<line x1="317.8" y1="186.0" x2="317.8" y2="194.0" stroke="#222" stroke-width="1"/>
+<text x="317.8" y="212.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">200</text>
+<line x1="446.7" y1="186.0" x2="446.7" y2="194.0" stroke="#222" stroke-width="1"/>
+<text x="446.7" y="212.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">300</text>
+<line x1="575.6" y1="186.0" x2="575.6" y2="194.0" stroke="#222" stroke-width="1"/>
+<text x="575.6" y="212.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">400</text>
+<circle cx="174.2" cy="190.0" r="7" fill="#222" stroke="none" stroke-width="0"/>
+<text x="174.2" y="176.0" text-anchor="middle" fill="#222" font-size="13" font-weight="normal">median 88.6</text>
+<circle cx="571.6" cy="190.0" r="7" fill="#d9480f" stroke="none" stroke-width="0"/>
+<text x="571.6" y="232.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">mean 396.9</text>
+<line x1="601.3" y1="190.0" x2="637.4" y2="190.0" stroke="#d9480f" stroke-width="2" marker-end="url(#arr)"/>
+<text x="638.7" y="176.0" text-anchor="end" fill="#444" font-size="12" font-weight="normal">the 30,000 ms request sits far off to the right</text>
+<text x="20.0" y="285.0" text-anchor="start" fill="#444" font-size="14" font-weight="normal">The mean jumps 296.0 ms. The median moves 1.7 ms. Same data, very different news.</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 302" width="760" height="302" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Thirty by twelve rectangle tiled by squares showing gcd six</title>
+<rect x="0" y="0" width="760" height="302" fill="#ffffff"/>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<text x="310.0" y="28.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Euclid with tiles: gcd(30, 12) is the biggest square that tiles the rectangle</text>
+<rect x="40.0" y="70.0" width="480.0" height="192.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<rect x="40.0" y="70.0" width="192.0" height="192.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<line x1="136.0" y1="70.0" x2="136.0" y2="262.0" stroke="#888888" stroke-width="1" stroke-dasharray="4 4"/>
+<line x1="40.0" y1="166.0" x2="232.0" y2="166.0" stroke="#888888" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="136.0" y="158.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="normal">12 x 12</text>
+<rect x="232.0" y="70.0" width="192.0" height="192.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<line x1="328.0" y1="70.0" x2="328.0" y2="262.0" stroke="#888888" stroke-width="1" stroke-dasharray="4 4"/>
+<line x1="232.0" y1="166.0" x2="424.0" y2="166.0" stroke="#888888" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="328.0" y="158.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="normal">12 x 12</text>
+<rect x="424.0" y="70.0" width="96.0" height="96.0" fill="#fde8dd" stroke="#d9480f" stroke-width="2"/>
+<text x="472.0" y="123.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">6 x 6</text>
+<rect x="424.0" y="166.0" width="96.0" height="96.0" fill="#fde8dd" stroke="#d9480f" stroke-width="2"/>
+<text x="472.0" y="219.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">6 x 6</text>
+<text x="280.0" y="284.0" text-anchor="middle" fill="#888888" font-size="14" font-weight="normal">30</text>
+<text x="26.0" y="171.0" text-anchor="middle" fill="#888888" font-size="14" font-weight="normal">12</text>
+<text x="550.0" y="100.0" text-anchor="start" fill="#222222" font-size="14" font-weight="normal">30 = 2 x 12 + 6</text>
+<text x="550.0" y="130.0" text-anchor="start" fill="#888888" font-size="14" font-weight="normal">two 12-squares, 6 left over</text>
+<text x="550.0" y="160.0" text-anchor="start" fill="#222222" font-size="14" font-weight="normal">12 = 2 x 6 + 0</text>
+<text x="550.0" y="190.0" text-anchor="start" fill="#888888" font-size="14" font-weight="normal">two 6-squares, nothing left</text>
+<text x="550.0" y="220.0" text-anchor="start" fill="#d9480f" font-size="14" font-weight="bold">gcd(30, 12) = 6</text>
+<text x="550.0" y="250.0" text-anchor="start" fill="#888888" font-size="14" font-weight="normal">dashed: 6 x 6 tiles fit everywhere</text>
+</svg>

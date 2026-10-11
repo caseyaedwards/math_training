@@ -1,0 +1,15 @@
+What are the two faces of a vector?	An arrow (length and direction) and a list of numbers, for example (3, 1).	math::workshops::linear-algebra-for-graphics-and-ml
+What are the columns of a 2x2 transform matrix?	Column 1 is where i-hat (1, 0) lands. Column 2 is where j-hat (0, 1) lands.	math::workshops::linear-algebra-for-graphics-and-ml
+Rotation matrix for angle \(\theta\)	\(\begin{pmatrix} \cos\theta & -\sin\theta \\ \sin\theta & \cos\theta \end{pmatrix}\)	math::workshops::linear-algebra-for-graphics-and-ml
+In \(SR\mathbf{v}\), which transform acts first?	R, the one next to the vector. Read products right to left.	math::workshops::linear-algebra-for-graphics-and-ml
+Is matrix multiplication commutative?	No. Rotate 90 then scale x by 2 sends (1, 0) to (0, 1); scale then rotate sends it to (0, 2).	math::workshops::linear-algebra-for-graphics-and-ml
+Rotate (2, 0) by 30 degrees	(1.7321, 1.0000): \(x' = 2\cos 30^\circ,\ y' = 2\sin 30^\circ\)	math::workshops::linear-algebra-for-graphics-and-ml
+Why can a 2x2 matrix not translate a shape?	It always sends (0, 0) to (0, 0).	math::workshops::linear-algebra-for-graphics-and-ml
+How do homogeneous coordinates handle translation?	Write points as (x, y, 1) and use a 3x3 matrix with the shift \((t_x, t_y)\) in the last column.	math::workshops::linear-algebra-for-graphics-and-ml
+Dot product of a and b	\(a_1 b_1 + a_2 b_2 + \dots + a_n b_n\)	math::workshops::linear-algebra-for-graphics-and-ml
+Angle between two vectors from the dot product	\(\cos\theta = \dfrac{\mathbf{a}\cdot\mathbf{b}}{|\mathbf{a}|\,|\mathbf{b}|}\)	math::workshops::linear-algebra-for-graphics-and-ml
+Cosine similarity of 1, 0, and -1 means	1: same direction. 0: at right angles, unrelated. -1: opposite.	math::workshops::linear-algebra-for-graphics-and-ml
+What is an embedding?	A vector for each item, arranged such that similar items point in similar directions.	math::workshops::linear-algebra-for-graphics-and-ml
+Nearest-neighbor search by cosine, in one line	Compute cosine from the query to every stored vector, sort, keep the top k.	math::workshops::linear-algebra-for-graphics-and-ml
+Normal equations for the line y = m x + b	\(\begin{pmatrix} \sum x^2 & \sum x \\ \sum x & n \end{pmatrix}\begin{pmatrix} m \\ b \end{pmatrix} = \begin{pmatrix} \sum xy \\ \sum y \end{pmatrix}\), that is, \(A^{\mathsf T}A\,\mathbf{p} = A^{\mathsf T}\mathbf{y}\)	math::workshops::linear-algebra-for-graphics-and-ml
+What is a residual, and what do least-squares residuals add up to?	Actual minus predicted. With an intercept they sum to zero.	math::workshops::linear-algebra-for-graphics-and-ml

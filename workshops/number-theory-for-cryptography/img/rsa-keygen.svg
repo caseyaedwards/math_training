@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 310" width="760" height="310" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Toy RSA key generation from p and q to n, phi, e and d</title>
+<rect x="0" y="0" width="760" height="310" fill="#ffffff"/>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<text x="380.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Toy RSA key generation: what is public and what is secret</text>
+<rect x="20.0" y="70.0" width="130.0" height="56.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="85.0" y="92.0" text-anchor="middle" fill="#888888" font-size="12" font-weight="normal">secret prime</text>
+<text x="85.0" y="114.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">p = 61</text>
+<rect x="20.0" y="160.0" width="130.0" height="56.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="85.0" y="182.0" text-anchor="middle" fill="#888888" font-size="12" font-weight="normal">secret prime</text>
+<text x="85.0" y="204.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">q = 53</text>
+<rect x="230.0" y="70.0" width="170.0" height="56.0" fill="#fde8dd" stroke="#d9480f" stroke-width="2"/>
+<text x="315.0" y="92.0" text-anchor="middle" fill="#888888" font-size="12" font-weight="normal">public modulus</text>
+<text x="315.0" y="114.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">n = p x q = 3233</text>
+<rect x="230.0" y="160.0" width="170.0" height="56.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="315.0" y="182.0" text-anchor="middle" fill="#888888" font-size="12" font-weight="normal">secret</text>
+<text x="315.0" y="204.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">phi = 60 x 52 = 3120</text>
+<rect x="470.0" y="70.0" width="120.0" height="56.0" fill="#fde8dd" stroke="#d9480f" stroke-width="2"/>
+<text x="530.0" y="92.0" text-anchor="middle" fill="#888888" font-size="12" font-weight="normal">public exponent</text>
+<text x="530.0" y="114.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">e = 17</text>
+<rect x="470.0" y="160.0" width="120.0" height="56.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="530.0" y="182.0" text-anchor="middle" fill="#888888" font-size="12" font-weight="normal">private exponent</text>
+<text x="530.0" y="204.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">d = 2753</text>
+<line x1="152.0" y1="98.0" x2="228.0" y2="98.0" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="152.0" y1="188.0" x2="228.0" y2="98.0" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="152.0" y1="98.0" x2="228.0" y2="188.0" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="152.0" y1="188.0" x2="228.0" y2="188.0" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="402.0" y1="188.0" x2="468.0" y2="188.0" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="530.0" y1="128.0" x2="530.0" y2="158.0" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<text x="436.0" y="180.0" text-anchor="middle" fill="#888888" font-size="12" font-weight="normal">inverse</text>
+<text x="600.0" y="148.0" text-anchor="start" fill="#888888" font-size="12" font-weight="normal">gcd(17, 3120) = 1</text>
+<text x="600.0" y="192.0" text-anchor="start" fill="#888888" font-size="12" font-weight="normal">17 x 2753 = 1</text>
+<text x="600.0" y="208.0" text-anchor="start" fill="#888888" font-size="12" font-weight="normal">(mod 3120)</text>
+<rect x="20.0" y="250.0" width="16.0" height="16.0" fill="#fde8dd" stroke="#d9480f" stroke-width="2"/>
+<text x="44.0" y="263.0" text-anchor="start" fill="#222222" font-size="14" font-weight="normal">public: (n, e) = (3233, 17), print it on a billboard</text>
+<rect x="20.0" y="278.0" width="16.0" height="16.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="44.0" y="291.0" text-anchor="start" fill="#222222" font-size="14" font-weight="normal">secret: p, q, phi, d. Leak any one and the key is gone.</text>
+</svg>

@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 420" width="780" height="420" font-family="sans-serif" font-size="14">
+<title>Height and velocity of an object dropped from 100 m</title>
+<rect x="0" y="0" width="780" height="420" fill="#ffffff"/>
+<line x1="80" y1="330.0" x2="360" y2="330.0" stroke="#e6e6e6"/>
+<text x="72" y="335.0" text-anchor="end" font-size="12" fill="#222222">0</text>
+<line x1="80" y1="274.0" x2="360" y2="274.0" stroke="#e6e6e6"/>
+<text x="72" y="279.0" text-anchor="end" font-size="12" fill="#222222">20</text>
+<line x1="80" y1="218.0" x2="360" y2="218.0" stroke="#e6e6e6"/>
+<text x="72" y="223.0" text-anchor="end" font-size="12" fill="#222222">40</text>
+<line x1="80" y1="162.0" x2="360" y2="162.0" stroke="#e6e6e6"/>
+<text x="72" y="167.0" text-anchor="end" font-size="12" fill="#222222">60</text>
+<line x1="80" y1="106.0" x2="360" y2="106.0" stroke="#e6e6e6"/>
+<text x="72" y="111.0" text-anchor="end" font-size="12" fill="#222222">80</text>
+<line x1="80" y1="50.0" x2="360" y2="50.0" stroke="#e6e6e6"/>
+<text x="72" y="55.0" text-anchor="end" font-size="12" fill="#222222">100</text>
+<line x1="80.0" y1="330" x2="80.0" y2="335" stroke="#222222"/>
+<text x="80.0" y="350" text-anchor="middle" font-size="12" fill="#222222">0</text>
+<line x1="136.0" y1="330" x2="136.0" y2="335" stroke="#222222"/>
+<text x="136.0" y="350" text-anchor="middle" font-size="12" fill="#222222">1</text>
+<line x1="192.0" y1="330" x2="192.0" y2="335" stroke="#222222"/>
+<text x="192.0" y="350" text-anchor="middle" font-size="12" fill="#222222">2</text>
+<line x1="248.0" y1="330" x2="248.0" y2="335" stroke="#222222"/>
+<text x="248.0" y="350" text-anchor="middle" font-size="12" fill="#222222">3</text>
+<line x1="304.0" y1="330" x2="304.0" y2="335" stroke="#222222"/>
+<text x="304.0" y="350" text-anchor="middle" font-size="12" fill="#222222">4</text>
+<line x1="360.0" y1="330" x2="360.0" y2="335" stroke="#222222"/>
+<text x="360.0" y="350" text-anchor="middle" font-size="12" fill="#222222">5</text>
+<line x1="80" y1="330" x2="360" y2="330" stroke="#222222" stroke-width="1.5"/>
+<line x1="80" y1="50" x2="80" y2="330" stroke="#222222" stroke-width="1.5"/>
+<text x="220.0" y="370" text-anchor="middle" fill="#222222">time t (s)</text>
+<text x="30" y="190.0" text-anchor="middle" fill="#222222" transform="rotate(-90 30 190.0)">height h (m)</text>
+<polyline points="80.0,50.0 82.5,50.0 85.1,50.1 87.6,50.3 90.1,50.4 92.6,50.7 95.2,51.0 97.7,51.4 100.2,51.8 102.8,52.3 105.3,52.8 107.8,53.4 110.4,54.0 112.9,54.7 115.4,55.5 117.9,56.3 120.5,57.2 123.0,58.1 125.5,59.1 128.1,60.1 130.6,61.2 133.1,62.3 135.7,63.6 138.2,64.8 140.7,66.1 143.2,67.5 145.8,68.9 148.3,70.4 150.8,72.0 153.4,73.5 155.9,75.2 158.4,76.9 161.0,78.7 163.5,80.5 166.0,82.4 168.5,84.3 171.1,86.3 173.6,88.3 176.1,90.4 178.7,92.6 181.2,94.8 183.7,97.1 186.3,99.4 188.8,101.8 191.3,104.2 193.8,106.7 196.4,109.2 198.9,111.9 201.4,114.5 204.0,117.2 206.5,120.0 209.0,122.8 211.6,125.7 214.1,128.7 216.6,131.6 219.1,134.7 221.7,137.8 224.2,141.0 226.7,144.2 229.3,147.5 231.8,150.8 234.3,154.2 236.8,157.6 239.4,161.1 241.9,164.7 244.4,168.3 247.0,172.0 249.5,175.7 252.0,179.5 254.6,183.3 257.1,187.2 259.6,191.1 262.1,195.2 264.7,199.2 267.2,203.3 269.7,207.5 272.3,211.7 274.8,216.0 277.3,220.4 279.9,224.7 282.4,229.2 284.9,233.7 287.4,238.3 290.0,242.9 292.5,247.6 295.0,252.3 297.6,257.1 300.1,261.9 302.6,266.8 305.2,271.8 307.7,276.8 310.2,281.9 312.7,287.0 315.3,292.2 317.8,297.4 320.3,302.7 322.9,308.0 325.4,313.5 327.9,318.9 330.5,324.4 333.0,330.0" fill="none" stroke="#222222" stroke-width="2.5"/>
+<circle cx="80.0" cy="50.0" r="4" fill="#d9480f"/>
+<circle cx="108.0" cy="50.0" r="4" fill="#d9480f"/>
+<circle cx="136.0" cy="56.9" r="4" fill="#d9480f"/>
+<circle cx="164.0" cy="70.6" r="4" fill="#d9480f"/>
+<circle cx="192.0" cy="91.2" r="4" fill="#d9480f"/>
+<circle cx="220.0" cy="118.6" r="4" fill="#d9480f"/>
+<circle cx="248.0" cy="152.9" r="4" fill="#d9480f"/>
+<circle cx="276.0" cy="194.1" r="4" fill="#d9480f"/>
+<circle cx="304.0" cy="242.1" r="4" fill="#d9480f"/>
+<circle cx="332.0" cy="297.0" r="4" fill="#d9480f"/>
+<circle cx="333.0" cy="330.0" r="5" fill="none" stroke="#222222" stroke-width="2"/>
+<text x="303.0" y="322.0" text-anchor="end" font-size="12" fill="#222222">hits at 4.52 s</text>
+<text x="91.2" y="246.0" font-size="12" fill="#222222">h(t) = 100 − 4.9t²</text>
+<text x="91.2" y="279.6" font-size="12" fill="#d9480f">dots: Euler, dt = 0.5 s</text>
+<text x="220.0" y="28" text-anchor="middle" fill="#222222">height: area under v</text>
+<line x1="470" y1="330.0" x2="750" y2="330.0" stroke="#e6e6e6"/>
+<text x="462" y="335.0" text-anchor="end" font-size="12" fill="#222222">-50</text>
+<line x1="470" y1="274.0" x2="750" y2="274.0" stroke="#e6e6e6"/>
+<text x="462" y="279.0" text-anchor="end" font-size="12" fill="#222222">-40</text>
+<line x1="470" y1="218.0" x2="750" y2="218.0" stroke="#e6e6e6"/>
+<text x="462" y="223.0" text-anchor="end" font-size="12" fill="#222222">-30</text>
+<line x1="470" y1="162.0" x2="750" y2="162.0" stroke="#e6e6e6"/>
+<text x="462" y="167.0" text-anchor="end" font-size="12" fill="#222222">-20</text>
+<line x1="470" y1="106.0" x2="750" y2="106.0" stroke="#e6e6e6"/>
+<text x="462" y="111.0" text-anchor="end" font-size="12" fill="#222222">-10</text>
+<line x1="470" y1="50.0" x2="750" y2="50.0" stroke="#e6e6e6"/>
+<text x="462" y="55.0" text-anchor="end" font-size="12" fill="#222222">0</text>
+<line x1="470.0" y1="330" x2="470.0" y2="335" stroke="#222222"/>
+<text x="470.0" y="350" text-anchor="middle" font-size="12" fill="#222222">0</text>
+<line x1="526.0" y1="330" x2="526.0" y2="335" stroke="#222222"/>
+<text x="526.0" y="350" text-anchor="middle" font-size="12" fill="#222222">1</text>
+<line x1="582.0" y1="330" x2="582.0" y2="335" stroke="#222222"/>
+<text x="582.0" y="350" text-anchor="middle" font-size="12" fill="#222222">2</text>
+<line x1="638.0" y1="330" x2="638.0" y2="335" stroke="#222222"/>
+<text x="638.0" y="350" text-anchor="middle" font-size="12" fill="#222222">3</text>
+<line x1="694.0" y1="330" x2="694.0" y2="335" stroke="#222222"/>
+<text x="694.0" y="350" text-anchor="middle" font-size="12" fill="#222222">4</text>
+<line x1="750.0" y1="330" x2="750.0" y2="335" stroke="#222222"/>
+<text x="750.0" y="350" text-anchor="middle" font-size="12" fill="#222222">5</text>
+<line x1="470" y1="330" x2="750" y2="330" stroke="#222222" stroke-width="1.5"/>
+<line x1="470" y1="50" x2="470" y2="330" stroke="#222222" stroke-width="1.5"/>
+<text x="610.0" y="370" text-anchor="middle" fill="#222222">time t (s)</text>
+<text x="420" y="190.0" text-anchor="middle" fill="#222222" transform="rotate(-90 420 190.0)">velocity v (m/s)</text>
+<polyline points="470.0,50.0 723.0,297.9" fill="none" stroke="#222222" stroke-width="2.5"/>
+<polygon points="470.0,50.0 582.0,50.0 582.0,159.8" fill="#fde4d6" stroke="#d9480f"/>
+<text x="548.4" y="66.8" text-anchor="middle" font-size="12" fill="#d9480f">area = −19.6 m</text>
+<text x="587.6" y="163.8" font-size="12" fill="#d9480f">drop by t = 2</text>
+<circle cx="723.0" cy="297.9" r="4" fill="#222222"/>
+<text x="715.0" y="301.9" text-anchor="end" font-size="12" fill="#222222">−44.27 m/s</text>
+<text x="481.2" y="274.0" font-size="12" fill="#222222">v(t) = −9.8t</text>
+<text x="481.2" y="307.6" font-size="12" fill="#222222">slope = a = −9.8 m/s²</text>
+<text x="610.0" y="28" text-anchor="middle" fill="#222222">velocity: slope of h</text>
+</svg>

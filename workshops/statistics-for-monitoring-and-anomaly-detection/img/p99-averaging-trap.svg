@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 385" width="700" height="385" font-family="sans-serif" font-size="14">
+<title>Two-host p99 averaging trap</title>
+<rect x="0" y="0" width="700" height="385" fill="#fff"/>
+<text x="20.0" y="28.0" text-anchor="start" fill="#222" font-size="14" font-weight="bold">Averaging p99 across hosts gives a number nobody measured</text>
+<line x1="210.0" y1="52.0" x2="210.0" y2="310.0" stroke="#ddd" stroke-width="1"/>
+<text x="210.0" y="328.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">0</text>
+<line x1="270.0" y1="52.0" x2="270.0" y2="310.0" stroke="#ddd" stroke-width="1"/>
+<text x="270.0" y="328.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">100</text>
+<line x1="330.0" y1="52.0" x2="330.0" y2="310.0" stroke="#ddd" stroke-width="1"/>
+<text x="330.0" y="328.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">200</text>
+<line x1="390.0" y1="52.0" x2="390.0" y2="310.0" stroke="#ddd" stroke-width="1"/>
+<text x="390.0" y="328.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">300</text>
+<line x1="450.0" y1="52.0" x2="450.0" y2="310.0" stroke="#ddd" stroke-width="1"/>
+<text x="450.0" y="328.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">400</text>
+<line x1="510.0" y1="52.0" x2="510.0" y2="310.0" stroke="#ddd" stroke-width="1"/>
+<text x="510.0" y="328.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">500</text>
+<line x1="570.0" y1="52.0" x2="570.0" y2="310.0" stroke="#ddd" stroke-width="1"/>
+<text x="570.0" y="328.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">600</text>
+<line x1="630.0" y1="52.0" x2="630.0" y2="310.0" stroke="#ddd" stroke-width="1"/>
+<text x="630.0" y="328.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">700</text>
+<text x="420.0" y="350.0" text-anchor="middle" fill="#222" font-size="14" font-weight="normal">milliseconds</text>
+<rect x="210.0" y="60.0" width="59.9" height="28.0" rx="0" fill="#555" stroke="none" stroke-width="0"/>
+<text x="200.0" y="79.0" text-anchor="end" fill="#222" font-size="14" font-weight="normal">host A p99 (9,000 req)</text>
+<text x="277.9" y="79.0" text-anchor="start" fill="#222" font-size="14" font-weight="bold">99.8</text>
+<rect x="210.0" y="112.0" width="353.3" height="28.0" rx="0" fill="#555" stroke="none" stroke-width="0"/>
+<text x="200.0" y="131.0" text-anchor="end" fill="#222" font-size="14" font-weight="normal">host B p99 (1,000 req)</text>
+<text x="571.3" y="131.0" text-anchor="start" fill="#222" font-size="14" font-weight="bold">588.8</text>
+<rect x="210.0" y="164.0" width="206.6" height="28.0" rx="0" fill="#999" stroke="none" stroke-width="0"/>
+<text x="200.0" y="183.0" text-anchor="end" fill="#222" font-size="14" font-weight="normal">average of the two p99s</text>
+<text x="424.6" y="183.0" text-anchor="start" fill="#222" font-size="14" font-weight="bold">344.3</text>
+<rect x="210.0" y="216.0" width="89.2" height="28.0" rx="0" fill="#999" stroke="none" stroke-width="0"/>
+<text x="200.0" y="235.0" text-anchor="end" fill="#222" font-size="14" font-weight="normal">traffic-weighted average</text>
+<text x="307.2" y="235.0" text-anchor="start" fill="#222" font-size="14" font-weight="bold">148.7</text>
+<rect x="210.0" y="268.0" width="194.5" height="28.0" rx="0" fill="#d9480f" stroke="none" stroke-width="0"/>
+<text x="200.0" y="287.0" text-anchor="end" fill="#d9480f" font-size="14" font-weight="bold">true p99 of all requests</text>
+<text x="412.5" y="287.0" text-anchor="start" fill="#d9480f" font-size="14" font-weight="bold">324.1</text>
+<line x1="404.5" y1="52.0" x2="404.5" y2="310.0" stroke="#d9480f" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="20.0" y="375.0" text-anchor="start" fill="#444" font-size="14" font-weight="normal">Merge the bucket counts, then compute the quantile. Never average quantiles.</text>
+</svg>

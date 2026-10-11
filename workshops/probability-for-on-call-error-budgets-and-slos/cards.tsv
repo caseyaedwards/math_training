@@ -1,0 +1,13 @@
+What is an error budget?	The allowed failure: \(1 - \text{SLO}\). For 99.9% it is 0.001 of the time or of the requests.	math::workshop::slo
+How much downtime does 99.9% allow in a 30-day window?	43.2 minutes: \(43{,}200 \times 0.001\).	math::workshop::slo
+How much downtime does 99.99% allow per 365-day year?	52.56 minutes. Each extra nine divides downtime by 10.	math::workshop::slo
+Define burn rate.	\(\text{observed error rate} / (1 - \text{SLO})\). 1x spends the budget exactly over the window.	math::workshop::slo
+What fraction of a 30-day budget does a 14.4x burn consume in 1 hour?	2%: \(14.4 \times 1 / 720 = 0.02\).	math::workshop::slo
+What are the three SRE Workbook burn-rate alerts?	Page 14.4x over 1 h (5 m short), page 6x over 6 h (30 m short), ticket 1x over 3 days (6 h short).	math::workshop::slo
+Why add a short window to a burn-rate alert?	It proves the burn is still happening, therefore the alert clears soon after the fix.	math::workshop::slo
+Time to exhaustion at burn rate r with fraction f left (30-day window)?	\(f \times 720 / r\) hours.	math::workshop::slo
+Availability of independent parts in series?	The product: \(A_1 A_2 \cdots A_n\). Worse than the weakest part.	math::workshop::probability
+Availability of N independent replicas, each A, any one enough?	\(1 - (1 - A)^N\).	math::workshop::probability
+Two 99% replicas share a zone that is up 99%. Can the pair beat 99%?	No. The zone is in series with the pair, therefore the pair is capped at 0.99.	math::workshop::probability
+Chance of at least one page in 168 hours at chance p per hour?	\(1 - (1 - p)^{168}\). For p = 0.01 it is about 0.815.	math::workshop::probability
+Why is 168 x 0.01 wrong for at least one page per week?	It gives 1.68, which is an expected count, not a probability. Use the complement rule.	math::workshop::probability

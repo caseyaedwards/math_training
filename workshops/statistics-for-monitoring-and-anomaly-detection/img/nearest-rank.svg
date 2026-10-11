@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360" width="700" height="360" font-family="sans-serif" font-size="14">
+<title>Nearest-rank percentile on ten sorted latencies</title>
+<rect x="0" y="0" width="700" height="360" fill="#fff"/>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker></defs>
+<text x="20.0" y="28.0" text-anchor="start" fill="#222" font-size="14" font-weight="bold">Nearest rank: sort, then take the value at rank ceil(p/100 × n)</text>
+<rect x="60.0" y="199.3" width="50.0" height="80.7" rx="0" fill="#bbb" stroke="#555" stroke-width="1"/>
+<text x="85.0" y="191.3" text-anchor="middle" fill="#222" font-size="14" font-weight="normal">11</text>
+<text x="85.0" y="300.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">#1</text>
+<rect x="120.0" y="192.0" width="50.0" height="88.0" rx="0" fill="#bbb" stroke="#555" stroke-width="1"/>
+<text x="145.0" y="184.0" text-anchor="middle" fill="#222" font-size="14" font-weight="normal">12</text>
+<text x="145.0" y="300.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">#2</text>
+<rect x="180.0" y="184.7" width="50.0" height="95.3" rx="0" fill="#bbb" stroke="#555" stroke-width="1"/>
+<text x="205.0" y="176.7" text-anchor="middle" fill="#222" font-size="14" font-weight="normal">13</text>
+<text x="205.0" y="300.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">#3</text>
+<rect x="240.0" y="177.3" width="50.0" height="102.7" rx="0" fill="#bbb" stroke="#555" stroke-width="1"/>
+<text x="265.0" y="169.3" text-anchor="middle" fill="#222" font-size="14" font-weight="normal">14</text>
+<text x="265.0" y="300.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">#4</text>
+<rect x="300.0" y="170.0" width="50.0" height="110.0" rx="0" fill="#d9480f" stroke="#555" stroke-width="1"/>
+<text x="325.0" y="162.0" text-anchor="middle" fill="#222" font-size="14" font-weight="bold">15</text>
+<text x="325.0" y="300.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">#5</text>
+<rect x="360.0" y="162.7" width="50.0" height="117.3" rx="0" fill="#bbb" stroke="#555" stroke-width="1"/>
+<text x="385.0" y="154.7" text-anchor="middle" fill="#222" font-size="14" font-weight="normal">16</text>
+<text x="385.0" y="300.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">#6</text>
+<rect x="420.0" y="155.3" width="50.0" height="124.7" rx="0" fill="#bbb" stroke="#555" stroke-width="1"/>
+<text x="445.0" y="147.3" text-anchor="middle" fill="#222" font-size="14" font-weight="normal">17</text>
+<text x="445.0" y="300.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">#7</text>
+<rect x="480.0" y="148.0" width="50.0" height="132.0" rx="0" fill="#bbb" stroke="#555" stroke-width="1"/>
+<text x="505.0" y="140.0" text-anchor="middle" fill="#222" font-size="14" font-weight="normal">18</text>
+<text x="505.0" y="300.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">#8</text>
+<rect x="540.0" y="140.7" width="50.0" height="139.3" rx="0" fill="#d9480f" stroke="#555" stroke-width="1"/>
+<text x="565.0" y="132.7" text-anchor="middle" fill="#222" font-size="14" font-weight="bold">19</text>
+<text x="565.0" y="300.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">#9</text>
+<rect x="600.0" y="60.0" width="50.0" height="220.0" rx="0" fill="#bbb" stroke="#555" stroke-width="1"/>
+<text x="625.0" y="52.0" text-anchor="middle" fill="#222" font-size="14" font-weight="normal">250 ms</text>
+<text x="625.0" y="300.0" text-anchor="middle" fill="#222" font-size="12" font-weight="normal">#10</text>
+<path d="M600,72.0 l50,0" stroke="#fff" stroke-width="4"/>
+<text x="625.0" y="88.0" text-anchor="middle" fill="#fff" font-size="11" font-weight="normal">(cut)</text>
+<line x1="60.0" y1="280.0" x2="660.0" y2="280.0" stroke="#222" stroke-width="2"/>
+<text x="325.0" y="324.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">p50: rank ceil(5) = 5</text>
+<text x="565.0" y="324.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">p90: rank ceil(9) = 9</text>
+<text x="20.0" y="352.0" text-anchor="start" fill="#444" font-size="14" font-weight="normal">Ranks count from 1. The answer is always a value someone actually waited for.</text>
+</svg>

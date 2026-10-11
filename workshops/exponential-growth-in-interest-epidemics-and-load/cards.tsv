@@ -1,0 +1,15 @@
+Compound interest formula with n compoundings per year	\(A = P(1 + r/n)^{nt}\)	math::workshops::exponential-growth::interest
+Continuous compounding formula	\(A = P e^{rt}\)	math::workshops::exponential-growth::interest
+What does \((1 + 1/n)^n\) approach as n grows?	e = 2.71828...	math::workshops::exponential-growth::e
+Exact doubling time at growth rate r per period	\(t = \ln 2 / \ln(1 + r)\)	math::workshops::exponential-growth::doubling
+Rule of 72	Doubling time is about 72 divided by the rate in percent. Most accurate near 8%.	math::workshops::exponential-growth::doubling
+Doubling time for continuous growth at rate r	\(\ln 2 / r\), about 69.3 / (rate in %)	math::workshops::exponential-growth::doubling
+Fraction left after t with half-life h	\(2^{-t/h} = e^{-kt}\) with \(k = \ln 2 / h\)	math::workshops::exponential-growth::decay
+Fraction left halfway through one half-life	\(2^{-1/2} = 0.707\), not 0.75	math::workshops::exponential-growth::decay
+Months until load L0 growing g per month reaches L*	\(t = \ln(L^*/L_0) / \ln(1 + g)\)	math::workshops::exponential-growth::capacity
+10,000 rps growing 8% per month reaches 50,000 rps after how long?	20.91 months: \(\ln 5 / \ln 1.08\)	math::workshops::exponential-growth::capacity
+Why is exponential growth a straight line on a log y-axis?	\(\log L = \log L_0 + t \log(1+g)\): a line with slope \(\log(1+g)\)	math::workshops::exponential-growth::logscale
+SIR: what is R0?	\(R_0 = \beta / \gamma\): people one case infects when everyone is susceptible	math::workshops::exponential-growth::sir
+Herd-immunity threshold	\(1 - 1/R_0\). For R0 = 3 it is 66.7%.	math::workshops::exponential-growth::sir
+Euler step rule	new value = old value + rate x dt	math::workshops::exponential-growth::sir
+Full jitter backoff sleep	uniform(0, min(cap, base x 2^attempt))	math::workshops::exponential-growth::backoff

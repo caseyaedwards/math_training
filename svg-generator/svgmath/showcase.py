@@ -9,11 +9,13 @@ Layout of the output folder:
     <slug>/storyboard.svg      all steps in a grid
     <slug>/animated.svg        looping animation of the steps
     <slug>/final.svg           last step drawing only, used as a thumbnail
+    manifest.json              every diagram with its steps and captions, for other sites to embed
 """
 
 from __future__ import annotations
 
 import html
+import json
 import os
 import shutil
 from typing import List
@@ -156,7 +158,25 @@ def build(out_dir: str, only: List[str] = None, clean: bool = True) -> List[dict
         _write(os.path.join(out_dir, pg["d"].slug, "index.html"), _diagram_page(pg, prev_pg, next_pg))
     _write(os.path.join(out_dir, "index.html"), _index_page(pages_for_index))
     _write(os.path.join(out_dir, "README.md"), _readme(pages_for_index))
+    _write(os.path.join(out_dir, "manifest.json"), json.dumps(_manifest(pages_for_index), indent=1, ensure_ascii=False))
     return pages
+
+
+def _manifest(pages) -> list:
+    """Describes every diagram so another site (for example the course) can embed the SVGs."""
+    out = []
+    for pg in pages:
+        d, wt = pg["d"], pg["wt"]
+        out.append({
+            "slug": d.slug, "title": wt.title, "category": d.category, "level": wt.level,
+            "concept": replace_symbols(wt.concept), "summary": wt.summary, "tags": wt.tags,
+            "animated": f"{d.slug}/animated.svg", "storyboard": f"{d.slug}/storyboard.svg",
+            "final": f"{d.slug}/final.svg",
+            "steps": [{"file": f"{d.slug}/step-{k + 1:02d}.svg", "title": st.title, "text": st.text,
+                       "math": replace_symbols(st.math) if st.math else None}
+                      for k, st in enumerate(wt.steps)],
+        })
+    return out
 
 
 def _grouped(pages):

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" width="720" height="300" font-family="sans-serif" font-size="14" role="img" aria-label="Directed graph: config points to db and cache, both point to api, api points to web; below, a valid start order config, db, cache, api, web">
+<title>Directed graph: config points to db and cache, both point to api, api points to web; below, a valid start order config, db, cache, api, web</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="720" height="300" fill="white"/>
+<text x="360" y="24" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">Dependency DAG: arrow X → Y means X must start before Y</text>
+<line x1="138.35" y1="114.4" x2="229.71" y2="75.6" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="137.68" y1="126.62" x2="230.41" y2="173.38" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="328.35" y1="75.6" x2="419.71" y2="114.4" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="327.68" y1="173.38" x2="420.41" y2="126.62" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="520" y1="120" x2="588" y2="120" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<rect x="42" y="102" width="96" height="36" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="90" y="125" text-anchor="middle" fill="#222222">config</text>
+<rect x="232" y="52" width="96" height="36" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="280" y="75" text-anchor="middle" fill="#222222">db</text>
+<rect x="232" y="162" width="96" height="36" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="280" y="185" text-anchor="middle" fill="#222222">cache</text>
+<rect x="422" y="102" width="96" height="36" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="470" y="125" text-anchor="middle" fill="#222222">api</text>
+<rect x="592" y="102" width="96" height="36" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="640" y="125" text-anchor="middle" fill="#222222">web</text>
+<rect x="42" y="239" width="96" height="32" fill="#f6d5c6" stroke="#d9480f" stroke-width="2" rx="6"/>
+<text x="90" y="260" text-anchor="middle" fill="#222222">1. config</text>
+<line x1="140" y1="255" x2="173" y2="255" stroke="#d9480f" stroke-width="2" marker-end="url(#aha)"/>
+<rect x="177" y="239" width="96" height="32" fill="#f6d5c6" stroke="#d9480f" stroke-width="2" rx="6"/>
+<text x="225" y="260" text-anchor="middle" fill="#222222">2. db</text>
+<line x1="275" y1="255" x2="308" y2="255" stroke="#d9480f" stroke-width="2" marker-end="url(#aha)"/>
+<rect x="312" y="239" width="96" height="32" fill="#f6d5c6" stroke="#d9480f" stroke-width="2" rx="6"/>
+<text x="360" y="260" text-anchor="middle" fill="#222222">3. cache</text>
+<line x1="410" y1="255" x2="443" y2="255" stroke="#d9480f" stroke-width="2" marker-end="url(#aha)"/>
+<rect x="447" y="239" width="96" height="32" fill="#f6d5c6" stroke="#d9480f" stroke-width="2" rx="6"/>
+<text x="495" y="260" text-anchor="middle" fill="#222222">4. api</text>
+<line x1="545" y1="255" x2="578" y2="255" stroke="#d9480f" stroke-width="2" marker-end="url(#aha)"/>
+<rect x="582" y="239" width="96" height="32" fill="#f6d5c6" stroke="#d9480f" stroke-width="2" rx="6"/>
+<text x="630" y="260" text-anchor="middle" fill="#222222">5. web</text>
+<text x="360" y="222" text-anchor="middle" fill="#888888" font-size="12">One valid start order (reverse DFS finish order):</text>
+</svg>

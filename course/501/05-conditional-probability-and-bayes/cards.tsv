@@ -1,0 +1,10 @@
+Definition of \(P(A \mid B)\)	\(P(A \cap B) / P(B)\): the share of B that is also A.	math::501::bayes
+Multiplication rule	\(P(A \cap B) = P(B)\,P(A \mid B)\)	math::501::bayes
+Law of total probability (two cases)	\(P(E) = P(H)P(E \mid H) + P(\lnot H)P(E \mid \lnot H)\)	math::501::bayes
+Bayes' rule	\(P(H \mid E) = P(H)P(E \mid H) / P(E)\)	math::501::bayes
+Odds form of Bayes	posterior odds = prior odds times likelihood ratio	math::501::bayes
+Likelihood ratio	\(P(E \mid H) / P(E \mid \lnot H)\)	math::501::bayes
+Base rate fallacy	Ignoring how rare H is. A good test for a rare event still gives mostly false alarms.	math::501::bayes
+Deploy example: P(bad)=0.1, P(alert|bad)=0.9, P(alert|good)=0.2. P(bad|alert)?	0.09 / 0.27 = 1/3	math::501::bayes
+In an area diagram, widths and heights are?	Widths are priors, heights are conditional rates, areas are joint probabilities.	math::501::bayes
+Is \(P(A \mid B) = P(B \mid A)\)?	Not in general. Swapping them is the prosecutor's fallacy.	math::501::bayes

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" width="720" height="300" font-family="sans-serif" font-size="14" role="img" aria-label="The 8 outcomes of three coin flips arranged in columns for 0, 1, 2, 3 heads, with 1, 3, 3, 1 strings: the binomial coefficients">
+<title>The 8 outcomes of three coin flips arranged in columns for 0, 1, 2, 3 heads, with 1, 3, 3, 1 strings: the binomial coefficients</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="720" height="300" fill="white"/>
+<text x="360" y="22" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">Three flips: 8 equally likely strings, grouped by number of heads</text>
+<text x="100" y="55" text-anchor="middle" fill="#222222" font-weight="bold">0 heads</text>
+<rect x="60" y="70" width="80" height="30" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="100" y="90" text-anchor="middle" fill="#222222">TTT</text>
+<text x="100" y="225" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">C(3, 0) = 1</text>
+<text x="100" y="247" text-anchor="middle" fill="#888888" font-size="13">P = 1/8</text>
+<text x="270" y="55" text-anchor="middle" fill="#222222" font-weight="bold">1 head</text>
+<rect x="230" y="70" width="80" height="30" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="270" y="90" text-anchor="middle" fill="#222222">HTT</text>
+<rect x="230" y="110" width="80" height="30" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="270" y="130" text-anchor="middle" fill="#222222">THT</text>
+<rect x="230" y="150" width="80" height="30" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="270" y="170" text-anchor="middle" fill="#222222">TTH</text>
+<text x="270" y="225" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">C(3, 1) = 3</text>
+<text x="270" y="247" text-anchor="middle" fill="#888888" font-size="13">P = 3/8</text>
+<text x="440" y="55" text-anchor="middle" fill="#222222" font-weight="bold">2 heads</text>
+<rect x="400" y="70" width="80" height="30" fill="#f6d5c6" stroke="#d9480f" stroke-width="2" rx="6"/>
+<text x="440" y="90" text-anchor="middle" fill="#222222">HHT</text>
+<rect x="400" y="110" width="80" height="30" fill="#f6d5c6" stroke="#d9480f" stroke-width="2" rx="6"/>
+<text x="440" y="130" text-anchor="middle" fill="#222222">HTH</text>
+<rect x="400" y="150" width="80" height="30" fill="#f6d5c6" stroke="#d9480f" stroke-width="2" rx="6"/>
+<text x="440" y="170" text-anchor="middle" fill="#222222">THH</text>
+<text x="440" y="225" text-anchor="middle" fill="#d9480f" font-weight="bold" font-size="13">C(3, 2) = 3</text>
+<text x="440" y="247" text-anchor="middle" fill="#888888" font-size="13">P = 3/8</text>
+<text x="610" y="55" text-anchor="middle" fill="#222222" font-weight="bold">3 heads</text>
+<rect x="570" y="70" width="80" height="30" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="610" y="90" text-anchor="middle" fill="#222222">HHH</text>
+<text x="610" y="225" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">C(3, 3) = 1</text>
+<text x="610" y="247" text-anchor="middle" fill="#888888" font-size="13">P = 1/8</text>
+<text x="360" y="285" text-anchor="middle" fill="#888888" font-size="12">With a biased coin each string with k heads has probability p^k (1 − p)^(3 − k).</text>
+</svg>

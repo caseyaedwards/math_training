@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 270" width="780" height="270" font-family="sans-serif" font-size="14" role="img" aria-label="Two copies of the six-vertex graph: the left highlights the path A, B, D, F; the right highlights the cycle B, C, D back to B">
+<title>Two copies of the six-vertex graph: the left highlights the path A, B, D, F; the right highlights the cycle B, C, D back to B</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="780" height="270" fill="white"/>
+<text x="215" y="30" text-anchor="middle" fill="#222222" font-weight="bold">path A, B, D, F</text>
+<line x1="67.2" y1="138.6" x2="160" y2="86.4" stroke="#d9480f" stroke-width="4"/>
+<line x1="67.2" y1="138.6" x2="160" y2="190.8" stroke="#888888" stroke-width="1.5"/>
+<line x1="160" y1="86.4" x2="160" y2="190.8" stroke="#888888" stroke-width="1.5"/>
+<line x1="160" y1="86.4" x2="264.4" y2="86.4" stroke="#d9480f" stroke-width="4"/>
+<line x1="160" y1="190.8" x2="264.4" y2="86.4" stroke="#888888" stroke-width="1.5"/>
+<line x1="160" y1="190.8" x2="264.4" y2="190.8" stroke="#888888" stroke-width="1.5"/>
+<line x1="264.4" y1="86.4" x2="357.2" y2="138.6" stroke="#d9480f" stroke-width="4"/>
+<line x1="264.4" y1="190.8" x2="357.2" y2="138.6" stroke="#888888" stroke-width="1.5"/>
+<circle cx="67.2" cy="138.6" r="15" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="67.2" y="143.6" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">A</text>
+<circle cx="160" cy="86.4" r="15" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="160" y="91.4" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">B</text>
+<circle cx="160" cy="190.8" r="15" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="160" y="195.8" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">C</text>
+<circle cx="264.4" cy="86.4" r="15" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="264.4" y="91.4" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">D</text>
+<circle cx="264.4" cy="190.8" r="15" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="264.4" y="195.8" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">E</text>
+<circle cx="357.2" cy="138.6" r="15" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="357.2" y="143.6" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">F</text>
+<text x="610" y="30" text-anchor="middle" fill="#222222" font-weight="bold">cycle B, C, D, B</text>
+<line x1="462.2" y1="138.6" x2="555" y2="86.4" stroke="#888888" stroke-width="1.5"/>
+<line x1="462.2" y1="138.6" x2="555" y2="190.8" stroke="#888888" stroke-width="1.5"/>
+<line x1="555" y1="86.4" x2="555" y2="190.8" stroke="#d9480f" stroke-width="4"/>
+<line x1="555" y1="86.4" x2="659.4" y2="86.4" stroke="#d9480f" stroke-width="4"/>
+<line x1="555" y1="190.8" x2="659.4" y2="86.4" stroke="#d9480f" stroke-width="4"/>
+<line x1="555" y1="190.8" x2="659.4" y2="190.8" stroke="#888888" stroke-width="1.5"/>
+<line x1="659.4" y1="86.4" x2="752.2" y2="138.6" stroke="#888888" stroke-width="1.5"/>
+<line x1="659.4" y1="190.8" x2="752.2" y2="138.6" stroke="#888888" stroke-width="1.5"/>
+<circle cx="462.2" cy="138.6" r="15" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="462.2" y="143.6" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">A</text>
+<circle cx="555" cy="86.4" r="15" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="555" y="91.4" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">B</text>
+<circle cx="555" cy="190.8" r="15" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="555" y="195.8" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">C</text>
+<circle cx="659.4" cy="86.4" r="15" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="659.4" y="91.4" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">D</text>
+<circle cx="659.4" cy="190.8" r="15" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="659.4" y="195.8" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">E</text>
+<circle cx="752.2" cy="138.6" r="15" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="752.2" y="143.6" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">F</text>
+<text x="160" y="226.8" text-anchor="middle" fill="#888888" font-size="12">C has degree 4</text>
+<text x="390" y="255" text-anchor="middle" fill="#888888" font-size="12">vertex = dot, edge = line, degree = number of edges at a vertex</text>
+</svg>

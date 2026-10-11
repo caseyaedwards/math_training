@@ -1,0 +1,11 @@
+Product rule	Steps with a and b choices give \(a \times b\) outcomes.	math::501::counting
+Arrangements of n distinct items in a row?	\(n!\)	math::501::counting
+\(0!\) equals?	1	math::501::counting
+Formula for \(P(n,k)\)	\(\frac{n!}{(n-k)!}\): ordered choices of k from n.	math::501::counting
+Formula for \(\binom{n}{k}\)	\(\frac{n!}{k!(n-k)!}\): unordered choices of k from n.	math::501::counting
+Why does \(\binom{n}{k}\) divide \(P(n,k)\) by \(k!\)?	Each group of k was counted once per ordering, and there are k! orderings.	math::501::counting
+Swap test	If swapping two chosen items gives a different outcome, order matters: use permutations.	math::501::counting
+Pigeonhole principle	More than k items in k boxes put at least 2 in some box.	math::501::counting
+General pigeonhole bound	n items in k boxes put at least \(\lceil n/k \rceil\) in some box.	math::501::counting
+Grid paths from (0,0) to (a,b) with right and up steps?	\(\binom{a+b}{b}\)	math::501::counting
+\(\binom{10}{3}\) and \(P(10,3)\)?	120 and 720	math::501::counting

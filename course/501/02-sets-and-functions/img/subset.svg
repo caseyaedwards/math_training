@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 290" width="460" height="290" font-family="sans-serif" font-size="14" role="img" aria-label="Circle A drawn inside circle B inside the universe U, with the element 3 inside A">
+<title>Circle A drawn inside circle B inside the universe U, with the element 3 inside A</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="460" height="290" fill="white"/>
+<rect x="20" y="40" width="420" height="230" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="38" y="62" text-anchor="start" fill="#222222" font-weight="bold">U</text>
+<circle cx="230" cy="160" r="105" fill="none" stroke="#222222" stroke-width="2"/>
+<circle cx="200" cy="175" r="50" fill="#d9480f" stroke="#222222" stroke-width="2" fill-opacity="0.35"/>
+<text x="325" y="72" text-anchor="middle" fill="#222222" font-weight="bold" font-size="16">B</text>
+<text x="200" y="150" text-anchor="middle" fill="#222222" font-weight="bold" font-size="16">A</text>
+<circle cx="205" cy="190" r="5" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="214" y="195" text-anchor="start" fill="#222222" font-size="13">3</text>
+<text x="230" y="26" text-anchor="middle" fill="#222222" font-weight="bold">A ⊆ B: every element of A is also in B</text>
+<text x="230" y="282" text-anchor="middle" fill="#888888" font-size="12">3 ∈ A (an element), {3} ⊆ A (a set holding it)</text>
+</svg>

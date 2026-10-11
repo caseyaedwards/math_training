@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" width="720" height="300" font-family="sans-serif" font-size="14" role="img" aria-label="Left: lines x + y = 3 and x - y = 1 cross at (2,1). Right: after subtracting row 1 from row 2 the second line becomes horizontal y = 1, still crossing at (2,1)">
+<title>Left: lines x + y = 3 and x - y = 1 cross at (2,1). Right: after subtracting row 1 from row 2 the second line becomes horizontal y = 1, still crossing at (2,1)</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="720" height="300" fill="white"/>
+<text x="360" y="22" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">A row operation changes the lines but not the crossing point</text>
+<line x1="40" y1="222" x2="40" y2="50" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="98" y1="222" x2="98" y2="50" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="156" y1="222" x2="156" y2="50" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="214" y1="222" x2="214" y2="50" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="272" y1="222" x2="272" y2="50" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="330" y1="222" x2="330" y2="50" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="40" y1="193.04" x2="330" y2="193.04" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="40" y1="135.13" x2="330" y2="135.13" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="40" y1="77.22" x2="330" y2="77.22" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="40" y1="193.04" x2="330" y2="193.04" stroke="#222222" stroke-width="1.5"/>
+<line x1="98" y1="222" x2="98" y2="50" stroke="#222222" stroke-width="1.5"/>
+<clipPath id="el0"><rect x="40" y="50" width="290" height="172"/></clipPath>
+<line x1="40" y1="-38.61" x2="330" y2="250.96" stroke="#222222" stroke-width="2.5" clip-path="url(#el0)"/>
+<line x1="40" y1="308.87" x2="330" y2="19.31" stroke="#d9480f" stroke-width="2.5" clip-path="url(#el0)"/>
+<circle cx="214" cy="135.13" r="6" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<text x="224" y="125.13" text-anchor="start" fill="#222222" font-weight="bold">(2, 1)</text>
+<text x="185" y="46" text-anchor="middle" fill="#888888" font-weight="bold" font-size="13">before</text>
+<text x="185" y="250" text-anchor="middle" fill="#222222" font-size="13">R1: x + y = 3</text>
+<text x="185" y="270" text-anchor="middle" fill="#d9480f" font-size="13">R2: x − y = 1</text>
+<line x1="390" y1="222" x2="390" y2="50" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="448" y1="222" x2="448" y2="50" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="506" y1="222" x2="506" y2="50" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="564" y1="222" x2="564" y2="50" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="622" y1="222" x2="622" y2="50" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="680" y1="222" x2="680" y2="50" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="390" y1="193.04" x2="680" y2="193.04" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="390" y1="135.13" x2="680" y2="135.13" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="390" y1="77.22" x2="680" y2="77.22" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="390" y1="193.04" x2="680" y2="193.04" stroke="#222222" stroke-width="1.5"/>
+<line x1="448" y1="222" x2="448" y2="50" stroke="#222222" stroke-width="1.5"/>
+<clipPath id="el1"><rect x="390" y="50" width="290" height="172"/></clipPath>
+<line x1="390" y1="-38.61" x2="680" y2="250.96" stroke="#222222" stroke-width="2.5" clip-path="url(#el1)"/>
+<line x1="390" y1="135.13" x2="680" y2="135.13" stroke="#d9480f" stroke-width="2.5" clip-path="url(#el1)"/>
+<circle cx="564" cy="135.13" r="6" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<text x="574" y="125.13" text-anchor="start" fill="#222222" font-weight="bold">(2, 1)</text>
+<text x="535" y="46" text-anchor="middle" fill="#888888" font-weight="bold" font-size="13">after R2 ← R2 − R1</text>
+<text x="535" y="250" text-anchor="middle" fill="#222222" font-size="13">R1: x + y = 3</text>
+<text x="535" y="270" text-anchor="middle" fill="#d9480f" font-size="13">R2: −2y = −2, so y = 1</text>
+</svg>

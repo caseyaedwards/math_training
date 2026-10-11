@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 315" width="520" height="315" font-family="sans-serif" font-size="14" role="img" aria-label="3 by 2 grid with two example paths from bottom-left to top-right, RRRUU and URRUR; there are C(5,2) = 10 such paths">
+<title>3 by 2 grid with two example paths from bottom-left to top-right, RRRUU and URRUR; there are C(5,2) = 10 such paths</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="520" height="315" fill="white"/>
+<text x="260" y="24" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">Paths from (0,0) to (3,2) using Right and Up steps</text>
+<line x1="60" y1="260" x2="60" y2="60" stroke="#e2e2e2" stroke-width="2"/>
+<line x1="160" y1="260" x2="160" y2="60" stroke="#e2e2e2" stroke-width="2"/>
+<line x1="260" y1="260" x2="260" y2="60" stroke="#e2e2e2" stroke-width="2"/>
+<line x1="360" y1="260" x2="360" y2="60" stroke="#e2e2e2" stroke-width="2"/>
+<line x1="60" y1="260" x2="360" y2="260" stroke="#e2e2e2" stroke-width="2"/>
+<line x1="60" y1="160" x2="360" y2="160" stroke="#e2e2e2" stroke-width="2"/>
+<line x1="60" y1="60" x2="360" y2="60" stroke="#e2e2e2" stroke-width="2"/>
+<polyline points="60,260 160,260 260,260 360,260 360,160 360,60" fill="none" stroke="#d9480f" stroke-width="4"/>
+<polyline points="60,260 60,160 160,160 260,160 260,60 360,60" fill="none" stroke="#222222" stroke-width="3" stroke-dasharray="7 4"/>
+<circle cx="60" cy="260" r="6" fill="#222222" stroke="#222222" stroke-width="1"/>
+<circle cx="360" cy="60" r="6" fill="#d9480f" stroke="#d9480f" stroke-width="1"/>
+<text x="60" y="282" text-anchor="middle" fill="#888888" font-size="12">start</text>
+<text x="360" y="48" text-anchor="middle" fill="#888888" font-size="12">end</text>
+<text x="380" y="140" text-anchor="start" fill="#d9480f" font-weight="bold">RRRUU</text>
+<text x="380" y="165" text-anchor="start" fill="#222222" font-weight="bold">URRUR</text>
+<text x="260" y="305" text-anchor="middle" fill="#888888" font-size="12">Every path is 5 steps with 2 Ups. Choose where the Ups go: C(5, 2) = 10.</text>
+</svg>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 660" width="780" height="660" font-family="sans-serif" font-size="14" role="img" aria-label="Prerequisite map: three columns (discrete, probability, linear algebra) of lessons 01 to 13 feeding into course 601">
+<title>Prerequisite map: three columns (discrete, probability, linear algebra) of lessons 01 to 13 feeding into course 601</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="780" height="660" fill="white"/>
+<text x="390" y="26" text-anchor="middle" fill="#222222" font-weight="bold" font-size="16">Course 501: Prerequisite Map</text>
+<rect x="30" y="59" width="220" height="34" fill="#f2f2f2" stroke="#888888" stroke-width="2" rx="6"/>
+<text x="140" y="81" text-anchor="middle" fill="#222222">201: functions, sets of numbers</text>
+<rect x="280" y="59" width="220" height="34" fill="#f2f2f2" stroke="#888888" stroke-width="2" rx="6"/>
+<text x="390" y="81" text-anchor="middle" fill="#222222">301: exponentials, series</text>
+<rect x="530" y="59" width="220" height="34" fill="#f2f2f2" stroke="#888888" stroke-width="2" rx="6"/>
+<text x="640" y="81" text-anchor="middle" fill="#222222">201: coordinate plane</text>
+<text x="140" y="50" text-anchor="middle" fill="#888888" font-weight="bold" font-size="12">Discrete</text>
+<text x="390" y="50" text-anchor="middle" fill="#888888" font-weight="bold" font-size="12">Probability</text>
+<text x="640" y="50" text-anchor="middle" fill="#888888" font-weight="bold" font-size="12">Linear Algebra</text>
+<line x1="140" y1="150" x2="140" y2="189" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="140" y1="230" x2="140" y2="269" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="140" y1="310" x2="140" y2="349" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="250" y1="290" x2="279" y2="290" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="390" y1="310" x2="390" y2="349" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="390" y1="390" x2="390" y2="429" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="390" y1="470" x2="390" y2="509" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="640" y1="150" x2="640" y2="189" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="640" y1="230" x2="640" y2="269" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="640" y1="310" x2="640" y2="349" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="640" y1="390" x2="640" y2="429" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="140" y1="93" x2="140" y2="109" stroke="#888888" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#ahg)"/>
+<line x1="640" y1="93" x2="640" y2="109" stroke="#888888" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#ahg)"/>
+<line x1="390" y1="93" x2="390" y2="269" stroke="#888888" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#ahg)"/>
+<rect x="30" y="110" width="220" height="40" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="140" y="135" text-anchor="middle" fill="#222222">01 Logic</text>
+<rect x="30" y="190" width="220" height="40" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="140" y="215" text-anchor="middle" fill="#222222">02 Sets and Functions</text>
+<rect x="30" y="270" width="220" height="40" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="140" y="295" text-anchor="middle" fill="#222222">03 Counting</text>
+<rect x="30" y="350" width="220" height="40" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="140" y="375" text-anchor="middle" fill="#222222">08 Graph Theory</text>
+<rect x="280" y="270" width="220" height="40" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="390" y="295" text-anchor="middle" fill="#222222">04 Probability Basics</text>
+<rect x="280" y="350" width="220" height="40" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="390" y="375" text-anchor="middle" fill="#222222">05 Conditional and Bayes</text>
+<rect x="280" y="430" width="220" height="40" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="390" y="455" text-anchor="middle" fill="#222222">06 Expectation, Variance</text>
+<rect x="280" y="510" width="220" height="40" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="390" y="535" text-anchor="middle" fill="#222222">07 Distributions</text>
+<rect x="530" y="110" width="220" height="40" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="640" y="135" text-anchor="middle" fill="#222222">09 Vectors, Dot Product</text>
+<rect x="530" y="190" width="220" height="40" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="640" y="215" text-anchor="middle" fill="#222222">10 Matrices as Maps</text>
+<rect x="530" y="270" width="220" height="40" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="640" y="295" text-anchor="middle" fill="#222222">11 Gaussian Elimination</text>
+<rect x="530" y="350" width="220" height="40" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="640" y="375" text-anchor="middle" fill="#222222">12 Determinants</text>
+<rect x="530" y="430" width="220" height="40" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="640" y="455" text-anchor="middle" fill="#222222">13 Eigenvectors</text>
+<rect x="30" y="600" width="720" height="40" fill="#f6d5c6" stroke="#d9480f" stroke-width="2" rx="6"/>
+<text x="390" y="625" text-anchor="middle" fill="#d9480f" font-weight="bold">601 Proof and Higher Math</text>
+<line x1="140" y1="390" x2="140" y2="599" stroke="#d9480f" stroke-width="1.8" marker-end="url(#aha)"/>
+<line x1="390" y1="550" x2="390" y2="599" stroke="#d9480f" stroke-width="1.8" marker-end="url(#aha)"/>
+<line x1="640" y1="470" x2="640" y2="599" stroke="#d9480f" stroke-width="1.8" marker-end="url(#aha)"/>
+</svg>

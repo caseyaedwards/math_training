@@ -1,0 +1,11 @@
+When is \(P \land Q\) true?	Only when both P and Q are true.	math::501::logic
+When is \(P \lor Q\) true?	When at least one of P, Q is true (including both).	math::501::logic
+When is \(P \to Q\) false?	Only when P is true and Q is false: the promise is made and broken.	math::501::logic
+Rewrite \(P \to Q\) with NOT and OR.	\(\lnot P \lor Q\)	math::501::logic
+De Morgan: \(\lnot(P \land Q)\) equals?	\(\lnot P \lor \lnot Q\)	math::501::logic
+De Morgan: \(\lnot(P \lor Q)\) equals?	\(\lnot P \land \lnot Q\)	math::501::logic
+Contrapositive of \(P \to Q\)?	\(\lnot Q \to \lnot P\). It is equivalent to the original.	math::501::logic
+Converse of \(P \to Q\)? Is it equivalent?	\(Q \to P\). Not equivalent.	math::501::logic
+How many rows does a truth table with n letters have?	\(2^n\)	math::501::logic
+Negate: every host is healthy.	Some host is not healthy.	math::501::logic
+What is a tautology?	A formula that is true in every row, for example \(P \lor \lnot P\).	math::501::logic

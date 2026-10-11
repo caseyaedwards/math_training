@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 260" width="640" height="260" font-family="sans-serif" font-size="14" role="img" aria-label="Six ordered strings ABC, ACB, BAC, BCA, CAB, CBA with arrows all pointing to the single set {A, B, C}">
+<title>Six ordered strings ABC, ACB, BAC, BCA, CAB, CBA with arrows all pointing to the single set {A, B, C}</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="640" height="260" fill="white"/>
+<text x="320" y="22" text-anchor="middle" fill="#222222" font-weight="bold">6 orderings, 1 group</text>
+<rect x="65" y="37" width="90" height="26" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="110" y="55" text-anchor="middle" fill="#222222">ABC</text>
+<line x1="158" y1="50" x2="430" y2="135" stroke="#888888" stroke-width="1.3" marker-end="url(#ahg)"/>
+<rect x="65" y="71" width="90" height="26" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="110" y="89" text-anchor="middle" fill="#222222">ACB</text>
+<line x1="158" y1="84" x2="430" y2="135" stroke="#888888" stroke-width="1.3" marker-end="url(#ahg)"/>
+<rect x="65" y="105" width="90" height="26" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="110" y="123" text-anchor="middle" fill="#222222">BAC</text>
+<line x1="158" y1="118" x2="430" y2="135" stroke="#888888" stroke-width="1.3" marker-end="url(#ahg)"/>
+<rect x="65" y="139" width="90" height="26" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="110" y="157" text-anchor="middle" fill="#222222">BCA</text>
+<line x1="158" y1="152" x2="430" y2="135" stroke="#888888" stroke-width="1.3" marker-end="url(#ahg)"/>
+<rect x="65" y="173" width="90" height="26" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="110" y="191" text-anchor="middle" fill="#222222">CAB</text>
+<line x1="158" y1="186" x2="430" y2="135" stroke="#888888" stroke-width="1.3" marker-end="url(#ahg)"/>
+<rect x="65" y="207" width="90" height="26" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="110" y="225" text-anchor="middle" fill="#222222">CBA</text>
+<line x1="158" y1="220" x2="430" y2="135" stroke="#888888" stroke-width="1.3" marker-end="url(#ahg)"/>
+<circle cx="500" cy="135" r="62" fill="#f6d5c6" stroke="#d9480f" stroke-width="2.5"/>
+<text x="500" y="141" text-anchor="middle" fill="#d9480f" font-weight="bold" font-size="16">{A, B, C}</text>
+<text x="110" y="255" text-anchor="middle" fill="#888888" font-size="12">permutations (order matters)</text>
+<text x="500" y="225" text-anchor="middle" fill="#888888" font-size="12">combination (order ignored)</text>
+</svg>

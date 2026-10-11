@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 260" width="760" height="260" font-family="sans-serif" font-size="14" role="img" aria-label="Letter F rotated then stretched gives a wide sideways F; stretched then rotated gives a tall sideways F; the results differ">
+<title>Letter F rotated then stretched gives a wide sideways F; stretched then rotated gives a tall sideways F; the results differ</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="760" height="260" fill="white"/>
+<text x="380" y="22" text-anchor="middle" fill="#222222" font-weight="bold">Order matters: S·R is not R·S</text>
+<line x1="60" y1="205" x2="60" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="100" y1="205" x2="100" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="140" y1="205" x2="140" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="180" y1="205" x2="180" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="220" y1="205" x2="220" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="260" y1="205" x2="260" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="300" y1="205" x2="300" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="340" y1="205" x2="340" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="40" y1="185" x2="360" y2="185" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="40" y1="145" x2="360" y2="145" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="40" y1="105" x2="360" y2="105" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="40" y1="65" x2="360" y2="65" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="40" y1="185" x2="360" y2="185" stroke="#222222" stroke-width="1.5"/>
+<line x1="220" y1="205" x2="220" y2="45" stroke="#222222" stroke-width="1.5"/>
+<polygon points="220,185 236,185 236,153 256,153 256,139 236,139 236,121 264,121 264,105 220,105" fill="none" stroke="#888888" stroke-width="1.5" stroke-dasharray="4 3"/>
+<polygon points="220,185 220,169 156,169 156,149 128,149 128,169 92,169 92,141 60,141 60,185" fill="#d9480f" stroke="#d9480f" stroke-width="2" fill-opacity="0.35"/>
+<text x="200" y="42" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">rotate 90°, then stretch x by 2</text>
+<text x="200" y="230" text-anchor="middle" fill="#d9480f" font-size="13">S·R = [[0, −2], [1, 0]]</text>
+<line x1="430" y1="205" x2="430" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="470" y1="205" x2="470" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="510" y1="205" x2="510" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="550" y1="205" x2="550" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="590" y1="205" x2="590" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="630" y1="205" x2="630" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="670" y1="205" x2="670" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="710" y1="205" x2="710" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="410" y1="185" x2="730" y2="185" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="410" y1="145" x2="730" y2="145" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="410" y1="105" x2="730" y2="105" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="410" y1="65" x2="730" y2="65" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="410" y1="185" x2="730" y2="185" stroke="#222222" stroke-width="1.5"/>
+<line x1="590" y1="205" x2="590" y2="45" stroke="#222222" stroke-width="1.5"/>
+<polygon points="590,185 606,185 606,153 626,153 626,139 606,139 606,121 634,121 634,105 590,105" fill="none" stroke="#888888" stroke-width="1.5" stroke-dasharray="4 3"/>
+<polygon points="590,185 590,153 558,153 558,113 544,113 544,153 526,153 526,97 510,97 510,185" fill="#d9480f" stroke="#d9480f" stroke-width="2" fill-opacity="0.35"/>
+<text x="570" y="42" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">stretch x by 2, then rotate 90°</text>
+<text x="570" y="230" text-anchor="middle" fill="#d9480f" font-size="13">R·S = [[0, −1], [2, 0]]</text>
+</svg>

@@ -1,0 +1,10 @@
+Columns of a matrix are?	Where (1,0) and (0,1) land.	math::501::matrices
+\(A(x,y)\), column way	x times column 1 plus y times column 2.	math::501::matrices
+Rotate 90 degrees counterclockwise	\(\begin{pmatrix}0&-1\\1&0\end{pmatrix}\)	math::501::matrices
+Reflect across y = x	\(\begin{pmatrix}0&1\\1&0\end{pmatrix}\)	math::501::matrices
+Rotate by \(\theta\)	\(\begin{pmatrix}\cos\theta&-\sin\theta\\\sin\theta&\cos\theta\end{pmatrix}\)	math::501::matrices
+\(AB\) applied to v does what first?	B first, then A.	math::501::matrices
+Is \(AB = BA\) in general?	No.	math::501::matrices
+Entry (r, c) of AB	Row r of A dotted with column c of B.	math::501::matrices
+Two rules of a linear map	\(A(u+v)=Au+Av\) and \(A(kv)=kAv\).	math::501::matrices
+Is a shift \((x+1, y)\) linear?	No: it moves the origin.	math::501::matrices

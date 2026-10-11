@@ -1,0 +1,11 @@
+Handshake lemma	Sum of degrees = 2 times the number of edges.	math::501::graphs
+What is a tree?	A connected graph with no cycles.	math::501::graphs
+Edges in a tree with n vertices	\(n - 1\)	math::501::graphs
+Paths between two vertices of a tree	Exactly one.	math::501::graphs
+BFS uses which data structure?	A queue (first in, first out).	math::501::graphs
+DFS uses which data structure?	A stack, or recursion.	math::501::graphs
+BFS finds?	Fewest-hop paths in an unweighted graph.	math::501::graphs
+Dijkstra finds?	Cheapest paths with non-negative edge weights.	math::501::graphs
+Why not Dijkstra with negative weights?	A later negative edge can undercut a finished vertex. Use Bellman-Ford.	math::501::graphs
+What is a DAG?	A directed graph with no cycles.	math::501::graphs
+How to get a topological order	Run DFS, record finish order, reverse it.	math::501::graphs

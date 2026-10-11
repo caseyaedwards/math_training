@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" width="760" height="250" font-family="sans-serif" font-size="14" role="img" aria-label="A 10-minute timeline with 15 event dots; the count in each one-minute window is written above; one gap between events is marked below">
+<title>A 10-minute timeline with 15 event dots; the count in each one-minute window is written above; one gap between events is marked below</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="760" height="250" fill="white"/>
+<text x="380" y="22" text-anchor="middle" fill="#222222" font-weight="bold">One stream of events, two questions</text>
+<line x1="40" y1="120" x2="720" y2="120" stroke="#222222" stroke-width="2"/>
+<line x1="40" y1="90" x2="40" y2="128" stroke="#222222" stroke-width="1"/>
+<text x="40" y="144" text-anchor="middle" fill="#888888" font-size="11">0</text>
+<line x1="108" y1="90" x2="108" y2="128" stroke="#888888" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="108" y="144" text-anchor="middle" fill="#888888" font-size="11">1</text>
+<line x1="176" y1="90" x2="176" y2="128" stroke="#888888" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="176" y="144" text-anchor="middle" fill="#888888" font-size="11">2</text>
+<line x1="244" y1="90" x2="244" y2="128" stroke="#888888" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="244" y="144" text-anchor="middle" fill="#888888" font-size="11">3</text>
+<line x1="312" y1="90" x2="312" y2="128" stroke="#888888" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="312" y="144" text-anchor="middle" fill="#888888" font-size="11">4</text>
+<line x1="380" y1="90" x2="380" y2="128" stroke="#888888" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="380" y="144" text-anchor="middle" fill="#888888" font-size="11">5</text>
+<line x1="448" y1="90" x2="448" y2="128" stroke="#888888" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="448" y="144" text-anchor="middle" fill="#888888" font-size="11">6</text>
+<line x1="516" y1="90" x2="516" y2="128" stroke="#888888" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="516" y="144" text-anchor="middle" fill="#888888" font-size="11">7</text>
+<line x1="584" y1="90" x2="584" y2="128" stroke="#888888" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="584" y="144" text-anchor="middle" fill="#888888" font-size="11">8</text>
+<line x1="652" y1="90" x2="652" y2="128" stroke="#888888" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="652" y="144" text-anchor="middle" fill="#888888" font-size="11">9</text>
+<line x1="720" y1="90" x2="720" y2="128" stroke="#222222" stroke-width="1"/>
+<text x="720" y="144" text-anchor="middle" fill="#888888" font-size="11">10</text>
+<circle cx="67.2" cy="110" r="6" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<circle cx="114.8" cy="110" r="6" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<circle cx="128.4" cy="110" r="6" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<circle cx="162.4" cy="110" r="6" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<circle cx="237.2" cy="110" r="6" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<circle cx="325.6" cy="110" r="6" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<circle cx="346" cy="110" r="6" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<circle cx="359.6" cy="110" r="6" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<circle cx="420.8" cy="110" r="6" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<circle cx="454.8" cy="110" r="6" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<circle cx="468.4" cy="110" r="6" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<circle cx="512.6" cy="110" r="6" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<circle cx="543.2" cy="110" r="6" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<circle cx="638.4" cy="110" r="6" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<circle cx="686" cy="110" r="6" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="74" y="80" text-anchor="middle" fill="#222222" font-weight="bold">1</text>
+<text x="142" y="80" text-anchor="middle" fill="#222222" font-weight="bold">3</text>
+<text x="210" y="80" text-anchor="middle" fill="#222222" font-weight="bold">1</text>
+<text x="278" y="80" text-anchor="middle" fill="#222222" font-weight="bold">0</text>
+<text x="346" y="80" text-anchor="middle" fill="#222222" font-weight="bold">3</text>
+<text x="414" y="80" text-anchor="middle" fill="#222222" font-weight="bold">1</text>
+<text x="482" y="80" text-anchor="middle" fill="#222222" font-weight="bold">3</text>
+<text x="550" y="80" text-anchor="middle" fill="#222222" font-weight="bold">1</text>
+<text x="618" y="80" text-anchor="middle" fill="#222222" font-weight="bold">1</text>
+<text x="686" y="80" text-anchor="middle" fill="#222222" font-weight="bold">1</text>
+<text x="40" y="62" text-anchor="start" fill="#888888" font-size="12">events per minute (Poisson counts):</text>
+<line x1="237.2" y1="170" x2="325.6" y2="170" stroke="#d9480f" stroke-width="2" marker-end="url(#aha)" marker-start="url(#aha)"/>
+<text x="281.4" y="190" text-anchor="middle" fill="#d9480f" font-weight="bold" font-size="12">gap = 1.3 min</text>
+<text x="380" y="225" text-anchor="middle" fill="#222222" font-size="13">Counts in windows follow Poisson(λ). Gaps between events follow Exponential(λ).</text>
+<text x="380" y="244" text-anchor="middle" fill="#888888" font-size="12">Here: 15 events in 10 minutes, about 1.5 per minute.</text>
+</svg>

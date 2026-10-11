@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 210" width="560" height="210" font-family="sans-serif" font-size="14" role="img" aria-label="Five dots placed in four boxes; box 1 holds two dots, illustrating the pigeonhole principle">
+<title>Five dots placed in four boxes; box 1 holds two dots, illustrating the pigeonhole principle</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="560" height="210" fill="white"/>
+<rect x="20" y="70" width="110" height="90" fill="#f6d5c6" stroke="#d9480f" stroke-width="2.5"/>
+<text x="75" y="185" text-anchor="middle" fill="#888888" font-size="13">box 1</text>
+<circle cx="58" cy="115" r="13" fill="#d9480f" stroke="none" stroke-width="0"/>
+<circle cx="92" cy="115" r="13" fill="#d9480f" stroke="none" stroke-width="0"/>
+<rect x="150" y="70" width="110" height="90" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="205" y="185" text-anchor="middle" fill="#888888" font-size="13">box 2</text>
+<circle cx="205" cy="115" r="13" fill="#222222" stroke="none" stroke-width="0"/>
+<rect x="280" y="70" width="110" height="90" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="335" y="185" text-anchor="middle" fill="#888888" font-size="13">box 3</text>
+<circle cx="335" cy="115" r="13" fill="#222222" stroke="none" stroke-width="0"/>
+<rect x="410" y="70" width="110" height="90" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="465" y="185" text-anchor="middle" fill="#888888" font-size="13">box 4</text>
+<circle cx="465" cy="115" r="13" fill="#222222" stroke="none" stroke-width="0"/>
+<text x="280" y="30" text-anchor="middle" fill="#222222" font-weight="bold">5 items into 4 boxes</text>
+<text x="280" y="52" text-anchor="middle" fill="#d9480f" font-size="13">at least one box must hold 2 or more</text>
+</svg>

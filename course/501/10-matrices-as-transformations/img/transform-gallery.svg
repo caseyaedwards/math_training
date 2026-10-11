@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 200" width="780" height="200" font-family="sans-serif" font-size="14" role="img" aria-label="Letter F transformed by four matrices: rotation by 90 degrees, horizontal stretch, reflection, and shear">
+<title>Letter F transformed by four matrices: rotation by 90 degrees, horizontal stretch, reflection, and shear</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="780" height="200" fill="white"/>
+<line x1="29.17" y1="130" x2="29.17" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="57.5" y1="130" x2="57.5" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="85.83" y1="130" x2="85.83" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="114.17" y1="130" x2="114.17" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="142.5" y1="130" x2="142.5" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="170.83" y1="130" x2="170.83" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="15" y1="115.83" x2="185" y2="115.83" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="15" y1="87.5" x2="185" y2="87.5" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="15" y1="59.17" x2="185" y2="59.17" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="15" y1="115.83" x2="185" y2="115.83" stroke="#222222" stroke-width="1.5"/>
+<line x1="85.83" y1="130" x2="85.83" y2="45" stroke="#222222" stroke-width="1.5"/>
+<polygon points="85.83,115.83 97.17,115.83 97.17,93.17 111.33,93.17 111.33,83.25 97.17,83.25 97.17,70.5 117,70.5 117,59.17 85.83,59.17" fill="none" stroke="#888888" stroke-width="1.5" stroke-dasharray="4 3"/>
+<polygon points="85.83,115.83 85.83,104.5 63.17,104.5 63.17,90.33 53.25,90.33 53.25,104.5 40.5,104.5 40.5,84.67 29.17,84.67 29.17,115.83" fill="#d9480f" stroke="#d9480f" stroke-width="2" fill-opacity="0.35"/>
+<text x="100" y="30" text-anchor="middle" fill="#222222" font-weight="bold">Rotate 90°</text>
+<text x="100" y="156" text-anchor="middle" fill="#888888" font-size="13">[[0, −1], [1, 0]]</text>
+<line x1="221.17" y1="130" x2="221.17" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="249.5" y1="130" x2="249.5" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="277.83" y1="130" x2="277.83" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="306.17" y1="130" x2="306.17" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="334.5" y1="130" x2="334.5" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="362.83" y1="130" x2="362.83" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="207" y1="115.83" x2="377" y2="115.83" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="207" y1="87.5" x2="377" y2="87.5" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="207" y1="59.17" x2="377" y2="59.17" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="207" y1="115.83" x2="377" y2="115.83" stroke="#222222" stroke-width="1.5"/>
+<line x1="277.83" y1="130" x2="277.83" y2="45" stroke="#222222" stroke-width="1.5"/>
+<polygon points="277.83,115.83 289.17,115.83 289.17,93.17 303.33,93.17 303.33,83.25 289.17,83.25 289.17,70.5 309,70.5 309,59.17 277.83,59.17" fill="none" stroke="#888888" stroke-width="1.5" stroke-dasharray="4 3"/>
+<polygon points="277.83,115.83 300.5,115.83 300.5,93.17 328.83,93.17 328.83,83.25 300.5,83.25 300.5,70.5 340.17,70.5 340.17,59.17 277.83,59.17" fill="#d9480f" stroke="#d9480f" stroke-width="2" fill-opacity="0.35"/>
+<text x="292" y="30" text-anchor="middle" fill="#222222" font-weight="bold">Scale x by 2</text>
+<text x="292" y="156" text-anchor="middle" fill="#888888" font-size="13">[[2, 0], [0, 1]]</text>
+<line x1="413.17" y1="130" x2="413.17" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="441.5" y1="130" x2="441.5" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="469.83" y1="130" x2="469.83" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="498.17" y1="130" x2="498.17" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="526.5" y1="130" x2="526.5" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="554.83" y1="130" x2="554.83" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="399" y1="115.83" x2="569" y2="115.83" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="399" y1="87.5" x2="569" y2="87.5" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="399" y1="59.17" x2="569" y2="59.17" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="399" y1="115.83" x2="569" y2="115.83" stroke="#222222" stroke-width="1.5"/>
+<line x1="469.83" y1="130" x2="469.83" y2="45" stroke="#222222" stroke-width="1.5"/>
+<polygon points="469.83,115.83 481.17,115.83 481.17,93.17 495.33,93.17 495.33,83.25 481.17,83.25 481.17,70.5 501,70.5 501,59.17 469.83,59.17" fill="none" stroke="#888888" stroke-width="1.5" stroke-dasharray="4 3"/>
+<polygon points="469.83,115.83 458.5,115.83 458.5,93.17 444.33,93.17 444.33,83.25 458.5,83.25 458.5,70.5 438.67,70.5 438.67,59.17 469.83,59.17" fill="#d9480f" stroke="#d9480f" stroke-width="2" fill-opacity="0.35"/>
+<text x="484" y="30" text-anchor="middle" fill="#222222" font-weight="bold">Reflect in y-axis</text>
+<text x="484" y="156" text-anchor="middle" fill="#888888" font-size="13">[[−1, 0], [0, 1]]</text>
+<line x1="605.17" y1="130" x2="605.17" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="633.5" y1="130" x2="633.5" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="661.83" y1="130" x2="661.83" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="690.17" y1="130" x2="690.17" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="718.5" y1="130" x2="718.5" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="746.83" y1="130" x2="746.83" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="591" y1="115.83" x2="761" y2="115.83" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="591" y1="87.5" x2="761" y2="87.5" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="591" y1="59.17" x2="761" y2="59.17" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="591" y1="115.83" x2="761" y2="115.83" stroke="#222222" stroke-width="1.5"/>
+<line x1="661.83" y1="130" x2="661.83" y2="45" stroke="#222222" stroke-width="1.5"/>
+<polygon points="661.83,115.83 673.17,115.83 673.17,93.17 687.33,93.17 687.33,83.25 673.17,83.25 673.17,70.5 693,70.5 693,59.17 661.83,59.17" fill="none" stroke="#888888" stroke-width="1.5" stroke-dasharray="4 3"/>
+<polygon points="661.83,115.83 673.17,115.83 695.83,93.17 710,93.17 719.92,83.25 705.75,83.25 718.5,70.5 738.33,70.5 749.67,59.17 718.5,59.17" fill="#d9480f" stroke="#d9480f" stroke-width="2" fill-opacity="0.35"/>
+<text x="676" y="30" text-anchor="middle" fill="#222222" font-weight="bold">Shear</text>
+<text x="676" y="156" text-anchor="middle" fill="#888888" font-size="13">[[1, 1], [0, 1]]</text>
+<text x="390" y="188" text-anchor="middle" fill="#888888" font-size="12">Dashed: original letter F. Shaded: image after the matrix.</text>
+</svg>

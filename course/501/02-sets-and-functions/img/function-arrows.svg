@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 295" width="780" height="295" font-family="sans-serif" font-size="14" role="img" aria-label="Three arrow diagrams: a one-to-one map, an onto map, and a relation that is not a function">
+<title>Three arrow diagrams: a one-to-one map, an onto map, and a relation that is not a function</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="780" height="295" fill="white"/>
+<ellipse cx="70" cy="140.0" rx="35" ry="90.0" fill="none" stroke="#222222" stroke-width="1.5"/>
+<ellipse cx="200" cy="140.0" rx="35" ry="90.0" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="70" cy="70" r="4" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="56" y="75" text-anchor="end" fill="#222222">a</text>
+<circle cx="70" cy="140" r="4" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="56" y="145" text-anchor="end" fill="#222222">b</text>
+<circle cx="70" cy="210" r="4" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="56" y="215" text-anchor="end" fill="#222222">c</text>
+<circle cx="200" cy="70" r="4" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="214" y="75" text-anchor="start" fill="#222222">1</text>
+<circle cx="200" cy="116.67" r="4" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="214" y="121.67" text-anchor="start" fill="#222222">2</text>
+<circle cx="200" cy="163.33" r="4" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="214" y="168.33" text-anchor="start" fill="#222222">3</text>
+<circle cx="200" cy="210" r="4" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="214" y="215" text-anchor="start" fill="#222222">4</text>
+<line x1="76" y1="70" x2="193" y2="70" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="76" y1="140" x2="193" y2="116.67" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="76" y1="210" x2="193" y2="210" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<text x="135" y="30" text-anchor="middle" fill="#222222" font-weight="bold">One-to-one, not onto</text>
+<text x="70" y="255" text-anchor="middle" fill="#888888" font-size="12">domain</text>
+<text x="200" y="255" text-anchor="middle" fill="#888888" font-size="12">codomain</text>
+<ellipse cx="330" cy="140.0" rx="35" ry="90.0" fill="none" stroke="#222222" stroke-width="1.5"/>
+<ellipse cx="460" cy="140.0" rx="35" ry="90.0" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="330" cy="70" r="4" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="316" y="75" text-anchor="end" fill="#222222">a</text>
+<circle cx="330" cy="116.67" r="4" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="316" y="121.67" text-anchor="end" fill="#222222">b</text>
+<circle cx="330" cy="163.33" r="4" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="316" y="168.33" text-anchor="end" fill="#222222">c</text>
+<circle cx="330" cy="210" r="4" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="316" y="215" text-anchor="end" fill="#222222">d</text>
+<circle cx="460" cy="70" r="4" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="474" y="75" text-anchor="start" fill="#222222">1</text>
+<circle cx="460" cy="140" r="4" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="474" y="145" text-anchor="start" fill="#222222">2</text>
+<circle cx="460" cy="210" r="4" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="474" y="215" text-anchor="start" fill="#222222">3</text>
+<line x1="336" y1="70" x2="453" y2="70" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="336" y1="116.67" x2="453" y2="70" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="336" y1="163.33" x2="453" y2="140" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="336" y1="210" x2="453" y2="210" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<text x="395" y="30" text-anchor="middle" fill="#222222" font-weight="bold">Onto, not one-to-one</text>
+<text x="330" y="255" text-anchor="middle" fill="#888888" font-size="12">domain</text>
+<text x="460" y="255" text-anchor="middle" fill="#888888" font-size="12">codomain</text>
+<ellipse cx="590" cy="140.0" rx="35" ry="90.0" fill="none" stroke="#222222" stroke-width="1.5"/>
+<ellipse cx="720" cy="140.0" rx="35" ry="90.0" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="590" cy="70" r="4" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="576" y="75" text-anchor="end" fill="#222222">a</text>
+<circle cx="590" cy="140" r="4" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="576" y="145" text-anchor="end" fill="#222222">b</text>
+<circle cx="590" cy="210" r="4" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="576" y="215" text-anchor="end" fill="#222222">c</text>
+<circle cx="720" cy="70" r="4" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="734" y="75" text-anchor="start" fill="#222222">1</text>
+<circle cx="720" cy="140" r="4" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="734" y="145" text-anchor="start" fill="#222222">2</text>
+<circle cx="720" cy="210" r="4" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="734" y="215" text-anchor="start" fill="#222222">3</text>
+<line x1="596" y1="70" x2="713" y2="70" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="596" y1="140" x2="713" y2="210" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="596" y1="70" x2="713" y2="140" stroke="#d9480f" stroke-width="2.2" marker-end="url(#aha)"/>
+<text x="655" y="30" text-anchor="middle" fill="#222222" font-weight="bold">Not a function</text>
+<text x="590" y="255" text-anchor="middle" fill="#888888" font-size="12">domain</text>
+<text x="720" y="255" text-anchor="middle" fill="#888888" font-size="12">codomain</text>
+<text x="655" y="282" text-anchor="middle" fill="#d9480f" font-weight="bold" font-size="13">a has two outputs, c has none</text>
+</svg>

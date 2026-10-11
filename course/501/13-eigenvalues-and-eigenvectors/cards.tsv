@@ -1,0 +1,11 @@
+Eigenvector definition	Nonzero v with \(Av = \lambda v\): a direction A does not turn.	math::501::eigen
+Characteristic equation	\(\det(A - \lambda I) = 0\)	math::501::eigen
+2 by 2 characteristic polynomial	\(\lambda^2 - (\text{trace})\lambda + \det\)	math::501::eigen
+Sum and product of eigenvalues	Sum = trace, product = determinant.	math::501::eigen
+Eigenvalues of \(\begin{pmatrix}2&1\\1&2\end{pmatrix}\)	3 with (1,1), and 1 with (1,-1).	math::501::eigen
+Why has a 90-degree rotation no real eigenvectors?	It turns every direction: \(\lambda^2+1=0\).	math::501::eigen
+\(A^n v\) for an eigenvector v	\(\lambda^n v\)	math::501::eigen
+Power iteration finds?	The direction of the eigenvalue with the largest size.	math::501::eigen
+Steady state of a Markov chain	An eigenvector with eigenvalue 1, scaled to sum to 1.	math::501::eigen
+Is the zero vector an eigenvector?	No, by definition.	math::501::eigen
+Eigenvalue 0 means?	\(\det A = 0\): something is crushed to zero.	math::501::eigen

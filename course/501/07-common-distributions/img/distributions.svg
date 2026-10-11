@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" font-family="sans-serif" font-size="14" role="img" aria-label="Four panels: binomial n=10 p=0.3 bars peaking at 3, Poisson rate 3 bars, standard normal bell with middle 68 percent shaded, exponential decay with tail beyond 2 shaded">
+<title>Four panels: binomial n=10 p=0.3 bars peaking at 3, Poisson rate 3 bars, standard normal bell with middle 68 percent shaded, exponential decay with tail beyond 2 shaded</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="760" height="520" fill="white"/>
+<text x="190" y="38" text-anchor="middle" fill="#222222" font-weight="bold">Binomial(n = 10, p = 0.3)</text>
+<rect x="52.14" y="204.46" width="20" height="15.54" fill="#f6d5c6" stroke="#222222" stroke-width="1"/>
+<text x="62.14" y="236" text-anchor="middle" fill="#888888" font-size="11">0</text>
+<rect x="80.71" y="153.42" width="20" height="66.58" fill="#f6d5c6" stroke="#222222" stroke-width="1"/>
+<text x="90.71" y="236" text-anchor="middle" fill="#888888" font-size="11">1</text>
+<rect x="109.29" y="91.59" width="20" height="128.41" fill="#f6d5c6" stroke="#222222" stroke-width="1"/>
+<text x="119.29" y="236" text-anchor="middle" fill="#888888" font-size="11">2</text>
+<rect x="137.86" y="73.24" width="20" height="146.76" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="147.86" y="236" text-anchor="middle" fill="#888888" font-size="11">3</text>
+<rect x="166.43" y="109.93" width="20" height="110.07" fill="#f6d5c6" stroke="#222222" stroke-width="1"/>
+<text x="176.43" y="236" text-anchor="middle" fill="#888888" font-size="11">4</text>
+<rect x="195" y="163.39" width="20" height="56.61" fill="#f6d5c6" stroke="#222222" stroke-width="1"/>
+<text x="205" y="236" text-anchor="middle" fill="#888888" font-size="11">5</text>
+<rect x="223.57" y="199.78" width="20" height="20.22" fill="#f6d5c6" stroke="#222222" stroke-width="1"/>
+<text x="233.57" y="236" text-anchor="middle" fill="#888888" font-size="11">6</text>
+<rect x="252.14" y="215.05" width="20" height="4.95" fill="#f6d5c6" stroke="#222222" stroke-width="1"/>
+<text x="262.14" y="236" text-anchor="middle" fill="#888888" font-size="11">7</text>
+<rect x="280.71" y="219.2" width="20" height="0.8" fill="#f6d5c6" stroke="#222222" stroke-width="1"/>
+<text x="290.71" y="236" text-anchor="middle" fill="#888888" font-size="11">8</text>
+<rect x="309.29" y="219.92" width="20" height="0.08" fill="#f6d5c6" stroke="#222222" stroke-width="1"/>
+<text x="319.29" y="236" text-anchor="middle" fill="#888888" font-size="11">9</text>
+<rect x="337.86" y="220" width="20" height="0" fill="#f6d5c6" stroke="#222222" stroke-width="1"/>
+<text x="347.86" y="236" text-anchor="middle" fill="#888888" font-size="11">10</text>
+<line x1="45" y1="220" x2="365" y2="220" stroke="#222222" stroke-width="1.5"/>
+<text x="190" y="255" text-anchor="middle" fill="#888888" font-size="12">count successes in 10 tries; mean np = 3</text>
+<text x="565" y="38" text-anchor="middle" fill="#222222" font-weight="bold">Poisson(λ = 3)</text>
+<rect x="427.14" y="192.62" width="20" height="27.38" fill="#f6d5c6" stroke="#222222" stroke-width="1"/>
+<text x="437.14" y="236" text-anchor="middle" fill="#888888" font-size="11">0</text>
+<rect x="455.71" y="137.85" width="20" height="82.15" fill="#f6d5c6" stroke="#222222" stroke-width="1"/>
+<text x="465.71" y="236" text-anchor="middle" fill="#888888" font-size="11">1</text>
+<rect x="484.29" y="96.78" width="20" height="123.22" fill="#f6d5c6" stroke="#222222" stroke-width="1"/>
+<text x="494.29" y="236" text-anchor="middle" fill="#888888" font-size="11">2</text>
+<rect x="512.86" y="96.78" width="20" height="123.22" fill="#f6d5c6" stroke="#222222" stroke-width="1"/>
+<text x="522.86" y="236" text-anchor="middle" fill="#888888" font-size="11">3</text>
+<rect x="541.43" y="127.58" width="20" height="92.42" fill="#f6d5c6" stroke="#222222" stroke-width="1"/>
+<text x="551.43" y="236" text-anchor="middle" fill="#888888" font-size="11">4</text>
+<rect x="570" y="164.55" width="20" height="55.45" fill="#f6d5c6" stroke="#222222" stroke-width="1"/>
+<text x="580" y="236" text-anchor="middle" fill="#888888" font-size="11">5</text>
+<rect x="598.57" y="192.27" width="20" height="27.73" fill="#f6d5c6" stroke="#222222" stroke-width="1"/>
+<text x="608.57" y="236" text-anchor="middle" fill="#888888" font-size="11">6</text>
+<rect x="627.14" y="208.12" width="20" height="11.88" fill="#f6d5c6" stroke="#222222" stroke-width="1"/>
+<text x="637.14" y="236" text-anchor="middle" fill="#888888" font-size="11">7</text>
+<rect x="655.71" y="215.54" width="20" height="4.46" fill="#f6d5c6" stroke="#222222" stroke-width="1"/>
+<text x="665.71" y="236" text-anchor="middle" fill="#888888" font-size="11">8</text>
+<rect x="684.29" y="218.51" width="20" height="1.49" fill="#f6d5c6" stroke="#222222" stroke-width="1"/>
+<text x="694.29" y="236" text-anchor="middle" fill="#888888" font-size="11">9</text>
+<rect x="712.86" y="219.55" width="20" height="0.45" fill="#f6d5c6" stroke="#222222" stroke-width="1"/>
+<text x="722.86" y="236" text-anchor="middle" fill="#888888" font-size="11">10</text>
+<line x1="420" y1="220" x2="740" y2="220" stroke="#222222" stroke-width="1.5"/>
+<text x="565" y="255" text-anchor="middle" fill="#888888" font-size="12">events per minute at average rate 3</text>
+<text x="190" y="293" text-anchor="middle" fill="#222222" font-weight="bold">Normal(μ = 0, σ = 1)</text>
+<polygon points="159.29,475 159.29,386.28 160.81,383.32 162.33,380.37 163.86,377.44 165.38,374.52 166.9,371.63 168.43,368.78 169.95,365.97 171.48,363.21 173,360.51 174.52,357.87 176.05,355.3 177.57,352.82 179.1,350.42 180.62,348.11 182.14,345.91 183.67,343.81 185.19,341.83 186.71,339.97 188.24,338.23 189.76,336.63 191.29,335.16 192.81,333.83 194.33,332.65 195.86,331.62 197.38,330.74 198.9,330.02 200.43,329.45 201.95,329.05 203.48,328.8 205,328.72 206.52,328.8 208.05,329.05 209.57,329.45 211.1,330.02 212.62,330.74 214.14,331.62 215.67,332.65 217.19,333.83 218.71,335.16 220.24,336.63 221.76,338.23 223.29,339.97 224.81,341.83 226.33,343.81 227.86,345.91 229.38,348.11 230.9,350.42 232.43,352.82 233.95,355.3 235.48,357.87 237,360.51 238.52,363.21 240.05,365.97 241.57,368.78 243.1,371.63 244.62,374.52 246.14,377.44 247.67,380.37 249.19,383.32 250.71,386.28 250.71,475" fill="#d9480f" stroke="none" stroke-width="0" fill-opacity="0.35"/>
+<polyline points="45,474.68 47.29,474.62 49.57,474.55 51.86,474.47 54.14,474.37 56.43,474.26 58.71,474.13 61,473.98 63.29,473.8 65.57,473.6 67.86,473.37 70.14,473.11 72.43,472.82 74.71,472.48 77,472.1 79.29,471.67 81.57,471.18 83.86,470.63 86.14,470.02 88.43,469.34 90.71,468.57 93,467.73 95.29,466.79 97.57,465.75 99.86,464.61 102.14,463.36 104.43,461.99 106.71,460.5 109,458.87 111.29,457.11 113.57,455.2 115.86,453.15 118.14,450.94 120.43,448.58 122.71,446.05 125,443.36 127.29,440.52 129.57,437.5 131.86,434.33 134.14,431 136.43,427.51 138.71,423.88 141,420.1 143.29,416.19 145.57,412.16 147.86,408.03 150.14,403.8 152.43,399.49 154.71,395.12 157,390.71 159.29,386.28 161.57,381.85 163.86,377.44 166.14,373.07 168.43,368.78 170.71,364.58 173,360.51 175.29,356.58 177.57,352.82 179.86,349.25 182.14,345.91 184.43,342.81 186.71,339.97 189,337.41 191.29,335.16 193.57,333.22 195.86,331.62 198.14,330.36 200.43,329.45 202.71,328.9 205,328.72 207.29,328.9 209.57,329.45 211.86,330.36 214.14,331.62 216.43,333.22 218.71,335.16 221,337.41 223.29,339.97 225.57,342.81 227.86,345.91 230.14,349.25 232.43,352.82 234.71,356.58 237,360.51 239.29,364.58 241.57,368.78 243.86,373.07 246.14,377.44 248.43,381.85 250.71,386.28 253,390.71 255.29,395.12 257.57,399.49 259.86,403.8 262.14,408.03 264.43,412.16 266.71,416.19 269,420.1 271.29,423.88 273.57,427.51 275.86,431 278.14,434.33 280.43,437.5 282.71,440.52 285,443.36 287.29,446.05 289.57,448.58 291.86,450.94 294.14,453.15 296.43,455.2 298.71,457.11 301,458.87 303.29,460.5 305.57,461.99 307.86,463.36 310.14,464.61 312.43,465.75 314.71,466.79 317,467.73 319.29,468.57 321.57,469.34 323.86,470.02 326.14,470.63 328.43,471.18 330.71,471.67 333,472.1 335.29,472.48 337.57,472.82 339.86,473.11 342.14,473.37 344.43,473.6 346.71,473.8 349,473.98 351.29,474.13 353.57,474.26 355.86,474.37 358.14,474.47 360.43,474.55 362.71,474.62 365,474.68" fill="none" stroke="#222222" stroke-width="2"/>
+<line x1="45" y1="475" x2="365" y2="475" stroke="#222222" stroke-width="1.5"/>
+<text x="67.86" y="491" text-anchor="middle" fill="#888888" font-size="11">-3</text>
+<text x="113.57" y="491" text-anchor="middle" fill="#888888" font-size="11">-2</text>
+<text x="159.29" y="491" text-anchor="middle" fill="#888888" font-size="11">-1</text>
+<text x="205" y="491" text-anchor="middle" fill="#888888" font-size="11">0</text>
+<text x="250.71" y="491" text-anchor="middle" fill="#888888" font-size="11">1</text>
+<text x="296.43" y="491" text-anchor="middle" fill="#888888" font-size="11">2</text>
+<text x="342.14" y="491" text-anchor="middle" fill="#888888" font-size="11">3</text>
+<text x="205" y="431" text-anchor="middle" fill="#d9480f" font-weight="bold">68%</text>
+<text x="190" y="510" text-anchor="middle" fill="#888888" font-size="12">sums of many small effects; bell shape</text>
+<text x="565" y="293" text-anchor="middle" fill="#222222" font-weight="bold">Exponential(λ = 1)</text>
+<polygon points="548,475 548,453.73 551.2,454.77 554.4,455.76 557.6,456.7 560.8,457.59 564,458.44 567.2,459.25 570.4,460.01 573.6,460.74 576.8,461.44 580,462.1 583.2,462.73 586.4,463.33 589.6,463.9 592.8,464.44 596,464.95 599.2,465.44 602.4,465.91 605.6,466.35 608.8,466.78 612,467.18 615.2,467.56 618.4,467.92 621.6,468.27 624.8,468.59 628,468.91 631.2,469.2 634.4,469.49 637.6,469.76 640.8,470.01 644,470.25 647.2,470.49 650.4,470.71 653.6,470.92 656.8,471.11 660,471.3 663.2,471.48 666.4,471.66 669.6,471.82 672.8,471.97 676,472.12 679.2,472.26 682.4,472.4 685.6,472.52 688.8,472.64 692,472.76 695.2,472.87 698.4,472.97 701.6,473.07 704.8,473.16 708,473.25 711.2,473.34 714.4,473.42 717.6,473.5 720.8,473.57 724,473.64 727.2,473.71 730.4,473.77 733.6,473.83 736.8,473.89 740,473.94 740,475" fill="#d9480f" stroke="none" stroke-width="0" fill-opacity="0.35"/>
+<polyline points="420,317.86 423.2,325.52 426.4,332.81 429.6,339.75 432.8,346.34 436,352.62 439.2,358.59 442.4,364.26 445.6,369.66 448.8,374.8 452,379.69 455.2,384.34 458.4,388.76 461.6,392.96 464.8,396.97 468,400.77 471.2,404.39 474.4,407.83 477.6,411.11 480.8,414.23 484,417.19 487.2,420.01 490.4,422.69 493.6,425.24 496.8,427.67 500,429.98 503.2,432.17 506.4,434.26 509.6,436.25 512.8,438.14 516,439.94 519.2,441.65 522.4,443.27 525.6,444.82 528.8,446.29 532,447.69 535.2,449.02 538.4,450.29 541.6,451.5 544.8,452.64 548,453.73 551.2,454.77 554.4,455.76 557.6,456.7 560.8,457.59 564,458.44 567.2,459.25 570.4,460.01 573.6,460.74 576.8,461.44 580,462.1 583.2,462.73 586.4,463.33 589.6,463.9 592.8,464.44 596,464.95 599.2,465.44 602.4,465.91 605.6,466.35 608.8,466.78 612,467.18 615.2,467.56 618.4,467.92 621.6,468.27 624.8,468.59 628,468.91 631.2,469.2 634.4,469.49 637.6,469.76 640.8,470.01 644,470.25 647.2,470.49 650.4,470.71 653.6,470.92 656.8,471.11 660,471.3 663.2,471.48 666.4,471.66 669.6,471.82 672.8,471.97 676,472.12 679.2,472.26 682.4,472.4 685.6,472.52 688.8,472.64 692,472.76 695.2,472.87 698.4,472.97 701.6,473.07 704.8,473.16 708,473.25 711.2,473.34 714.4,473.42 717.6,473.5 720.8,473.57 724,473.64 727.2,473.71 730.4,473.77 733.6,473.83 736.8,473.89 740,473.94" fill="none" stroke="#222222" stroke-width="2"/>
+<line x1="420" y1="475" x2="740" y2="475" stroke="#222222" stroke-width="1.5"/>
+<line x1="420" y1="475" x2="420" y2="310" stroke="#222222" stroke-width="1.5"/>
+<text x="420" y="491" text-anchor="middle" fill="#888888" font-size="11">0</text>
+<text x="484" y="491" text-anchor="middle" fill="#888888" font-size="11">1</text>
+<text x="548" y="491" text-anchor="middle" fill="#888888" font-size="11">2</text>
+<text x="612" y="491" text-anchor="middle" fill="#888888" font-size="11">3</text>
+<text x="676" y="491" text-anchor="middle" fill="#888888" font-size="11">4</text>
+<text x="740" y="491" text-anchor="middle" fill="#888888" font-size="11">5</text>
+<text x="586.4" y="427.86" text-anchor="start" fill="#d9480f" font-size="12">P(T &gt; 2) = e⁻² ≈ 0.135</text>
+<text x="565" y="510" text-anchor="middle" fill="#888888" font-size="12">wait time until the next event</text>
+</svg>

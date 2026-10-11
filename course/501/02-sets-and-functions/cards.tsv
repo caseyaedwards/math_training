@@ -1,0 +1,12 @@
+\(A \cup B\) contains?	Elements in A or in B (union).	math::501::sets-and-functions
+\(A \cap B\) contains?	Elements in both A and B (intersection).	math::501::sets-and-functions
+\(A \setminus B\) contains?	Elements in A that are not in B.	math::501::sets-and-functions
+Inclusion-exclusion for two sets	\(|A \cup B| = |A| + |B| - |A \cap B|\)	math::501::sets-and-functions
+How many subsets does an n-element set have?	\(2^n\): each element is in or out.	math::501::sets-and-functions
+Size of \(A \times B\)?	\(|A| \cdot |B|\)	math::501::sets-and-functions
+What makes a rule a function?	Every input has exactly one output.	math::501::sets-and-functions
+One-to-one (injective) means?	Different inputs give different outputs.	math::501::sets-and-functions
+Onto (surjective) means?	Every element of the codomain is hit.	math::501::sets-and-functions
+Which functions have an inverse?	Bijections: one-to-one and onto.	math::501::sets-and-functions
+\((g \circ f)(x)\) means?	\(g(f(x))\): apply f first, then g.	math::501::sets-and-functions
+Number of functions from A to B?	\(|B|^{|A|}\)	math::501::sets-and-functions

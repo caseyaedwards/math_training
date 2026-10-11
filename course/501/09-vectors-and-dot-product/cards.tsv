@@ -1,0 +1,11 @@
+Length of \((v_1, v_2)\)	\(\sqrt{v_1^2 + v_2^2}\)	math::501::vectors
+Add vectors	Add matching components; geometrically, tip to tail.	math::501::vectors
+Scalar multiple \(k v\)	Stretch by k; negative k flips direction.	math::501::vectors
+Unit vector of v	\(v / |v|\)	math::501::vectors
+Dot product, number recipe	\(a_1b_1 + a_2b_2 + \dots\)	math::501::vectors
+Dot product, picture	\(|a||b|\cos\theta\)	math::501::vectors
+\(a \cdot b = 0\) means?	Perpendicular (orthogonal).	math::501::vectors
+Sign of \(a \cdot b\) negative means?	Angle more than 90 degrees.	math::501::vectors
+Shadow length of b on a	\((a \cdot b)/|a|\)	math::501::vectors
+Cosine similarity	\((a \cdot b)/(|a||b|)\)	math::501::vectors
+Quick 90-degree turn of (x, y)	\((-y, x)\)	math::501::vectors

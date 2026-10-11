@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" width="640" height="300" font-family="sans-serif" font-size="14" role="img" aria-label="Two bars: probability 0.9 at 20 ms and 0.1 at 200 ms; a dashed line at the mean of 38 ms lies where no bar is">
+<title>Two bars: probability 0.9 at 20 ms and 0.1 at 200 ms; a dashed line at the mean of 38 ms lies where no bar is</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="640" height="300" fill="white"/>
+<text x="320" y="24" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">Bimodal latency: the mean sits where no request lives</text>
+<rect x="93.09" y="67" width="28.36" height="153" fill="#f6d5c6" stroke="#222222" stroke-width="1.2"/>
+<text x="107.27" y="61" text-anchor="middle" fill="#888888" font-size="12">0.9</text>
+<rect x="518.55" y="203" width="28.36" height="17" fill="#f6d5c6" stroke="#222222" stroke-width="1.2"/>
+<text x="532.73" y="197" text-anchor="middle" fill="#888888" font-size="12">0.1</text>
+<line x1="60" y1="220" x2="580" y2="220" stroke="#222222" stroke-width="1.5"/>
+<text x="60" y="238" text-anchor="middle" fill="#888888" font-size="11">0</text>
+<text x="107.27" y="238" text-anchor="middle" fill="#888888" font-size="11">20</text>
+<text x="154.55" y="238" text-anchor="middle" fill="#888888" font-size="11">40</text>
+<text x="201.82" y="238" text-anchor="middle" fill="#888888" font-size="11">60</text>
+<text x="249.09" y="238" text-anchor="middle" fill="#888888" font-size="11">80</text>
+<text x="296.36" y="238" text-anchor="middle" fill="#888888" font-size="11">100</text>
+<text x="343.64" y="238" text-anchor="middle" fill="#888888" font-size="11">120</text>
+<text x="390.91" y="238" text-anchor="middle" fill="#888888" font-size="11">140</text>
+<text x="438.18" y="238" text-anchor="middle" fill="#888888" font-size="11">160</text>
+<text x="485.45" y="238" text-anchor="middle" fill="#888888" font-size="11">180</text>
+<text x="532.73" y="238" text-anchor="middle" fill="#888888" font-size="11">200</text>
+<text x="580" y="238" text-anchor="middle" fill="#888888" font-size="11">220</text>
+<line x1="149.82" y1="220" x2="149.82" y2="92.5" stroke="#d9480f" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="155.82" y="101" text-anchor="start" fill="#d9480f" font-weight="bold">mean 38 ms</text>
+<text x="155.82" y="119" text-anchor="start" fill="#d9480f">σ = 54 ms</text>
+<text x="320" y="260" text-anchor="middle" fill="#888888" font-size="12">latency (ms)</text>
+</svg>

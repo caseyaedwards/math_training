@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 290" width="820" height="290" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>Life timeline of Gottfried Wilhelm Leibniz</title>
+<rect x="0" y="0" width="820" height="290" fill="#ffffff"/>
+<text x="410.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">Gottfried Wilhelm Leibniz: 1646 to 1716</text>
+<text x="410.0" y="50.0" text-anchor="middle" font-size="13" fill="#868e96" font-weight="normal">Lived in: Leipzig, Paris, Hanover. Life span about 70 years.</text>
+<line x1="60.0" y1="120.0" x2="760.0" y2="120.0" stroke="#868e96" stroke-width="1.5"/>
+<rect x="108.3" y="113.0" width="603.4" height="14.0" rx="7" fill="#d9480f" stroke="#222222" stroke-width="1" fill-opacity="0.35"/>
+<text x="108.3" y="104.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="bold">born 1646</text>
+<text x="711.7" y="104.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="bold">died 1716</text>
+<line x1="341.0" y1="127.0" x2="341.0" y2="148.0" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="341.0" cy="120.0" r="5.0" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="337.0" y="160.0" text-anchor="start" font-size="13" fill="#222222" font-weight="normal">1673: shows his calculating machine</text>
+<line x1="358.3" y1="127.0" x2="358.3" y2="178.0" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="358.3" cy="120.0" r="5.0" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="354.3" y="190.0" text-anchor="start" font-size="13" fill="#222222" font-weight="normal">1675: first writes the integral sign</text>
+<line x1="435.9" y1="127.0" x2="435.9" y2="208.0" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="435.9" cy="120.0" r="5.0" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="439.9" y="220.0" text-anchor="end" font-size="13" fill="#222222" font-weight="normal">1684: publishes differential calculus</text>
+<line x1="599.7" y1="127.0" x2="599.7" y2="238.0" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="599.7" cy="120.0" r="5.0" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="603.7" y="250.0" text-anchor="end" font-size="13" fill="#222222" font-weight="normal">1703: paper on binary numbers</text>
+</svg>

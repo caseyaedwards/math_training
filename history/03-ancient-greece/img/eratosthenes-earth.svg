@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 420" width="820" height="420" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>Eratosthenes measures the Earth from a shadow angle and a distance</title>
+<rect x="0" y="0" width="820" height="420" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<text x="410.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">Eratosthenes (c. 240 BCE): Measure the Earth With a Stick</text>
+<circle cx="300.0" cy="250.0" r="140.0" fill="#f8f9fa" stroke="#222222" stroke-width="2"/>
+<line x1="300.0" y1="250.0" x2="300.0" y2="110.0" stroke="#868e96" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="300.0" y1="250.0" x2="243.1" y2="122.1" stroke="#868e96" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="300.0" y1="110.0" x2="300.0" y2="75.0" stroke="#222222" stroke-width="3"/>
+<line x1="243.1" y1="122.1" x2="228.8" y2="90.1" stroke="#222222" stroke-width="3"/>
+<line x1="210.0" y1="50.0" x2="210.0" y2="85.0" stroke="#d9480f" stroke-width="1.5" marker-end="url(#aa)"/>
+<line x1="300.0" y1="50.0" x2="300.0" y2="70.0" stroke="#d9480f" stroke-width="1.5" marker-end="url(#aa)"/>
+<line x1="360.0" y1="50.0" x2="360.0" y2="85.0" stroke="#d9480f" stroke-width="1.5" marker-end="url(#aa)"/>
+<line x1="420.0" y1="50.0" x2="420.0" y2="85.0" stroke="#d9480f" stroke-width="1.5" marker-end="url(#aa)"/>
+<line x1="228.8" y1="90.1" x2="228.8" y2="120.1" stroke="#d9480f" stroke-width="1.5" stroke-dasharray="3 3"/>
+<text x="440.0" y="130.0" text-anchor="start" font-size="13" fill="#222222" font-weight="normal">Syene: no shadow at noon</text>
+<text x="229.1" y="128.1" text-anchor="end" font-size="13" fill="#222222" font-weight="normal">Alexandria</text>
+<path d="M 300 210 A 40 40 0 0 0 283.7 213.5" fill="none" stroke="#d9480f" stroke-width="2"/>
+<text x="282.0" y="204.0" text-anchor="end" font-size="14" fill="#d9480f" font-weight="bold">7.2°</text>
+<text x="300.0" y="412.0" text-anchor="middle" font-size="12" fill="#868e96" font-weight="normal">angle drawn larger than life to be visible</text>
+<text x="500.0" y="100.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">Shadow angle at Alexandria: 7.2°</text>
+<text x="500.0" y="124.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">7.2° is 1/50 of a full 360° circle</text>
+<text x="500.0" y="148.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">Syene to Alexandria: 5,000 stadia</text>
+<text x="500.0" y="172.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">Earth all the way round:</text>
+<text x="500.0" y="196.0" text-anchor="start" font-size="14" fill="#d9480f" font-weight="bold">50 x 5,000 = 250,000 stadia</text>
+<text x="500.0" y="220.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal"></text>
+<text x="500.0" y="244.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">Modern value: about 40,000 km.</text>
+<text x="500.0" y="268.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">His answer is close; how close</text>
+<text x="500.0" y="292.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">depends on the length of a stadion,</text>
+<text x="500.0" y="316.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">which nobody knows for sure.</text>
+</svg>

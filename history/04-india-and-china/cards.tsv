@@ -1,0 +1,15 @@
+What are the Sulba Sutras?	Indian rule books (c. 800 to 500 BCE) for laying out fire altars with ropes and stakes. They state the right-triangle rule.	math::history::04-india-and-china math::history::geometry
+Sulba Sutra approximation of \(\sqrt{2}\)?	\(1 + \frac{1}{3} + \frac{1}{3 \cdot 4} - \frac{1}{3 \cdot 4 \cdot 34} = \frac{577}{408} \approx 1.414216\)	math::history::04-india-and-china math::history::square-roots
+What do gou, gu, and xian mean?	Base, upright, and hypotenuse (string) of a right triangle in Chinese texts.	math::history::04-india-and-china math::history::geometry
+How does the gougu diagram show 3-4-5?	A 7 by 7 square (49) minus four 3-4 triangles (24) leaves a tilted square of area 25, side 5.	math::history::04-india-and-china math::history::geometry
+How do Chinese counting rods show place value?	Digits 1 to 9 in vertical and horizontal forms alternate by place; an empty square is zero.	math::history::04-india-and-china math::history::counting-rods
+How does the Nine Chapters tradition mark negative numbers?	Red rods for positive and black rods for negative (Liu Hui, 263).	math::history::04-india-and-china math::history::negative-numbers
+What is fangcheng?	Chapter 8 of the Nine Chapters: solving linear systems on a counting board by elimination, the method now called Gaussian elimination.	math::history::04-india-and-china math::history::linear-algebra
+Nine Chapters 8.1 answer (top, medium, low grain)?	\(9\tfrac14\), \(4\tfrac14\), \(2\tfrac34\) dou.	math::history::04-india-and-china math::history::linear-algebra
+Sunzi: remainder 2 by 3, 3 by 5, 2 by 7. Smallest number?	23. Recipe: \(2 \cdot 70 + 3 \cdot 21 + 2 \cdot 15 = 233\), minus \(2 \cdot 105\).	math::history::04-india-and-china math::history::number-theory
+Zu Chongzhi's close ratio for pi?	355/113 = 3.1415929, right to six decimals (c. 480).	math::history::04-india-and-china math::history::pi
+Aryabhata's value of pi (499)?	62,832 / 20,000 = 3.1416, which he calls approximate.	math::history::04-india-and-china math::history::pi
+Where does the word sine come from?	Sanskrit jya (bowstring) becomes Arabic jiba, misread as jaib (pocket), translated into Latin as sinus.	math::history::04-india-and-china math::history::trigonometry
+Brahmagupta's rules: debt times debt? Zero minus a debt?	A debt times a debt is a fortune; zero minus a debt is a fortune. His slip: 0/0 = 0 (today undefined).	math::history::04-india-and-china math::history::zero
+What series for pi does Madhava find?	\(\pi = 4(1 - \frac13 + \frac15 - \frac17 + \cdots)\), about 250 years before Leibniz, plus an end correction to speed it up.	math::history::04-india-and-china math::history::series
+How do Indian numerals reach Europe?	India to Baghdad (Arabic translations c. 773, al-Khwarizmi c. 825), then Latin translations in the 1100s and Fibonacci in 1202.	math::history::04-india-and-china math::history::numerals

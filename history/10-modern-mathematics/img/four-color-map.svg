@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" width="700" height="420" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>A map that needs four colors: a center region surrounded by a ring of five</title>
+<rect x="0" y="0" width="700" height="420" fill="#ffffff"/>
+<text x="350.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">Four Color Theorem (Appel and Haken, 1976)</text>
+<rect x="30.0" y="50.0" width="400.0" height="350.0" rx="0" fill="#f4a37a" stroke="#222222" stroke-width="2"/>
+<path d="M 230.0 75.0 A 150 150 0 0 1 372.7 178.6 L 287.1 206.5 A 60 60 0 0 0 230.0 165.0 Z" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="291.7" y="145.1" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">1</text>
+<path d="M 372.7 178.6 A 150 150 0 0 1 318.2 346.4 L 265.3 273.5 A 60 60 0 0 0 287.1 206.5 Z" fill="#ced4da" stroke="#222222" stroke-width="2"/>
+<text x="329.9" y="262.4" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">2</text>
+<path d="M 318.2 346.4 A 150 150 0 0 1 141.8 346.4 L 194.7 273.5 A 60 60 0 0 0 265.3 273.5 Z" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="230.0" y="335.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">1</text>
+<path d="M 141.8 346.4 A 150 150 0 0 1 87.3 178.6 L 172.9 206.5 A 60 60 0 0 0 194.7 273.5 Z" fill="#ced4da" stroke="#222222" stroke-width="2"/>
+<text x="130.1" y="262.4" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">2</text>
+<path d="M 87.3 178.6 A 150 150 0 0 1 230.0 75.0 L 230.0 165.0 A 60 60 0 0 0 172.9 206.5 Z" fill="#868e96" stroke="#222222" stroke-width="2"/>
+<text x="168.3" y="145.1" text-anchor="middle" font-size="16" fill="#ffffff" font-weight="bold">3</text>
+<circle cx="230.0" cy="225.0" r="60.0" fill="#f4a37a" stroke="#222222" stroke-width="2"/>
+<text x="230.0" y="230.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">4</text>
+<text x="60.0" y="80.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">4</text>
+<text x="460.0" y="90.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">The ring of 5 regions is an</text>
+<text x="460.0" y="112.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">odd cycle: it needs 3 colors.</text>
+<text x="460.0" y="134.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">The center touches all 5,</text>
+<text x="460.0" y="156.0" text-anchor="start" font-size="14" fill="#d9480f" font-weight="bold">so it needs a 4th color.</text>
+<text x="460.0" y="178.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal"></text>
+<text x="460.0" y="200.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">Appel and Haken show four</text>
+<text x="460.0" y="222.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">colors always suffice by</text>
+<text x="460.0" y="244.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">checking almost 2,000 special</text>
+<text x="460.0" y="266.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">configurations with over</text>
+<text x="460.0" y="288.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">1,200 hours of computer time.</text>
+<text x="460.0" y="330.0" text-anchor="start" font-size="13" fill="#868e96" font-weight="normal">Numbers mark colors for</text>
+<text x="460.0" y="348.0" text-anchor="start" font-size="13" fill="#868e96" font-weight="normal">readers who cannot see them.</text>
+</svg>

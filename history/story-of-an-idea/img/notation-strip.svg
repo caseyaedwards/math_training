@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 250" width="960" height="250" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>The Life of Algebraic Notation</title>
+<rect x="0" y="0" width="960" height="250" fill="#ffffff"/>
+<text x="480.0" y="30.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">The Life of Algebraic Notation</text>
+<line x1="40.0" y1="100.0" x2="920.0" y2="100.0" stroke="#222222" stroke-width="2"/>
+<circle cx="70.0" cy="100.0" r="7.0" fill="#d9480f" stroke="#d9480f" stroke-width="2"/>
+<text x="70.0" y="82.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">c. 1800 BCE</text>
+<text x="70.0" y="130.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">rhetorical: all</text>
+<text x="70.0" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">in words</text>
+<circle cx="206.7" cy="100.0" r="7.0" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="206.7" y="82.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">c. 250</text>
+<text x="206.7" y="130.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Diophantus:</text>
+<text x="206.7" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">abbreviations</text>
+<circle cx="343.3" cy="100.0" r="7.0" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="343.3" y="82.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">1489</text>
+<text x="343.3" y="130.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Widmann prints</text>
+<text x="343.3" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">+ and −</text>
+<circle cx="480.0" cy="100.0" r="7.0" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="480.0" y="82.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">1557</text>
+<text x="480.0" y="130.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Recorde invents</text>
+<text x="480.0" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">=</text>
+<circle cx="616.7" cy="100.0" r="7.0" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="616.7" y="82.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">1591</text>
+<text x="616.7" y="130.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Viète: letters</text>
+<text x="616.7" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">for numbers</text>
+<circle cx="753.3" cy="100.0" r="7.0" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="753.3" y="82.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">1637</text>
+<text x="753.3" y="130.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Descartes: x, y</text>
+<text x="753.3" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">and x³</text>
+<circle cx="890.0" cy="100.0" r="7.0" fill="#d9480f" stroke="#d9480f" stroke-width="2"/>
+<text x="890.0" y="82.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">1734</text>
+<text x="890.0" y="130.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">Euler writes</text>
+<text x="890.0" y="148.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">f(x)</text>
+<text x="480.0" y="238.0" text-anchor="middle" font-size="12" fill="#868e96" font-weight="normal">Milestones are evenly spaced, not drawn to scale.</text>
+</svg>

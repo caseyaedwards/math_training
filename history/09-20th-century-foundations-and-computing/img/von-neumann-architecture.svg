@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="800" height="360" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>Von Neumann architecture: memory holds both program and data, the CPU fetches and executes</title>
+<rect x="0" y="0" width="800" height="360" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<text x="400.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">The Stored-Program Computer (EDVAC Report, 1945)</text>
+<rect x="300.0" y="70.0" width="220.0" height="150.0" rx="8" fill="#f8f9fa" stroke="#222222" stroke-width="2"/>
+<text x="410.0" y="92.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">CPU</text>
+<rect x="320.0" y="105.0" width="180.0" height="45.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="410.0" y="133.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">control unit</text>
+<rect x="320.0" y="160.0" width="180.0" height="45.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="410.0" y="188.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">arithmetic unit</text>
+<rect x="300.0" y="260.0" width="220.0" height="70.0" rx="8" fill="#fff4e6" stroke="#d9480f" stroke-width="2"/>
+<text x="410.0" y="288.0" text-anchor="middle" font-size="15" fill="#d9480f" font-weight="bold">memory</text>
+<text x="410.0" y="310.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="normal">program + data, same place</text>
+<line x1="390.0" y1="222.0" x2="390.0" y2="256.0" stroke="#d9480f" stroke-width="1.8" marker-end="url(#aa)"/>
+<line x1="430.0" y1="256.0" x2="430.0" y2="222.0" stroke="#d9480f" stroke-width="1.8" marker-end="url(#aa)"/>
+<text x="380.0" y="244.0" text-anchor="end" font-size="12" fill="#d9480f" font-weight="normal">fetch</text>
+<text x="440.0" y="244.0" text-anchor="start" font-size="12" fill="#d9480f" font-weight="normal">store</text>
+<rect x="60.0" y="120.0" width="160.0" height="60.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="140.0" y="155.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">input</text>
+<rect x="600.0" y="120.0" width="160.0" height="60.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="680.0" y="155.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="normal">output</text>
+<line x1="222.0" y1="150.0" x2="296.0" y2="150.0" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<line x1="522.0" y1="150.0" x2="596.0" y2="150.0" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<text x="400.0" y="350.0" text-anchor="middle" font-size="13" fill="#868e96" font-weight="normal">A program is just data the machine reads: load a new one and the same hardware does a new job.</text>
+</svg>

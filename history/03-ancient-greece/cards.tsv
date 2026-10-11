@@ -1,0 +1,14 @@
+What new thing do the Greeks add to Egyptian and Babylonian mathematics?	Proof: a chain of checked steps from accepted starting statements to a conclusion.	math::history::03-ancient-greece math::history::proof
+State the Pythagorean theorem.	In a right triangle with short sides a, b and hypotenuse c: \(a^2 + b^2 = c^2\).	math::history::03-ancient-greece math::history::geometry
+How does the rearrangement proof of Pythagoras work?	Two squares of side \(a+b\) each hold four equal right triangles. The leftover is \(c^2\) in one and \(a^2 + b^2\) in the other. The leftovers match.	math::history::03-ancient-greece math::history::geometry
+Why is \(\sqrt{2}\) not a ratio of whole numbers?	If \(\sqrt{2} = p/q\) in lowest terms, then \(p^2 = 2q^2\). Then p is even, then q is even: a contradiction.	math::history::03-ancient-greece math::history::irrational
+What is an axiom?	A starting statement accepted without proof, from which everything else is proved.	math::history::03-ancient-greece math::history::proof
+What does Euclid Elements I.1 construct, and how?	An equilateral triangle on a segment AB: draw circles centered at A and at B with radius AB; they cross at C.	math::history::03-ancient-greece math::history::euclid
+Euclid IX.20: why do the primes never run out?	Multiply any finite list of primes and add 1. The result leaves remainder 1 on each. Its prime factors are new.	math::history::03-ancient-greece math::history::number-theory
+Is \(2 \cdot 3 \cdot 5 \cdot 7 \cdot 11 \cdot 13 + 1\) prime?	No: \(30{,}031 = 59 \times 509\). Euclid only claims a new prime factor exists.	math::history::03-ancient-greece math::history::number-theory
+What bounds does Archimedes prove for pi, and with what polygons?	\(3\tfrac{10}{71} < \pi < 3\tfrac{1}{7}\), with inscribed and circumscribed 96-gons.	math::history::03-ancient-greece math::history::pi
+What is the method of exhaustion?	Fill a curved shape with straight-edged pieces until the leftover is smaller than any named amount. Eudoxus invents it; Archimedes uses it.	math::history::03-ancient-greece math::history::calculus
+How does Eratosthenes measure the Earth?	Shadow angle at Alexandria 7.2 degrees = 1/50 of a circle; Syene is 5,000 stadia away; 50 x 5,000 = 250,000 stadia.	math::history::03-ancient-greece math::history::eratosthenes
+How does the sieve of Eratosthenes work?	List numbers from 2. Keep the first survivor, cross out its multiples, repeat. The survivors are primes.	math::history::03-ancient-greece math::history::number-theory
+What three curves does Apollonius name in the Conics?	Ellipse, parabola, hyperbola: the cuts of a cone by a plane.	math::history::03-ancient-greece math::history::geometry
+Who is Hypatia?	A teacher of mathematics and philosophy in Alexandria (c. 370 to 415) who edits Ptolemy and comments on Diophantus and Apollonius.	math::history::03-ancient-greece math::history::people

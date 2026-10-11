@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1348 550" width="1348" height="550" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>Schematic map of places where mathematics grew</title>
+<rect x="0" y="0" width="1348" height="550" fill="#ffffff"/>
+<text x="674.0" y="30.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">Where Math Grew: Places Behind the Chapters</text>
+<rect x="30.0" y="60.0" width="1288.0" height="420.0" rx="0" fill="#f8fbff" stroke="#868e96" stroke-width="1"/>
+<line x1="30.0" y1="424.0" x2="1318.0" y2="424.0" stroke="#e9ecef" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="34.0" y="420.0" text-anchor="start" font-size="11" fill="#868e96" font-weight="normal">equator</text>
+<line x1="30.0" y1="256.0" x2="1318.0" y2="256.0" stroke="#e9ecef" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="34.0" y="252.0" text-anchor="start" font-size="11" fill="#868e96" font-weight="normal">30°N</text>
+<line x1="30.0" y1="88.0" x2="1318.0" y2="88.0" stroke="#e9ecef" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="34.0" y="84.0" text-anchor="start" font-size="11" fill="#868e96" font-weight="normal">60°N</text>
+<polygon points="58.0,60.0 142.0,54.4 181.2,76.8 254.0,88.0 282.0,116.0 310.0,144.0 254.0,172.0 226.0,188.8 198.0,211.2 192.4,228.0 164.4,250.4 170.0,278.4 158.8,267.2 147.6,256.0 114.0,258.8 74.8,267.2 74.8,300.8 102.8,320.4 125.2,306.4 130.8,334.4 153.2,340.0 153.2,368.0 181.2,379.2 170.0,379.2 142.0,362.4 102.8,345.6 58.0,328.8" fill="#e9ecef" stroke="#adb5bd" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="175.6,379.2 214.8,356.8 270.8,365.2 326.8,396.0 338.0,424.0 371.6,438.0 422.0,457.6 416.4,480.0 181.2,480.0 164.4,452.0 170.0,424.0 186.8,401.6" fill="#e9ecef" stroke="#adb5bd" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="522.8,306.4 528.4,340.0 522.8,341.7 550.8,379.2 573.2,398.8 618.0,396.0 668.4,401.6 671.2,418.4 693.6,480.0 842.0,480.0 842.0,440.8 903.6,362.4 858.8,356.8 836.4,334.4 814.0,289.6 805.6,267.2 800.0,256.0 758.0,247.6 730.0,250.4 724.4,254.3 674.0,236.4 679.6,216.8 674.0,215.1 612.4,223.5 584.4,223.5 562.0,256.0 545.2,272.8" fill="#e9ecef" stroke="#adb5bd" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="567.6,216.8 567.6,183.2 606.8,180.4 609.6,163.6 592.8,152.4 629.2,138.4 640.4,132.8 662.8,121.6 665.6,104.8 676.8,102.0 674.0,118.8 696.4,121.6 730.0,118.8 735.6,104.8 752.4,99.2 752.4,90.8 780.4,88.0 741.2,85.2 735.6,71.2 760.8,60.0 1318.0,60.0 1318.0,200.0 1295.6,200.0 1278.8,205.6 1301.2,216.8 1290.0,228.0 1298.4,250.4 1301.2,261.6 1287.2,284.0 1256.4,299.1 1228.4,303.6 1211.6,317.6 1228.4,356.8 1206.0,373.6 1178.0,348.4 1178.0,390.4 1197.6,415.6 1178.0,407.2 1166.8,379.2 1166.8,334.4 1144.4,317.6 1127.6,298.0 1105.2,303.6 1066.0,337.2 1066.0,368.0 1049.2,379.2 1026.8,334.4 1024.0,306.4 1001.6,292.4 990.4,281.2 937.2,280.1 931.6,272.8 909.2,270.0 898.0,256.0 886.8,258.8 903.6,289.6 931.6,276.7 951.2,298.0 909.2,334.4 858.8,352.9 836.4,306.4 814.0,267.2 811.2,247.6 818.5,230.8 819.6,219.6 769.2,216.8 763.6,200.0 746.8,200.0 752.4,211.2 741.2,219.6 735.6,208.4 727.2,191.6 690.8,169.2 686.9,174.8 707.6,191.6 721.6,200.0 707.6,211.2 705.4,211.2 685.2,188.8 674.0,177.6 651.6,183.2 634.8,181.5 634.8,188.8 618.0,205.6 615.2,211.2 606.8,218.5 587.2,222.4" fill="#e9ecef" stroke="#adb5bd" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="590.0,144.0 626.4,138.4 627.5,128.9 618.0,124.4 606.8,104.8 607.9,101.4 595.6,95.8 587.2,99.2 584.4,110.4 590.0,118.8 601.2,121.6 592.8,126.1 592.8,134.5 587.2,144.0" fill="#e9ecef" stroke="#adb5bd" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="584.4,132.8 584.4,118.8 573.2,114.9 562.0,121.6 562.0,135.0" fill="#e9ecef" stroke="#adb5bd" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="646.0,99.2 646.0,76.8 662.8,68.4 685.2,60.0 738.4,60.0 716.0,74.0 721.6,90.8 710.4,109.3 689.7,113.2 679.6,94.7 662.8,99.2" fill="#e9ecef" stroke="#adb5bd" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="1066.0,368.0 1077.2,382.0 1071.6,390.4 1066.0,390.4 1064.9,379.2" fill="#e9ecef" stroke="#adb5bd" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="1150.0,393.2 1166.8,401.6 1211.6,457.6 1189.2,446.4 1155.6,407.2" fill="#e9ecef" stroke="#adb5bd" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="1228.4,418.4 1273.2,384.8 1284.4,396.0 1267.6,446.4 1234.0,440.8" fill="#e9ecef" stroke="#adb5bd" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="1206.0,457.6 1256.4,463.2 1256.4,471.6 1211.6,466.0" fill="#e9ecef" stroke="#adb5bd" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="142.0,300.8 170.0,295.2 203.6,312.0 186.8,312.0" fill="#e9ecef" stroke="#adb5bd" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="774.8,193.3 780.4,174.8 802.8,166.4 825.2,160.8 850.4,188.8 819.6,191.6" fill="#f8fbff" stroke="#adb5bd" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="881.2,172.0 914.8,160.8 920.4,200.0 917.6,216.8 892.4,214.0 895.2,194.4" fill="#f8fbff" stroke="#adb5bd" stroke-width="1" stroke-linejoin="round"/>
+<circle cx="783.8" cy="423.4" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="793.8" y="427.4" text-anchor="start" font-size="12" fill="#222222" font-weight="normal">Ishango (01)</text>
+<circle cx="873.4" cy="248.7" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="881.4" y="264.7" text-anchor="start" font-size="12" fill="#222222" font-weight="normal">Uruk (02)</text>
+<circle cx="866.6" cy="240.3" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="856.6" y="234.3" text-anchor="end" font-size="12" fill="#222222" font-weight="normal">Babylon and Baghdad (02 05)</text>
+<circle cx="800.6" cy="280.1" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="792.6" y="294.1" text-anchor="end" font-size="12" fill="#222222" font-weight="normal">Thebes (Rhind papyrus) (02)</text>
+<circle cx="785.4" cy="249.3" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="777.4" y="265.3" text-anchor="end" font-size="12" fill="#222222" font-weight="normal">Alexandria (03)</text>
+<circle cx="750.7" cy="211.2" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="758.7" y="205.2" text-anchor="start" font-size="12" fill="#222222" font-weight="normal">Athens (03)</text>
+<circle cx="1094.6" cy="280.6" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="1102.6" y="274.6" text-anchor="start" font-size="12" fill="#222222" font-weight="normal">Pataliputra (04)</text>
+<circle cx="1042.5" cy="294.1" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="1034.5" y="298.1" text-anchor="end" font-size="12" fill="#222222" font-weight="normal">Ujjain (04)</text>
+<circle cx="1044.7" cy="365.2" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="1036.7" y="369.2" text-anchor="end" font-size="12" fill="#222222" font-weight="normal">Kerala (04)</text>
+<circle cx="1247.4" cy="230.2" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="1239.4" y="222.2" text-anchor="end" font-size="12" fill="#222222" font-weight="normal">Luoyang (04)</text>
+<circle cx="993.2" cy="201.7" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="1001.2" y="195.7" text-anchor="start" font-size="12" fill="#222222" font-weight="normal">Samarkand (05)</text>
+<circle cx="947.3" cy="221.3" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="955.3" y="237.3" text-anchor="start" font-size="12" fill="#222222" font-weight="normal">Nishapur (05)</text>
+<circle cx="199.7" cy="198.3" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="207.7" y="212.3" text-anchor="start" font-size="12" fill="#222222" font-weight="normal">Princeton (09 10)</text>
+<circle cx="116.2" cy="327.7" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="124.2" y="331.7" text-anchor="start" font-size="12" fill="#222222" font-weight="normal">Maya cities (04)</text>
+<line x1="618.6" y1="131.7" x2="589.0" y2="106.0" stroke="#868e96" stroke-width="1"/>
+<circle cx="618.6" cy="131.7" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="585.0" y="110.0" text-anchor="end" font-size="12" fill="#222222" font-weight="normal">Cambridge (07 09)</text>
+<line x1="631.2" y1="150.2" x2="589.0" y2="136.0" stroke="#868e96" stroke-width="1"/>
+<circle cx="631.2" cy="150.2" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="585.0" y="140.0" text-anchor="end" font-size="12" fill="#222222" font-weight="normal">Paris (07 08)</text>
+<line x1="660.6" y1="157.4" x2="589.0" y2="166.0" stroke="#868e96" stroke-width="1"/>
+<circle cx="660.6" cy="157.4" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="585.0" y="170.0" text-anchor="end" font-size="12" fill="#222222" font-weight="normal">Basel (08)</text>
+<line x1="676.2" y1="179.3" x2="589.0" y2="196.0" stroke="#868e96" stroke-width="1"/>
+<circle cx="676.2" cy="179.3" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="585.0" y="200.0" text-anchor="end" font-size="12" fill="#222222" font-weight="normal">Pisa (06)</text>
+<line x1="703.7" y1="216.2" x2="589.0" y2="226.0" stroke="#868e96" stroke-width="1"/>
+<circle cx="703.7" cy="216.2" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="585.0" y="230.0" text-anchor="end" font-size="12" fill="#222222" font-weight="normal">Syracuse (03)</text>
+<line x1="787.7" y1="88.6" x2="826.0" y2="88.0" stroke="#868e96" stroke-width="1"/>
+<circle cx="787.7" cy="88.6" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="830.0" y="92.0" text-anchor="start" font-size="12" fill="#222222" font-weight="normal">St Petersburg (08)</text>
+<line x1="732.8" y1="117.7" x2="826.0" y2="113.0" stroke="#868e96" stroke-width="1"/>
+<circle cx="732.8" cy="117.7" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="830.0" y="117.0" text-anchor="start" font-size="12" fill="#222222" font-weight="normal">Königsberg (08)</text>
+<line x1="673.4" y1="135.6" x2="826.0" y2="138.0" stroke="#868e96" stroke-width="1"/>
+<circle cx="673.4" cy="135.6" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="830.0" y="142.0" text-anchor="start" font-size="12" fill="#222222" font-weight="normal">Göttingen (08 09)</text>
+<line x1="709.8" y1="154.1" x2="826.0" y2="163.0" stroke="#868e96" stroke-width="1"/>
+<circle cx="709.8" cy="154.1" r="4.5" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="830.0" y="167.0" text-anchor="start" font-size="12" fill="#222222" font-weight="normal">Vienna (09)</text>
+<text x="674.0" y="504.0" text-anchor="middle" font-size="13" fill="#868e96" font-weight="normal">Dots at true latitude and longitude; coastlines are rough sketches. Numbers in brackets are chapters.</text>
+</svg>

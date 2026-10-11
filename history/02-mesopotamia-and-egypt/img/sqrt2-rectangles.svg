@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 400" width="820" height="400" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>Making a rectangle of area 2 more and more square to find the square root of 2</title>
+<rect x="0" y="0" width="820" height="400" fill="#ffffff"/>
+<text x="410.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">Square Root of 2: Make a Rectangle of Area 2 Squarer</text>
+<rect x="40.0" y="120.0" width="110.0" height="220.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="95.0" y="360.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">1</text>
+<text x="158.0" y="235.0" text-anchor="start" font-size="14" fill="#222222" font-weight="bold">2</text>
+<text x="95.0" y="235.0" text-anchor="middle" font-size="13" fill="#868e96" font-weight="normal">area 2</text>
+<text x="40.0" y="70.0" text-anchor="start" font-size="14" fill="#222222" font-weight="bold">guess 1: side 1</text>
+<rect x="290.0" y="193.3" width="165.0" height="146.7" rx="0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="372.5" y="360.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">1.5</text>
+<text x="463.0" y="271.7" text-anchor="start" font-size="14" fill="#222222" font-weight="bold">1.3333</text>
+<text x="372.5" y="271.7" text-anchor="middle" font-size="13" fill="#868e96" font-weight="normal">area 2</text>
+<text x="290.0" y="70.0" text-anchor="start" font-size="14" fill="#222222" font-weight="bold">guess 2: side 1.5</text>
+<rect x="560.0" y="184.7" width="155.8" height="155.3" rx="0" fill="#fff4e6" stroke="#d9480f" stroke-width="2"/>
+<text x="637.9" y="360.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">1.4167</text>
+<text x="723.8" y="267.4" text-anchor="start" font-size="14" fill="#222222" font-weight="bold">1.4118</text>
+<text x="637.9" y="267.4" text-anchor="middle" font-size="13" fill="#868e96" font-weight="normal">area 2</text>
+<text x="560.0" y="70.0" text-anchor="start" font-size="14" fill="#d9480f" font-weight="bold">guess 3: side 1.41667</text>
+<text x="410.0" y="375.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="normal">Next side = average of the two sides: (1 + 2)/2 = 1.5, then (1.5 + 1.3333)/2 = 1.41667, then 1.414216.</text>
+<text x="410.0" y="393.0" text-anchor="middle" font-size="12" fill="#868e96" font-weight="normal">Three averages give 577/408 = 1;24,51,10,35 in base 60: keep three places and you get the tablet value. Heron writes the method down later.</text>
+</svg>

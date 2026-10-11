@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>Chinese hypotenuse diagram from the Zhoubi Suanjing for the 3-4-5 triangle</title>
+<rect x="0" y="0" width="760" height="400" fill="#ffffff"/>
+<text x="380.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">The Gougu Diagram (Zhoubi Suanjing): 3, 4, 5 on a 7 by 7 Grid</text>
+<polygon points="60.0,60.0 186.0,60.0 60.0,228.0" fill="#e9ecef" stroke="none" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="354.0,60.0 354.0,186.0 186.0,60.0" fill="#e9ecef" stroke="none" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="354.0,354.0 228.0,354.0 354.0,186.0" fill="#e9ecef" stroke="none" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="60.0,354.0 60.0,228.0 228.0,354.0" fill="#e9ecef" stroke="none" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="186.0,60.0 354.0,186.0 228.0,354.0 60.0,228.0" fill="#fff4e6" stroke="none" stroke-width="1.5" stroke-linejoin="round"/>
+<line x1="60.0" y1="60.0" x2="60.0" y2="354.0" stroke="#ced4da" stroke-width="1"/>
+<line x1="60.0" y1="60.0" x2="354.0" y2="60.0" stroke="#ced4da" stroke-width="1"/>
+<line x1="102.0" y1="60.0" x2="102.0" y2="354.0" stroke="#ced4da" stroke-width="1"/>
+<line x1="60.0" y1="102.0" x2="354.0" y2="102.0" stroke="#ced4da" stroke-width="1"/>
+<line x1="144.0" y1="60.0" x2="144.0" y2="354.0" stroke="#ced4da" stroke-width="1"/>
+<line x1="60.0" y1="144.0" x2="354.0" y2="144.0" stroke="#ced4da" stroke-width="1"/>
+<line x1="186.0" y1="60.0" x2="186.0" y2="354.0" stroke="#ced4da" stroke-width="1"/>
+<line x1="60.0" y1="186.0" x2="354.0" y2="186.0" stroke="#ced4da" stroke-width="1"/>
+<line x1="228.0" y1="60.0" x2="228.0" y2="354.0" stroke="#ced4da" stroke-width="1"/>
+<line x1="60.0" y1="228.0" x2="354.0" y2="228.0" stroke="#ced4da" stroke-width="1"/>
+<line x1="270.0" y1="60.0" x2="270.0" y2="354.0" stroke="#ced4da" stroke-width="1"/>
+<line x1="60.0" y1="270.0" x2="354.0" y2="270.0" stroke="#ced4da" stroke-width="1"/>
+<line x1="312.0" y1="60.0" x2="312.0" y2="354.0" stroke="#ced4da" stroke-width="1"/>
+<line x1="60.0" y1="312.0" x2="354.0" y2="312.0" stroke="#ced4da" stroke-width="1"/>
+<line x1="354.0" y1="60.0" x2="354.0" y2="354.0" stroke="#ced4da" stroke-width="1"/>
+<line x1="60.0" y1="354.0" x2="354.0" y2="354.0" stroke="#ced4da" stroke-width="1"/>
+<rect x="60.0" y="60.0" width="294.0" height="294.0" rx="0" fill="none" stroke="#222222" stroke-width="2"/>
+<polygon points="186.0,60.0 354.0,186.0 228.0,354.0 60.0,228.0" fill="none" stroke="#d9480f" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="123.0" y="52.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="normal">3 (gou)</text>
+<text x="270.0" y="52.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="normal">4 (gu)</text>
+<text x="153.0" y="166.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">5 (xian)</text>
+<text x="400.0" y="120.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">Outer square: 7 x 7</text>
+<text x="420.0" y="142.0" text-anchor="start" font-size="14" fill="#222222" font-weight="bold">= 49</text>
+<text x="400.0" y="170.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">Four corner triangles: 4 x (3 x 4 / 2)</text>
+<text x="420.0" y="192.0" text-anchor="start" font-size="14" fill="#222222" font-weight="bold">= 24</text>
+<text x="400.0" y="220.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">Tilted inner square</text>
+<text x="420.0" y="242.0" text-anchor="start" font-size="14" fill="#d9480f" font-weight="bold">= 49 − 24 = 25</text>
+<text x="400.0" y="270.0" text-anchor="start" font-size="14" fill="#222222" font-weight="normal">Side of inner square</text>
+<text x="420.0" y="292.0" text-anchor="start" font-size="14" fill="#d9480f" font-weight="bold">= 5</text>
+<text x="400.0" y="340.0" text-anchor="start" font-size="14" fill="#222222" font-weight="bold">In general: (a + b)² − 2ab = a² + b² = c²</text>
+</svg>

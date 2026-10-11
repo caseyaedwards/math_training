@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 390" width="800" height="390" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img">
+<title>A loop on a sphere shrinks to a point; a loop around a torus cannot</title>
+<rect x="0" y="0" width="800" height="390" fill="#ffffff"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<text x="400.0" y="28.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">Poincaré Conjecture Idea: Can Every Loop Shrink to a Point?</text>
+<circle cx="200.0" cy="190.0" r="110.0" fill="#f8f9fa" stroke="#222222" stroke-width="2"/>
+<ellipse cx="200" cy="150" rx="70" ry="24" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<ellipse cx="200" cy="136" rx="42" ry="14" fill="none" stroke="#d9480f" stroke-width="2.0" stroke-dasharray="5 3"/>
+<ellipse cx="200" cy="122" rx="16" ry="5" fill="none" stroke="#d9480f" stroke-width="1.5" stroke-dasharray="5 3"/>
+<circle cx="200.0" cy="112.0" r="3.0" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="200.0" y="328.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">sphere: every loop shrinks</text>
+<ellipse cx="580" cy="190" rx="160" ry="80" fill="#f8f9fa" stroke="#222222" stroke-width="2"/>
+<path d="M 510 185 Q 580 225 650 185" fill="none" stroke="#222222" stroke-width="2"/>
+<path d="M 525 197 Q 580 168 635 197" fill="none" stroke="#222222" stroke-width="2"/>
+<ellipse cx="580" cy="242" rx="16" ry="31" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<text x="580.0" y="328.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">torus: this loop is stuck</text>
+<text x="610.0" y="260.0" text-anchor="start" font-size="12" fill="#d9480f" font-weight="normal">loop around the tube</text>
+<text x="400.0" y="375.0" text-anchor="middle" font-size="13" fill="#868e96" font-weight="normal">Poincaré (1904) asks this one dimension up. Perelman proves the answer is yes (posted 2002 to 2003).</text>
+</svg>

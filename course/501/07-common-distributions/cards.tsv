@@ -1,0 +1,12 @@
+Binomial story	Number of successes in n independent tries with success chance p.	math::501::distributions
+Binomial P(X=k)	\(\binom{n}{k}p^k(1-p)^{n-k}\)	math::501::distributions
+Binomial mean and variance	\(np\) and \(np(1-p)\)	math::501::distributions
+Poisson story	Count of events in a window at average rate \(\lambda\).	math::501::distributions
+Poisson P(X=k)	\(e^{-\lambda}\lambda^k / k!\)	math::501::distributions
+Poisson mean and variance	Both \(\lambda\).	math::501::distributions
+68-95-99.7 rule	Share of a normal within 1, 2, 3 standard deviations of the mean.	math::501::distributions
+z-score	\((x - \mu)/\sigma\)	math::501::distributions
+Exponential tail \(P(T > t)\)	\(e^{-\lambda t}\)	math::501::distributions
+Exponential mean	\(1/\lambda\)	math::501::distributions
+Memoryless property	\(P(T > s+t \mid T > s) = P(T > t)\): past waiting tells nothing.	math::501::distributions
+For a continuous distribution, probability is?	Area under the density curve over an interval.	math::501::distributions

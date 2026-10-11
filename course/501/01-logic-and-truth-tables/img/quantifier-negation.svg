@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 210" width="700" height="210" font-family="sans-serif" font-size="14" role="img" aria-label="Six host boxes, five with check marks and host5 with a cross; the negation of every host is healthy is some host is not healthy">
+<title>Six host boxes, five with check marks and host5 with a cross; the negation of every host is healthy is some host is not healthy</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="700" height="210" fill="white"/>
+<text x="350" y="24" text-anchor="middle" fill="#222222" font-weight="bold">Claim: every host is healthy. One counterexample kills it.</text>
+<rect x="40" y="50" width="80" height="70" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="80" y="140" text-anchor="middle" fill="#888888" font-size="13">host1</text>
+<path d="M73,85 L78,91 L88,78" fill="none" stroke="#222222" stroke-width="3"/>
+<rect x="145" y="50" width="80" height="70" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="185" y="140" text-anchor="middle" fill="#888888" font-size="13">host2</text>
+<path d="M178,85 L183,91 L193,78" fill="none" stroke="#222222" stroke-width="3"/>
+<rect x="250" y="50" width="80" height="70" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="290" y="140" text-anchor="middle" fill="#888888" font-size="13">host3</text>
+<path d="M283,85 L288,91 L298,78" fill="none" stroke="#222222" stroke-width="3"/>
+<rect x="355" y="50" width="80" height="70" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="395" y="140" text-anchor="middle" fill="#888888" font-size="13">host4</text>
+<path d="M388,85 L393,91 L403,78" fill="none" stroke="#222222" stroke-width="3"/>
+<rect x="460" y="50" width="80" height="70" fill="#f6d5c6" stroke="#d9480f" stroke-width="2.5" rx="6"/>
+<text x="500" y="140" text-anchor="middle" fill="#888888" font-size="13">host5</text>
+<line x1="493" y1="78" x2="507" y2="92" stroke="#d9480f" stroke-width="3.5"/><line x1="493" y1="92" x2="507" y2="78" stroke="#d9480f" stroke-width="3.5"/>
+<rect x="565" y="50" width="80" height="70" fill="white" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="605" y="140" text-anchor="middle" fill="#888888" font-size="13">host6</text>
+<path d="M598,85 L603,91 L613,78" fill="none" stroke="#222222" stroke-width="3"/>
+<text x="350" y="175" text-anchor="middle" fill="#d9480f" font-weight="bold">NOT (every host is healthy)  =  SOME host is NOT healthy</text>
+<text x="350" y="198" text-anchor="middle" fill="#888888" font-size="12">It does not mean every host is unhealthy.</text>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 420" width="500" height="420" font-family="sans-serif" font-size="14" role="img" aria-label="Parallelogram with corners (0,0), (3,1), (4,3), (1,2) inside a 4 by 3 box; six grey corner pieces of areas 1.5, 1, 1, 1.5, 1, 1 total 7, leaving area 5">
+<title>Parallelogram with corners (0,0), (3,1), (4,3), (1,2) inside a 4 by 3 box; six grey corner pieces of areas 1.5, 1, 1, 1.5, 1, 1 total 7, leaving area 5</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="500" height="420" fill="white"/>
+<text x="250" y="24" text-anchor="middle" fill="#222222" font-weight="bold">Area = big box − corner pieces = 12 − 7 = 5</text>
+<polygon points="60,325 345,325 345,230" fill="#e6e6e6" stroke="#222222" stroke-width="1.2"/>
+<text x="250" y="298.33" text-anchor="middle" fill="#888888" font-weight="bold" font-size="12">1.5</text>
+<polygon points="345,325 440,325 440,230 345,230" fill="#e6e6e6" stroke="#222222" stroke-width="1.2"/>
+<text x="392.5" y="282.5" text-anchor="middle" fill="#888888" font-weight="bold" font-size="12">1</text>
+<polygon points="345,230 440,230 440,40" fill="#e6e6e6" stroke="#222222" stroke-width="1.2"/>
+<text x="408.33" y="171.67" text-anchor="middle" fill="#888888" font-weight="bold" font-size="12">1</text>
+<polygon points="440,40 155,40 155,135" fill="#e6e6e6" stroke="#222222" stroke-width="1.2"/>
+<text x="250" y="76.67" text-anchor="middle" fill="#888888" font-weight="bold" font-size="12">1.5</text>
+<polygon points="60,135 155,135 155,40 60,40" fill="#e6e6e6" stroke="#222222" stroke-width="1.2"/>
+<text x="107.5" y="92.5" text-anchor="middle" fill="#888888" font-weight="bold" font-size="12">1</text>
+<polygon points="60,325 155,135 60,135" fill="#e6e6e6" stroke="#222222" stroke-width="1.2"/>
+<text x="91.67" y="203.33" text-anchor="middle" fill="#888888" font-weight="bold" font-size="12">1</text>
+<polygon points="60,325 345,230 440,40 155,135" fill="#d9480f" stroke="#d9480f" stroke-width="2.5" fill-opacity="0.3"/>
+<text x="250" y="188.5" text-anchor="middle" fill="#d9480f" font-weight="bold" font-size="22">5</text>
+<rect x="60" y="40" width="380" height="285" fill="none" stroke="#222222" stroke-width="2"/>
+<text x="250" y="347" text-anchor="middle" fill="#222222" font-size="13">width a + b = 3 + 1 = 4</text>
+<text x="50" y="182.5" text-anchor="end" fill="#222222" font-size="13">c + d</text>
+<text x="50" y="198.5" text-anchor="end" fill="#222222" font-size="13">= 3</text>
+<text x="250" y="375" text-anchor="middle" fill="#888888" font-size="13">columns (a, c) = (3, 1) and (b, d) = (1, 2)</text>
+<text x="250" y="397" text-anchor="middle" fill="#d9480f" font-weight="bold">(a+b)(c+d) − ac − bd − 2bc = ad − bc</text>
+</svg>

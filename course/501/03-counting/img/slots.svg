@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 250" width="700" height="250" font-family="sans-serif" font-size="14" role="img" aria-label="Three slot boxes labeled primary, secondary, tertiary holding 10, 9 and 8 choices, multiplying to 720; dividing by 6 gives 120 groups">
+<title>Three slot boxes labeled primary, secondary, tertiary holding 10, 9 and 8 choices, multiplying to 720; dividing by 6 gives 120 groups</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="700" height="250" fill="white"/>
+<text x="350" y="24" text-anchor="middle" fill="#222222" font-weight="bold">Filling 3 ranked slots from 10 people</text>
+<rect x="60" y="50" width="110" height="70" fill="#f6d5c6" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="115" y="95" text-anchor="middle" fill="#d9480f" font-weight="bold" font-size="26">10</text>
+<text x="115" y="140" text-anchor="middle" fill="#888888" font-size="13">primary</text>
+<text x="200" y="95" text-anchor="middle" fill="#222222" font-weight="bold" font-size="24">×</text>
+<rect x="230" y="50" width="110" height="70" fill="#f6d5c6" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="285" y="95" text-anchor="middle" fill="#d9480f" font-weight="bold" font-size="26">9</text>
+<text x="285" y="140" text-anchor="middle" fill="#888888" font-size="13">secondary</text>
+<text x="370" y="95" text-anchor="middle" fill="#222222" font-weight="bold" font-size="24">×</text>
+<rect x="400" y="50" width="110" height="70" fill="#f6d5c6" stroke="#222222" stroke-width="2" rx="6"/>
+<text x="455" y="95" text-anchor="middle" fill="#d9480f" font-weight="bold" font-size="26">8</text>
+<text x="455" y="140" text-anchor="middle" fill="#888888" font-size="13">tertiary</text>
+<text x="590" y="95" text-anchor="start" fill="#222222" font-weight="bold" font-size="22">= 720</text>
+<text x="350" y="185" text-anchor="middle" fill="#222222">Order matters (roles differ): P(10, 3) = 720.</text>
+<text x="350" y="212" text-anchor="middle" fill="#888888" font-size="13">Order does not matter (a plain panel): each group of 3 shows up 3! = 6 times,</text>
+<text x="350" y="232" text-anchor="middle" fill="#d9480f" font-weight="bold" font-size="13">so C(10, 3) = 720 / 6 = 120.</text>
+</svg>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 270" width="760" height="270" font-family="sans-serif" font-size="14" role="img" aria-label="Three determinant cases: stretch with det 2 doubles area, swap with det -1 flips orientation, collapse with det 0 flattens the square to a line">
+<title>Three determinant cases: stretch with det 2 doubles area, swap with det -1 flips orientation, collapse with det 0 flattens the square to a line</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="760" height="270" fill="white"/>
+<line x1="67.42" y1="225" x2="67.42" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="128.03" y1="225" x2="128.03" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="188.64" y1="225" x2="188.64" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="25" y1="194.7" x2="225" y2="194.7" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="25" y1="134.09" x2="225" y2="134.09" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="25" y1="73.48" x2="225" y2="73.48" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="25" y1="194.7" x2="225" y2="194.7" stroke="#222222" stroke-width="1.5"/>
+<line x1="67.42" y1="225" x2="67.42" y2="45" stroke="#222222" stroke-width="1.5"/>
+<polygon points="67.42,194.7 188.64,194.7 188.64,134.09 67.42,134.09" fill="#d9480f" stroke="#d9480f" stroke-width="2" fill-opacity="0.25"/>
+<line x1="67.42" y1="194.7" x2="188.64" y2="194.7" stroke="#d9480f" stroke-width="3" marker-end="url(#aha)"/>
+<line x1="67.42" y1="194.7" x2="67.42" y2="134.09" stroke="#222222" stroke-width="3" marker-end="url(#ah)"/>
+<text x="125" y="30" text-anchor="middle" fill="#222222" font-weight="bold">det = 2: area doubles</text>
+<text x="125" y="252" text-anchor="middle" fill="#888888" font-size="12">columns i → (2, 0), j → (0, 1)</text>
+<line x1="317.42" y1="225" x2="317.42" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="378.03" y1="225" x2="378.03" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="438.64" y1="225" x2="438.64" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="275" y1="194.7" x2="475" y2="194.7" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="275" y1="134.09" x2="475" y2="134.09" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="275" y1="73.48" x2="475" y2="73.48" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="275" y1="194.7" x2="475" y2="194.7" stroke="#222222" stroke-width="1.5"/>
+<line x1="317.42" y1="225" x2="317.42" y2="45" stroke="#222222" stroke-width="1.5"/>
+<polygon points="317.42,194.7 317.42,134.09 378.03,134.09 378.03,194.7" fill="#d9480f" stroke="#d9480f" stroke-width="2" fill-opacity="0.25"/>
+<line x1="317.42" y1="194.7" x2="317.42" y2="134.09" stroke="#d9480f" stroke-width="3" marker-end="url(#aha)"/>
+<line x1="317.42" y1="194.7" x2="378.03" y2="194.7" stroke="#222222" stroke-width="3" marker-end="url(#ah)"/>
+<text x="375" y="30" text-anchor="middle" fill="#222222" font-weight="bold">det = −1: flipped</text>
+<text x="375" y="252" text-anchor="middle" fill="#888888" font-size="12">columns i → (0, 1), j → (1, 0)</text>
+<line x1="567.42" y1="225" x2="567.42" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="628.03" y1="225" x2="628.03" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="688.64" y1="225" x2="688.64" y2="45" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="525" y1="194.7" x2="725" y2="194.7" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="525" y1="134.09" x2="725" y2="134.09" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="525" y1="73.48" x2="725" y2="73.48" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="525" y1="194.7" x2="725" y2="194.7" stroke="#222222" stroke-width="1.5"/>
+<line x1="567.42" y1="225" x2="567.42" y2="45" stroke="#222222" stroke-width="1.5"/>
+<polygon points="567.42,194.7 628.03,134.09 658.33,103.79 597.73,164.39" fill="#d9480f" stroke="#d9480f" stroke-width="2" fill-opacity="0.25"/>
+<line x1="567.42" y1="194.7" x2="628.03" y2="134.09" stroke="#d9480f" stroke-width="3" marker-end="url(#aha)"/>
+<line x1="567.42" y1="194.7" x2="597.73" y2="164.39" stroke="#222222" stroke-width="3" stroke-dasharray="6 4" marker-end="url(#ah)"/>
+<text x="625" y="30" text-anchor="middle" fill="#222222" font-weight="bold">det = 0: squashed flat</text>
+<text x="625" y="252" text-anchor="middle" fill="#888888" font-size="12">columns i → (1, 1), j → (0.5, 0.5)</text>
+</svg>

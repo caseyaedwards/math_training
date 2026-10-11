@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 340" width="520" height="340" font-family="sans-serif" font-size="14" role="img" aria-label="Parabola lambda squared minus 4 lambda plus 3 crossing the horizontal axis at lambda = 1 and lambda = 3">
+<title>Parabola lambda squared minus 4 lambda plus 3 crossing the horizontal axis at lambda = 1 and lambda = 3</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="520" height="340" fill="white"/>
+<line x1="100" y1="280" x2="100" y2="40" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="180" y1="280" x2="180" y2="40" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="260" y1="280" x2="260" y2="40" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="340" y1="280" x2="340" y2="40" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="420" y1="280" x2="420" y2="40" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="60" y1="258.18" x2="460" y2="258.18" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="60" y1="214.55" x2="460" y2="214.55" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="60" y1="170.91" x2="460" y2="170.91" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="60" y1="127.27" x2="460" y2="127.27" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="60" y1="83.64" x2="460" y2="83.64" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="60" y1="40" x2="460" y2="40" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="60" y1="214.55" x2="460" y2="214.55" stroke="#222222" stroke-width="1.5"/>
+<line x1="100" y1="280" x2="100" y2="40" stroke="#222222" stroke-width="1.5"/>
+<text x="180" y="231.55" text-anchor="middle" fill="#888888" font-size="12">1</text>
+<text x="260" y="231.55" text-anchor="middle" fill="#888888" font-size="12">2</text>
+<text x="340" y="231.55" text-anchor="middle" fill="#888888" font-size="12">3</text>
+<text x="420" y="231.55" text-anchor="middle" fill="#888888" font-size="12">4</text>
+<text x="93" y="262.18" text-anchor="end" fill="#888888" font-size="12">-1</text>
+<text x="93" y="174.91" text-anchor="end" fill="#888888" font-size="12">1</text>
+<text x="93" y="131.27" text-anchor="end" fill="#888888" font-size="12">2</text>
+<text x="93" y="87.64" text-anchor="end" fill="#888888" font-size="12">3</text>
+<text x="93" y="44" text-anchor="end" fill="#888888" font-size="12">4</text>
+<polyline points="82,42.15 84,46.98 86,51.75 88,56.47 90,61.14 92,65.75 94,70.3 96,74.8 98,79.25 100,83.64 102,87.97 104,92.25 106,96.48 108,100.65 110,104.77 112,108.84 114,112.85 116,116.8 118,120.7 120,124.55 122,128.34 124,132.07 126,135.75 128,139.38 130,142.95 132,146.47 134,149.94 136,153.35 138,156.7 140,160 142,163.25 144,166.44 146,169.57 148,172.65 150,175.68 152,178.65 154,181.57 156,184.44 158,187.25 160,190 162,192.7 164,195.35 166,197.94 168,200.47 170,202.95 172,205.38 174,207.75 176,210.07 178,212.34 180,214.55 182,216.7 184,218.8 186,220.85 188,222.84 190,224.77 192,226.65 194,228.48 196,230.25 198,231.97 200,233.64 202,235.25 204,236.8 206,238.3 208,239.75 210,241.14 212,242.47 214,243.75 216,244.98 218,246.15 220,247.27 222,248.34 224,249.35 226,250.3 228,251.2 230,252.05 232,252.84 234,253.57 236,254.25 238,254.88 240,255.45 242,255.97 244,256.44 246,256.85 248,257.2 250,257.5 252,257.75 254,257.94 256,258.07 258,258.15 260,258.18 262,258.15 264,258.07 266,257.94 268,257.75 270,257.5 272,257.2 274,256.85 276,256.44 278,255.97 280,255.45 282,254.88 284,254.25 286,253.57 288,252.84 290,252.05 292,251.2 294,250.3 296,249.35 298,248.34 300,247.27 302,246.15 304,244.98 306,243.75 308,242.47 310,241.14 312,239.75 314,238.3 316,236.8 318,235.25 320,233.64 322,231.97 324,230.25 326,228.48 328,226.65 330,224.77 332,222.84 334,220.85 336,218.8 338,216.7 340,214.55 342,212.34 344,210.07 346,207.75 348,205.38 350,202.95 352,200.47 354,197.94 356,195.35 358,192.7 360,190 362,187.25 364,184.44 366,181.57 368,178.65 370,175.68 372,172.65 374,169.57 376,166.44 378,163.25 380,160 382,156.7 384,153.35 386,149.94 388,146.47 390,142.95 392,139.38 394,135.75 396,132.07 398,128.34 400,124.55 402,120.7 404,116.8 406,112.85 408,108.84 410,104.77 412,100.65 414,96.48 416,92.25 418,87.97 420,83.64 422,79.25 424,74.8 426,70.3 428,65.75 430,61.14 432,56.47 434,51.75 436,46.98 438,42.15" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<circle cx="180" cy="214.55" r="7" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<text x="180" y="200.55" text-anchor="middle" fill="#d9480f" font-weight="bold">λ = 1</text>
+<circle cx="340" cy="214.55" r="7" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<text x="340" y="200.55" text-anchor="middle" fill="#d9480f" font-weight="bold">λ = 3</text>
+<text x="260" y="22" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">det(A − λI) = λ² − 4λ + 3 for A = [[2, 1], [1, 2]]</text>
+<text x="260" y="325" text-anchor="middle" fill="#888888" font-size="12">The eigenvalues are where the curve crosses zero.</text>
+<text x="452" y="232.55" text-anchor="end" fill="#888888" font-style="italic" font-size="13">λ</text>
+</svg>

@@ -1,0 +1,10 @@
+What is a random variable?	A function that gives a number to each outcome.	math::501::expectation
+Expectation \(E[X]\)	\(\sum x\,p(x)\): the balance point.	math::501::expectation
+Linearity of expectation	\(E[aX+b] = aE[X]+b\), \(E[X+Y]=E[X]+E[Y]\), always.	math::501::expectation
+Variance definition	\(E[(X-\mu)^2]\)	math::501::expectation
+Variance shortcut	\(E[X^2] - \mu^2\)	math::501::expectation
+Standard deviation	\(\sqrt{\operatorname{Var}(X)}\), in the same units as X.	math::501::expectation
+\(\operatorname{Var}(aX + b)\)	\(a^2 \operatorname{Var}(X)\)	math::501::expectation
+When do variances add?	\(\operatorname{Var}(X+Y)=\operatorname{Var}(X)+\operatorname{Var}(Y)\) for independent X, Y.	math::501::expectation
+Mean and variance of one fair die	3.5 and 35/12	math::501::expectation
+Variance of a 0/1 variable with P(1) = p	\(p(1-p)\)	math::501::expectation

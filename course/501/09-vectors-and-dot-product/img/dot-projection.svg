@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 360" width="500" height="360" font-family="sans-serif" font-size="14" role="img" aria-label="Vectors a = (4,1) and b = (2,3) with angle theta; the shadow (projection) of b onto a is highlighted">
+<title>Vectors a = (4,1) and b = (2,3) with angle theta; the shadow (projection) of b onto a is highlighted</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="500" height="360" fill="white"/>
+<line x1="77.5" y1="330" x2="77.5" y2="30" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="152.5" y1="330" x2="152.5" y2="30" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="227.5" y1="330" x2="227.5" y2="30" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="302.5" y1="330" x2="302.5" y2="30" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="377.5" y1="330" x2="377.5" y2="30" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="452.5" y1="330" x2="452.5" y2="30" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="40" y1="292.5" x2="460" y2="292.5" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="40" y1="217.5" x2="460" y2="217.5" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="40" y1="142.5" x2="460" y2="142.5" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="40" y1="67.5" x2="460" y2="67.5" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="40" y1="292.5" x2="460" y2="292.5" stroke="#222222" stroke-width="1.5"/>
+<line x1="77.5" y1="330" x2="77.5" y2="30" stroke="#222222" stroke-width="1.5"/>
+<text x="152.5" y="309.5" text-anchor="middle" fill="#888888" font-size="12">1</text>
+<text x="227.5" y="309.5" text-anchor="middle" fill="#888888" font-size="12">2</text>
+<text x="302.5" y="309.5" text-anchor="middle" fill="#888888" font-size="12">3</text>
+<text x="377.5" y="309.5" text-anchor="middle" fill="#888888" font-size="12">4</text>
+<text x="452.5" y="309.5" text-anchor="middle" fill="#888888" font-size="12">5</text>
+<text x="70.5" y="221.5" text-anchor="end" fill="#888888" font-size="12">1</text>
+<text x="70.5" y="146.5" text-anchor="end" fill="#888888" font-size="12">2</text>
+<text x="70.5" y="71.5" text-anchor="end" fill="#888888" font-size="12">3</text>
+<line x1="227.5" y1="67.5" x2="271.62" y2="243.97" stroke="#888888" stroke-width="1.5" stroke-dasharray="5 4"/>
+<line x1="77.5" y1="292.5" x2="377.5" y2="217.5" stroke="#222222" stroke-width="2.5" marker-end="url(#ah)"/>
+<line x1="77.5" y1="292.5" x2="271.62" y2="243.97" stroke="#d9480f" stroke-width="5"/>
+<line x1="77.5" y1="292.5" x2="227.5" y2="67.5" stroke="#222222" stroke-width="2.5" marker-end="url(#ah)"/>
+<polyline points="128.43,279.77 127.93,277.9 127.36,276.05 126.71,274.22 126.01,272.42 125.23,270.64 124.39,268.9 123.49,267.18 122.53,265.5 121.5,263.86 120.41,262.26 119.27,260.7 118.07,259.18 116.81,257.7 115.5,256.28 114.14,254.9 112.73,253.57 111.27,252.3 109.76,251.08 108.21,249.92 106.62,248.82" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="148.75" y="243.75" text-anchor="middle" fill="#222222" font-style="italic" font-size="15">θ</text>
+<polyline points="258.52,247.24 255.25,234.15 268.34,230.87" fill="none" stroke="#888888" stroke-width="1.2"/>
+<text x="381.25" y="247.5" text-anchor="start" fill="#222222" font-weight="bold" font-size="13">a = (4, 1)</text>
+<text x="231.25" y="60" text-anchor="start" fill="#222222" font-weight="bold" font-size="13">b = (2, 3)</text>
+<text x="193.75" y="288.75" text-anchor="middle" fill="#d9480f" font-size="12">shadow of b on a</text>
+<text x="250" y="20" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">a · b = |a| × (length of shadow of b on a) = 11</text>
+</svg>

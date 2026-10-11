@@ -1,0 +1,10 @@
+P(A) with equally likely outcomes	\(|A| / |S|\): favorable over total.	math::501::probability
+Complement rule	\(P(\text{not } A) = 1 - P(A)\)	math::501::probability
+Addition rule	\(P(A \cup B) = P(A) + P(B) - P(A \cap B)\)	math::501::probability
+Independent events: \(P(A \cap B)\)?	\(P(A) \cdot P(B)\)	math::501::probability
+P(sum = 7) with two dice	6/36 = 1/6	math::501::probability
+P(at least one six) in two rolls	\(1 - (5/6)^2 = 11/36\)	math::501::probability
+Availability of two required services, each 0.999	\(0.999^2 = 0.998001\) (series)	math::501::probability
+Availability of 3 parallel replicas, each 0.99	\(1 - 0.01^3 = 0.999999\)	math::501::probability
+Trigger word for the complement rule	at least	math::501::probability
+Are first die = 6 and sum = 7 independent?	Yes: 1/36 = 1/6 times 1/6.	math::501::probability

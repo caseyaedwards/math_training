@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360" width="700" height="360" font-family="sans-serif" font-size="14" role="img" aria-label="The six-vertex graph with DFS visit numbers: A 1, B 2, C 3, D 4, F 5, E 6; DFS tree edges form the single path A, B, C, D, F, E">
+<title>The six-vertex graph with DFS visit numbers: A 1, B 2, C 3, D 4, F 5, E 6; DFS tree edges form the single path A, B, C, D, F, E</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="700" height="360" fill="white"/>
+<line x1="90" y1="170" x2="250" y2="80" stroke="#d9480f" stroke-width="3"/>
+<line x1="90" y1="170" x2="250" y2="260" stroke="#888888" stroke-width="1.5" stroke-dasharray="6 5"/>
+<line x1="250" y1="80" x2="250" y2="260" stroke="#d9480f" stroke-width="3"/>
+<line x1="250" y1="80" x2="430" y2="80" stroke="#888888" stroke-width="1.5" stroke-dasharray="6 5"/>
+<line x1="250" y1="260" x2="430" y2="80" stroke="#d9480f" stroke-width="3"/>
+<line x1="250" y1="260" x2="430" y2="260" stroke="#888888" stroke-width="1.5" stroke-dasharray="6 5"/>
+<line x1="430" y1="80" x2="590" y2="170" stroke="#d9480f" stroke-width="3"/>
+<line x1="430" y1="260" x2="590" y2="170" stroke="#d9480f" stroke-width="3"/>
+<line x1="157.8" y1="131.86" x2="182.2" y2="118.14" stroke="#d9480f" stroke-width="3" marker-end="url(#aha)"/>
+<line x1="250" y1="156" x2="250" y2="184" stroke="#d9480f" stroke-width="3" marker-end="url(#aha)"/>
+<line x1="330.1" y1="179.9" x2="349.9" y2="160.1" stroke="#d9480f" stroke-width="3" marker-end="url(#aha)"/>
+<line x1="497.8" y1="118.14" x2="522.2" y2="131.86" stroke="#d9480f" stroke-width="3" marker-end="url(#aha)"/>
+<line x1="522.2" y1="208.14" x2="497.8" y2="221.86" stroke="#d9480f" stroke-width="3" marker-end="url(#aha)"/>
+<circle cx="90" cy="170" r="22" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="90" y="175" text-anchor="middle" fill="#222222" font-weight="bold">A</text>
+<text x="90" y="138" text-anchor="middle" fill="#d9480f" font-weight="bold" font-size="13">#1</text>
+<circle cx="250" cy="80" r="22" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="250" y="85" text-anchor="middle" fill="#222222" font-weight="bold">B</text>
+<text x="250" y="48" text-anchor="middle" fill="#d9480f" font-weight="bold" font-size="13">#2</text>
+<circle cx="250" cy="260" r="22" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="250" y="265" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<text x="250" y="304" text-anchor="middle" fill="#d9480f" font-weight="bold" font-size="13">#3</text>
+<circle cx="430" cy="80" r="22" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="430" y="85" text-anchor="middle" fill="#222222" font-weight="bold">D</text>
+<text x="430" y="48" text-anchor="middle" fill="#d9480f" font-weight="bold" font-size="13">#4</text>
+<circle cx="430" cy="260" r="22" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="430" y="265" text-anchor="middle" fill="#222222" font-weight="bold">E</text>
+<text x="430" y="304" text-anchor="middle" fill="#d9480f" font-weight="bold" font-size="13">#6</text>
+<circle cx="590" cy="170" r="22" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="590" y="175" text-anchor="middle" fill="#222222" font-weight="bold">F</text>
+<text x="590" y="138" text-anchor="middle" fill="#d9480f" font-weight="bold" font-size="13">#5</text>
+<text x="350" y="24" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">DFS from A: dive deep first. Visit order A, B, C, D, F, E.</text>
+<text x="350" y="345" text-anchor="middle" fill="#888888" font-size="12">Solid arrows: the DFS tree, one long path. Dashed: edges to vertices already seen.</text>
+</svg>

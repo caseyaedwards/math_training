@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 380" width="420" height="380" font-family="sans-serif" font-size="14" role="img" aria-label="Vector (3,4) drawn as an arrow from the origin with dashed legs 3 across and 4 up; its length is 5 by Pythagoras">
+<title>Vector (3,4) drawn as an arrow from the origin with dashed legs 3 across and 4 up; its length is 5 by Pythagoras</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="420" height="380" fill="white"/>
+<line x1="76.43" y1="346" x2="76.43" y2="30" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="137.14" y1="346" x2="137.14" y2="30" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="197.86" y1="346" x2="197.86" y2="30" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="258.57" y1="346" x2="258.57" y2="30" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="319.29" y1="346" x2="319.29" y2="30" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="380" y1="346" x2="380" y2="30" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="40" y1="309.54" x2="380" y2="309.54" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="40" y1="248.77" x2="380" y2="248.77" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="40" y1="188" x2="380" y2="188" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="40" y1="127.23" x2="380" y2="127.23" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="40" y1="66.46" x2="380" y2="66.46" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="40" y1="309.54" x2="380" y2="309.54" stroke="#222222" stroke-width="1.5"/>
+<line x1="76.43" y1="346" x2="76.43" y2="30" stroke="#222222" stroke-width="1.5"/>
+<text x="137.14" y="326.54" text-anchor="middle" fill="#888888" font-size="12">1</text>
+<text x="197.86" y="326.54" text-anchor="middle" fill="#888888" font-size="12">2</text>
+<text x="258.57" y="326.54" text-anchor="middle" fill="#888888" font-size="12">3</text>
+<text x="319.29" y="326.54" text-anchor="middle" fill="#888888" font-size="12">4</text>
+<text x="380" y="326.54" text-anchor="middle" fill="#888888" font-size="12">5</text>
+<text x="69.43" y="252.77" text-anchor="end" fill="#888888" font-size="12">1</text>
+<text x="69.43" y="192" text-anchor="end" fill="#888888" font-size="12">2</text>
+<text x="69.43" y="131.23" text-anchor="end" fill="#888888" font-size="12">3</text>
+<text x="69.43" y="70.46" text-anchor="end" fill="#888888" font-size="12">4</text>
+<line x1="76.43" y1="309.54" x2="258.57" y2="309.54" stroke="#888888" stroke-width="2.5" stroke-dasharray="6 4"/>
+<line x1="258.57" y1="309.54" x2="258.57" y2="66.46" stroke="#888888" stroke-width="2.5" stroke-dasharray="6 4"/>
+<line x1="76.43" y1="309.54" x2="258.57" y2="66.46" stroke="#d9480f" stroke-width="3.5" marker-end="url(#aha)"/>
+<text x="167.5" y="343.54" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">x-part 3</text>
+<text x="266.57" y="188" text-anchor="start" fill="#222222" font-weight="bold" font-size="13">y-part 4</text>
+<text x="149.29" y="169.77" text-anchor="end" fill="#d9480f" font-weight="bold">length 5</text>
+<text x="264.64" y="57.35" text-anchor="start" fill="#d9480f" font-weight="bold" font-size="13">v = (3, 4)</text>
+<text x="210" y="20" text-anchor="middle" fill="#222222" font-weight="bold">|v| = √(3² + 4²) = √25 = 5</text>
+</svg>

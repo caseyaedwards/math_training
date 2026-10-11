@@ -1,0 +1,10 @@
+Three legal row operations	Swap rows; multiply a row by a nonzero number; add a multiple of one row to another.	math::501::elimination
+Possible numbers of solutions of a linear system	0, 1, or infinitely many.	math::501::elimination
+Row \(0\;0\;0 \mid 5\) means?	0 = 5: no solution.	math::501::elimination
+Row \(0\;0\;0 \mid 0\) means?	A free unknown: infinitely many solutions (if no contradiction elsewhere).	math::501::elimination
+What is a pivot?	The nonzero entry used to clear the entries below it.	math::501::elimination
+Row echelon form	A staircase: zeros below each pivot.	math::501::elimination
+Back substitution	Solve the bottom row, then plug upward.	math::501::elimination
+Why are row operations safe?	They are reversible and keep every common solution.	math::501::elimination
+Matrix form of a system	\(Ax = b\)	math::501::elimination
+Two parallel lines as a system	No solution.	math::501::elimination

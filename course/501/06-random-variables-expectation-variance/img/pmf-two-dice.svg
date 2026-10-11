@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" font-family="sans-serif" font-size="14" role="img" aria-label="Bar chart of the sum of two dice from 2 to 12, heights 1/36 to 6/36 to 1/36, balanced on a fulcrum at 7">
+<title>Bar chart of the sum of two dice from 2 to 12, heights 1/36 to 6/36 to 1/36, balanced on a fulcrum at 7</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="640" height="360" fill="white"/>
+<rect x="77.09" y="238.57" width="33.09" height="31.43" fill="#f6d5c6" stroke="#222222" stroke-width="1.2"/>
+<text x="93.64" y="288" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<text x="93.64" y="232.57" text-anchor="middle" fill="#888888" font-size="11">1/36</text>
+<rect x="124.36" y="207.14" width="33.09" height="62.86" fill="#f6d5c6" stroke="#222222" stroke-width="1.2"/>
+<text x="140.91" y="288" text-anchor="middle" fill="#222222" font-size="13">3</text>
+<text x="140.91" y="201.14" text-anchor="middle" fill="#888888" font-size="11">2/36</text>
+<rect x="171.64" y="175.71" width="33.09" height="94.29" fill="#f6d5c6" stroke="#222222" stroke-width="1.2"/>
+<text x="188.18" y="288" text-anchor="middle" fill="#222222" font-size="13">4</text>
+<text x="188.18" y="169.71" text-anchor="middle" fill="#888888" font-size="11">3/36</text>
+<rect x="218.91" y="144.29" width="33.09" height="125.71" fill="#f6d5c6" stroke="#222222" stroke-width="1.2"/>
+<text x="235.45" y="288" text-anchor="middle" fill="#222222" font-size="13">5</text>
+<text x="235.45" y="138.29" text-anchor="middle" fill="#888888" font-size="11">4/36</text>
+<rect x="266.18" y="112.86" width="33.09" height="157.14" fill="#f6d5c6" stroke="#222222" stroke-width="1.2"/>
+<text x="282.73" y="288" text-anchor="middle" fill="#222222" font-size="13">6</text>
+<text x="282.73" y="106.86" text-anchor="middle" fill="#888888" font-size="11">5/36</text>
+<rect x="313.45" y="81.43" width="33.09" height="188.57" fill="#d9480f" stroke="#222222" stroke-width="1.2"/>
+<text x="330" y="288" text-anchor="middle" fill="#222222" font-size="13">7</text>
+<text x="330" y="75.43" text-anchor="middle" fill="#888888" font-size="11">6/36</text>
+<rect x="360.73" y="112.86" width="33.09" height="157.14" fill="#f6d5c6" stroke="#222222" stroke-width="1.2"/>
+<text x="377.27" y="288" text-anchor="middle" fill="#222222" font-size="13">8</text>
+<text x="377.27" y="106.86" text-anchor="middle" fill="#888888" font-size="11">5/36</text>
+<rect x="408" y="144.29" width="33.09" height="125.71" fill="#f6d5c6" stroke="#222222" stroke-width="1.2"/>
+<text x="424.55" y="288" text-anchor="middle" fill="#222222" font-size="13">9</text>
+<text x="424.55" y="138.29" text-anchor="middle" fill="#888888" font-size="11">4/36</text>
+<rect x="455.27" y="175.71" width="33.09" height="94.29" fill="#f6d5c6" stroke="#222222" stroke-width="1.2"/>
+<text x="471.82" y="288" text-anchor="middle" fill="#222222" font-size="13">10</text>
+<text x="471.82" y="169.71" text-anchor="middle" fill="#888888" font-size="11">3/36</text>
+<rect x="502.55" y="207.14" width="33.09" height="62.86" fill="#f6d5c6" stroke="#222222" stroke-width="1.2"/>
+<text x="519.09" y="288" text-anchor="middle" fill="#222222" font-size="13">11</text>
+<text x="519.09" y="201.14" text-anchor="middle" fill="#888888" font-size="11">2/36</text>
+<rect x="549.82" y="238.57" width="33.09" height="31.43" fill="#f6d5c6" stroke="#222222" stroke-width="1.2"/>
+<text x="566.36" y="288" text-anchor="middle" fill="#222222" font-size="13">12</text>
+<text x="566.36" y="232.57" text-anchor="middle" fill="#888888" font-size="11">1/36</text>
+<line x1="70" y1="270" x2="590" y2="270" stroke="#222222" stroke-width="1.5"/>
+<polygon points="330,296 314,322 346,322" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="354" y="318" text-anchor="start" fill="#d9480f" font-weight="bold">balance point: E[X] = 7</text>
+<text x="320" y="24" text-anchor="middle" fill="#222222" font-weight="bold">Sum of two dice: probability of each value</text>
+</svg>

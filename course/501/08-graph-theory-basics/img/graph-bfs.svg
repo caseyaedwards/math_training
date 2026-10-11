@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360" width="700" height="360" font-family="sans-serif" font-size="14" role="img" aria-label="Six-node graph A to F laid out in BFS levels 0 to 3 from A; BFS tree edges solid, other edges dashed">
+<title>Six-node graph A to F laid out in BFS levels 0 to 3 from A; BFS tree edges solid, other edges dashed</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="700" height="360" fill="white"/>
+<rect x="35" y="40" width="110" height="270" fill="#f7f7f7" stroke="none" stroke-width="0" rx="8"/>
+<text x="90" y="335" text-anchor="middle" fill="#888888" font-weight="bold" font-size="13">level 0</text>
+<rect x="195" y="40" width="110" height="270" fill="#f7f7f7" stroke="none" stroke-width="0" rx="8"/>
+<text x="250" y="335" text-anchor="middle" fill="#888888" font-weight="bold" font-size="13">level 1</text>
+<rect x="375" y="40" width="110" height="270" fill="#f7f7f7" stroke="none" stroke-width="0" rx="8"/>
+<text x="430" y="335" text-anchor="middle" fill="#888888" font-weight="bold" font-size="13">level 2</text>
+<rect x="535" y="40" width="110" height="270" fill="#f7f7f7" stroke="none" stroke-width="0" rx="8"/>
+<text x="590" y="335" text-anchor="middle" fill="#888888" font-weight="bold" font-size="13">level 3</text>
+<line x1="90" y1="170" x2="250" y2="80" stroke="#d9480f" stroke-width="3"/>
+<line x1="90" y1="170" x2="250" y2="260" stroke="#d9480f" stroke-width="3"/>
+<line x1="250" y1="80" x2="250" y2="260" stroke="#888888" stroke-width="1.5" stroke-dasharray="6 5"/>
+<line x1="250" y1="80" x2="430" y2="80" stroke="#d9480f" stroke-width="3"/>
+<line x1="250" y1="260" x2="430" y2="80" stroke="#888888" stroke-width="1.5" stroke-dasharray="6 5"/>
+<line x1="250" y1="260" x2="430" y2="260" stroke="#d9480f" stroke-width="3"/>
+<line x1="430" y1="80" x2="590" y2="170" stroke="#d9480f" stroke-width="3"/>
+<line x1="430" y1="260" x2="590" y2="170" stroke="#888888" stroke-width="1.5" stroke-dasharray="6 5"/>
+<circle cx="90" cy="170" r="22" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="90" y="175" text-anchor="middle" fill="#222222" font-weight="bold">A</text>
+<circle cx="250" cy="80" r="22" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="250" y="85" text-anchor="middle" fill="#222222" font-weight="bold">B</text>
+<circle cx="250" cy="260" r="22" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="250" y="265" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<circle cx="430" cy="80" r="22" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="430" y="85" text-anchor="middle" fill="#222222" font-weight="bold">D</text>
+<circle cx="430" cy="260" r="22" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="430" y="265" text-anchor="middle" fill="#222222" font-weight="bold">E</text>
+<circle cx="590" cy="170" r="22" fill="white" stroke="#222222" stroke-width="2"/>
+<text x="590" y="175" text-anchor="middle" fill="#222222" font-weight="bold">F</text>
+<text x="350" y="24" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">BFS from A: solid edges form the BFS tree, dashed edges are skipped</text>
+</svg>

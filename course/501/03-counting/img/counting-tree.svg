@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" width="760" height="340" font-family="sans-serif" font-size="14" role="img" aria-label="Tree of choices for arranging A, B, C: 3 branches, then 2, then 1, giving 6 leaves ABC to CBA">
+<title>Tree of choices for arranging A, B, C: 3 branches, then 2, then 1, giving 6 leaves ABC to CBA</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="760" height="340" fill="white"/>
+<circle cx="430" cy="40" r="6" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="430" y="26" text-anchor="middle" fill="#888888" font-size="12">start</text>
+<line x1="430" y1="40" x2="210" y2="120" stroke="#222222" stroke-width="1.6"/>
+<line x1="210" y1="120" x2="155" y2="200" stroke="#222222" stroke-width="1.6"/>
+<line x1="155" y1="200" x2="155" y2="280" stroke="#222222" stroke-width="1.6"/>
+<line x1="210" y1="120" x2="265" y2="200" stroke="#222222" stroke-width="1.6"/>
+<line x1="265" y1="200" x2="265" y2="280" stroke="#222222" stroke-width="1.6"/>
+<rect x="196" y="106" width="28" height="28" fill="white" stroke="#222222" stroke-width="1.6" rx="4"/>
+<text x="210" y="125" text-anchor="middle" fill="#222222" font-weight="bold">A</text>
+<line x1="430" y1="40" x2="430" y2="120" stroke="#222222" stroke-width="1.6"/>
+<line x1="430" y1="120" x2="375" y2="200" stroke="#222222" stroke-width="1.6"/>
+<line x1="375" y1="200" x2="375" y2="280" stroke="#222222" stroke-width="1.6"/>
+<line x1="430" y1="120" x2="485" y2="200" stroke="#222222" stroke-width="1.6"/>
+<line x1="485" y1="200" x2="485" y2="280" stroke="#222222" stroke-width="1.6"/>
+<rect x="416" y="106" width="28" height="28" fill="white" stroke="#222222" stroke-width="1.6" rx="4"/>
+<text x="430" y="125" text-anchor="middle" fill="#222222" font-weight="bold">B</text>
+<line x1="430" y1="40" x2="650" y2="120" stroke="#222222" stroke-width="1.6"/>
+<line x1="650" y1="120" x2="595" y2="200" stroke="#222222" stroke-width="1.6"/>
+<line x1="595" y1="200" x2="595" y2="280" stroke="#222222" stroke-width="1.6"/>
+<line x1="650" y1="120" x2="705" y2="200" stroke="#222222" stroke-width="1.6"/>
+<line x1="705" y1="200" x2="705" y2="280" stroke="#222222" stroke-width="1.6"/>
+<rect x="636" y="106" width="28" height="28" fill="white" stroke="#222222" stroke-width="1.6" rx="4"/>
+<text x="650" y="125" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<rect x="141" y="186" width="28" height="28" fill="white" stroke="#222222" stroke-width="1.6" rx="4"/>
+<text x="155" y="205" text-anchor="middle" fill="#222222" font-weight="bold">B</text>
+<rect x="141" y="266" width="28" height="28" fill="white" stroke="#222222" stroke-width="1.6" rx="4"/>
+<text x="155" y="285" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<text x="155" y="322" text-anchor="middle" fill="#d9480f" font-weight="bold">ABC</text>
+<rect x="251" y="186" width="28" height="28" fill="white" stroke="#222222" stroke-width="1.6" rx="4"/>
+<text x="265" y="205" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<rect x="251" y="266" width="28" height="28" fill="white" stroke="#222222" stroke-width="1.6" rx="4"/>
+<text x="265" y="285" text-anchor="middle" fill="#222222" font-weight="bold">B</text>
+<text x="265" y="322" text-anchor="middle" fill="#d9480f" font-weight="bold">ACB</text>
+<rect x="361" y="186" width="28" height="28" fill="white" stroke="#222222" stroke-width="1.6" rx="4"/>
+<text x="375" y="205" text-anchor="middle" fill="#222222" font-weight="bold">A</text>
+<rect x="361" y="266" width="28" height="28" fill="white" stroke="#222222" stroke-width="1.6" rx="4"/>
+<text x="375" y="285" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<text x="375" y="322" text-anchor="middle" fill="#d9480f" font-weight="bold">BAC</text>
+<rect x="471" y="186" width="28" height="28" fill="white" stroke="#222222" stroke-width="1.6" rx="4"/>
+<text x="485" y="205" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<rect x="471" y="266" width="28" height="28" fill="white" stroke="#222222" stroke-width="1.6" rx="4"/>
+<text x="485" y="285" text-anchor="middle" fill="#222222" font-weight="bold">A</text>
+<text x="485" y="322" text-anchor="middle" fill="#d9480f" font-weight="bold">BCA</text>
+<rect x="581" y="186" width="28" height="28" fill="white" stroke="#222222" stroke-width="1.6" rx="4"/>
+<text x="595" y="205" text-anchor="middle" fill="#222222" font-weight="bold">A</text>
+<rect x="581" y="266" width="28" height="28" fill="white" stroke="#222222" stroke-width="1.6" rx="4"/>
+<text x="595" y="285" text-anchor="middle" fill="#222222" font-weight="bold">B</text>
+<text x="595" y="322" text-anchor="middle" fill="#d9480f" font-weight="bold">CAB</text>
+<rect x="691" y="186" width="28" height="28" fill="white" stroke="#222222" stroke-width="1.6" rx="4"/>
+<text x="705" y="205" text-anchor="middle" fill="#222222" font-weight="bold">B</text>
+<rect x="691" y="266" width="28" height="28" fill="white" stroke="#222222" stroke-width="1.6" rx="4"/>
+<text x="705" y="285" text-anchor="middle" fill="#222222" font-weight="bold">A</text>
+<text x="705" y="322" text-anchor="middle" fill="#d9480f" font-weight="bold">CBA</text>
+<text x="8" y="125" text-anchor="start" fill="#888888" font-size="12">3 choices</text>
+<text x="8" y="205" text-anchor="start" fill="#888888" font-size="12">2 choices</text>
+<text x="8" y="285" text-anchor="start" fill="#888888" font-size="12">1 choice</text>
+</svg>

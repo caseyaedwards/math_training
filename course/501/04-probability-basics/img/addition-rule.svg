@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 280" width="520" height="280" font-family="sans-serif" font-size="14" role="img" aria-label="Venn diagram of hearts (13) and kings (4) overlapping in one card, the king of hearts; regions hold 12, 1 and 3 cards">
+<title>Venn diagram of hearts (13) and kings (4) overlapping in one card, the king of hearts; regions hold 12, 1 and 3 cards</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="520" height="280" fill="white"/>
+<rect x="20" y="40" width="480" height="220" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="36" y="250" text-anchor="start" fill="#222222" font-size="13">52 cards</text>
+<clipPath id="ar"><circle cx="210" cy="150" r="90"/></clipPath>
+<circle cx="210" cy="150" r="90" fill="#d9480f" stroke="none" stroke-width="0" fill-opacity="0.2"/>
+<circle cx="320" cy="150" r="90" fill="#d9480f" stroke="none" stroke-width="0" fill-opacity="0.2"/>
+<circle cx="320" cy="150" r="90" fill="#d9480f" fill-opacity="0.35" clip-path="url(#ar)"/>
+<circle cx="210" cy="150" r="90" fill="none" stroke="#222222" stroke-width="2"/>
+<circle cx="320" cy="150" r="90" fill="none" stroke="#222222" stroke-width="2"/>
+<text x="150" y="56" text-anchor="middle" fill="#222222" font-weight="bold">hearts 13</text>
+<text x="380" y="56" text-anchor="middle" fill="#222222" font-weight="bold">kings 4</text>
+<text x="170" y="160" text-anchor="middle" fill="#222222" font-weight="bold" font-size="20">12</text>
+<text x="265" y="160" text-anchor="middle" fill="#d9480f" font-weight="bold" font-size="20">1</text>
+<text x="360" y="160" text-anchor="middle" fill="#222222" font-weight="bold" font-size="20">3</text>
+<text x="265" y="182" text-anchor="middle" fill="#d9480f" font-size="13">K♥</text>
+<text x="260" y="26" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">13 + 4 counts the king of hearts twice. Subtract it once: 16.</text>
+<text x="290" y="253" text-anchor="middle" fill="#d9480f" font-size="13">P(heart or king) = (13 + 4 − 1) / 52 = 16/52</text>
+</svg>

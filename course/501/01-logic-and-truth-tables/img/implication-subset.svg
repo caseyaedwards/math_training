@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 345" width="640" height="345" font-family="sans-serif" font-size="14" role="img" aria-label="Circle P drawn inside circle Q to show if P then Q; a point in Q outside P shows why the converse fails; a point outside Q is also outside P">
+<title>Circle P drawn inside circle Q to show if P then Q; a point in Q outside P shows why the converse fails; a point outside Q is also outside P</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="640" height="345" fill="white"/>
+<rect x="20" y="40" width="600" height="270" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="260" cy="175" r="115" fill="#f6d5c6" stroke="#222222" stroke-width="2"/>
+<circle cx="220" cy="185" r="55" fill="#d9480f" stroke="#222222" stroke-width="2" fill-opacity="0.45"/>
+<text x="220" y="190" text-anchor="middle" fill="#222222" font-weight="bold" font-size="18">P</text>
+<text x="320" y="95" text-anchor="middle" fill="#222222" font-weight="bold" font-size="18">Q</text>
+<circle cx="320" cy="225" r="6" fill="#222222" stroke="#222222" stroke-width="1"/>
+<line x1="326" y1="225" x2="440" y2="225" stroke="#888888" stroke-width="1.2"/>
+<text x="445" y="220" text-anchor="start" fill="#222222" font-size="12">Q true, P false: allowed.</text>
+<text x="445" y="236" text-anchor="start" fill="#d9480f" font-size="12">This point breaks the converse</text>
+<text x="445" y="252" text-anchor="start" fill="#d9480f" font-size="12">(Q does not force P).</text>
+<circle cx="520" cy="110" r="6" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="445" y="80" text-anchor="start" fill="#222222" font-size="12">Outside Q means outside P:</text>
+<text x="445" y="96" text-anchor="start" fill="#d9480f" font-size="12">the contrapositive.</text>
+<text x="320" y="26" text-anchor="middle" fill="#222222" font-weight="bold">IF P THEN Q, drawn as: circle P sits inside circle Q</text>
+<text x="320" y="333" text-anchor="middle" fill="#888888" font-size="12">No point is in P and outside Q. That region is empty.</text>
+</svg>

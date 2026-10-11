@@ -1,0 +1,10 @@
+2 by 2 determinant	\(ad - bc\)	math::501::determinants
+Meaning of \(|\det A|\)	Area scaling factor.	math::501::determinants
+Meaning of a negative determinant	The plane is flipped (orientation reversed).	math::501::determinants
+Meaning of \(\det A = 0\)	The plane collapses; A has no inverse.	math::501::determinants
+Product rule	\(\det(AB) = \det A \det B\)	math::501::determinants
+Determinant of a rotation	1	math::501::determinants
+Determinant of a triangular matrix	Product of the diagonal.	math::501::determinants
+Effect of swapping two rows	The determinant changes sign.	math::501::determinants
+3 by 3 determinant means?	Volume scaling factor.	math::501::determinants
+\(\det\begin{pmatrix}3&1\\1&2\end{pmatrix}\)	5	math::501::determinants

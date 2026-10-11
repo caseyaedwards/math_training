@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 415" width="520" height="415" font-family="sans-serif" font-size="14" role="img" aria-label="Unit square cut vertically at 0.3 for A and horizontally at 0.5 for B; the corner rectangle A and B has area 0.15">
+<title>Unit square cut vertically at 0.3 for A and horizontally at 0.5 for B; the corner rectangle A and B has area 0.15</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="520" height="415" fill="white"/>
+<text x="260" y="24" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">Independent events: area of the overlap = width × height</text>
+<rect x="90" y="50" width="84" height="140" fill="#d9480f" stroke="none" stroke-width="0" fill-opacity="0.6"/>
+<rect x="174" y="50" width="196" height="140" fill="#f6d5c6" stroke="none" stroke-width="0"/>
+<rect x="90" y="190" width="84" height="140" fill="#f6d5c6" stroke="none" stroke-width="0"/>
+<rect x="90" y="50" width="280" height="280" fill="none" stroke="#222222" stroke-width="2"/>
+<line x1="174" y1="50" x2="174" y2="330" stroke="#222222" stroke-width="1.5"/>
+<line x1="90" y1="190" x2="370" y2="190" stroke="#222222" stroke-width="1.5"/>
+<text x="132" y="125" text-anchor="middle" fill="#222222" font-weight="bold">A and B</text>
+<text x="132" y="143" text-anchor="middle" fill="#d9480f" font-weight="bold" font-size="13">0.15</text>
+<text x="132" y="350" text-anchor="middle" fill="#222222" font-size="13">P(A) = 0.3</text>
+<text x="272" y="350" text-anchor="middle" fill="#888888" font-size="13">not A = 0.7</text>
+<text x="82" y="120" text-anchor="end" fill="#222222" font-size="13">P(B)</text>
+<text x="82" y="136" text-anchor="end" fill="#222222" font-size="13">= 0.5</text>
+<text x="82" y="260" text-anchor="end" fill="#888888" font-size="13">not B</text>
+<text x="260" y="380" text-anchor="middle" fill="#888888" font-size="12">B splits the A column and the not-A column in the same ratio:</text>
+<text x="260" y="398" text-anchor="middle" fill="#888888" font-size="12">knowing A tells you nothing about B.</text>
+</svg>

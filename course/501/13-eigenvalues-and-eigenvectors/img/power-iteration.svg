@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 440" width="480" height="440" font-family="sans-serif" font-size="14" role="img" aria-label="Unit-length arrows for v, Av, A squared v, A cubed v, A to the fourth v at angles 0, 26.6, 38.7, 42.9 and 44.3 degrees, closing in on the 45 degree eigen-direction">
+<title>Unit-length arrows for v, Av, A squared v, A cubed v, A to the fourth v at angles 0, 26.6, 38.7, 42.9 and 44.3 degrees, closing in on the 45 degree eigen-direction</title>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#888888"/></marker>
+</defs>
+<rect x="0" y="0" width="480" height="440" fill="white"/>
+<line x1="96" y1="400" x2="96" y2="40" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="216" y1="400" x2="216" y2="40" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="336" y1="400" x2="336" y2="40" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="60" y1="364" x2="420" y2="364" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="60" y1="244" x2="420" y2="244" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="60" y1="124" x2="420" y2="124" stroke="#e2e2e2" stroke-width="1"/>
+<line x1="60" y1="364" x2="420" y2="364" stroke="#222222" stroke-width="1.5"/>
+<line x1="96" y1="400" x2="96" y2="40" stroke="#222222" stroke-width="1.5"/>
+<line x1="60" y1="400" x2="420" y2="40" stroke="#d9480f" stroke-width="1.5" stroke-dasharray="6 5"/>
+<polyline points="336,364 335.92,357.72 335.67,351.44 335.26,345.17 334.69,338.91 333.95,332.67 333.05,326.46 331.98,320.26 330.76,314.1 329.37,307.97 327.82,301.88 326.12,295.84 324.25,289.84 322.23,283.89 320.06,277.99 317.73,272.16 315.25,266.38 312.62,260.68 309.84,255.04 306.92,249.48 303.85,244 300.63,238.6 297.28,233.29 293.79,228.06 290.16,222.93 286.4,217.9 282.52,212.96 278.5,208.13 274.35,203.41 270.09,198.79 265.71,194.29 261.21,189.91 256.59,185.65 251.87,181.5 247.04,177.48 242.1,173.6 237.07,169.84 231.94,166.21 226.71,162.72 221.4,159.37 216,156.15 210.52,153.08 204.96,150.16 199.32,147.38 193.62,144.75 187.84,142.27 182.01,139.94 176.11,137.77 170.16,135.75 164.16,133.88 158.12,132.18 152.03,130.63 145.9,129.24 139.74,128.02 133.54,126.95 127.33,126.05 121.09,125.31 114.83,124.74 108.56,124.33 102.28,124.08 96,124" fill="none" stroke="#e2e2e2" stroke-width="2"/>
+<line x1="96" y1="364" x2="336" y2="364" stroke="#222222" stroke-width="2.5" marker-end="url(#ah)"/>
+<text x="106" y="52" text-anchor="start" fill="#222222" font-weight="bold" font-size="12">v = (1, 0): 0.0°</text>
+<line x1="96" y1="364" x2="310.66" y2="256.67" stroke="#888888" stroke-width="2.5" marker-end="url(#ahg)"/>
+<text x="106" y="71" text-anchor="start" fill="#888888" font-size="12">Av ∝ (2, 1): 26.6°</text>
+<line x1="96" y1="364" x2="283.41" y2="214.07" stroke="#888888" stroke-width="2.5" marker-end="url(#ahg)"/>
+<text x="106" y="90" text-anchor="start" fill="#888888" font-size="12">A²v ∝ (5, 4): 38.7°</text>
+<line x1="96" y1="364" x2="271.87" y2="200.69" stroke="#888888" stroke-width="2.5" marker-end="url(#ahg)"/>
+<text x="106" y="109" text-anchor="start" fill="#888888" font-size="12">A³v ∝ (14, 13): 42.9°</text>
+<line x1="96" y1="364" x2="267.79" y2="196.4" stroke="#d9480f" stroke-width="2.5" marker-end="url(#aha)"/>
+<text x="106" y="128" text-anchor="start" fill="#d9480f" font-weight="bold" font-size="12">A⁴v ∝ (41, 40): 44.3°</text>
+<text x="240" y="22" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">Apply A = [[2, 1], [1, 2]] again and again (scaled to length 1)</text>
+<text x="240" y="425" text-anchor="middle" fill="#888888" font-size="12">The direction swings toward the dominant eigenvector (1, 1) at 45°.</text>
+</svg>

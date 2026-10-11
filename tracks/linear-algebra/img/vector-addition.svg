@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 390" width="460" height="390" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Tip-to-tail vector addition</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="460" height="390" fill="#ffffff"/>
+<text x="230.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Adding Vectors: Tip to Tail</text>
+<line x1="50.0" y1="350.0" x2="50.0" y2="50.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="110.0" y1="350.0" x2="110.0" y2="50.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="170.0" y1="350.0" x2="170.0" y2="50.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="230.0" y1="350.0" x2="230.0" y2="50.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="290.0" y1="350.0" x2="290.0" y2="50.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="350.0" y1="350.0" x2="350.0" y2="50.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="410.0" y1="350.0" x2="410.0" y2="50.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="50.0" y1="350.0" x2="410.0" y2="350.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="50.0" y1="290.0" x2="410.0" y2="290.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="50.0" y1="230.0" x2="410.0" y2="230.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="50.0" y1="170.0" x2="410.0" y2="170.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="50.0" y1="110.0" x2="410.0" y2="110.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="50.0" y1="50.0" x2="410.0" y2="50.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="50.0" y1="230.0" x2="410.0" y2="230.0" stroke="#666666" stroke-width="1.2"/>
+<line x1="110.0" y1="350.0" x2="110.0" y2="50.0" stroke="#666666" stroke-width="1.2"/>
+<line x1="110.0" y1="230.0" x2="170.0" y2="110.0" stroke="#222222" stroke-width="2.5" marker-end="url(#ah)"/>
+<line x1="170.0" y1="110.0" x2="350.0" y2="170.0" stroke="#868e96" stroke-width="2.5" marker-end="url(#ahg)"/>
+<line x1="110.0" y1="230.0" x2="350.0" y2="170.0" stroke="#d9480f" stroke-width="3" marker-end="url(#aha)"/>
+<text x="128.0" y="152.0" text-anchor="end" fill="#222222" font-size="13" font-weight="bold">u = (1, 2)</text>
+<text x="266.0" y="116.0" text-anchor="start" fill="#666666" font-size="13" font-weight="bold">v = (3, -1)</text>
+<text x="248.0" y="221.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">u + v = (4, 1)</text>
+<text x="230.0" y="380.0" text-anchor="middle" fill="#666666" font-size="13">Walk u, then walk v. The shortcut is u + v.</text>
+</svg>

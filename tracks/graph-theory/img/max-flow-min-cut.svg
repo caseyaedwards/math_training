@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 290" width="600" height="290" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Network flow with capacities and a minimum cut</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="600" height="290" fill="#ffffff"/>
+<text x="300.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Max Flow 5 = Min Cut 5</text>
+<line x1="94.9" y1="144.1" x2="263.3" y2="76.7" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<text x="185.2" y="128.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">3/3</text>
+<line x1="94.9" y1="155.9" x2="263.3" y2="223.3" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<text x="174.8" y="208.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">2/2</text>
+<line x1="280.0" y1="86.0" x2="280.0" y2="212.0" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<text x="264.0" y="155.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1/1</text>
+<line x1="295.0" y1="75.5" x2="483.1" y2="143.8" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<text x="385.2" y="128.2" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">2/2</text>
+<line x1="295.0" y1="224.5" x2="483.1" y2="156.2" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<text x="394.8" y="208.2" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">3/3</text>
+<circle cx="80.0" cy="150.0" r="16.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="80.0" y="155.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">s</text>
+<circle cx="280.0" cy="70.0" r="16.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="280.0" y="75.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">a</text>
+<circle cx="280.0" cy="230.0" r="16.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="280.0" y="235.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">b</text>
+<circle cx="500.0" cy="150.0" r="16.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="500.0" y="155.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">t</text>
+<path d="M115,50 C140,120 140,180 115,250" fill="none" stroke="#d9480f" stroke-width="2.5" stroke-dasharray="7 5"/>
+<text x="120.0" y="278.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">cut: 3 + 2 = 5</text>
+<text x="420.0" y="278.0" text-anchor="middle" fill="#666666" font-size="13">label = flow / capacity</text>
+</svg>

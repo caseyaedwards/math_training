@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 220" width="660" height="220" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Deploy pipeline as a directed acyclic graph</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="660" height="220" fill="#ffffff"/>
+<text x="330.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">A DAG: Arrows, No Directed Cycles</text>
+<line x1="126.0" y1="80.0" x2="182.0" y2="80.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="276.0" y1="80.0" x2="332.0" y2="80.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="426.0" y1="80.0" x2="512.0" y2="122.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="426.0" y1="180.0" x2="512.0" y2="138.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<rect x="36.0" y="64.0" width="88.0" height="32.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="80.0" y="85.0" text-anchor="middle" fill="#222222" font-size="14">fetch</text>
+<rect x="186.0" y="64.0" width="88.0" height="32.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="230.0" y="85.0" text-anchor="middle" fill="#222222" font-size="14">build</text>
+<rect x="336.0" y="64.0" width="88.0" height="32.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="380.0" y="85.0" text-anchor="middle" fill="#222222" font-size="14">test</text>
+<rect x="516.0" y="114.0" width="88.0" height="32.0" rx="6" fill="#ffffff" stroke="#d9480f" stroke-width="1.5"/>
+<text x="560.0" y="135.0" text-anchor="middle" fill="#222222" font-size="14">deploy</text>
+<rect x="336.0" y="164.0" width="88.0" height="32.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="380.0" y="185.0" text-anchor="middle" fill="#222222" font-size="14">approve</text>
+<text x="330.0" y="210.0" text-anchor="middle" fill="#666666" font-size="13">topological order: fetch, approve, build, test, deploy</text>
+</svg>

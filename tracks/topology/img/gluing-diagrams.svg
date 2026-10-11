@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 290" width="700" height="290" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Gluing diagrams for a cylinder, a Mobius strip and a torus</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="700" height="290" fill="#ffffff"/>
+<text x="350.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Build Surfaces by Gluing Edges</text>
+<rect x="40.0" y="70.0" width="150.0" height="150.0" rx="0" fill="#f1f3f5" stroke="#222222" stroke-width="1.5"/>
+<line x1="40.0" y1="220.0" x2="40.0" y2="70.0" stroke="#d9480f" stroke-width="3"/>
+<path d="M47.0,153.0 L40.0,145.0 L33.0,153.0" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<line x1="190.0" y1="220.0" x2="190.0" y2="70.0" stroke="#d9480f" stroke-width="3"/>
+<path d="M197.0,153.0 L190.0,145.0 L183.0,153.0" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<text x="115.0" y="255.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">cylinder</text>
+<rect x="275.0" y="70.0" width="150.0" height="150.0" rx="0" fill="#f1f3f5" stroke="#222222" stroke-width="1.5"/>
+<line x1="275.0" y1="220.0" x2="275.0" y2="70.0" stroke="#d9480f" stroke-width="3"/>
+<path d="M282.0,153.0 L275.0,145.0 L268.0,153.0" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<line x1="425.0" y1="70.0" x2="425.0" y2="220.0" stroke="#d9480f" stroke-width="3"/>
+<path d="M418.0,137.0 L425.0,145.0 L432.0,137.0" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<text x="350.0" y="255.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">Mobius strip</text>
+<rect x="510.0" y="70.0" width="150.0" height="150.0" rx="0" fill="#f1f3f5" stroke="#222222" stroke-width="1.5"/>
+<line x1="510.0" y1="220.0" x2="510.0" y2="70.0" stroke="#d9480f" stroke-width="3"/>
+<path d="M517.0,153.0 L510.0,145.0 L503.0,153.0" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<line x1="660.0" y1="220.0" x2="660.0" y2="70.0" stroke="#d9480f" stroke-width="3"/>
+<path d="M667.0,153.0 L660.0,145.0 L653.0,153.0" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<line x1="510.0" y1="70.0" x2="660.0" y2="70.0" stroke="#222222" stroke-width="3"/>
+<path d="M577.0,77.0 L585.0,70.0 L577.0,63.0" fill="none" stroke="#222222" stroke-width="2.5"/>
+<path d="M587.0,77.0 L595.0,70.0 L587.0,63.0" fill="none" stroke="#222222" stroke-width="2.5"/>
+<line x1="510.0" y1="220.0" x2="660.0" y2="220.0" stroke="#222222" stroke-width="3"/>
+<path d="M577.0,227.0 L585.0,220.0 L577.0,213.0" fill="none" stroke="#222222" stroke-width="2.5"/>
+<path d="M587.0,227.0 L595.0,220.0 L587.0,213.0" fill="none" stroke="#222222" stroke-width="2.5"/>
+<text x="585.0" y="255.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">torus (donut)</text>
+<text x="350.0" y="282.0" text-anchor="middle" fill="#666666" font-size="12">Glue edges with matching arrows so the arrows line up. A flipped arrow means a half twist.</text>
+</svg>

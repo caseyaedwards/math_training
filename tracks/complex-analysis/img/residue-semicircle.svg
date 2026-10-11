@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" width="600" height="440" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Semicircle contour enclosing the pole at i for 1/(1+z^2)</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="600" height="440" fill="#ffffff"/>
+<text x="300.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Residues: ∫ dx/(1+x²) = π</text>
+<line x1="60.0" y1="304.0" x2="540.0" y2="304.0" stroke="#666666" stroke-width="1.5"/>
+<line x1="300.0" y1="400.0" x2="300.0" y2="64.0" stroke="#666666" stroke-width="1.5"/>
+<line x1="116.0" y1="304.0" x2="484.0" y2="304.0" stroke="#d9480f" stroke-width="3"/>
+<line x1="252.0" y1="304.0" x2="332.0" y2="304.0" stroke="#d9480f" stroke-width="3" marker-end="url(#aha)"/>
+<path d="M484.0,304.0 L483.4,289.6 L481.7,275.2 L478.9,261.0 L475.0,247.1 L470.0,233.6 L463.9,220.5 L456.9,207.9 L448.9,195.8 L439.9,184.5 L430.1,173.9 L419.5,164.1 L408.2,155.1 L396.1,147.1 L383.5,140.1 L370.4,134.0 L356.9,129.0 L343.0,125.1 L328.8,122.3 L314.4,120.6 L300.0,120.0 L285.6,120.6 L271.2,122.3 L257.0,125.1 L243.1,129.0 L229.6,134.0 L216.5,140.1 L203.9,147.1 L191.8,155.1 L180.5,164.1 L169.9,173.9 L160.1,184.5 L151.1,195.8 L143.1,207.9 L136.1,220.5 L130.0,233.6 L125.0,247.1 L121.1,261.0 L118.3,275.2 L116.6,289.6 L116.0,304.0" fill="none" stroke="#d9480f" stroke-width="2.5" marker-end="url(#aha)"/>
+<text x="300.0" y="231.0" text-anchor="middle" fill="#222222" font-size="22" font-weight="bold">×</text>
+<text x="314.0" y="229.0" text-anchor="start" fill="#222222" font-size="12">pole at i: inside</text>
+<text x="300.0" y="391.0" text-anchor="middle" fill="#222222" font-size="22" font-weight="bold">×</text>
+<text x="314.0" y="389.0" text-anchor="start" fill="#222222" font-size="12">pole at -i: outside</text>
+<text x="116.0" y="322.0" text-anchor="middle" fill="#222222" font-size="12">-R</text>
+<text x="484.0" y="322.0" text-anchor="middle" fill="#222222" font-size="12">R</text>
+<text x="300.0" y="430.0" text-anchor="middle" fill="#666666" font-size="12">Residue at i is 1/(2i). Integral = 2πi · 1/(2i) = π. The arc vanishes as R grows.</text>
+</svg>

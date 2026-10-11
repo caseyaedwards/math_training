@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 560" width="560" height="560" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Multiplying by i rotates a point 90 degrees in the complex plane</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="560" height="560" fill="#ffffff"/>
+<text x="280.0" y="32.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">Multiplying by i Rotates 90 Degrees</text>
+<line x1="60.0" y1="60.0" x2="60.0" y2="500.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="60.0" y1="500.0" x2="500.0" y2="500.0" stroke="#eeeeee" stroke-width="1"/>
+<text x="60.0" y="298.0" text-anchor="middle" fill="#666666" font-size="12">-3</text>
+<text x="272.0" y="504.0" text-anchor="end" fill="#666666" font-size="12">-3i</text>
+<line x1="133.3" y1="60.0" x2="133.3" y2="500.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="60.0" y1="426.7" x2="500.0" y2="426.7" stroke="#eeeeee" stroke-width="1"/>
+<text x="133.3" y="298.0" text-anchor="middle" fill="#666666" font-size="12">-2</text>
+<text x="272.0" y="430.7" text-anchor="end" fill="#666666" font-size="12">-2i</text>
+<line x1="206.7" y1="60.0" x2="206.7" y2="500.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="60.0" y1="353.3" x2="500.0" y2="353.3" stroke="#eeeeee" stroke-width="1"/>
+<text x="206.7" y="298.0" text-anchor="middle" fill="#666666" font-size="12">-1</text>
+<text x="272.0" y="357.3" text-anchor="end" fill="#666666" font-size="12">-i</text>
+<line x1="353.3" y1="60.0" x2="353.3" y2="500.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="60.0" y1="206.7" x2="500.0" y2="206.7" stroke="#eeeeee" stroke-width="1"/>
+<text x="353.3" y="298.0" text-anchor="middle" fill="#666666" font-size="12">1</text>
+<text x="272.0" y="210.7" text-anchor="end" fill="#666666" font-size="12">i</text>
+<line x1="426.7" y1="60.0" x2="426.7" y2="500.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="60.0" y1="133.3" x2="500.0" y2="133.3" stroke="#eeeeee" stroke-width="1"/>
+<text x="426.7" y="298.0" text-anchor="middle" fill="#666666" font-size="12">2</text>
+<text x="272.0" y="137.3" text-anchor="end" fill="#666666" font-size="12">2i</text>
+<line x1="500.0" y1="60.0" x2="500.0" y2="500.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="60.0" y1="60.0" x2="500.0" y2="60.0" stroke="#eeeeee" stroke-width="1"/>
+<text x="500.0" y="298.0" text-anchor="middle" fill="#666666" font-size="12">3</text>
+<line x1="60.0" y1="280.0" x2="500.0" y2="280.0" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="280.0" y1="500.0" x2="280.0" y2="60.0" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="500.0" y="272.0" text-anchor="end" fill="#666666" font-size="14">Re</text>
+<text x="288.0" y="74.0" text-anchor="start" fill="#666666" font-size="14">Im</text>
+<circle cx="280.0" cy="280.0" r="164.0" fill="none" stroke="#adb5bd" stroke-dasharray="4 4"/>
+<line x1="280.0" y1="280.0" x2="426.7" y2="206.7" stroke="#222222" stroke-width="2.2" marker-end="url(#ah)"/>
+<circle cx="426.7" cy="206.7" r="4" fill="#222222" stroke="none" stroke-width="1.5"/>
+<text x="436.7" y="224.7" text-anchor="start" fill="#222222" font-size="14" font-weight="bold">z = 2 + i</text>
+<line x1="280.0" y1="280.0" x2="206.7" y2="133.3" stroke="#d9480f" stroke-width="2.2" marker-end="url(#aha)"/>
+<circle cx="206.7" cy="133.3" r="4" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<text x="196.7" y="123.3" text-anchor="end" fill="#d9480f" font-size="14" font-weight="bold">iz = -1 + 2i</text>
+<line x1="280.0" y1="280.0" x2="133.3" y2="353.3" stroke="#666666" stroke-width="1.5" marker-end="url(#ah)"/>
+<circle cx="133.3" cy="353.3" r="4" fill="#666666" stroke="none" stroke-width="1.5"/>
+<text x="123.3" y="375.3" text-anchor="end" fill="#666666" font-size="14">i²z = -2 - i</text>
+<line x1="280.0" y1="280.0" x2="353.3" y2="426.7" stroke="#666666" stroke-width="1.5" marker-end="url(#ah)"/>
+<circle cx="353.3" cy="426.7" r="4" fill="#666666" stroke="none" stroke-width="1.5"/>
+<text x="363.3" y="444.7" text-anchor="start" fill="#666666" font-size="14">i³z = 1 - 2i</text>
+<path d="M339.0,250.5 L337.8,248.2 L336.5,245.9 L335.2,243.8 L333.7,241.6 L332.1,239.5 L330.5,237.5 L328.8,235.6 L327.0,233.7 L325.2,231.9 L323.2,230.1 L321.3,228.5 L319.2,226.9 L317.1,225.4 L314.9,224.0 L312.7,222.7 L310.4,221.4 L308.1,220.3 L305.7,219.2 L303.3,218.3 L300.9,217.4 L298.4,216.6 L295.9,215.9 L293.4,215.4 L290.8,214.9 L288.3,214.5 L285.7,214.2 L283.1,214.1 L280.5,214.0 L277.9,214.0 L275.3,214.2 L272.7,214.4 L270.2,214.7 L267.6,215.2 L265.1,215.7 L262.6,216.3 L260.1,217.1 L257.6,217.9 L255.2,218.8 L252.8,219.9 L250.5,221.0" fill="none" stroke="#d9480f" stroke-width="2" marker-end="url(#aha)"/>
+<text x="313.0" y="193.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">90°</text>
+<text x="280.0" y="540.0" text-anchor="middle" fill="#666666" font-size="13">All four points sit on the circle of radius √5: rotation keeps length.</text>
+</svg>

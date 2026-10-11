@@ -1,0 +1,15 @@
+What is a sample space?	The set of all possible outcomes.	math::tracks::probability
+Probability of an event with equally likely outcomes?	\( P(E) = |E| / |S| \): outcomes in the event over all outcomes.	math::tracks::probability
+Complement rule?	\( P(\text{not } A) = 1 - P(A) \).	math::tracks::probability
+Addition rule for OR?	\( P(A \cup B) = P(A) + P(B) - P(A \cap B) \).	math::tracks::probability
+AND rule for independent events?	\( P(A \cap B) = P(A)P(B) \).	math::tracks::probability
+Define \( P(A \mid B) \).	\( P(A \cap B) / P(B) \): the share of \( B \) that is also \( A \).	math::tracks::probability
+State Bayes theorem.	\( P(H \mid E) = P(E \mid H) P(H) / P(E) \).	math::tracks::probability
+Easiest way to do Bayes by hand?	Imagine a crowd (for example 10,000) and count each branch instead of multiplying percentages.	math::tracks::probability
+What is a random variable?	A function that attaches a number to each outcome.	math::tracks::probability
+Expected value of a discrete \( X \)?	\( E[X] = \sum x P(X=x) \): the balance point of the distribution.	math::tracks::probability
+Linearity of expectation?	\( E[X+Y] = E[X] + E[Y] \), even for dependent \( X, Y \).	math::tracks::probability
+Expected tries until first success with chance \( p \)?	\( 1/p \) (geometric distribution).	math::tracks::probability
+Central Limit Theorem in one line?	Averages of many independent pieces are approximately normal, with spread shrinking like \( 1/\sqrt{n} \).	math::tracks::probability
+What is a stationary distribution of a Markov chain?	A distribution \( \pi \) with \( \pi P = \pi \): the long-run share of time in each state.	math::tracks::probability
+State Little's Law.	\( L = \lambda W \): average number in system = arrival rate x average time in system.	math::tracks::probability

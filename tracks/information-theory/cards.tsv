@@ -1,0 +1,15 @@
+What is one bit?	The information in the answer to one fair yes-or-no question.	math::tracks::information-theory
+How many bits pick one of \( N \) equally likely items?	\( \log_2 N \).	math::tracks::information-theory
+Surprise of an event with probability \( p \)?	\( -\log_2 p \) bits. Probability 1/8 gives 3 bits.	math::tracks::information-theory
+Define entropy \( H(X) \).	Average surprise: \( H(X) = -\sum_x p(x) \log_2 p(x) \).	math::tracks::information-theory
+When is entropy largest?	When all outcomes are equally likely. Then \( H = \log_2 N \).	math::tracks::information-theory
+Entropy of a random password of length \( L \) over \( C \) symbols?	\( L \log_2 C \) bits.	math::tracks::information-theory
+Source coding theorem in one line?	No lossless code beats \( H \) bits per symbol on average, and you get as close as you like.	math::tracks::information-theory
+How does Huffman coding build a code?	Repeatedly merge the two least likely symbols. Frequent symbols get short codes.	math::tracks::information-theory
+What is a prefix code?	No codeword is the start of another, so a decoder needs no separators.	math::tracks::information-theory
+Define KL divergence from cross-entropy.	\( D_{KL}(p\|q) = H(p,q) - H(p) \ge 0 \): the extra bits paid for using model \( q \) when data follows \( p \).	math::tracks::information-theory
+Define mutual information.	\( I(X;Y) = H(X) - H(X\mid Y) \): how much knowing \( Y \) cuts uncertainty about \( X \).	math::tracks::information-theory
+Capacity of a binary symmetric channel with flip probability \( f \)?	\( C = 1 - H(f) \). For \( f = 0.1 \), about 0.531 bits per use.	math::tracks::information-theory
+Channel coding theorem in one line?	Below capacity, error rates as small as you like are achievable. Above capacity, they are not.	math::tracks::information-theory
+Hamming (7,4): data bits, parity bits, errors corrected?	4 data, 3 parity, corrects any single flipped bit.	math::tracks::information-theory
+What is Kolmogorov complexity?	The length of the shortest program that prints a given string. It is not computable in general.	math::tracks::information-theory

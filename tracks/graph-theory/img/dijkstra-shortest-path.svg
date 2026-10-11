@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Weighted graph with shortest path from S highlighted</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="600" height="300" fill="#ffffff"/>
+<text x="300.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Shortest Path by Latency (ms)</text>
+<line x1="83.2" y1="142.9" x2="206.8" y2="77.1" stroke="#222222" stroke-width="1.8"/>
+<text x="149.7" y="123.8" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">4</text>
+<line x1="83.2" y1="157.1" x2="206.8" y2="222.9" stroke="#d9480f" stroke-width="3"/>
+<text x="140.3" y="203.8" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<line x1="220.0" y1="215.0" x2="220.0" y2="85.0" stroke="#222222" stroke-width="1.8"/>
+<text x="230.0" y="155.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">2</text>
+<line x1="235.0" y1="70.0" x2="365.0" y2="70.0" stroke="#222222" stroke-width="1.8"/>
+<text x="300.0" y="85.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">5</text>
+<line x1="235.0" y1="230.0" x2="365.0" y2="230.0" stroke="#d9480f" stroke-width="3"/>
+<text x="300.0" y="245.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">8</text>
+<line x1="393.2" y1="77.1" x2="516.8" y2="142.9" stroke="#222222" stroke-width="1.8"/>
+<text x="450.3" y="123.8" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">3</text>
+<line x1="393.2" y1="222.9" x2="516.8" y2="157.1" stroke="#d9480f" stroke-width="3"/>
+<text x="459.7" y="203.8" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<line x1="380.0" y1="85.0" x2="380.0" y2="215.0" stroke="#222222" stroke-width="1.8"/>
+<text x="370.0" y="155.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">2</text>
+<circle cx="70.0" cy="150.0" r="15.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="70.0" y="155.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">S</text>
+<circle cx="220.0" cy="70.0" r="15.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="220.0" y="75.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">A</text>
+<circle cx="220.0" cy="230.0" r="15.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="220.0" y="235.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">B</text>
+<circle cx="380.0" cy="70.0" r="15.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="380.0" y="75.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">C</text>
+<circle cx="380.0" cy="230.0" r="15.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="380.0" y="235.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">D</text>
+<circle cx="530.0" cy="150.0" r="15.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="530.0" y="155.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">T</text>
+<text x="70.0" y="128.0" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">d=0</text>
+<text x="220.0" y="48.0" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">d=3</text>
+<text x="220.0" y="262.0" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">d=1</text>
+<text x="380.0" y="48.0" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">d=8</text>
+<text x="380.0" y="262.0" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">d=9</text>
+<text x="530.0" y="128.0" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">d=10</text>
+<text x="300.0" y="290.0" text-anchor="middle" fill="#666666" font-size="13">shortest S to T: S-B-D-T, total 10 ms</text>
+</svg>

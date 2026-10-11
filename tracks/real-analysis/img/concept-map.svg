@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 568" width="960" height="568" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Real Analysis Concept Map</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#444444"/></marker></defs>
+<rect x="0" y="0" width="960" height="568" fill="#ffffff"/>
+<text x="480.0" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#222222">Real Analysis Concept Map</text>
+<rect x="10" y="70" width="940" height="224" fill="#f8f9fa" stroke="#dee2e6"/>
+<text x="40" y="182.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#555555" transform="rotate(-90 40 182.0)">Beginner</text>
+<rect x="10" y="294" width="940" height="112" fill="#f1f3f5" stroke="#dee2e6"/>
+<text x="40" y="350.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#555555" transform="rotate(-90 40 350.0)">Intermediate</text>
+<rect x="10" y="406" width="940" height="112" fill="#f8f9fa" stroke="#dee2e6"/>
+<text x="40" y="462.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#555555" transform="rotate(-90 40 462.0)">Advanced</text>
+<path d="M535.0,152.0 C535.0,182.0 373.0,182.0 373.0,212.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="436.4" y1="238.0" x2="637.0" y2="238.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M373.0,264.0 C373.0,294.0 231.2,294.0 231.2,324.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="302.5" y1="350.0" x2="350.6" y2="350.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="516.9" y1="350.0" x2="561.0" y2="350.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M697.0,264.0 C697.0,294.0 838.8,294.0 838.8,324.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M231.2,376.0 C231.2,406.0 292.0,406.0 292.0,436.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M636.2,367.0 C636.2,401.5 535.0,401.5 535.0,436.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M838.8,376.0 C838.8,406.0 778.0,406.0 778.0,436.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<rect x="459.8" y="100.0" width="150.4" height="52" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="535.0" y="122.0" text-anchor="middle" fill="#222222">Real Numbers and</text>
+<text x="535.0" y="140.0" text-anchor="middle" fill="#222222">Completeness</text>
+<rect x="309.6" y="212.0" width="126.7" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="373.0" y="234.0" text-anchor="middle" fill="#222222">Sequences and</text>
+<text x="373.0" y="252.0" text-anchor="middle" fill="#222222">Limits</text>
+<rect x="637.0" y="212.0" width="120.0" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="697.0" y="234.0" text-anchor="middle" fill="#222222">Series and</text>
+<text x="697.0" y="252.0" text-anchor="middle" fill="#222222">Convergence</text>
+<rect x="160.0" y="324.0" width="142.5" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="231.2" y="346.0" text-anchor="middle" fill="#222222">Continuity</text>
+<text x="231.2" y="364.0" text-anchor="middle" fill="#222222">(Epsilon-Delta)</text>
+<rect x="350.6" y="324.0" width="166.2" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="433.8" y="346.0" text-anchor="middle" fill="#222222">Derivatives and</text>
+<text x="433.8" y="364.0" text-anchor="middle" fill="#222222">Mean Value Theorem</text>
+<rect x="561.0" y="333.0" width="150.4" height="34" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="636.2" y="355.0" text-anchor="middle" fill="#222222">Riemann Integral</text>
+<rect x="778.8" y="324.0" width="120.0" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="838.8" y="346.0" text-anchor="middle" fill="#222222">Uniform</text>
+<text x="838.8" y="364.0" text-anchor="middle" fill="#222222">Convergence</text>
+<rect x="212.8" y="436.0" width="158.3" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="292.0" y="458.0" text-anchor="middle" fill="#222222">Metric Spaces and</text>
+<text x="292.0" y="476.0" text-anchor="middle" fill="#222222">Compactness</text>
+<rect x="459.8" y="436.0" width="150.4" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="535.0" y="458.0" text-anchor="middle" fill="#222222">Lebesgue Measure</text>
+<text x="535.0" y="476.0" text-anchor="middle" fill="#222222">and Integral</text>
+<rect x="691.0" y="436.0" width="174.1" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="778.0" y="458.0" text-anchor="middle" fill="#222222">Fourier and</text>
+<text x="778.0" y="476.0" text-anchor="middle" fill="#222222">Functional Analysis</text>
+<text x="20" y="550" fill="#555555" font-size="13">Arrow A to B: learn A before B. Orange box: start here.</text>
+</svg>

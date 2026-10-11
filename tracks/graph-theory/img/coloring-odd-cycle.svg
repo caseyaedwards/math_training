@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 290" width="560" height="290" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Five-cycle colored with three colors</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="560" height="290" fill="#ffffff"/>
+<text x="280.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Coloring an Odd Cycle Needs 3 Colors</text>
+<line x1="214.6" y1="70.6" x2="275.8" y2="115.1" stroke="#222222" stroke-width="1.8"/>
+<line x1="284.8" y1="142.8" x2="261.4" y2="214.7" stroke="#222222" stroke-width="1.8"/>
+<line x1="237.8" y1="231.9" x2="162.2" y2="231.9" stroke="#222222" stroke-width="1.8"/>
+<line x1="138.6" y1="214.7" x2="115.2" y2="142.8" stroke="#222222" stroke-width="1.8"/>
+<line x1="124.2" y1="115.1" x2="185.4" y2="70.6" stroke="#222222" stroke-width="1.8"/>
+<circle cx="200.0" cy="60.0" r="18.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="200.0" y="65.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<circle cx="290.4" cy="125.6" r="18.0" fill="#adb5bd" stroke="#222222" stroke-width="1.8"/>
+<text x="290.4" y="130.6" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">2</text>
+<circle cx="255.8" cy="231.9" r="18.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="255.8" y="236.9" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<circle cx="144.2" cy="231.9" r="18.0" fill="#adb5bd" stroke="#222222" stroke-width="1.8"/>
+<text x="144.2" y="236.9" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">2</text>
+<circle cx="109.6" cy="125.6" r="18.0" fill="#f4a37c" stroke="#222222" stroke-width="1.8"/>
+<text x="109.6" y="130.6" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">3</text>
+<circle cx="390.0" cy="100.0" r="12.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="412.0" y="105.0" text-anchor="start" fill="#222222" font-size="14">color 1</text>
+<circle cx="390.0" cy="136.0" r="12.0" fill="#adb5bd" stroke="#222222" stroke-width="1.5"/>
+<text x="412.0" y="141.0" text-anchor="start" fill="#222222" font-size="14">color 2</text>
+<circle cx="390.0" cy="172.0" r="12.0" fill="#f4a37c" stroke="#222222" stroke-width="1.5"/>
+<text x="412.0" y="177.0" text-anchor="start" fill="#222222" font-size="14">color 3</text>
+<text x="400.0" y="225.0" text-anchor="middle" fill="#666666" font-size="13">Two colors alternate</text>
+<text x="400.0" y="243.0" text-anchor="middle" fill="#666666" font-size="13">around an even cycle,</text>
+<text x="400.0" y="261.0" text-anchor="middle" fill="#666666" font-size="13">but 5 is odd.</text>
+</svg>

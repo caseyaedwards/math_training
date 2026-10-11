@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 300" width="660" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Guessing a number from 1 to 8 with three yes or no questions</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="660" height="300" fill="#ffffff"/>
+<text x="330.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">3 Yes/No Questions Find 1 of 8 Numbers</text>
+<line x1="330.0" y1="74.0" x2="185.0" y2="111.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="330.0" y1="74.0" x2="475.0" y2="111.0" stroke="#d9480f" stroke-width="2.5"/>
+<line x1="185.0" y1="139.0" x2="112.5" y2="176.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="185.0" y1="139.0" x2="257.5" y2="176.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="475.0" y1="139.0" x2="402.5" y2="176.0" stroke="#d9480f" stroke-width="2.5"/>
+<line x1="475.0" y1="139.0" x2="547.5" y2="176.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="112.5" y1="204.0" x2="76.2" y2="241.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="112.5" y1="204.0" x2="148.8" y2="241.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="257.5" y1="204.0" x2="221.2" y2="241.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="257.5" y1="204.0" x2="293.8" y2="241.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="402.5" y1="204.0" x2="366.2" y2="241.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="402.5" y1="204.0" x2="438.8" y2="241.0" stroke="#d9480f" stroke-width="2.5"/>
+<line x1="547.5" y1="204.0" x2="511.2" y2="241.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="547.5" y1="204.0" x2="583.8" y2="241.0" stroke="#222222" stroke-width="1.5"/>
+<rect x="302.0" y="46.0" width="56.0" height="28.0" rx="6" fill="#ffffff" stroke="#d9480f" stroke-width="1.5"/>
+<text x="330.0" y="65.0" text-anchor="middle" fill="#222222" font-size="13">1-8</text>
+<rect x="157.0" y="111.0" width="56.0" height="28.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="185.0" y="130.0" text-anchor="middle" fill="#222222" font-size="13">1-4</text>
+<rect x="447.0" y="111.0" width="56.0" height="28.0" rx="6" fill="#ffffff" stroke="#d9480f" stroke-width="1.5"/>
+<text x="475.0" y="130.0" text-anchor="middle" fill="#222222" font-size="13">5-8</text>
+<rect x="84.5" y="176.0" width="56.0" height="28.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="112.5" y="195.0" text-anchor="middle" fill="#222222" font-size="13">1-2</text>
+<rect x="229.5" y="176.0" width="56.0" height="28.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="257.5" y="195.0" text-anchor="middle" fill="#222222" font-size="13">3-4</text>
+<rect x="374.5" y="176.0" width="56.0" height="28.0" rx="6" fill="#ffffff" stroke="#d9480f" stroke-width="1.5"/>
+<text x="402.5" y="195.0" text-anchor="middle" fill="#222222" font-size="13">5-6</text>
+<rect x="519.5" y="176.0" width="56.0" height="28.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="547.5" y="195.0" text-anchor="middle" fill="#222222" font-size="13">7-8</text>
+<rect x="61.2" y="241.0" width="30.0" height="28.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="76.2" y="260.0" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<rect x="133.8" y="241.0" width="30.0" height="28.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="148.8" y="260.0" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<rect x="206.2" y="241.0" width="30.0" height="28.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="221.2" y="260.0" text-anchor="middle" fill="#222222" font-size="13">3</text>
+<rect x="278.8" y="241.0" width="30.0" height="28.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="293.8" y="260.0" text-anchor="middle" fill="#222222" font-size="13">4</text>
+<rect x="351.2" y="241.0" width="30.0" height="28.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="366.2" y="260.0" text-anchor="middle" fill="#222222" font-size="13">5</text>
+<rect x="423.8" y="241.0" width="30.0" height="28.0" rx="6" fill="#ffffff" stroke="#d9480f" stroke-width="1.5"/>
+<text x="438.8" y="260.0" text-anchor="middle" fill="#222222" font-size="13">6</text>
+<rect x="496.2" y="241.0" width="30.0" height="28.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="511.2" y="260.0" text-anchor="middle" fill="#222222" font-size="13">7</text>
+<rect x="568.8" y="241.0" width="30.0" height="28.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="583.8" y="260.0" text-anchor="middle" fill="#222222" font-size="13">8</text>
+<text x="330.0" y="292.0" text-anchor="middle" fill="#666666" font-size="12">Each answer halves the candidates: 8 → 4 → 2 → 1. log2(8) = 3 bits. (Path to 6 in orange.)</text>
+</svg>

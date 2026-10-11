@@ -1,0 +1,14 @@
+Least upper bound property?	Every non-empty set of reals with an upper bound has a smallest upper bound (supremum).	math::tracks::real-analysis
+Definition of \( a_n \to L \)?	\( \forall \varepsilon > 0\; \exists N\; \forall n > N: |a_n - L| < \varepsilon \).	math::tracks::real-analysis
+Does \( a_n \to 0 \) guarantee \( \sum a_n \) converges?	No. The harmonic series \( \sum 1/n \) diverges.	math::tracks::real-analysis
+Geometric series \( \sum_{n\ge1} r^n \) for \( |r|<1 \)?	\( r/(1-r) \). For \( r = 1/2 \), the sum is 1.	math::tracks::real-analysis
+Epsilon-delta continuity at \( a \)?	\( \forall \varepsilon>0\; \exists \delta>0: |x-a|<\delta \Rightarrow |f(x)-f(a)|<\varepsilon \).	math::tracks::real-analysis
+Intermediate Value Theorem?	A continuous \( f \) on \( [a,b] \) takes every value between \( f(a) \) and \( f(b) \).	math::tracks::real-analysis
+Mean Value Theorem?	\( f'(c) = (f(b)-f(a))/(b-a) \) for some \( c \) in \( (a,b) \).	math::tracks::real-analysis
+When is a function Riemann integrable?	When lower and upper sums can be squeezed together by finer partitions.	math::tracks::real-analysis
+Pointwise versus uniform convergence?	Pointwise: each \( x \) has its own \( N \). Uniform: one \( N \) works for all \( x \).	math::tracks::real-analysis
+Classic non-uniform example?	\( x^n \) on \( [0,1] \): continuous functions converging to a limit with a jump at 1.	math::tracks::real-analysis
+Three metric axioms?	\( d \ge 0 \) with equality only for equal points; symmetry; triangle inequality.	math::tracks::real-analysis
+Heine-Borel theorem?	In \( \mathbb{R}^n \), compact means closed and bounded.	math::tracks::real-analysis
+Bolzano-Weierstrass theorem?	Every bounded sequence of reals has a convergent subsequence.	math::tracks::real-analysis
+Riemann versus Lebesgue integral?	Riemann slices the domain into strips. Lebesgue slices the range and measures where \( f \) reaches each height.	math::tracks::real-analysis

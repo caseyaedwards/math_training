@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 300" width="560" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Addition table of integers mod 4 with identity and inverses highlighted</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="560" height="300" fill="#ffffff"/>
+<text x="280.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Group Axioms in One Table: Z/4 Under +</text>
+<rect x="40.0" y="60.0" width="44.0" height="44.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="62.0" y="87.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">+</text>
+<rect x="84.0" y="60.0" width="44.0" height="44.0" rx="0" fill="#e9ecef" stroke="#222222" stroke-width="1.5"/>
+<text x="106.0" y="87.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<rect x="40.0" y="104.0" width="44.0" height="44.0" rx="0" fill="#e9ecef" stroke="#222222" stroke-width="1.5"/>
+<text x="62.0" y="131.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<rect x="128.0" y="60.0" width="44.0" height="44.0" rx="0" fill="#e9ecef" stroke="#222222" stroke-width="1.5"/>
+<text x="150.0" y="87.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<rect x="40.0" y="148.0" width="44.0" height="44.0" rx="0" fill="#e9ecef" stroke="#222222" stroke-width="1.5"/>
+<text x="62.0" y="175.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<rect x="172.0" y="60.0" width="44.0" height="44.0" rx="0" fill="#e9ecef" stroke="#222222" stroke-width="1.5"/>
+<text x="194.0" y="87.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">2</text>
+<rect x="40.0" y="192.0" width="44.0" height="44.0" rx="0" fill="#e9ecef" stroke="#222222" stroke-width="1.5"/>
+<text x="62.0" y="219.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">2</text>
+<rect x="216.0" y="60.0" width="44.0" height="44.0" rx="0" fill="#e9ecef" stroke="#222222" stroke-width="1.5"/>
+<text x="238.0" y="87.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">3</text>
+<rect x="40.0" y="236.0" width="44.0" height="44.0" rx="0" fill="#e9ecef" stroke="#222222" stroke-width="1.5"/>
+<text x="62.0" y="263.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">3</text>
+<rect x="84.0" y="104.0" width="44.0" height="44.0" rx="0" fill="#d9480f" fill-opacity="0.25" stroke="#222222" stroke-width="1.5"/>
+<text x="106.0" y="131.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<rect x="128.0" y="104.0" width="44.0" height="44.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="150.0" y="131.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<rect x="172.0" y="104.0" width="44.0" height="44.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="194.0" y="131.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">2</text>
+<rect x="216.0" y="104.0" width="44.0" height="44.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="238.0" y="131.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">3</text>
+<rect x="84.0" y="148.0" width="44.0" height="44.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="106.0" y="175.0" text-anchor="middle" fill="#222222" font-size="14">1</text>
+<rect x="128.0" y="148.0" width="44.0" height="44.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="150.0" y="175.0" text-anchor="middle" fill="#222222" font-size="14">2</text>
+<rect x="172.0" y="148.0" width="44.0" height="44.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="194.0" y="175.0" text-anchor="middle" fill="#222222" font-size="14">3</text>
+<rect x="216.0" y="148.0" width="44.0" height="44.0" rx="0" fill="#d9480f" fill-opacity="0.25" stroke="#222222" stroke-width="1.5"/>
+<text x="238.0" y="175.0" text-anchor="middle" fill="#222222" font-size="14">0</text>
+<rect x="84.0" y="192.0" width="44.0" height="44.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="106.0" y="219.0" text-anchor="middle" fill="#222222" font-size="14">2</text>
+<rect x="128.0" y="192.0" width="44.0" height="44.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="150.0" y="219.0" text-anchor="middle" fill="#222222" font-size="14">3</text>
+<rect x="172.0" y="192.0" width="44.0" height="44.0" rx="0" fill="#d9480f" fill-opacity="0.25" stroke="#222222" stroke-width="1.5"/>
+<text x="194.0" y="219.0" text-anchor="middle" fill="#222222" font-size="14">0</text>
+<rect x="216.0" y="192.0" width="44.0" height="44.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="238.0" y="219.0" text-anchor="middle" fill="#222222" font-size="14">1</text>
+<rect x="84.0" y="236.0" width="44.0" height="44.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="106.0" y="263.0" text-anchor="middle" fill="#222222" font-size="14">3</text>
+<rect x="128.0" y="236.0" width="44.0" height="44.0" rx="0" fill="#d9480f" fill-opacity="0.25" stroke="#222222" stroke-width="1.5"/>
+<text x="150.0" y="263.0" text-anchor="middle" fill="#222222" font-size="14">0</text>
+<rect x="172.0" y="236.0" width="44.0" height="44.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="194.0" y="263.0" text-anchor="middle" fill="#222222" font-size="14">1</text>
+<rect x="216.0" y="236.0" width="44.0" height="44.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="238.0" y="263.0" text-anchor="middle" fill="#222222" font-size="14">2</text>
+<text x="300.0" y="90.0" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">Closure:</text>
+<text x="300.0" y="108.0" text-anchor="start" fill="#666666" font-size="12">every entry is in {0,1,2,3}</text>
+<text x="300.0" y="128.0" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">Identity:</text>
+<text x="300.0" y="146.0" text-anchor="start" fill="#666666" font-size="12">0 changes nothing (first row)</text>
+<text x="300.0" y="166.0" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">Inverses:</text>
+<text x="300.0" y="184.0" text-anchor="start" fill="#666666" font-size="12">every row has a 0 (orange)</text>
+<text x="300.0" y="204.0" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">Associative:</text>
+<text x="300.0" y="222.0" text-anchor="start" fill="#666666" font-size="12">(a+b)+c = a+(b+c)</text>
+<text x="300.0" y="242.0" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">Bonus:</text>
+<text x="300.0" y="260.0" text-anchor="start" fill="#666666" font-size="12">symmetric table = commutative</text>
+</svg>

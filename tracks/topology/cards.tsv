@@ -1,0 +1,15 @@
+What does topology ignore and what does it keep?	It ignores lengths and angles. It keeps what survives stretching and bending without tearing or gluing.	math::tracks::topology
+What is a topological invariant?	A quantity unchanged by every allowed deformation, for example the number of holes.	math::tracks::topology
+Euler characteristic?	\( \chi = V - E + F \). 2 for a sphere, 0 for a torus.	math::tracks::topology
+Genus and Euler characteristic of a closed orientable surface?	\( \chi = 2 - 2g \).	math::tracks::topology
+What is a Mobius strip?	A strip glued with a half twist: a surface with only one side (non-orientable).	math::tracks::topology
+Triangle inequality?	\( d(x,z) \le d(x,y) + d(y,z) \).	math::tracks::topology
+What is an open set (in a metric space)?	Every point has a small ball around it that stays inside the set.	math::tracks::topology
+Topological definition of continuity?	The preimage of every open set is open.	math::tracks::topology
+What is a homeomorphism?	A continuous bijection with a continuous inverse: the formal 'same shape'.	math::tracks::topology
+Compact subsets of \( \mathbb{R}^n \)?	Exactly the closed and bounded ones (Heine-Borel).	math::tracks::topology
+Fundamental group of a circle?	The integers \( \mathbb{Z} \), counted by winding number.	math::tracks::topology
+Brouwer fixed point theorem?	Every continuous map from a disk to itself has a fixed point.	math::tracks::topology
+Hairy ball theorem?	Every continuous tangent vector field on a sphere vanishes somewhere.	math::tracks::topology
+What does a persistence barcode show?	How long each feature (cluster, loop) survives as the scale grows. Long bars are real, short bars are noise.	math::tracks::topology
+Who proved the Poincare conjecture?	Grigori Perelman, 2002 to 2003. He declined the Fields Medal and the Millennium Prize.	math::tracks::topology

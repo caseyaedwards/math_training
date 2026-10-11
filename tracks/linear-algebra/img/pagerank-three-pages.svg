@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Three web pages with links and their PageRank</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="600" height="300" fill="#ffffff"/>
+<text x="300.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">PageRank: The Eigenvector of the Link Graph</text>
+<line x1="141.0" y1="124.0" x2="141.0" y2="194.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="180.1" y1="108.2" x2="352.9" y2="158.6" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="185.2" y1="229.1" x2="358.0" y2="178.7" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="359.9" y1="141.8" x2="187.1" y2="91.4" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<circle cx="150.0" cy="90.0" r="32.0" fill="#d9480f" fill-opacity="0.3826738270209158" stroke="#222222" stroke-width="2"/>
+<text x="150.0" y="88.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">A</text>
+<text x="150.0" y="106.0" text-anchor="middle" fill="#222222" font-size="12">0.388</text>
+<circle cx="150.0" cy="230.0" r="32.0" fill="#d9480f" fill-opacity="0.2788863764838892" stroke="#222222" stroke-width="2"/>
+<text x="150.0" y="228.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">B</text>
+<text x="150.0" y="246.0" text-anchor="middle" fill="#222222" font-size="12">0.215</text>
+<circle cx="390.0" cy="160.0" r="32.0" fill="#d9480f" fill-opacity="0.388439796495195" stroke="#222222" stroke-width="2"/>
+<text x="390.0" y="158.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">C</text>
+<text x="390.0" y="176.0" text-anchor="middle" fill="#222222" font-size="12">0.397</text>
+<text x="470.0" y="110.0" text-anchor="start" fill="#666666" font-size="12">A links to B, C</text>
+<text x="470.0" y="128.0" text-anchor="start" fill="#666666" font-size="12">B links to C</text>
+<text x="470.0" y="146.0" text-anchor="start" fill="#666666" font-size="12">C links to A</text>
+<text x="470.0" y="186.0" text-anchor="start" fill="#666666" font-size="12">damping 0.85</text>
+<text x="300.0" y="288.0" text-anchor="middle" fill="#666666" font-size="13">Rank = long-run share of time a random surfer spends on the page.</text>
+</svg>

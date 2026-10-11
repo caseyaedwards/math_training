@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 270" width="600" height="270" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Two-state Markov chain for a service that is up or down</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="600" height="270" fill="#ffffff"/>
+<text x="300.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Markov Chain: Up and Down</text>
+<circle cx="180.0" cy="140.0" r="38.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="180.0" y="145.0" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">UP</text>
+<circle cx="420.0" cy="140.0" r="38.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="420.0" y="145.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">DOWN</text>
+<path d="M 215,120 C 270,80 330,80 385,120" fill="none" stroke="#d9480f" stroke-width="2" marker-end="url(#aha)"/>
+<path d="M 385,160 C 330,200 270,200 215,160" fill="none" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="300.0" y="82.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">0.01</text>
+<text x="300.0" y="210.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0.50</text>
+<path d="M 160,105 C 120,40 240,40 200,105" fill="none" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="180.0" y="52.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0.99</text>
+<path d="M 400,105 C 360,40 480,40 440,105" fill="none" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="420.0" y="52.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0.50</text>
+<text x="300.0" y="245.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">long run: UP 0.9804, DOWN 0.0196  (each minute)</text>
+<text x="300.0" y="262.0" text-anchor="middle" fill="#666666" font-size="12">π_down = 0.01 / (0.01 + 0.50)</text>
+</svg>

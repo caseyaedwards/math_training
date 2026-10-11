@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 420" width="780" height="420" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Shapes and capital letters grouped by number of holes</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="780" height="420" fill="#ffffff"/>
+<text x="390.0" y="32.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">Topology Counts Holes, Not Angles or Lengths</text>
+<path d="M50,150 C50,80 140,90 170,100 C220,115 215,190 170,205 C120,220 50,210 50,150 Z" fill="#d9480f" fill-opacity="0.2" stroke="#222222" stroke-width="2"/>
+<path fill-rule="evenodd" d="M300,150 a90,60 0 1,0 180,0 a90,60 0 1,0 -180,0 Z M355,150 a35,22 0 1,0 70,0 a35,22 0 1,0 -70,0 Z" fill="#d9480f" fill-opacity="0.2" stroke="#222222" stroke-width="2"/>
+<path fill-rule="evenodd" d="M560,95 h160 a40,40 0 0 1 40,40 v30 a40,40 0 0 1 -40,40 h-160 a40,40 0 0 1 -40,-40 v-30 a40,40 0 0 1 40,-40 Z M570,150 a30,20 0 1,0 60,0 a30,20 0 1,0 -60,0 Z M650,150 a30,20 0 1,0 60,0 a30,20 0 1,0 -60,0 Z" fill="#d9480f" fill-opacity="0.2" stroke="#222222" stroke-width="2"/>
+<text x="130.0" y="245.0" text-anchor="middle" fill="#d9480f" font-size="17" font-weight="bold">0 holes</text>
+<text x="130.0" y="270.0" text-anchor="middle" fill="#666666" font-size="13">ball, plate, cup with no handle</text>
+<text x="130.0" y="310.0" text-anchor="middle" fill="#222222" font-size="22" font-weight="bold">C E F G H I J K</text>
+<text x="130.0" y="338.0" text-anchor="middle" fill="#222222" font-size="22" font-weight="bold">L M N S T U V W</text>
+<text x="130.0" y="366.0" text-anchor="middle" fill="#222222" font-size="22" font-weight="bold">X Y Z</text>
+<text x="390.0" y="245.0" text-anchor="middle" fill="#d9480f" font-size="17" font-weight="bold">1 hole</text>
+<text x="390.0" y="270.0" text-anchor="middle" fill="#666666" font-size="13">donut, coffee mug, ring</text>
+<text x="390.0" y="310.0" text-anchor="middle" fill="#222222" font-size="22" font-weight="bold">A D O P Q R</text>
+<text x="640.0" y="245.0" text-anchor="middle" fill="#d9480f" font-size="17" font-weight="bold">2 holes</text>
+<text x="640.0" y="270.0" text-anchor="middle" fill="#666666" font-size="13">pretzel with two loops, figure 8</text>
+<text x="640.0" y="310.0" text-anchor="middle" fill="#222222" font-size="22" font-weight="bold">B</text>
+<text x="390.0" y="405.0" text-anchor="middle" fill="#666666" font-size="13">Stretch and bend freely, but do not tear or glue: the hole count never changes.</text>
+</svg>

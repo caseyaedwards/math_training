@@ -1,0 +1,15 @@
+Mean versus median: which resists outliers?	The median. The mean is pulled toward extreme values.	math::tracks::statistics
+What is the p99 latency?	The value that 99% of requests are at or below.	math::tracks::statistics
+Sample standard deviation formula?	\( s = \sqrt{\frac{1}{n-1}\sum (x_i - \bar x)^2} \).	math::tracks::statistics
+State the 68-95-99.7 rule.	For normal data, about 68%, 95% and 99.7% of values lie within 1, 2 and 3 standard deviations of the mean.	math::tracks::statistics
+z-score formula?	\( z = (x - \mu)/\sigma \): distance from the mean in standard deviations.	math::tracks::statistics
+Standard error of the mean?	\( \sigma / \sqrt{n} \). Four times the data halves it.	math::tracks::statistics
+Approximate 95% confidence interval for a mean?	\( \bar x \pm 1.96\, s/\sqrt{n} \).	math::tracks::statistics
+What does 95% confidence mean?	The method catches the true value in 95% of repeated studies. One interval either caught it or not.	math::tracks::statistics
+Define a p-value.	The probability of data at least this extreme if the null hypothesis is true. It is not P(null is true).	math::tracks::statistics
+Does correlation prove causation?	No. A third factor (for example traffic) can drive both variables.	math::tracks::statistics
+Least squares slope from correlation?	\( b = r\, s_y / s_x \), and the line passes through \( (\bar x, \bar y) \).	math::tracks::statistics
+EWMA update rule?	\( m_t = \alpha x_t + (1-\alpha) m_{t-1} \).	math::tracks::statistics
+What is the bootstrap?	Resample your data with replacement many times and use the spread of the recomputed statistic as its uncertainty.	math::tracks::statistics
+Bayes in words for inference?	Posterior is proportional to likelihood times prior.	math::tracks::statistics
+Expected false alarms testing \( m \) null metrics at level \( \alpha \)?	\( m\alpha \). Bonferroni: test each at \( \alpha/m \).	math::tracks::statistics

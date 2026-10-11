@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 460" width="560" height="460" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Partial sums of the series for e to the i pi spiral to minus one</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="560" height="460" fill="#ffffff"/>
+<text x="280.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Power Series: e^(iπ) Built Term by Term</text>
+<line x1="60.0" y1="275.3" x2="520.0" y2="275.3" stroke="#666666" stroke-width="1.5"/>
+<line x1="406.6" y1="420.0" x2="406.6" y2="55.0" stroke="#666666" stroke-width="1.5"/>
+<line x1="406.6" y1="275.3" x2="469.6" y2="275.3" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="469.6" y1="275.3" x2="469.6" y2="77.6" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="469.6" y1="77.6" x2="158.6" y2="77.6" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="158.6" y1="77.6" x2="158.6" y2="402.8" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="158.6" y1="402.8" x2="414.4" y2="402.8" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="414.4" y1="402.8" x2="414.4" y2="242.3" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="414.4" y1="242.3" x2="330.2" y2="242.3" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="330.2" y1="242.3" x2="330.2" y2="280.0" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="330.2" y1="280.0" x2="345.1" y2="280.0" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="345.1" y1="280.0" x2="345.1" y2="274.8" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="345.1" y1="274.8" x2="343.4" y2="274.8" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="343.4" y1="274.8" x2="343.4" y2="275.3" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="343.4" y1="275.3" x2="343.6" y2="275.3" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="343.6" y1="275.3" x2="343.6" y2="275.3" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="343.6" y1="275.3" x2="343.6" y2="275.3" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<line x1="343.6" y1="275.3" x2="343.6" y2="275.3" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<text x="475.6" y="269.3" text-anchor="start" fill="#666666" font-size="12">S1</text>
+<text x="475.6" y="71.6" text-anchor="start" fill="#666666" font-size="12">S2</text>
+<text x="164.6" y="71.6" text-anchor="start" fill="#666666" font-size="12">S3</text>
+<text x="164.6" y="396.8" text-anchor="start" fill="#666666" font-size="12">S4</text>
+<text x="420.4" y="396.8" text-anchor="start" fill="#666666" font-size="12">S5</text>
+<circle cx="343.6" cy="275.3" r="7.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<text x="347.6" y="299.3" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">-1</text>
+<text x="280.0" y="450.0" text-anchor="middle" fill="#666666" font-size="12">Each arrow adds one term (iπ)^k / k!. Each turns 90° from the last. The sums settle on -1.</text>
+</svg>

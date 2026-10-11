@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" width="700" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Tetrahedron and cube flattened into planar graphs with V minus E plus F equal to 2</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="700" height="300" fill="#ffffff"/>
+<text x="350.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Euler Characteristic: V - E + F = 2</text>
+<line x1="170.0" y1="70.0" x2="60.0" y2="240.0" stroke="#222222" stroke-width="2"/>
+<line x1="60.0" y1="240.0" x2="280.0" y2="240.0" stroke="#222222" stroke-width="2"/>
+<line x1="280.0" y1="240.0" x2="170.0" y2="70.0" stroke="#222222" stroke-width="2"/>
+<line x1="170.0" y1="70.0" x2="170.0" y2="175.0" stroke="#222222" stroke-width="2"/>
+<line x1="60.0" y1="240.0" x2="170.0" y2="175.0" stroke="#222222" stroke-width="2"/>
+<line x1="280.0" y1="240.0" x2="170.0" y2="175.0" stroke="#222222" stroke-width="2"/>
+<circle cx="170.0" cy="70.0" r="6.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="60.0" cy="240.0" r="6.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="280.0" cy="240.0" r="6.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="170.0" cy="175.0" r="6.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<text x="170.0" y="285.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">tetrahedron: 4 - 6 + 4 = 2</text>
+<line x1="410.0" y1="60.0" x2="640.0" y2="60.0" stroke="#222222" stroke-width="2"/>
+<line x1="480.0" y1="120.0" x2="570.0" y2="120.0" stroke="#222222" stroke-width="2"/>
+<line x1="410.0" y1="60.0" x2="480.0" y2="120.0" stroke="#222222" stroke-width="2"/>
+<line x1="640.0" y1="60.0" x2="640.0" y2="250.0" stroke="#222222" stroke-width="2"/>
+<line x1="570.0" y1="120.0" x2="570.0" y2="190.0" stroke="#222222" stroke-width="2"/>
+<line x1="640.0" y1="60.0" x2="570.0" y2="120.0" stroke="#222222" stroke-width="2"/>
+<line x1="640.0" y1="250.0" x2="410.0" y2="250.0" stroke="#222222" stroke-width="2"/>
+<line x1="570.0" y1="190.0" x2="480.0" y2="190.0" stroke="#222222" stroke-width="2"/>
+<line x1="640.0" y1="250.0" x2="570.0" y2="190.0" stroke="#222222" stroke-width="2"/>
+<line x1="410.0" y1="250.0" x2="410.0" y2="60.0" stroke="#222222" stroke-width="2"/>
+<line x1="480.0" y1="190.0" x2="480.0" y2="120.0" stroke="#222222" stroke-width="2"/>
+<line x1="410.0" y1="250.0" x2="480.0" y2="190.0" stroke="#222222" stroke-width="2"/>
+<circle cx="410.0" cy="60.0" r="6.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="640.0" cy="60.0" r="6.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="640.0" cy="250.0" r="6.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="410.0" cy="250.0" r="6.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="480.0" cy="120.0" r="6.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="570.0" cy="120.0" r="6.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="570.0" cy="190.0" r="6.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="480.0" cy="190.0" r="6.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<text x="525.0" y="285.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">cube: 8 - 12 + 6 = 2</text>
+<text x="525.0" y="160.0" text-anchor="middle" fill="#222222" font-size="1"></text>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 568" width="960" height="568" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Linear Algebra Concept Map</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#444444"/></marker></defs>
+<rect x="0" y="0" width="960" height="568" fill="#ffffff"/>
+<text x="480.0" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#222222">Linear Algebra Concept Map</text>
+<rect x="10" y="70" width="940" height="224" fill="#f8f9fa" stroke="#dee2e6"/>
+<text x="40" y="182.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#555555" transform="rotate(-90 40 182.0)">Beginner</text>
+<rect x="10" y="294" width="940" height="112" fill="#f1f3f5" stroke="#dee2e6"/>
+<text x="40" y="350.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#555555" transform="rotate(-90 40 350.0)">Intermediate</text>
+<rect x="10" y="406" width="940" height="112" fill="#f8f9fa" stroke="#dee2e6"/>
+<text x="40" y="462.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#555555" transform="rotate(-90 40 462.0)">Advanced</text>
+<path d="M535.0,143.0 C535.0,177.5 292.0,177.5 292.0,212.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M535.0,143.0 C535.0,177.5 535.0,177.5 535.0,212.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="606.2" y1="238.0" x2="706.8" y2="238.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M292.0,264.0 C292.0,294.0 231.2,294.0 231.2,324.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M778.0,264.0 C778.0,294.0 433.8,294.0 433.8,324.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M535.0,264.0 C535.0,298.5 636.2,298.5 636.2,333.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="696.2" y1="350.0" x2="767.5" y2="350.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M231.2,376.0 C231.2,410.5 231.2,410.5 231.2,445.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M433.8,376.0 C433.8,410.5 231.2,410.5 231.2,445.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M838.8,376.0 C838.8,406.0 535.0,406.0 535.0,436.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M838.8,376.0 C838.8,406.0 818.5,406.0 818.5,436.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<rect x="475.0" y="109.0" width="120.0" height="34" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="535.0" y="131.0" text-anchor="middle" fill="#222222">Vectors</text>
+<rect x="232.0" y="212.0" width="120.0" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="292.0" y="234.0" text-anchor="middle" fill="#222222">Dot Product</text>
+<text x="292.0" y="252.0" text-anchor="middle" fill="#222222">and Length</text>
+<rect x="463.8" y="212.0" width="142.5" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="535.0" y="234.0" text-anchor="middle" fill="#222222">Matrices as</text>
+<text x="535.0" y="252.0" text-anchor="middle" fill="#222222">Transformations</text>
+<rect x="706.8" y="212.0" width="142.5" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="778.0" y="234.0" text-anchor="middle" fill="#222222">Linear Systems</text>
+<text x="778.0" y="252.0" text-anchor="middle" fill="#222222">and Elimination</text>
+<rect x="152.1" y="324.0" width="158.3" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="231.2" y="346.0" text-anchor="middle" fill="#222222">Orthogonality and</text>
+<text x="231.2" y="364.0" text-anchor="middle" fill="#222222">Projection</text>
+<rect x="373.8" y="324.0" width="120.0" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="433.8" y="346.0" text-anchor="middle" fill="#222222">Span, Basis,</text>
+<text x="433.8" y="364.0" text-anchor="middle" fill="#222222">Rank</text>
+<rect x="576.2" y="333.0" width="120.0" height="34" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="636.2" y="355.0" text-anchor="middle" fill="#222222">Determinant</text>
+<rect x="767.5" y="324.0" width="142.5" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="838.8" y="346.0" text-anchor="middle" fill="#222222">Eigenvalues and</text>
+<text x="838.8" y="364.0" text-anchor="middle" fill="#222222">Eigenvectors</text>
+<rect x="167.9" y="445.0" width="126.7" height="34" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="231.2" y="467.0" text-anchor="middle" fill="#222222">Least Squares</text>
+<rect x="463.8" y="436.0" width="142.5" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="535.0" y="458.0" text-anchor="middle" fill="#222222">Diagonalization</text>
+<text x="535.0" y="476.0" text-anchor="middle" fill="#222222">and PageRank</text>
+<rect x="751.2" y="436.0" width="134.6" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="818.5" y="458.0" text-anchor="middle" fill="#222222">Singular Value</text>
+<text x="818.5" y="476.0" text-anchor="middle" fill="#222222">Decomposition</text>
+<text x="20" y="550" fill="#555555" font-size="13">Arrow A to B: learn A before B. Orange box: start here.</text>
+</svg>

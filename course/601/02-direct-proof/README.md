@@ -131,6 +131,14 @@ $\blacksquare$
 
 You use this fact again and again in [lesson 07](../07-divisibility-gcd-and-euclid/README.md). It is the reason the Euclidean algorithm works.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Flowchart Proof: Vertical Angles Are Equal: A flowchart proof writes each statement in a box with its reason underneath, and arrows show which facts lead to which](https://caseyaedwards.github.io/math_training/diagrams/proof-flowchart/animated.svg)
+
+[Flowchart Proof: Vertical Angles Are Equal: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/proof-flowchart/)
+
+Watch each statement and its reason feed the next box until the arrows reach the conclusion.
+
 ## Common Mistakes
 
 * Reusing a letter: writing $a = 2k + 1$ and $b = 2k + 1$ proves the claim only for $a = b$. Fix: a new letter for each new unknown.

@@ -158,6 +158,38 @@ A hard disk spins at 7,200 revolutions per minute. Find its angular speed and th
     = 33.9 m/s                                about 122 km/h, under the read head
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Radian Measure: A radian is the angle you get when an arc as long as the radius wraps around the circle](https://caseyaedwards.github.io/math_training/diagrams/radians/animated.svg)
+
+[Radian Measure: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/radians/)
+
+Watch radius-length arcs wrap around the rim until a little over six of them complete the full turn.
+
+![Animated step-by-step diagram of Arc Length and Sector Area: With the angle in radians, the arc length is the radius times the angle, and the sector area is half the radius squared times the angle](https://caseyaedwards.github.io/math_training/diagrams/arc-length-sector/animated.svg)
+
+[Arc Length and Sector Area: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/arc-length-sector/)
+
+Watch the arc length and the sector area both scale directly with the angle in radians.
+
+![Animated step-by-step diagram of The Unit Circle: Walk an angle θ around a circle of radius 1](https://caseyaedwards.github.io/math_training/diagrams/unit-circle/animated.svg)
+
+[The Unit Circle: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/unit-circle/)
+
+Watch the landing point of each angle give cosine as its x-coordinate and sine as its y-coordinate.
+
+![Animated step-by-step diagram of Tangent on the Unit Circle: Extend the radius until it hits the vertical line x = 1](https://caseyaedwards.github.io/math_training/diagrams/tangent-line-segment/animated.svg)
+
+[Tangent on the Unit Circle: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/tangent-line-segment/)
+
+Watch the extended radius climb the line x = 1 and race off to infinity as the angle nears 90 degrees.
+
+![Animated step-by-step diagram of Sine Wave from the Unit Circle: Walk a point around the unit circle and record its height at each angle](https://caseyaedwards.github.io/math_training/diagrams/sine-from-circle/animated.svg)
+
+[Sine Wave from the Unit Circle: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/sine-from-circle/)
+
+Watch the height of the point on the circle unroll into the sine wave as the angle grows.
+
 ## Common Mistakes
 
 * Using $s = r\theta$ with $\theta$ in degrees: the formula holds only in radians.

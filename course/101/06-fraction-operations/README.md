@@ -131,6 +131,32 @@ It passes. That candidate is the answer.
   = 3 1/3                     10 = 3 × 3 + 1
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Adding Fractions with Strips: Halves and thirds are different sizes, so they cannot be counted together](https://caseyaedwards.github.io/math_training/diagrams/fraction-strips-addition/animated.svg)
+
+[Adding Fractions with Strips: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/fraction-strips-addition/)
+
+Watch halves and thirds both cut into sixths, the common size that lets them be counted together.
+
+![Animated step-by-step diagram of Adding Fractions on a Number Line: Add fractions as two hops on a number line](https://caseyaedwards.github.io/math_training/diagrams/fraction-addition-number-line/animated.svg)
+
+[Adding Fractions on a Number Line: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/fraction-addition-number-line/)
+
+Watch the two hops land between familiar marks until sixths name the landing spot exactly.
+
+![Animated step-by-step diagram of Multiplying Fractions with Area: Shade 3/4 of a unit square one way and 2/3 the other way](https://caseyaedwards.github.io/math_training/diagrams/fraction-multiplication-area/animated.svg)
+
+[Multiplying Fractions with Area: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/fraction-multiplication-area/)
+
+Watch the two shadings overlap, since the overlap cells count the tops and all the cells count the bottoms.
+
+![Animated step-by-step diagram of Dividing by a Fraction: Dividing by 1/3 asks how many thirds fit](https://caseyaedwards.github.io/math_training/diagrams/fraction-division/animated.svg)
+
+[Dividing by a Fraction: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/fraction-division/)
+
+Watch the thirds fit into each whole, which explains why dividing by 1/3 multiplies by 3.
+
 ## Common Mistakes
 
 * Adding straight across: $\frac{1}{3} + \frac{1}{4}$ is not $\frac{2}{7}$. The sum must be bigger than each part, and `2/7` is smaller than `1/3`.

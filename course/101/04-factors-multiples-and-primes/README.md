@@ -113,6 +113,50 @@ A backup runs every `6` minutes. Log rotation runs every `15` minutes. Both run 
   answer: 00:30         the first shared multiple
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Factors as Rectangles: Arrange tiles into a full rectangle](https://caseyaedwards.github.io/math_training/diagrams/factor-arrays/animated.svg)
+
+[Factors as Rectangles: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/factor-arrays/)
+
+Watch each rectangle of tiles give a factor pair, while a prime fits only in a single row.
+
+![Animated step-by-step diagram of Factor Tree: Split a number into two factors, then split those, until only primes are left](https://caseyaedwards.github.io/math_training/diagrams/factor-tree/animated.svg)
+
+[Factor Tree: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/factor-tree/)
+
+Watch each branch split until only primes remain, and notice the same primes appear no matter how the tree starts.
+
+![Animated step-by-step diagram of Factor Ladder: Divide by the smallest prime that fits, write the quotient underneath, and repeat until you reach 1](https://caseyaedwards.github.io/math_training/diagrams/factor-ladder/animated.svg)
+
+[Factor Ladder: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/factor-ladder/)
+
+Watch the smallest prime divide at each rung until the bottom reaches 1 and the left side lists the factorization.
+
+![Animated step-by-step diagram of Sieve of Eratosthenes: Circle the next number that is not crossed out, then cross out its multiples](https://caseyaedwards.github.io/math_training/diagrams/sieve-of-eratosthenes/animated.svg)
+
+[Sieve of Eratosthenes: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/sieve-of-eratosthenes/)
+
+Watch each surviving number cross out its own multiples, so only primes remain at the end.
+
+![Animated step-by-step diagram of GCD and LCM by Listing: List the factors of both numbers and take the biggest one they share](https://caseyaedwards.github.io/math_training/diagrams/gcd-lcm-lists/animated.svg)
+
+[GCD and LCM by Listing: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/gcd-lcm-lists/)
+
+Watch the shared factors and the first shared multiple stand out from the two lists.
+
+![Animated step-by-step diagram of GCD and LCM with a Venn Diagram: Put the prime factors of two numbers in a Venn diagram](https://caseyaedwards.github.io/math_training/diagrams/gcd-lcm-venn/animated.svg)
+
+[GCD and LCM with a Venn Diagram: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/gcd-lcm-venn/)
+
+Watch the overlap of prime factors multiply to the GCD and the whole diagram multiply to the LCM.
+
+![Animated step-by-step diagram of Euclidean Algorithm with Squares: Cut the biggest possible squares off a rectangle, then repeat on the leftover strip](https://caseyaedwards.github.io/math_training/diagrams/euclidean-algorithm/animated.svg)
+
+[Euclidean Algorithm with Squares: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/euclidean-algorithm/)
+
+Watch the largest squares come off the rectangle until the last square fits exactly, and its side is the GCD.
+
 ## Common Mistakes
 
 * Calling `1` prime: a prime needs exactly two different factors. `1` has one.

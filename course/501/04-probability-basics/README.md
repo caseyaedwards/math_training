@@ -95,6 +95,38 @@ P(service up)         = 1 - 0.000001         complement again
 
 A request that needs two independent services, each 99.9% available, succeeds with probability $0.999 \times 0.999 = 0.998001$. Every hard dependency in series lowers availability.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Sums of Two Dice: Two dice give 36 equally likely outcomes](https://caseyaedwards.github.io/math_training/diagrams/dice-sum-grid/animated.svg)
+
+[Sums of Two Dice: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/dice-sum-grid/)
+
+Watch the sums run along diagonals, so 7 collects the most outcomes.
+
+![Animated step-by-step diagram of The Addition Rule: To find the chance of A or B, add their chances and subtract the overlap once, because the overlap got counted in both](https://caseyaedwards.github.io/math_training/diagrams/addition-rule-venn/animated.svg)
+
+[The Addition Rule: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/addition-rule-venn/)
+
+Watch the overlap get counted twice and then subtracted once.
+
+![Animated step-by-step diagram of The Addition Rule in a Table: A two-way table splits the deck by two yes or no questions](https://caseyaedwards.github.io/math_training/diagrams/addition-rule-table/animated.svg)
+
+[The Addition Rule in a Table: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/addition-rule-table/)
+
+Watch the row total and the column total share one cell, which gets counted twice until it is subtracted.
+
+![Animated step-by-step diagram of Probability Trees: Draw one branch for each way a draw can go and write its chance on it](https://caseyaedwards.github.io/math_training/diagrams/probability-tree/animated.svg)
+
+[Probability Trees: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/probability-tree/)
+
+Watch the chances multiply along each path and add across the paths that answer the question.
+
+![Animated step-by-step diagram of The Law of Large Numbers: The share of heads swings wildly over a few flips and settles near one half over many](https://caseyaedwards.github.io/math_training/diagrams/law-of-large-numbers/animated.svg)
+
+[The Law of Large Numbers: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/law-of-large-numbers/)
+
+Watch the share of heads swing wildly early and settle near one half as the flips pile up.
+
 ## Common Mistakes
 
 * Adding probabilities of events that overlap: subtract $P(A \cap B)$, or the answer can exceed 1.

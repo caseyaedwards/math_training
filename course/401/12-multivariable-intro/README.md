@@ -156,6 +156,14 @@ $\displaystyle\int_0^1 \int_0^1 xy\,dy\,dx$
   outer: integral from 0 to 1 of x/2 dx = [x^2/4] from 0 to 1 = 1/4
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Least Squares Regression: The least squares line passes through the center of the data and makes the total of the squared vertical misses, the residuals, as small as possible](https://caseyaedwards.github.io/math_training/diagrams/linear-regression/animated.svg)
+
+[Least Squares Regression: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/linear-regression/)
+
+Watch the line settle where the total of the squared residuals is as small as possible.
+
 ## The SRE Connection
 
 * **Partials are sensitivities.** Capacity planning asks "what moves latency most?" The partial derivatives of a latency model answer it, knob by knob, in ms per unit. Example 3 says one replica is worth 100 req/s of load at the current operating point.

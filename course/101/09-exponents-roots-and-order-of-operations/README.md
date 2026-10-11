@@ -143,6 +143,26 @@ Multiplication is shorthand for repeated addition. Exponents are shorthand for r
   (-3)² = (-3)(-3) = 9      parentheses put the minus inside the base
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Order of Operations as a Tree: Draw the expression as a tree: each operation sits above the two things it works on](https://caseyaedwards.github.io/math_training/diagrams/order-of-operations-tree/animated.svg)
+
+[Order of Operations as a Tree: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/order-of-operations-tree/)
+
+Watch the tree evaluate from the leaves up, so the parentheses and the power finish before the addition at the top.
+
+![Animated step-by-step diagram of Exponent Rules as Repeated Multiplication: An exponent counts how many x's are multiplied together](https://caseyaedwards.github.io/math_training/diagrams/exponent-rules/animated.svg)
+
+[Exponent Rules as Repeated Multiplication: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/exponent-rules/)
+
+Watch the rows of x's sit side by side and the counts add, then a repeated group multiply the count.
+
+![Animated step-by-step diagram of Dividing Powers: Zero and Negative Exponents: Write the top and the bottom as rows of x's and cancel them in pairs](https://caseyaedwards.github.io/math_training/diagrams/exponent-division/animated.svg)
+
+[Dividing Powers: Zero and Negative Exponents: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/exponent-division/)
+
+Watch matching x's cancel in pairs, and see how the leftover cases explain zero and negative exponents.
+
 ## Common Mistakes
 
 * Reading $2^3$ as `2 × 3`: it is `2 × 2 × 2 = 8`.

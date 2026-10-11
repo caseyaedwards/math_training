@@ -136,6 +136,26 @@ This only works in radians. In degrees the ratio heads to $\frac{\pi}{180} \appr
   the two sides disagree: lim_{x->0} f(x) does not exist
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Limits: The Epsilon-Delta Picture: A limit is a promise: however thin a band you draw around L, you can find a window around c whose part of the graph stays inside the band](https://caseyaedwards.github.io/math_training/diagrams/epsilon-delta/animated.svg)
+
+[Limits: The Epsilon-Delta Picture: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/epsilon-delta/)
+
+Watch the window around c shrink to keep the graph inside each thinner band around L.
+
+![Animated step-by-step diagram of Secant Lines to a Tangent Line: A secant line through two points of a curve has a slope you can compute](https://caseyaedwards.github.io/math_training/diagrams/secant-to-tangent/animated.svg)
+
+[Secant Lines to a Tangent Line: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/secant-to-tangent/)
+
+Watch the secant slopes close in on the tangent slope as the second point slides toward the first.
+
+![Animated step-by-step diagram of Riemann Sums: Area from Rectangles: Split the area under a curve into thin rectangles, add their areas, and let the rectangles get thinner](https://caseyaedwards.github.io/math_training/diagrams/riemann-sum/animated.svg)
+
+[Riemann Sums: Area from Rectangles: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/riemann-sum/)
+
+Watch the rectangles get thinner and their total area close in on the exact area under the curve.
+
 ## Common Mistakes
 
 * Thinking the limit is the value at the point: the hole-with-dot picture has limit 3 and value 1.

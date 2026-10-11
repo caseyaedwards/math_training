@@ -185,6 +185,26 @@ Choose $k$ so that $f(x) = x + 1$ for $x < 2$ and $f(x) = kx$ for $x \ge 2$ is c
   k = 3/2                            divide by 2
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Limits: The Epsilon-Delta Picture: A limit is a promise: however thin a band you draw around L, you can find a window around c whose part of the graph stays inside the band](https://caseyaedwards.github.io/math_training/diagrams/epsilon-delta/animated.svg)
+
+[Limits: The Epsilon-Delta Picture: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/epsilon-delta/)
+
+Watch the window around c shrink to keep the graph inside each thinner band around L.
+
+![Animated step-by-step diagram of Piecewise Functions: A piecewise function uses different rules on different stretches of x](https://caseyaedwards.github.io/math_training/diagrams/piecewise-function/animated.svg)
+
+[Piecewise Functions: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/piecewise-function/)
+
+Watch the solid and hollow dots at each boundary decide which piece owns the endpoint.
+
+![Animated step-by-step diagram of Absolute Value as a Piecewise Function: The absolute value is two lines glued at the origin](https://caseyaedwards.github.io/math_training/diagrams/absolute-value-piecewise/animated.svg)
+
+[Absolute Value as a Piecewise Function: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/absolute-value-piecewise/)
+
+Watch the right half of y = x and the left half of y = -x glue together at the origin into a V.
+
 ## The SRE Connection
 
 * **Sampling interval as a limit.** A dashboard computes a rate from two scrapes: (change in counter) / (time between scrapes). Shrink the scrape interval toward zero and the number approaches the instantaneous rate. That limit is the derivative of [Lesson 02](../02-the-derivative/README.md).

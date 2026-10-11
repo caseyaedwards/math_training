@@ -152,6 +152,20 @@ A 10 ft ladder leans on a wall with its foot 6 ft from the wall. How high does i
   d  = sqrt(36 + 64) = sqrt(100) = 10
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Special Right Triangles: Cut a square along its diagonal to get the 45-45-90 triangle](https://caseyaedwards.github.io/math_training/diagrams/special-right-triangles/animated.svg)
+
+[Special Right Triangles: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/special-right-triangles/)
+
+Watch a square and an equilateral triangle cut in half to give the exact side ratios.
+
+![Animated step-by-step diagram of Vector Components and Magnitude: A vector is an arrow from the origin](https://caseyaedwards.github.io/math_training/diagrams/vector-components/animated.svg)
+
+[Vector Components and Magnitude: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/vector-components/)
+
+Watch the components form the legs of a right triangle whose hypotenuse is the length of the vector.
+
 ## Common Mistakes
 
 * Adding the sides instead of the squares: $3 + 4 = 7$, not 5. The squares add: $9 + 16 = 25$.

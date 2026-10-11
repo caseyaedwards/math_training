@@ -93,6 +93,38 @@ R S = [[0, -1], [2, 0]]                 stretch first, then rotate
 S R ≠ R S                               the picture above shows the difference
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Matrix as a Linear Transformation: A 2 by 2 matrix moves every point of the plane](https://caseyaedwards.github.io/math_training/diagrams/matrix-transformation/animated.svg)
+
+[Matrix as a Linear Transformation: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/matrix-transformation/)
+
+Watch the two basis vectors land on the columns of the matrix and the whole grid follow along.
+
+![Animated step-by-step diagram of Rotation Matrix: To rotate the plane by an angle, track where e₁ and e₂ go on the unit circle](https://caseyaedwards.github.io/math_training/diagrams/rotation-matrix/animated.svg)
+
+[Rotation Matrix: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/rotation-matrix/)
+
+Watch e1 and e2 move around the unit circle, and read their landing points as the matrix columns.
+
+![Animated step-by-step diagram of Composing Transformations: Doing one map after another multiplies their matrices, with the first map on the right](https://caseyaedwards.github.io/math_training/diagrams/transformation-composition/animated.svg)
+
+[Composing Transformations: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/transformation-composition/)
+
+Watch shear then rotate and rotate then shear land in different places, so order matters.
+
+![Animated step-by-step diagram of Matrix Multiplication: Row Times Column: Each entry of a product matrix is one row of the left matrix times one column of the right matrix: multiply matching entries and add](https://caseyaedwards.github.io/math_training/diagrams/matrix-multiplication/animated.svg)
+
+[Matrix Multiplication: Row Times Column: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/matrix-multiplication/)
+
+Watch one row of the left matrix pair with one column of the right matrix to fill each entry.
+
+![Animated step-by-step diagram of Matrix Multiplication: Column Picture: Each column of AB is a mix of the columns of A](https://caseyaedwards.github.io/math_training/diagrams/matrix-multiplication-columns/animated.svg)
+
+[Matrix Multiplication: Column Picture: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/matrix-multiplication-columns/)
+
+Watch each column of the product build up as a mix of the columns of A.
+
 ## Common Mistakes
 
 * Putting the landing spots in rows instead of columns: $i$'s destination is the first column.

@@ -143,6 +143,14 @@ In the figure, angle 2 is $60^\circ$.
   angles 5, 6, 7, 8 = 120, 60, 60, 120     corresponding to 1, 2, 3, 4
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Flowchart Proof: Vertical Angles Are Equal: A flowchart proof writes each statement in a box with its reason underneath, and arrows show which facts lead to which](https://caseyaedwards.github.io/math_training/diagrams/proof-flowchart/animated.svg)
+
+[Flowchart Proof: Vertical Angles Are Equal: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/proof-flowchart/)
+
+Watch each statement and its reason feed the next box until the arrows reach the conclusion.
+
 ## Common Mistakes
 
 * Mixing up complementary (90) and supplementary (180).

@@ -88,7 +88,7 @@ $$A(t) = A_0 \cdot \left(\tfrac{1}{2}\right)^{t/T}.$$
 
 ### 7. The Number $e$
 
-Put \$1 in an account paying 100% a year. Compounded once: \$2. Compounded twice, 50% each half year: $1.5^2 = \$2.25$. Compound more often and the result climbs, but it does not run away. It levels off at a constant called $e$:
+Put \$1 in an account paying 100% a year. Compounded once: \$2. Compounded twice, 50% each half year: $1.5^2 = 2.25$ dollars. Compound more often and the result climbs, but it does not run away. It levels off at a constant called $e$:
 
 $$\left(1 + \frac{1}{n}\right)^n \to e \approx 2.71828 \text{ as } n \text{ grows.}$$
 
@@ -161,6 +161,32 @@ An exponential passes through $(0, 3)$ and $(2, 12)$. Find it.
   y = 3 * 2^x
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Dividing Powers: Zero and Negative Exponents: Write the top and the bottom as rows of x's and cancel them in pairs](https://caseyaedwards.github.io/math_training/diagrams/exponent-division/animated.svg)
+
+[Dividing Powers: Zero and Negative Exponents: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/exponent-division/)
+
+Watch matching x's cancel in pairs, and see how the leftover cases explain zero and negative exponents.
+
+![Animated step-by-step diagram of Linear Versus Exponential Growth: Linear growth adds the same amount each step; exponential growth multiplies by the same factor](https://caseyaedwards.github.io/math_training/diagrams/linear-vs-exponential/animated.svg)
+
+[Linear Versus Exponential Growth: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/linear-vs-exponential/)
+
+Watch the linear rule lead early and the doubling rule overtake it for good.
+
+![Animated step-by-step diagram of Arithmetic versus Geometric Sequences: An arithmetic sequence adds the same number each step, so its dots lie on a line](https://caseyaedwards.github.io/math_training/diagrams/arithmetic-geometric-sequences/animated.svg)
+
+[Arithmetic versus Geometric Sequences: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/arithmetic-geometric-sequences/)
+
+Watch the arithmetic dots line up in a straight line while the geometric jumps keep growing.
+
+![Animated step-by-step diagram of Exponential Decay and Half-Life: When something shrinks at a rate proportional to how much is left, it loses the same fraction in every equal stretch of time](https://caseyaedwards.github.io/math_training/diagrams/exponential-decay/animated.svg)
+
+[Exponential Decay and Half-Life: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/exponential-decay/)
+
+Watch the amount lose the same fraction in every equal stretch of time, which fixes the half-life.
+
 ## Common Mistakes
 
 * Reading $2^{-3}$ as $-8$: a negative exponent means reciprocal, $\frac{1}{8}$.
@@ -190,11 +216,11 @@ An exponential passes through $(0, 3)$ and $(2, 12)$. Find it.
 3. $\frac{1}{25}$: $5^{0 + 3 - 5} = 5^{-2}$.
 4. $4(0.9)^x$: decay, 10% per step. $0.5(1.07)^x$: growth, 7% per step.
 5. $500 \cdot 2^{12/3} = 500 \cdot 16 = 8,000$ messages.
-6. $2000 \cdot 1.05^3 = \$2,315.25$.
+6. $2000 \cdot 1.05^3 = 2{,}315.25$ dollars.
 7. $100 + 50 \cdot 20 = 1,100$. $1.5^{20} \approx 3,325$. The exponential wins.
 8. $y = 5 \cdot 3^x$.
 9. $24 / 8 = 3$ half-lives: $80 \to 40 \to 20 \to 10$ g.
-10. $100 e^{0.5} \approx \$164.87$.
+10. $100 e^{0.5} \approx 164.87$ dollars.
 
 </details>
 

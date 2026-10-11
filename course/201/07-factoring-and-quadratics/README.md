@@ -151,6 +151,44 @@ In $2x^2 + 3x - 2 = 0$, the coefficients are $a = 2$, $b = 3$, $c = -2$.
   check by factoring: (2x - 1)(x + 2) = 2x^2 + 4x - x - 2 = 2x^2 + 3x - 2   true
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Multiplying Binomials as Area (FOIL): A product of two sums is the area of a rectangle cut into four boxes](https://caseyaedwards.github.io/math_training/diagrams/binomial-area-model/animated.svg)
+
+[Multiplying Binomials as Area (FOIL): open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/binomial-area-model/)
+
+Watch the rectangle split into four boxes, one for each product in FOIL.
+
+![Animated step-by-step diagram of Factoring with Algebra Tiles: Factoring means arranging the tiles of a polynomial into one rectangle](https://caseyaedwards.github.io/math_training/diagrams/algebra-tiles/animated.svg)
+
+[Factoring with Algebra Tiles: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/algebra-tiles/)
+
+Watch the tiles rearrange into one rectangle whose side lengths are the factors.
+
+![Animated step-by-step diagram of Difference of Squares as Area: Cut a small square out of a big one, then slide one leftover strip to the end](https://caseyaedwards.github.io/math_training/diagrams/difference-of-squares/animated.svg)
+
+[Difference of Squares as Area: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/difference-of-squares/)
+
+Watch one leftover strip slide over so the L-shape becomes a rectangle with sides a + b and a - b.
+
+![Animated step-by-step diagram of Completing the Square: Draw x² + 6x as a square plus a strip, split the strip in half, and wrap it around the square](https://caseyaedwards.github.io/math_training/diagrams/completing-the-square/animated.svg)
+
+[Completing the Square: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/completing-the-square/)
+
+Watch the strip split in half and wrap around the square, leaving one small corner to add to both sides.
+
+![Animated step-by-step diagram of Anatomy of a Parabola: Every parabola has a y-intercept, up to two roots, an axis of symmetry halfway between the roots, and a vertex on that axis](https://caseyaedwards.github.io/math_training/diagrams/parabola-anatomy/animated.svg)
+
+[Anatomy of a Parabola: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/parabola-anatomy/)
+
+Watch the roots, the axis of symmetry and the vertex each appear from a different form of the same equation.
+
+![Animated step-by-step diagram of The Discriminant: Counting Real Roots: The part under the square root, D = b² − 4ac, decides how many times a parabola meets the x-axis: twice when D is positive, once when D is zero, never when D is negative](https://caseyaedwards.github.io/math_training/diagrams/discriminant/animated.svg)
+
+[The Discriminant: Counting Real Roots: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/discriminant/)
+
+Watch the sign of b^2 - 4ac decide whether the parabola meets the x-axis twice, once or not at all.
+
 ## Common Mistakes
 
 * Expanding $(x + 3)^2$ as $x^2 + 9$: it is $x^2 + 6x + 9$. Draw the square and you see the two missing strips.

@@ -137,6 +137,26 @@ $\blacksquare$ The set $D$ plays the role of the flipped diagonal: it disagrees 
 
 Consequence: there is no largest infinity. $\mathbb{N}$, $\mathcal{P}(\mathbb{N})$, $\mathcal{P}(\mathcal{P}(\mathbb{N}))$, and so on, keep getting bigger.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Set Operations with Venn Diagrams: Union, intersection, difference, and complement each shade a region of a Venn diagram](https://caseyaedwards.github.io/math_training/diagrams/set-operations/animated.svg)
+
+[Set Operations with Venn Diagrams: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/set-operations/)
+
+Watch the shaded regions for the complement of a union and the intersection of complements match, which is De Morgan's law.
+
+![Animated step-by-step diagram of Mapping Diagrams: Draw the inputs in one oval and the possible outputs in another, then draw an arrow for each pair](https://caseyaedwards.github.io/math_training/diagrams/mapping-diagram/animated.svg)
+
+[Mapping Diagrams: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/mapping-diagram/)
+
+Watch for any input with two arrows leaving it, since that one input breaks the function rule.
+
+![Animated step-by-step diagram of Number Systems: Sets Inside Sets: Each number system contains the one before it and adds new numbers to fix something the smaller system cannot do, from subtraction to square roots of negatives](https://caseyaedwards.github.io/math_training/diagrams/number-systems-map/animated.svg)
+
+[Number Systems: Sets Inside Sets: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/number-systems-map/)
+
+Watch each number system nest inside the next, with each new system fixing a gap in the one before it.
+
 ## Common Mistakes
 
 * "Infinite sets are all the same size." False: $\mathbb{N}$ and $\mathbb{R}$ differ.

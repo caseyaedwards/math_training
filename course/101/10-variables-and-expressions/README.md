@@ -132,6 +132,20 @@ A cluster has `n` worker nodes with `16 GB` each, plus `8 GB` for the control pl
   n = 5:   16(5) + 8 = 88 GB       evaluate for five workers
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Function Machine: A function is a machine with one rule](https://caseyaedwards.github.io/math_training/diagrams/function-machine/animated.svg)
+
+[Function Machine: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/function-machine/)
+
+Watch each input run through the rule and come out as exactly one output, which then lands on the graph.
+
+![Animated step-by-step diagram of Area Model for Multiplication: A product is the area of a rectangle](https://caseyaedwards.github.io/math_training/diagrams/area-model-multiplication/animated.svg)
+
+[Area Model for Multiplication: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/area-model-multiplication/)
+
+Watch each side split by place value, so one hard product becomes four easy areas that add to the answer.
+
 ## Common Mistakes
 
 * `3(x + 2) = 3x + 2`: the `3` multiplies every term inside. Test `x = 0`: `6` against `2`.

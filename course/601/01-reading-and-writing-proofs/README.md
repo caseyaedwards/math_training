@@ -148,6 +148,20 @@ Claim: "For every positive integer $n$, the number $n^2 + n + 41$ is prime."
 
 Thirty-nine true cases prove nothing. The single case $n = 40$ disproves the claim.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Flowchart Proof: Vertical Angles Are Equal: A flowchart proof writes each statement in a box with its reason underneath, and arrows show which facts lead to which](https://caseyaedwards.github.io/math_training/diagrams/proof-flowchart/animated.svg)
+
+[Flowchart Proof: Vertical Angles Are Equal: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/proof-flowchart/)
+
+Watch each statement and its reason feed the next box until the arrows reach the conclusion.
+
+![Animated step-by-step diagram of Truth Tables: A truth table lists every combination of true and false inputs and the value of a statement for each](https://caseyaedwards.github.io/math_training/diagrams/truth-tables/animated.svg)
+
+[Truth Tables: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/truth-tables/)
+
+Watch the conditional come out false in exactly one row, where p is true and q is false.
+
 ## Common Mistakes
 
 * Proof by example: checking a few cases of a "for every" claim. Fix: write the argument for an arbitrary object, "let $n$ be any integer".

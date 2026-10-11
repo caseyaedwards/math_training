@@ -155,6 +155,20 @@ $$\begin{cases} 2x + 3y = 13 \\ 5x - 2y = 4 \end{cases}$$
 
 Nine small nodes and six large nodes.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Solving a System by Graphing: Each equation is a line of points that satisfy it](https://caseyaedwards.github.io/math_training/diagrams/system-of-equations/animated.svg)
+
+[Solving a System by Graphing: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/system-of-equations/)
+
+Watch the two lines cross at the one point that satisfies both equations.
+
+![Animated step-by-step diagram of Elimination in the Row Picture: Each row of the system is a line](https://caseyaedwards.github.io/math_training/diagrams/elimination-row-picture/animated.svg)
+
+[Elimination in the Row Picture: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/elimination-row-picture/)
+
+Watch each row operation swap a line for a new one through the same crossing point.
+
 ## Common Mistakes
 
 * Stopping after one variable: the answer is a pair.

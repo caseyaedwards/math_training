@@ -168,6 +168,44 @@ The result is a narrow, upside-down parabola with its peak at $(-1, 3)$. Here ar
 <!-- diagram: type=small-multiples f="x^2,(x+1)^2,-2(x+1)^2,-2(x+1)^2+3" caption="Three moves from x^2 to -2(x+1)^2+3" -->
 ![Four small graphs in a row. First, y equals x squared with vertex 0, 0. Second, shifted left 1, vertex negative 1, 0. Third, stretched by 2 and flipped upside down, vertex still negative 1, 0. Fourth, in orange, moved up 3, vertex negative 1, 3. Each panel shows the previous curve as a faint dashed ghost.](img/transformation-stages.svg)
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Domain and Range as Shadows: Shine a light straight down on a graph and its shadow on the x-axis is the domain](https://caseyaedwards.github.io/math_training/diagrams/domain-range/animated.svg)
+
+[Domain and Range as Shadows: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/domain-range/)
+
+Watch the shadow on the x-axis trace the domain and the shadow on the y-axis trace the range.
+
+![Animated step-by-step diagram of Function Composition: Machines in a Row: Composition feeds the output of one function into another](https://caseyaedwards.github.io/math_training/diagrams/function-composition/animated.svg)
+
+[Function Composition: Machines in a Row: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/function-composition/)
+
+Watch the output of the first machine feed the second, and see the answer change when the order swaps.
+
+![Animated step-by-step diagram of Composition on a Graph: You can compose functions on a graph without any algebra](https://caseyaedwards.github.io/math_training/diagrams/function-composition-graph/animated.svg)
+
+[Composition on a Graph: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/function-composition-graph/)
+
+Watch the path go up to g, across to the line y = x, and up to f, with no algebra at all.
+
+![Animated step-by-step diagram of Inverse Functions: 2ˣ and log₂ x: An inverse function undoes the original](https://caseyaedwards.github.io/math_training/diagrams/inverse-functions/animated.svg)
+
+[Inverse Functions: 2ˣ and log₂ x: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/inverse-functions/)
+
+Watch each input and output pair swap so the graph of 2^x flips across y = x into log base 2.
+
+![Animated step-by-step diagram of Transforming y = x²: Build y = −2(x − 2)² + 4 from y = x² one move at a time: shift right, stretch, reflect, shift up](https://caseyaedwards.github.io/math_training/diagrams/function-transformations/animated.svg)
+
+[Transforming y = x²: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/function-transformations/)
+
+Watch two tracked points move through each shift, stretch and reflection in turn.
+
+![Animated step-by-step diagram of Mapping Diagrams: Draw the inputs in one oval and the possible outputs in another, then draw an arrow for each pair](https://caseyaedwards.github.io/math_training/diagrams/mapping-diagram/animated.svg)
+
+[Mapping Diagrams: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/mapping-diagram/)
+
+Watch for any input with two arrows leaving it, since that one input breaks the function rule.
+
 ## Common Mistakes
 
 * Reading $f^{-1}(x)$ as $\frac{1}{f(x)}$: the $-1$ means undo. For $f(x) = 3x$, $f^{-1}(x) = \frac{x}{3}$, not $\frac{1}{3x}$.

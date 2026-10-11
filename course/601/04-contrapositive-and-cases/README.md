@@ -147,6 +147,20 @@ $\blacksquare$ Picture: the straight trip from $0$ to $x + y$ is never longer th
 
 $\blacksquare$
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Truth Tables: A truth table lists every combination of true and false inputs and the value of a statement for each](https://caseyaedwards.github.io/math_training/diagrams/truth-tables/animated.svg)
+
+[Truth Tables: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/truth-tables/)
+
+Watch the conditional come out false in exactly one row, where p is true and q is false.
+
+![Animated step-by-step diagram of Absolute Value as a Piecewise Function: The absolute value is two lines glued at the origin](https://caseyaedwards.github.io/math_training/diagrams/absolute-value-piecewise/animated.svg)
+
+[Absolute Value as a Piecewise Function: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/absolute-value-piecewise/)
+
+Watch the right half of y = x and the left half of y = -x glue together at the origin into a V.
+
 ## Common Mistakes
 
 * Proving the converse instead of the contrapositive. "If not P, then not Q" is the inverse, and it is not equivalent. Fix: in the contrapositive, Q and P swap places *and* both get negated.

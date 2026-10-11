@@ -158,6 +158,32 @@ Where $\sin$ climbs fastest (at 0), $\cos$ is at its peak. Where $\sin$ is flat 
                    = 2x / (x^2 + 1)
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Chain Rule: Stretch Factors Multiply: Send a tiny interval through x → x² → sin](https://caseyaedwards.github.io/math_training/diagrams/chain-rule/animated.svg)
+
+[Chain Rule: Stretch Factors Multiply: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/chain-rule/)
+
+Watch a tiny interval stretch at each stage, and the two stretch factors multiply.
+
+![Animated step-by-step diagram of Chain Rule: Belts and Pulleys: Think of x, u, and y as pulleys joined by belts](https://caseyaedwards.github.io/math_training/diagrams/chain-rule-pulleys/animated.svg)
+
+[Chain Rule: Belts and Pulleys: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/chain-rule-pulleys/)
+
+Watch each belt multiply the turning rate, so the rates multiply down the chain of pulleys.
+
+![Animated step-by-step diagram of Slope Fields: A differential equation gives a slope at every point](https://caseyaedwards.github.io/math_training/diagrams/slope-field/animated.svg)
+
+[Slope Fields: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/slope-field/)
+
+Watch the solution curve follow the short slope dashes at every point it passes.
+
+![Animated step-by-step diagram of Exponential Decay and Half-Life: When something shrinks at a rate proportional to how much is left, it loses the same fraction in every equal stretch of time](https://caseyaedwards.github.io/math_training/diagrams/exponential-decay/animated.svg)
+
+[Exponential Decay and Half-Life: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/exponential-decay/)
+
+Watch the amount lose the same fraction in every equal stretch of time, which fixes the half-life.
+
 ## The SRE Connection
 
 * **Unit conversion is the chain rule.** To turn 30 requests per second into requests per minute, multiply by 60 seconds per minute: $\dfrac{dN}{dm} = \dfrac{dN}{ds}\cdot\dfrac{ds}{dm}$. You have used the chain rule your whole career without filing the paperwork.

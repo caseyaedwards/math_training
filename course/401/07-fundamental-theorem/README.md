@@ -150,6 +150,26 @@ The rate is $r(t) = 200 + 100\sin(\pi t/30)$ req/s. How many requests arrive bet
   = 6000 + 3000/pi = 6954.9 requests
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Riemann Sums: Area from Rectangles: Split the area under a curve into thin rectangles, add their areas, and let the rectangles get thinner](https://caseyaedwards.github.io/math_training/diagrams/riemann-sum/animated.svg)
+
+[Riemann Sums: Area from Rectangles: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/riemann-sum/)
+
+Watch the rectangles get thinner and their total area close in on the exact area under the curve.
+
+![Animated step-by-step diagram of Fundamental Theorem of Calculus: Let A(x) be the area under f from 0 to x](https://caseyaedwards.github.io/math_training/diagrams/fundamental-theorem/animated.svg)
+
+[Fundamental Theorem of Calculus: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/fundamental-theorem/)
+
+Watch the area grow at a rate equal to the current height f(x) as x moves right.
+
+![Animated step-by-step diagram of Slope Fields: A differential equation gives a slope at every point](https://caseyaedwards.github.io/math_training/diagrams/slope-field/animated.svg)
+
+[Slope Fields: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/slope-field/)
+
+Watch the solution curve follow the short slope dashes at every point it passes.
+
 ## The SRE Connection
 
 <!-- diagram: type=function-plot f="200+100 sin(pi t/30)" shade=10..40 caption="increase() is an integral of the rate" -->

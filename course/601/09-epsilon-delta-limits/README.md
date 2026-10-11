@@ -140,6 +140,14 @@ Let $\operatorname{sgn}(x) = 1$ for $x > 0$ and $-1$ for $x < 0$. **Claim.** $\l
 
 $\blacksquare$ Picture: any orange band narrower than 2 cannot hold both the level $1$ and the level $-1$, and every gray band around $0$ contains points from both sides.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Limits: The Epsilon-Delta Picture: A limit is a promise: however thin a band you draw around L, you can find a window around c whose part of the graph stays inside the band](https://caseyaedwards.github.io/math_training/diagrams/epsilon-delta/animated.svg)
+
+[Limits: The Epsilon-Delta Picture: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/epsilon-delta/)
+
+Watch the window around c shrink to keep the graph inside each thinner band around L.
+
 ## Common Mistakes
 
 * Choosing $\delta$ that depends on $x$. The order is $\forall \varepsilon\ \exists \delta\ \forall x$. $\delta$ can use $\varepsilon$ and $a$, never $x$.

@@ -159,6 +159,20 @@ A right triangle has hypotenuse 10 and one angle $25°$. Find the other sides an
   check: 4.226^2 + 9.063^2 = 100.0     Pythagoras: 10^2
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of SOH-CAH-TOA: In a right triangle, each side gets a name from the point of view of the angle θ](https://caseyaedwards.github.io/math_training/diagrams/soh-cah-toa/animated.svg)
+
+[SOH-CAH-TOA: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/soh-cah-toa/)
+
+Watch each side take its name from the angle, then pair up into sine, cosine and tangent.
+
+![Animated step-by-step diagram of Special Right Triangles: Cut a square along its diagonal to get the 45-45-90 triangle](https://caseyaedwards.github.io/math_training/diagrams/special-right-triangles/animated.svg)
+
+[Special Right Triangles: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/special-right-triangles/)
+
+Watch a square and an equilateral triangle cut in half to give the exact side ratios.
+
 ## Common Mistakes
 
 * Calculator in the wrong mode: $\sin 30 = 0.5$ in degrees, but $-0.988$ in radians. The next lesson explains radians. Until then, check the mode.

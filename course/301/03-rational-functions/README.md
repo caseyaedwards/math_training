@@ -150,6 +150,20 @@ Solve $\dfrac{x}{x - 1} = \dfrac{1}{x - 1}$.
   no solution               the only candidate is extraneous
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Asymptotes of y = 1/(x − 2) + 1: Near x = 2 the denominator shrinks to zero and the graph shoots off to infinity](https://caseyaedwards.github.io/math_training/diagrams/rational-asymptotes/animated.svg)
+
+[Asymptotes of y = 1/(x − 2) + 1: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/rational-asymptotes/)
+
+Watch the graph shoot off near x = 2 and flatten toward y = 1 far from the origin.
+
+![Animated step-by-step diagram of y = 1/(x − 2) + 1 as a Shifted 1/x: The graph of y = 1/(x − 2) + 1 is the graph of y = 1/x moved right 2 and up 1](https://caseyaedwards.github.io/math_training/diagrams/rational-shift/animated.svg)
+
+[y = 1/(x − 2) + 1 as a Shifted 1/x: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/rational-shift/)
+
+Watch the parent graph y = 1/x and its asymptotes slide right 2 and up 1 together.
+
 ## Common Mistakes
 
 * Canceling terms instead of factors: $\frac{x + 2}{x + 5}$ does not simplify to $\frac{2}{5}$. Only whole factors cancel.

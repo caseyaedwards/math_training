@@ -115,6 +115,14 @@ Find the average of $\sin x$ on $[0, \pi]$.
   average = 2/pi = 0.637                          area divided by width
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Volume of Revolution: Disk Method: Spin a flat region around the x-axis to get a solid](https://caseyaedwards.github.io/math_training/diagrams/disk-method/animated.svg)
+
+[Volume of Revolution: Disk Method: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/disk-method/)
+
+Watch the region spin into a solid and the thin disks add up to its volume.
+
 ## The SRE Connection
 
 <!-- diagram: type=function-plot f="200+100 sin(pi t/30)" range=0..45 average=221.2 caption="Average rate is total over time" -->

@@ -104,6 +104,20 @@ d = 1/6, u = 5/6 ≈ 0.833                   up about 83.3% of the time
 
 The service fails rarely (10% chance per step) but recovers slowly (50% per step). The eigenvector puts a number on that trade.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Eigenvectors: Most vectors change direction when a matrix acts on them](https://caseyaedwards.github.io/math_training/diagrams/eigenvectors/animated.svg)
+
+[Eigenvectors: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/eigenvectors/)
+
+Watch the eigenvectors stretch along their own lines while other vectors turn.
+
+![Animated step-by-step diagram of Eigenvectors in a Fan of Arrows: Draw arrows in every direction, apply the matrix, and compare](https://caseyaedwards.github.io/math_training/diagrams/eigenvector-fan/animated.svg)
+
+[Eigenvectors in a Fan of Arrows: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/eigenvector-fan/)
+
+Watch almost every arrow swing to a new direction, while the eigenvectors stay on their own lines.
+
 ## Common Mistakes
 
 * Counting the zero vector as an eigenvector: $A \cdot 0 = \lambda \cdot 0$ for every $\lambda$, which tells you nothing. Eigenvectors are nonzero by definition.

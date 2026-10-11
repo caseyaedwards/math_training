@@ -123,6 +123,26 @@ $f(x) = 2x + 1$ and $f(a) = 11$. Find $a$.
   x^2 + y^2 = 25              NOT a function of x: x = 3 gives y = 4 and y = -4
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Function Machine: A function is a machine with one rule](https://caseyaedwards.github.io/math_training/diagrams/function-machine/animated.svg)
+
+[Function Machine: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/function-machine/)
+
+Watch each input run through the rule and come out as exactly one output, which then lands on the graph.
+
+![Animated step-by-step diagram of Mapping Diagrams: Draw the inputs in one oval and the possible outputs in another, then draw an arrow for each pair](https://caseyaedwards.github.io/math_training/diagrams/mapping-diagram/animated.svg)
+
+[Mapping Diagrams: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/mapping-diagram/)
+
+Watch for any input with two arrows leaving it, since that one input breaks the function rule.
+
+![Animated step-by-step diagram of Domain and Range as Shadows: Shine a light straight down on a graph and its shadow on the x-axis is the domain](https://caseyaedwards.github.io/math_training/diagrams/domain-range/animated.svg)
+
+[Domain and Range as Shadows: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/domain-range/)
+
+Watch the shadow on the x-axis trace the domain and the shadow on the y-axis trace the range.
+
 ## Common Mistakes
 
 * Swapping the coordinates: x first, then y.

@@ -106,6 +106,14 @@ step  finish  A  B  C  D  E  F    reason
 path: F <- D <- B <- C <- A, cost 7
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Euler Paths and the Königsberg Bridges: Turn land into dots and bridges into lines](https://caseyaedwards.github.io/math_training/diagrams/euler-paths/animated.svg)
+
+[Euler Paths and the Königsberg Bridges: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/euler-paths/)
+
+Watch the count of odd-degree dots decide whether a walk over every bridge exactly once exists.
+
 ## Common Mistakes
 
 * Using BFS for weighted shortest paths: BFS counts hops and ignores weights. Use Dijkstra.

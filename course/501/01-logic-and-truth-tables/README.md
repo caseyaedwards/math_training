@@ -122,6 +122,26 @@ F  F |   T    |   T   |   T   |       T
 
 The two result columns match in all four rows. The statements are equivalent.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Truth Tables: A truth table lists every combination of true and false inputs and the value of a statement for each](https://caseyaedwards.github.io/math_training/diagrams/truth-tables/animated.svg)
+
+[Truth Tables: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/truth-tables/)
+
+Watch the conditional come out false in exactly one row, where p is true and q is false.
+
+![Animated step-by-step diagram of Logic Gates: A logic circuit computes a truth value from its inputs](https://caseyaedwards.github.io/math_training/diagrams/logic-gates/animated.svg)
+
+[Logic Gates: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/logic-gates/)
+
+Watch the signals flow left to right as each gate applies AND, OR or NOT.
+
+![Animated step-by-step diagram of Set Operations with Venn Diagrams: Union, intersection, difference, and complement each shade a region of a Venn diagram](https://caseyaedwards.github.io/math_training/diagrams/set-operations/animated.svg)
+
+[Set Operations with Venn Diagrams: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/set-operations/)
+
+Watch the shaded regions for the complement of a union and the intersection of complements match, which is De Morgan's law.
+
 ## Common Mistakes
 
 * Treating OR as exclusive: in logic, $P \lor Q$ is true when both are true. Use XOR ($\oplus$) for `one or the other but not both`.

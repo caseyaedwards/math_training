@@ -119,6 +119,20 @@ Each pod handles `250` requests per second. Peak traffic is `4,000`. Keep each p
   round up to 22 pods                               a partial pod is a whole pod
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Sharing in a Ratio with a Tape Diagram: A ratio of 3 to 5 means 3 equal boxes for one person and 5 for the other](https://caseyaedwards.github.io/math_training/diagrams/tape-diagram-ratio/animated.svg)
+
+[Sharing in a Ratio with a Tape Diagram: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/tape-diagram-ratio/)
+
+Watch the total split evenly across all eight boxes before each person counts their own boxes.
+
+![Animated step-by-step diagram of Double Number Line for Proportions: Two number lines share a zero](https://caseyaedwards.github.io/math_training/diagrams/double-number-line/animated.svg)
+
+[Double Number Line for Proportions: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/double-number-line/)
+
+Watch the two lines scale together, so every pair of aligned marks keeps the same ratio.
+
 ## Common Mistakes
 
 * Reversing the order: with `web : db = 3 : 2` and `12` web hosts, the answer is `8` database hosts, not `18`. Write `web/db = 3/2 = 12/x`, which gives `x = 8`.

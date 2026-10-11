@@ -145,6 +145,20 @@ $A = 30°$, $a = 6$, $b = 10$. Solve the triangle.
        = 17.32 square km                 decimal
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Law of Cosines: The law of cosines is the Pythagorean theorem with a correction term](https://caseyaedwards.github.io/math_training/diagrams/law-of-cosines/animated.svg)
+
+[Law of Cosines: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/law-of-cosines/)
+
+Watch the correction term -2ab cos C shrink the third side when the angle C is acute.
+
+![Animated step-by-step diagram of Law of Cosines: Obtuse Angle: When the angle C is wider than a right angle, cos C is negative](https://caseyaedwards.github.io/math_training/diagrams/law-of-cosines-obtuse/animated.svg)
+
+[Law of Cosines: Obtuse Angle: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/law-of-cosines-obtuse/)
+
+Watch cos C turn negative past 90 degrees, so the correction term makes c longer than Pythagoras predicts.
+
 ## Common Mistakes
 
 * Mismatching sides and angles: in the law of sines each side pairs with the angle across from it, never with an angle it touches.

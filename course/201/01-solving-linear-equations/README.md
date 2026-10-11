@@ -174,6 +174,14 @@ Sometimes the variable disappears.
         6  = 6       subtract 2x: always true: every x is a solution
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Solving an Equation on a Balance Scale: An equation is a level balance](https://caseyaedwards.github.io/math_training/diagrams/balance-scale/animated.svg)
+
+[Solving an Equation on a Balance Scale: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/balance-scale/)
+
+Watch each move happen to both pans at once, so the scale stays level until x sits alone.
+
 ## Common Mistakes
 
 * Doing a move to one side only: the scale tips. Write the move next to both sides every time.

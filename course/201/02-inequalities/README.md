@@ -136,6 +136,26 @@ Moving the $x$ terms to the right side avoids the flip: $8 > 2x$, which is $4 > 
 
 At most 850 concurrent requests keep the service inside its SLO.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Solving a Linear Inequality: Solve an inequality like an equation, with one catch: multiplying or dividing by a negative number flips the number line, so the inequality sign flips too](https://caseyaedwards.github.io/math_training/diagrams/inequality-number-line/animated.svg)
+
+[Solving a Linear Inequality: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/inequality-number-line/)
+
+Watch the inequality sign flip at the moment both sides divide by a negative number.
+
+![Animated step-by-step diagram of Absolute Value Inequality as Distance: |x − 2| is the distance from x to 2](https://caseyaedwards.github.io/math_training/diagrams/absolute-value-distance/animated.svg)
+
+[Absolute Value Inequality as Distance: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/absolute-value-distance/)
+
+Watch the solution set grow three steps out from 2 in both directions, since absolute value measures distance.
+
+![Animated step-by-step diagram of Absolute Value Inequality on a Graph: Graph y = |x − 2| as a V and the line y = 3](https://caseyaedwards.github.io/math_training/diagrams/absolute-value-graph/animated.svg)
+
+[Absolute Value Inequality on a Graph: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/absolute-value-graph/)
+
+Watch the V dip below the horizontal line, and read the solutions from the x values where it stays under.
+
 ## Common Mistakes
 
 * Forgetting the flip after dividing by a negative: spot-check one number from your answer in the original inequality.

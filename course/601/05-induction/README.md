@@ -161,6 +161,20 @@ $\blacksquare$ Ordinary induction fails here: knowing about $k$ says nothing abo
 
 The step fails from $k = 1$ to $k = 2$. One broken link stops the chain at the second domino.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Proof by Induction: Falling Dominoes: Induction proves a statement for every whole number in two moves: knock over the first domino (the base case), and show each domino knocks over the next (the inductive step)](https://caseyaedwards.github.io/math_training/diagrams/proof-by-induction/animated.svg)
+
+[Proof by Induction: Falling Dominoes: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/proof-by-induction/)
+
+Watch the base case knock over the first domino and the inductive step carry the fall through every number.
+
+![Animated step-by-step diagram of Gauss's Trick: Two Staircases Make a Rectangle: Stack 1 + 2 + ](https://caseyaedwards.github.io/math_training/diagrams/gauss-sum/animated.svg)
+
+[Gauss's Trick: Two Staircases Make a Rectangle: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/gauss-sum/)
+
+Watch two staircases fit together into a rectangle, so one staircase holds half its area.
+
 ## Common Mistakes
 
 * Skipping the base case. The step alone proves nothing. "If $n > n + 1$ then $n + 1 > n + 2$" has a valid step and is never true.

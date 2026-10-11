@@ -90,6 +90,20 @@ det [[1, 2, 3],
 = 1                                                   volume is preserved
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Determinant as Area Scale Factor: The determinant says how much a matrix scales area](https://caseyaedwards.github.io/math_training/diagrams/determinant-area/animated.svg)
+
+[Determinant as Area Scale Factor: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/determinant-area/)
+
+Watch the unit square stretch into a parallelogram whose area equals the determinant.
+
+![Animated step-by-step diagram of Why the Determinant Is ad − bc: Put the parallelogram in a box and cut away the corners](https://caseyaedwards.github.io/math_training/diagrams/determinant-formula/animated.svg)
+
+[Why the Determinant Is ad − bc: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/determinant-formula/)
+
+Watch the corner pieces of the box come away to leave a parallelogram of area ad - bc.
+
 ## Common Mistakes
 
 * Using $ad + bc$: the formula is a difference.

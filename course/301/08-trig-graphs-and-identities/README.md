@@ -185,6 +185,50 @@ Solve $2\sin x = 1$ for $0 \le x < 2\pi$.
   x = pi/6  or  x = pi - pi/6 = 5pi/6
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Sine Wave from the Unit Circle: Walk a point around the unit circle and record its height at each angle](https://caseyaedwards.github.io/math_training/diagrams/sine-from-circle/animated.svg)
+
+[Sine Wave from the Unit Circle: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/sine-from-circle/)
+
+Watch the height of the point on the circle unroll into the sine wave as the angle grows.
+
+![Animated step-by-step diagram of Amplitude, Period, and Phase Shift: Build y = 2 sin(3x − π/2) from y = sin x one change at a time: stretch it taller, squeeze it narrower, then slide it right](https://caseyaedwards.github.io/math_training/diagrams/sinusoid-transformations/animated.svg)
+
+[Amplitude, Period, and Phase Shift: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/sinusoid-transformations/)
+
+Watch the amplitude, period and phase shift each change the wave one at a time.
+
+![Animated step-by-step diagram of Periodic Functions: Sawtooth and Square Waves: A periodic function repeats one cycle forever](https://caseyaedwards.github.io/math_training/diagrams/periodic-functions/animated.svg)
+
+[Periodic Functions: Sawtooth and Square Waves: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/periodic-functions/)
+
+Watch one cycle repeat across the axis and measure the period and amplitude from that single cycle.
+
+![Animated step-by-step diagram of The Pythagorean Identity: The point (cos θ, sin θ) sits on a circle of radius 1](https://caseyaedwards.github.io/math_training/diagrams/pythagorean-identity/animated.svg)
+
+[The Pythagorean Identity: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/pythagorean-identity/)
+
+Watch the right triangle inside the unit circle turn the Pythagorean theorem into sin^2 + cos^2 = 1.
+
+![Animated step-by-step diagram of Even and Odd Functions: An even function looks the same in a mirror held on the y-axis](https://caseyaedwards.github.io/math_training/diagrams/even-odd-functions/animated.svg)
+
+[Even and Odd Functions: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/even-odd-functions/)
+
+Watch the even graph match its mirror image across the y-axis and the odd graph match its half turn about the origin.
+
+![Animated step-by-step diagram of Polar Coordinates and a Rose Curve: A polar point is a direction θ and a distance r](https://caseyaedwards.github.io/math_training/diagrams/polar-rose/animated.svg)
+
+[Polar Coordinates and a Rose Curve: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/polar-rose/)
+
+Watch the point sweep around as the angle grows, and notice the petals drawn backward when r turns negative.
+
+![Animated step-by-step diagram of Rose Curve with an Odd Number of Petals: The rose r = cos 3θ has three petals, not six](https://caseyaedwards.github.io/math_training/diagrams/polar-rose-odd/animated.svg)
+
+[Rose Curve with an Odd Number of Petals: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/polar-rose-odd/)
+
+Watch the second half turn retrace the same three petals instead of drawing new ones.
+
 ## Common Mistakes
 
 * Period from $B$ the wrong way: $y = \sin(2x)$ has period $\pi$, not $4\pi$. A bigger $B$ means a faster wave.

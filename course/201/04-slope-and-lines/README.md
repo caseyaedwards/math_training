@@ -143,6 +143,14 @@ A volume holds 140 GB on day 0 and 260 GB on day 10.
   usage(d) = 12d + 140
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Slope and Intercept: y = mx + b: The slope m says how much y climbs per step right, and b says where the line crosses the y-axis](https://caseyaedwards.github.io/math_training/diagrams/slope-intercept/animated.svg)
+
+[Slope and Intercept: y = mx + b: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/slope-intercept/)
+
+Watch slope triangles of different sizes give the same rise over run, and b mark the crossing on the y-axis.
+
 ## Common Mistakes
 
 * Mixing the order: $\dfrac{y_2 - y_1}{x_1 - x_2}$ gives the wrong sign. Keep the same point first on top and bottom.

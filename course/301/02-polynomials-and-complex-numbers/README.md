@@ -188,6 +188,44 @@ Solve $x^2 - 4x + 13 = 0$.
   x = 2 + 3i  or  x = 2 - 3i        a conjugate pair
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Polynomial Roots: Touch or Cross: Read a factored polynomial without plotting a hundred points](https://caseyaedwards.github.io/math_training/diagrams/polynomial-roots/animated.svg)
+
+[Polynomial Roots: Touch or Cross: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/polynomial-roots/)
+
+Watch the graph cross the axis at single roots and bounce off it at the squared root.
+
+![Animated step-by-step diagram of Number Systems: Sets Inside Sets: Each number system contains the one before it and adds new numbers to fix something the smaller system cannot do, from subtraction to square roots of negatives](https://caseyaedwards.github.io/math_training/diagrams/number-systems-map/animated.svg)
+
+[Number Systems: Sets Inside Sets: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/number-systems-map/)
+
+Watch each number system nest inside the next, with each new system fixing a gap in the one before it.
+
+![Animated step-by-step diagram of The Complex Plane: A complex number a + bi is a point: a steps along the real axis and b steps along the imaginary axis](https://caseyaedwards.github.io/math_training/diagrams/complex-plane/animated.svg)
+
+[The Complex Plane: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/complex-plane/)
+
+Watch the real and imaginary parts place the number as a point, with the modulus as its distance from 0.
+
+![Animated step-by-step diagram of Complex Multiplication Rotates and Scales: Multiplying by a complex number turns and stretches](https://caseyaedwards.github.io/math_training/diagrams/complex-multiplication/animated.svg)
+
+[Complex Multiplication Rotates and Scales: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/complex-multiplication/)
+
+Watch the lengths multiply and the angles add each time one complex number multiplies another.
+
+![Animated step-by-step diagram of Roots of Unity: Euler's formula e^(iθ) = cos θ + i sin θ puts a point on the unit circle at angle θ](https://caseyaedwards.github.io/math_training/diagrams/roots-of-unity/animated.svg)
+
+[Roots of Unity: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/roots-of-unity/)
+
+Watch the six solutions of z^6 = 1 settle 60 degrees apart into a regular hexagon.
+
+![Animated step-by-step diagram of Roots of Unity for Every n: The n solutions of zⁿ = 1 always sit on the unit circle, spaced 360°/n apart, starting at 1](https://caseyaedwards.github.io/math_training/diagrams/roots-of-unity-polygons/animated.svg)
+
+[Roots of Unity for Every n: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/roots-of-unity-polygons/)
+
+Watch the n roots spread evenly around the unit circle into a regular polygon for each n.
+
 ## Common Mistakes
 
 * Ignoring the sign of the leading coefficient: $-x^4$ has both ends pointing down.

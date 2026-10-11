@@ -160,6 +160,20 @@ The cobweb picture: go up to the curve, across to the line $y = x$, up to the cu
 
 $\blacksquare$ The induction proves the ceiling, the algebra proves the climb, and completeness does the rest. The Code Corner shows the gap to 2 shrinking by a factor of about 4 each step.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Zooming In on a Decimal: Find 0.37 by zooming](https://caseyaedwards.github.io/math_training/diagrams/decimal-zoom/animated.svg)
+
+[Zooming In on a Decimal: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/decimal-zoom/)
+
+Watch each digit pick one tenth of the current interval, so every new digit zooms in by a factor of ten.
+
+![Animated step-by-step diagram of Geometric Series: Halfway Hops: A frog hops half the remaining distance to 1 on each jump](https://caseyaedwards.github.io/math_training/diagrams/geometric-series-number-line/animated.svg)
+
+[Geometric Series: Halfway Hops: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/geometric-series-number-line/)
+
+Watch each hop cover half the remaining distance, so the total closes in on 1 without passing it.
+
 ## Common Mistakes
 
 * Letting $N$ depend on $n$. The order is $\forall \varepsilon\ \exists N\ \forall n > N$.

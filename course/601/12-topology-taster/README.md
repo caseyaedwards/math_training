@@ -156,6 +156,14 @@ Take a $3 \times 3$ grid of squares. Glue the top edge to the bottom edge (a tub
 
 The Code Corner confirms it with a $5 \times 5$ grid: still $0$.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Euler Paths and the Königsberg Bridges: Turn land into dots and bridges into lines](https://caseyaedwards.github.io/math_training/diagrams/euler-paths/animated.svg)
+
+[Euler Paths and the Königsberg Bridges: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/euler-paths/)
+
+Watch the count of odd-degree dots decide whether a walk over every bridge exactly once exists.
+
 ## Common Mistakes
 
 * Thinking "open" means "not closed". Sets can be both ($\mathbb{R}$ itself, and $\varnothing$) or neither ($[0, 1)$).

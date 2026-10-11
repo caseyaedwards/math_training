@@ -136,6 +136,20 @@ Degree 2 Taylor polynomial of $\sqrt{x}$ about $a = 4$, then estimate $\sqrt{4.4
   true value 2.1                              error about 0.00013
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Zoom In: Curves Look Straight: Zoom in on a smooth curve and it straightens out](https://caseyaedwards.github.io/math_training/diagrams/local-linearity/animated.svg)
+
+[Zoom In: Curves Look Straight: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/local-linearity/)
+
+Watch the curve straighten out as the zoom deepens until it matches its tangent line.
+
+![Animated step-by-step diagram of Taylor Polynomials of sin x: A Taylor polynomial copies a function's value and derivatives at one point](https://caseyaedwards.github.io/math_training/diagrams/taylor-polynomials/animated.svg)
+
+[Taylor Polynomials of sin x: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/taylor-polynomials/)
+
+Watch each extra term make the polynomial hug the sine curve over a wider stretch.
+
 ## The SRE Connection
 
 <!-- diagram: type=function-plot f="1-(1-p)^100" estimate="100p" range=0..0.02 caption="At least one failure in 100 components" -->

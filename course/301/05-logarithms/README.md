@@ -181,6 +181,32 @@ Solve $\log_2 x + \log_2(x - 2) = 3$.
   x = 4                         check: log_2 4 + log_2 2 = 2 + 1 = 3
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Logarithms on a Number Line: On a log scale each step of the same length multiplies by 10](https://caseyaedwards.github.io/math_training/diagrams/logarithm-scale/animated.svg)
+
+[Logarithms on a Number Line: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/logarithm-scale/)
+
+Watch equal steps along the scale multiply by 10, so the logarithm reads off the exponent.
+
+![Animated step-by-step diagram of Inverse Functions: 2ˣ and log₂ x: An inverse function undoes the original](https://caseyaedwards.github.io/math_training/diagrams/inverse-functions/animated.svg)
+
+[Inverse Functions: 2ˣ and log₂ x: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/inverse-functions/)
+
+Watch each input and output pair swap so the graph of 2^x flips across y = x into log base 2.
+
+![Animated step-by-step diagram of Exponential Decay on a Log Scale: Take the logarithm of an exponential and it turns into a straight line](https://caseyaedwards.github.io/math_training/diagrams/exponential-log-scale/animated.svg)
+
+[Exponential Decay on a Log Scale: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/exponential-log-scale/)
+
+Watch the exponential curve straighten into a line on a log scale, with slope equal to k.
+
+![Animated step-by-step diagram of Binary Place Value: In base 2 each place is worth twice the place to its right: 1, 2, 4, 8, and so on](https://caseyaedwards.github.io/math_training/diagrams/binary-place-value/animated.svg)
+
+[Binary Place Value: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/binary-place-value/)
+
+Watch each place double the one to its right and the biggest power that fits fill in first.
+
 ## Common Mistakes
 
 * Writing $\log(x + y) = \log x + \log y$: the product law is about $\log(xy)$. There is no rule for the log of a sum.

@@ -126,6 +126,14 @@ Some integrals are plain geometry:
   integral from -2 to 2 of x dx   = +2 above, -2 below            = 0
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Riemann Sums: Area from Rectangles: Split the area under a curve into thin rectangles, add their areas, and let the rectangles get thinner](https://caseyaedwards.github.io/math_training/diagrams/riemann-sum/animated.svg)
+
+[Riemann Sums: Area from Rectangles: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/riemann-sum/)
+
+Watch the rectangles get thinner and their total area close in on the exact area under the curve.
+
 ## The SRE Connection
 
 <!-- diagram: type=bars values=120,180,260,300,220,140 width=60s caption="Rate buckets times width give request totals" -->

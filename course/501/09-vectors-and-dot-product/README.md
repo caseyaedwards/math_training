@@ -107,6 +107,32 @@ check: b - shadow = (-0.588, 2.353)
 
 Swap the components and flip one sign: that turns any 2D vector by 90 degrees. It is a trick worth keeping.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Vector Components and Magnitude: A vector is an arrow from the origin](https://caseyaedwards.github.io/math_training/diagrams/vector-components/animated.svg)
+
+[Vector Components and Magnitude: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/vector-components/)
+
+Watch the components form the legs of a right triangle whose hypotenuse is the length of the vector.
+
+![Animated step-by-step diagram of Vector Addition: To add two vectors, place the tail of the second at the tip of the first](https://caseyaedwards.github.io/math_training/diagrams/vector-addition/animated.svg)
+
+[Vector Addition: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/vector-addition/)
+
+Watch tip-to-tail addition in either order land on the far corner of the same parallelogram.
+
+![Animated step-by-step diagram of Linear Combinations and Span: Stretch two vectors by numbers and add the results](https://caseyaedwards.github.io/math_training/diagrams/linear-combinations/animated.svg)
+
+[Linear Combinations and Span: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/linear-combinations/)
+
+Watch scaled copies of two vectors add up to reach any point in the plane.
+
+![Animated step-by-step diagram of Dot Product as Projection: The dot product multiplies the length of the shadow that u casts on v by the length of v](https://caseyaedwards.github.io/math_training/diagrams/dot-product-projection/animated.svg)
+
+[Dot Product as Projection: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/dot-product-projection/)
+
+Watch the shadow of one vector on the other shrink to zero as the angle reaches 90 degrees.
+
 ## Common Mistakes
 
 * Adding lengths instead of vectors: $|u + v|$ is usually less than $|u| + |v|$. The two are equal only when the arrows point the same way.

@@ -153,6 +153,14 @@ $\displaystyle\int x^2 e^x\,dx$
   = e^x (x^2 - 2x + 2) + C
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Chain Rule: Stretch Factors Multiply: Send a tiny interval through x → x² → sin](https://caseyaedwards.github.io/math_training/diagrams/chain-rule/animated.svg)
+
+[Chain Rule: Stretch Factors Multiply: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/chain-rule/)
+
+Watch a tiny interval stretch at each stage, and the two stretch factors multiply.
+
 ## The SRE Connection
 
 <!-- diagram: type=function-plot f="t e^-t" range=0..8 compare="e^-t" caption="The mean of an exponential wait is an area" -->

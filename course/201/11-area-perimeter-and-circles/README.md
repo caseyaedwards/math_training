@@ -158,6 +158,14 @@ Keep $\pi$ as a symbol until the last step. Rounding early leaks error into ever
   total      = 40 + 2 pi  ~ 46.28
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Arc Length and Sector Area: With the angle in radians, the arc length is the radius times the angle, and the sector area is half the radius squared times the angle](https://caseyaedwards.github.io/math_training/diagrams/arc-length-sector/animated.svg)
+
+[Arc Length and Sector Area: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/arc-length-sector/)
+
+Watch the arc length and the sector area both scale directly with the angle in radians.
+
 ## Common Mistakes
 
 * Using the slanted side as the height: height is perpendicular to the base.

@@ -108,6 +108,26 @@ P(bad | both fire)             = 20.25 / 29.25 = 9/13 ≈ 0.692
 
 One alert gives 1/3. Two independent alerts give about 69%. Independent evidence multiplies.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Probability Trees: Draw one branch for each way a draw can go and write its chance on it](https://caseyaedwards.github.io/math_training/diagrams/probability-tree/animated.svg)
+
+[Probability Trees: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/probability-tree/)
+
+Watch the chances multiply along each path and add across the paths that answer the question.
+
+![Animated step-by-step diagram of Bayes' Theorem with Counts: Turn percentages into people](https://caseyaedwards.github.io/math_training/diagrams/bayes-natural-frequencies/animated.svg)
+
+[Bayes' Theorem with Counts: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/bayes-natural-frequencies/)
+
+Watch the false positives from the large healthy group outnumber the true positives.
+
+![Animated step-by-step diagram of Bayes' Theorem as Areas: Draw all possibilities as a square of area 1](https://caseyaedwards.github.io/math_training/diagrams/bayes-area-square/animated.svg)
+
+[Bayes' Theorem as Areas: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/bayes-area-square/)
+
+Watch the positive slices of the square shrink the answer to one slice over all the positive area.
+
 ## Common Mistakes
 
 * Swapping the condition: $P(\text{alert} \mid \text{bad}) = 0.9$ but $P(\text{bad} \mid \text{alert}) = 1/3$. The prosecutor's fallacy is exactly this swap.

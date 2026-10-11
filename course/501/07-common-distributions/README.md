@@ -108,6 +108,32 @@ P(T > 2) = e^(-1 x 2)   tail formula
 E[T]     = 1 / 1 = 1     mean gap: 1 minute
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of The Binomial Distribution: Four fair coin flips make 16 equally likely sequences](https://caseyaedwards.github.io/math_training/diagrams/binomial-distribution/animated.svg)
+
+[The Binomial Distribution: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/binomial-distribution/)
+
+Watch the 16 coin sequences group by number of heads into the counts 1, 4, 6, 4, 1.
+
+![Animated step-by-step diagram of The Normal Distribution: In a bell curve, about 68% of values fall within one standard deviation of the mean, 95% within two, and 99.7% within three](https://caseyaedwards.github.io/math_training/diagrams/normal-distribution/animated.svg)
+
+[The Normal Distribution: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/normal-distribution/)
+
+Watch the shaded area grow to 68, 95 and 99.7 percent at one, two and three standard deviations.
+
+![Animated step-by-step diagram of The Central Limit Theorem: Average more dice and the distribution of the average changes from flat to bell-shaped, and it narrows like sigma over root n](https://caseyaedwards.github.io/math_training/diagrams/central-limit-theorem/animated.svg)
+
+[The Central Limit Theorem: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/central-limit-theorem/)
+
+Watch the distribution of the average turn bell-shaped and narrow as more dice join.
+
+![Animated step-by-step diagram of Exponential Decay and Half-Life: When something shrinks at a rate proportional to how much is left, it loses the same fraction in every equal stretch of time](https://caseyaedwards.github.io/math_training/diagrams/exponential-decay/animated.svg)
+
+[Exponential Decay and Half-Life: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/exponential-decay/)
+
+Watch the amount lose the same fraction in every equal stretch of time, which fixes the half-life.
+
 ## Common Mistakes
 
 * Using binomial when trials are not independent or $p$ changes: pulling from a shrinking pool without replacement breaks the model.

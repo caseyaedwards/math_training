@@ -128,6 +128,14 @@ $\blacksquare$
 
 $\blacksquare$
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Proof by Contradiction: Infinitely Many Primes: Assume the opposite of the claim and follow it to something impossible](https://caseyaedwards.github.io/math_training/diagrams/proof-by-contradiction/animated.svg)
+
+[Proof by Contradiction: Infinitely Many Primes: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/proof-by-contradiction/)
+
+Watch the product of all the listed primes plus 1 produce a number that no listed prime divides.
+
 ## Common Mistakes
 
 * Forgetting to state the assumption. Fix: write "Suppose, for contradiction, that ..." as the first line.

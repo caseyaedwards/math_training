@@ -148,6 +148,38 @@ $\displaystyle\sum_{n=1}^{\infty} \frac{1}{n^2 + 1}$
   so sum 1/(n^2 + 1) converges           smaller than a finite pile
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Geometric Series: Halving a Square: Shade half of a square, then half of what is left, and keep going](https://caseyaedwards.github.io/math_training/diagrams/geometric-series-square/animated.svg)
+
+[Geometric Series: Halving a Square: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/geometric-series-square/)
+
+Watch the shaded halves keep filling what remains until they cover the whole square.
+
+![Animated step-by-step diagram of Geometric Series: Halfway Hops: A frog hops half the remaining distance to 1 on each jump](https://caseyaedwards.github.io/math_training/diagrams/geometric-series-number-line/animated.svg)
+
+[Geometric Series: Halfway Hops: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/geometric-series-number-line/)
+
+Watch each hop cover half the remaining distance, so the total closes in on 1 without passing it.
+
+![Animated step-by-step diagram of Sierpinski Triangle: Area Left After Each Step: Remove the middle quarter of a triangle, then the middle of each piece that remains, forever](https://caseyaedwards.github.io/math_training/diagrams/sierpinski-triangle/animated.svg)
+
+[Sierpinski Triangle: Area Left After Each Step: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/sierpinski-triangle/)
+
+Watch each step keep 3/4 of the remaining area, so the area shrinks toward zero.
+
+![Animated step-by-step diagram of The Harmonic Series Diverges: Group the terms of 1 + 1/2 + 1/3 + ](https://caseyaedwards.github.io/math_training/diagrams/harmonic-series/animated.svg)
+
+[The Harmonic Series Diverges: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/harmonic-series/)
+
+Watch each block of terms add at least one half, so the sum grows past any bound.
+
+![Animated step-by-step diagram of The Harmonic Series as Area: Draw each term 1/k as a bar of width 1](https://caseyaedwards.github.io/math_training/diagrams/harmonic-series-area/animated.svg)
+
+[The Harmonic Series as Area: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/harmonic-series-area/)
+
+Watch the bars cover the area under y = 1/x, which grows like ln n without limit.
+
 ## The SRE Connection
 
 <!-- diagram: type=timeline waits=1,2,4,8,16,32 caption="Exponential backoff on a timeline" -->

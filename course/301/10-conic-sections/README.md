@@ -167,6 +167,20 @@ $4x^2 + 9y^2 = 36$.
   a = 3, b = 2, c = sqrt(9 - 4) = sqrt(5)             foci at (+-sqrt5, 0)
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Completing the Square: Draw x² + 6x as a square plus a strip, split the strip in half, and wrap it around the square](https://caseyaedwards.github.io/math_training/diagrams/completing-the-square/animated.svg)
+
+[Completing the Square: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/completing-the-square/)
+
+Watch the strip split in half and wrap around the square, leaving one small corner to add to both sides.
+
+![Animated step-by-step diagram of Anatomy of a Parabola: Every parabola has a y-intercept, up to two roots, an axis of symmetry halfway between the roots, and a vertex on that axis](https://caseyaedwards.github.io/math_training/diagrams/parabola-anatomy/animated.svg)
+
+[Anatomy of a Parabola: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/parabola-anatomy/)
+
+Watch the roots, the axis of symmetry and the vertex each appear from a different form of the same equation.
+
 ## Common Mistakes
 
 * Center sign errors: $(x + 3)^2$ means $h = -3$.

@@ -196,6 +196,38 @@ Solve $x^2 - 2 = 0$, starting at $x_0 = 1$.
   true value                        1.4142136           six digits after three steps
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Optimization: The Biggest Box: Cut squares from the corners of a 12 by 12 sheet and fold up the sides](https://caseyaedwards.github.io/math_training/diagrams/optimization-box/animated.svg)
+
+[Optimization: The Biggest Box: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/optimization-box/)
+
+Watch the box volume rise and fall with the size of the cut, and peak where the slope is zero.
+
+![Animated step-by-step diagram of Mean Value Theorem: On a smooth curve, the average slope between two points equals the exact slope at some point in between](https://caseyaedwards.github.io/math_training/diagrams/mean-value-theorem/animated.svg)
+
+[Mean Value Theorem: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/mean-value-theorem/)
+
+Watch the tangent line slide along the curve until it runs parallel to the secant.
+
+![Animated step-by-step diagram of Zoom In: Curves Look Straight: Zoom in on a smooth curve and it straightens out](https://caseyaedwards.github.io/math_training/diagrams/local-linearity/animated.svg)
+
+[Zoom In: Curves Look Straight: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/local-linearity/)
+
+Watch the curve straighten out as the zoom deepens until it matches its tangent line.
+
+![Animated step-by-step diagram of Newton's Method: Guess a root, replace the curve by its tangent line, and jump to where the tangent crosses zero](https://caseyaedwards.github.io/math_training/diagrams/newtons-method/animated.svg)
+
+[Newton's Method: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/newtons-method/)
+
+Watch each tangent line jump to a new guess and the guesses close in on the root fast.
+
+![Animated step-by-step diagram of Euler's Method: Euler's method walks along a slope field in straight steps: read the slope, step forward h, repeat](https://caseyaedwards.github.io/math_training/diagrams/eulers-method/animated.svg)
+
+[Euler's Method: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/eulers-method/)
+
+Watch each straight step follow the local slope, and smaller steps track the true curve more closely.
+
 ## The SRE Connection
 
 * **Every trade-off knob has a sweet spot.** Batch size, connection pool size, retry interval, and cache TTL each have one cost that falls and one that rises as you turn the knob. The optimum sits where the two marginal costs cancel, that is, where the derivative of the total is zero.

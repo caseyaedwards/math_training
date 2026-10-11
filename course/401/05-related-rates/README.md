@@ -121,6 +121,14 @@ Car A drives east at 30 m/s and car B drives north at 40 m/s, both from the same
   dd/dt = 50 m/s                          constant, the same at every moment
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Chain Rule: Belts and Pulleys: Think of x, u, and y as pulleys joined by belts](https://caseyaedwards.github.io/math_training/diagrams/chain-rule-pulleys/animated.svg)
+
+[Chain Rule: Belts and Pulleys: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/chain-rule-pulleys/)
+
+Watch each belt multiply the turning rate, so the rates multiply down the chain of pulleys.
+
 ## The SRE Connection
 
 <!-- diagram: type=tank inflow=120 outflow=100 caption="A queue as a tank" -->

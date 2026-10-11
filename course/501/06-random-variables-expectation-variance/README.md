@@ -104,6 +104,38 @@ Var(L) = 4360 - 38^2 = 4360 - 1444 = 2916
 
 No single request takes 38 ms. The mean is a balance point, not a typical value. A standard deviation larger than the mean is a hint to look at percentiles instead.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of The Mean as a Fair Share: The mean is what each value gets if you pool the total and share it out evenly](https://caseyaedwards.github.io/math_training/diagrams/mean-fair-share/animated.svg)
+
+[The Mean as a Fair Share: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/mean-fair-share/)
+
+Watch the extra from the tall bars fill the short ones until every bar sits at the mean.
+
+![Animated step-by-step diagram of Mean and Median: The median is the middle value once the data is sorted](https://caseyaedwards.github.io/math_training/diagrams/mean-median-balance/animated.svg)
+
+[Mean and Median: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/mean-median-balance/)
+
+Watch a far-out value pull the balance point while the median stays put.
+
+![Animated step-by-step diagram of Standard Deviation: Standard deviation is the typical distance from the mean](https://caseyaedwards.github.io/math_training/diagrams/standard-deviation/animated.svg)
+
+[Standard Deviation: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/standard-deviation/)
+
+Watch each distance from the mean get squared, averaged and square-rooted back to the original units.
+
+![Animated step-by-step diagram of Histograms: Group raw numbers into equal bins, count each bin, and draw touching bars](https://caseyaedwards.github.io/math_training/diagrams/histogram/animated.svg)
+
+[Histograms: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/histogram/)
+
+Watch the raw values drop into equal bins and the bar outline reveal the shape of the data.
+
+![Animated step-by-step diagram of Box Plots: Sort the data, split it at the median, and split each half again to get the quartiles](https://caseyaedwards.github.io/math_training/diagrams/box-plot/animated.svg)
+
+[Box Plots: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/box-plot/)
+
+Watch the quartiles split the sorted data and the box cover the middle half.
+
 ## Common Mistakes
 
 * Computing $E[X^2]$ as $(E[X])^2$: they differ, and the difference is exactly the variance.

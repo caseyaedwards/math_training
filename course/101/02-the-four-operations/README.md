@@ -127,6 +127,32 @@ The distributive property is visible in the area model. A rectangle of width `b 
   100 = 7 × 14 + 2  quotient 14, remainder 2
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Adding with Base-Ten Blocks: Build each number from hundreds, tens, and ones, then combine one place at a time](https://caseyaedwards.github.io/math_training/diagrams/place-value-blocks/animated.svg)
+
+[Adding with Base-Ten Blocks: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/place-value-blocks/)
+
+Watch ten ones trade for one ten, so no column ever holds more than nine.
+
+![Animated step-by-step diagram of Area Model for Multiplication: A product is the area of a rectangle](https://caseyaedwards.github.io/math_training/diagrams/area-model-multiplication/animated.svg)
+
+[Area Model for Multiplication: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/area-model-multiplication/)
+
+Watch each side split by place value, so one hard product becomes four easy areas that add to the answer.
+
+![Animated step-by-step diagram of Division by Partial Quotients: Division asks how many groups of 12 fit in 156](https://caseyaedwards.github.io/math_training/diagrams/partial-quotients/animated.svg)
+
+[Division by Partial Quotients: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/partial-quotients/)
+
+Watch the big, easy groups come out first and the group counts add up to the quotient.
+
+![Animated step-by-step diagram of Long Division: Long division repeats four moves: divide, multiply, subtract, bring down](https://caseyaedwards.github.io/math_training/diagrams/long-division/animated.svg)
+
+[Long Division: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/long-division/)
+
+Watch the four moves repeat, with each lap of divide, multiply, subtract and bring down producing one digit of the quotient.
+
 ## Common Mistakes
 
 * Subtracting the smaller digit from the larger in each column: `62 - 29` is not `47`. In the ones column, `2 - 9` needs a borrow. Trade one ten for ten ones first.

@@ -112,6 +112,44 @@ a path = which 2 of the 5 are U   choosing positions, order of choosing does not
 C(5, 2) = 10                      combinations
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Counting Tree: Draw one branch for each choice at each stage](https://caseyaedwards.github.io/math_training/diagrams/counting-tree/animated.svg)
+
+[Counting Tree: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/counting-tree/)
+
+Watch the number of leaves multiply with each new stage of choices.
+
+![Animated step-by-step diagram of Permutations and Combinations: Filling ordered slots multiplies the choices left at each slot](https://caseyaedwards.github.io/math_training/diagrams/permutations-combinations/animated.svg)
+
+[Permutations and Combinations: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/permutations-combinations/)
+
+Watch the choices shrink slot by slot, then divide out the orderings when order does not matter.
+
+![Animated step-by-step diagram of Pigeonhole Principle: If there are more items than boxes, some box must hold two or more](https://caseyaedwards.github.io/math_training/diagrams/pigeonhole/animated.svg)
+
+[Pigeonhole Principle: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/pigeonhole/)
+
+Watch the last item find every box already occupied, forcing a box to hold two.
+
+![Animated step-by-step diagram of Pascal's Triangle: Each entry is the sum of the two entries above it](https://caseyaedwards.github.io/math_training/diagrams/pascals-triangle/animated.svg)
+
+[Pascal's Triangle: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/pascals-triangle/)
+
+Watch each entry form as the sum of the two above it and each row add up to a power of 2.
+
+![Animated step-by-step diagram of Pascal's Triangle as Grid Paths: Count the shortest paths across a grid that only move right or down](https://caseyaedwards.github.io/math_training/diagrams/pascals-grid-paths/animated.svg)
+
+[Pascal's Triangle as Grid Paths: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/pascals-grid-paths/)
+
+Watch each corner add the counts from the left and from above, building Pascal's triangle on the grid.
+
+![Animated step-by-step diagram of Sierpinski Triangle Inside Pascal's Triangle: Color the odd numbers in Pascal's triangle and the Sierpinski triangle appears](https://caseyaedwards.github.io/math_training/diagrams/sierpinski-pascal/animated.svg)
+
+[Sierpinski Triangle Inside Pascal's Triangle: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/sierpinski-pascal/)
+
+Watch the odd entries of Pascal's triangle trace out the Sierpinski pattern.
+
 ## Common Mistakes
 
 * Using a combination when order matters (or the reverse): apply the swap test from step 5 every time.

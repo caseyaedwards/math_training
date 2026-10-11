@@ -118,6 +118,26 @@ $4{,}294{,}967{,}296$ is $2^{32}$, the number of IPv4 addresses. Fewer than peop
   1 / (1 x 10^-7) = 10^7           ten million
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Exponent Rules as Repeated Multiplication: An exponent counts how many x's are multiplied together](https://caseyaedwards.github.io/math_training/diagrams/exponent-rules/animated.svg)
+
+[Exponent Rules as Repeated Multiplication: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/exponent-rules/)
+
+Watch the rows of x's sit side by side and the counts add, then a repeated group multiply the count.
+
+![Animated step-by-step diagram of Dividing Powers: Zero and Negative Exponents: Write the top and the bottom as rows of x's and cancel them in pairs](https://caseyaedwards.github.io/math_training/diagrams/exponent-division/animated.svg)
+
+[Dividing Powers: Zero and Negative Exponents: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/exponent-division/)
+
+Watch matching x's cancel in pairs, and see how the leftover cases explain zero and negative exponents.
+
+![Animated step-by-step diagram of Linear Versus Exponential Growth: Linear growth adds the same amount each step; exponential growth multiplies by the same factor](https://caseyaedwards.github.io/math_training/diagrams/linear-vs-exponential/animated.svg)
+
+[Linear Versus Exponential Growth: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/linear-vs-exponential/)
+
+Watch the linear rule lead early and the doubling rule overtake it for good.
+
 ## Common Mistakes
 
 * Multiplying the exponents when you multiply powers: $x^3 \cdot x^4 = x^7$, not $x^{12}$.

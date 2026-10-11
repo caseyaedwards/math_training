@@ -109,6 +109,44 @@ Every whole number has exactly one way to be written in bundles, using at most n
 
 In code this is `3507 / 10` and `3507 % 10` on integers.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Branches of Mathematics: What Comes Before What: Each branch of math builds on earlier ones](https://caseyaedwards.github.io/math_training/diagrams/math-branches-map/animated.svg)
+
+[Branches of Mathematics: What Comes Before What: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/math-branches-map/)
+
+Watch the arrows run from each prerequisite to the branch that uses it, mapping a workable order of study.
+
+![Animated step-by-step diagram of Adding with Base-Ten Blocks: Build each number from hundreds, tens, and ones, then combine one place at a time](https://caseyaedwards.github.io/math_training/diagrams/place-value-blocks/animated.svg)
+
+[Adding with Base-Ten Blocks: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/place-value-blocks/)
+
+Watch ten ones trade for one ten, so no column ever holds more than nine.
+
+![Animated step-by-step diagram of Number Systems: Tagging Points on the Line: Place sample numbers on a number line and tag each one with every system it belongs to](https://caseyaedwards.github.io/math_training/diagrams/number-systems-line/animated.svg)
+
+[Number Systems: Tagging Points on the Line: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/number-systems-line/)
+
+Watch each sample number collect every tag from its own system outward.
+
+![Animated step-by-step diagram of Number Systems: Sets Inside Sets: Each number system contains the one before it and adds new numbers to fix something the smaller system cannot do, from subtraction to square roots of negatives](https://caseyaedwards.github.io/math_training/diagrams/number-systems-map/animated.svg)
+
+[Number Systems: Sets Inside Sets: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/number-systems-map/)
+
+Watch each number system nest inside the next, with each new system fixing a gap in the one before it.
+
+![Animated step-by-step diagram of Binary Place Value: In base 2 each place is worth twice the place to its right: 1, 2, 4, 8, and so on](https://caseyaedwards.github.io/math_training/diagrams/binary-place-value/animated.svg)
+
+[Binary Place Value: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/binary-place-value/)
+
+Watch each place double the one to its right and the biggest power that fits fill in first.
+
+![Animated step-by-step diagram of Binary by Repeated Halving: Divide by 2 again and again and write down each remainder](https://caseyaedwards.github.io/math_training/diagrams/binary-by-halving/animated.svg)
+
+[Binary by Repeated Halving: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/binary-by-halving/)
+
+Watch the remainders collect at each halving and read them from the bottom up to get the binary digits.
+
 ## Common Mistakes
 
 * Skipping the zero: `3,507` is not `357`. The zero holds the tens place.

@@ -164,6 +164,14 @@ Solve $3x \equiv 4 \pmod 7$.
 
 If $a^{n-1} \not\equiv 1 \pmod n$ for some $a$ coprime to $n$, then $n$ is **not** prime. That is a cheap, certain "no". A "yes" is only a hint: $561 = 3 \cdot 11 \cdot 17$ is composite, yet $a^{560} \equiv 1 \pmod{561}$ for every $a$ coprime to 561. Numbers like 561 are **Carmichael numbers**. Real primality tests such as Miller-Rabin patch this hole.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Modular Arithmetic on a Clock: Counting mod 12 wraps around a circle of 12 spots, like a clock](https://caseyaedwards.github.io/math_training/diagrams/modular-clock/animated.svg)
+
+[Modular Arithmetic on a Clock: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/modular-clock/)
+
+Watch the count wrap around the clock, so numbers that land on the same spot leave the same remainder.
+
 ## Common Mistakes
 
 * Reducing the exponent mod $p$ instead of mod $p - 1$. $2^{100} \bmod 7$ uses $100 \bmod 6$, not $100 \bmod 7$.

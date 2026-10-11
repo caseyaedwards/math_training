@@ -105,6 +105,26 @@ f^-1(y) = (y - 1) / 2       bijection, and this is its inverse
 
 A hash maps every string to one of $2^{32}$ buckets. There are far more than $2^{32}$ possible strings. Two different strings must share a bucket somewhere: the hash is not one-to-one. That is a **collision**. The [Counting](../03-counting/README.md) lesson names this argument: the pigeonhole principle.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Set Operations with Venn Diagrams: Union, intersection, difference, and complement each shade a region of a Venn diagram](https://caseyaedwards.github.io/math_training/diagrams/set-operations/animated.svg)
+
+[Set Operations with Venn Diagrams: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/set-operations/)
+
+Watch the shaded regions for the complement of a union and the intersection of complements match, which is De Morgan's law.
+
+![Animated step-by-step diagram of Mapping Diagrams: Draw the inputs in one oval and the possible outputs in another, then draw an arrow for each pair](https://caseyaedwards.github.io/math_training/diagrams/mapping-diagram/animated.svg)
+
+[Mapping Diagrams: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/mapping-diagram/)
+
+Watch for any input with two arrows leaving it, since that one input breaks the function rule.
+
+![Animated step-by-step diagram of Function Composition: Machines in a Row: Composition feeds the output of one function into another](https://caseyaedwards.github.io/math_training/diagrams/function-composition/animated.svg)
+
+[Function Composition: Machines in a Row: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/function-composition/)
+
+Watch the output of the first machine feed the second, and see the answer change when the order swaps.
+
 ## Common Mistakes
 
 * Confusing $\in$ and $\subseteq$: $3 \in \{1, 3\}$, but $\{3\} \subseteq \{1, 3\}$. An element is not a set of elements.

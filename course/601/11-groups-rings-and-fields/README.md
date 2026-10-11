@@ -153,6 +153,26 @@ $\blacksquare$ Every axiom shows up once. That is a good sign in a short proof.
 
 $\blacksquare$ You put on socks, then shoes. To undo it, you take off shoes first. Check on the square: $(rh)^{-1} = d^{-1} = d$, and $h^{-1} r^{-1} = h r^3 = d$ from the table.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Modular Arithmetic on a Clock: Counting mod 12 wraps around a circle of 12 spots, like a clock](https://caseyaedwards.github.io/math_training/diagrams/modular-clock/animated.svg)
+
+[Modular Arithmetic on a Clock: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/modular-clock/)
+
+Watch the count wrap around the clock, so numbers that land on the same spot leave the same remainder.
+
+![Animated step-by-step diagram of Roots of Unity for Every n: The n solutions of zⁿ = 1 always sit on the unit circle, spaced 360°/n apart, starting at 1](https://caseyaedwards.github.io/math_training/diagrams/roots-of-unity-polygons/animated.svg)
+
+[Roots of Unity for Every n: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/roots-of-unity-polygons/)
+
+Watch the n roots spread evenly around the unit circle into a regular polygon for each n.
+
+![Animated step-by-step diagram of Composing Transformations: Doing one map after another multiplies their matrices, with the first map on the right](https://caseyaedwards.github.io/math_training/diagrams/transformation-composition/animated.svg)
+
+[Composing Transformations: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/transformation-composition/)
+
+Watch shear then rotate and rotate then shear land in different places, so order matters.
+
 ## Common Mistakes
 
 * Assuming $xy = yx$. True in $\mathbb{Z}_n$, false in $D_4$. Always check the order convention of the table.

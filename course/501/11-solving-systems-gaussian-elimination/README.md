@@ -103,6 +103,32 @@ Four of type A and three of type B. Check: $8 + 12 = 20$ CPUs and $16 + 12 = 28$
 
 The two lines are parallel. Elimination does not fail here. It reports the truth.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Solving a System by Graphing: Each equation is a line of points that satisfy it](https://caseyaedwards.github.io/math_training/diagrams/system-of-equations/animated.svg)
+
+[Solving a System by Graphing: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/system-of-equations/)
+
+Watch the two lines cross at the one point that satisfies both equations.
+
+![Animated step-by-step diagram of Elimination in the Row Picture: Each row of the system is a line](https://caseyaedwards.github.io/math_training/diagrams/elimination-row-picture/animated.svg)
+
+[Elimination in the Row Picture: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/elimination-row-picture/)
+
+Watch each row operation swap a line for a new one through the same crossing point.
+
+![Animated step-by-step diagram of Gaussian Elimination: Subtract multiples of one row from another to clear out the entries below each pivot](https://caseyaedwards.github.io/math_training/diagrams/gaussian-elimination/animated.svg)
+
+[Gaussian Elimination: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/gaussian-elimination/)
+
+Watch the entries below each pivot clear out, leaving a staircase that solves from the bottom up.
+
+![Animated step-by-step diagram of Solving Ax = b: Row and Column Pictures: The row picture draws each equation as a line and finds where they cross](https://caseyaedwards.github.io/math_training/diagrams/column-row-picture/animated.svg)
+
+[Solving Ax = b: Row and Column Pictures: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/column-row-picture/)
+
+Watch the row picture and the column picture reach the same answer from two different directions.
+
 ## Common Mistakes
 
 * Changing one side of a row and not the other: a row operation acts on the whole row, including the number after the bar.

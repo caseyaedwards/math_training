@@ -146,6 +146,26 @@ Hence $x = -3$, $y = 7$: $1071 \cdot (-3) + 462 \cdot 7 = 21$.
 
 $\blacksquare$ Euclid's primes proof in [lesson 03](../03-proof-by-contradiction/README.md) uses the same move.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Euclidean Algorithm with Squares: Cut the biggest possible squares off a rectangle, then repeat on the leftover strip](https://caseyaedwards.github.io/math_training/diagrams/euclidean-algorithm/animated.svg)
+
+[Euclidean Algorithm with Squares: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/euclidean-algorithm/)
+
+Watch the largest squares come off the rectangle until the last square fits exactly, and its side is the GCD.
+
+![Animated step-by-step diagram of Factor Tree: Split a number into two factors, then split those, until only primes are left](https://caseyaedwards.github.io/math_training/diagrams/factor-tree/animated.svg)
+
+[Factor Tree: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/factor-tree/)
+
+Watch each branch split until only primes remain, and notice the same primes appear no matter how the tree starts.
+
+![Animated step-by-step diagram of GCD and LCM with a Venn Diagram: Put the prime factors of two numbers in a Venn diagram](https://caseyaedwards.github.io/math_training/diagrams/gcd-lcm-venn/animated.svg)
+
+[GCD and LCM with a Venn Diagram: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/gcd-lcm-venn/)
+
+Watch the overlap of prime factors multiply to the GCD and the whole diagram multiply to the LCM.
+
 ## Common Mistakes
 
 * Stopping one line too late: the gcd is the last **nonzero** remainder, not the $0$.

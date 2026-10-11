@@ -162,6 +162,44 @@ A dynamic array starts with room for 1 element and doubles its capacity whenever
 
 This geometric sum is why appending to a Go slice or a Python list is cheap on average, even though an individual append sometimes copies everything.
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Arithmetic versus Geometric Sequences: An arithmetic sequence adds the same number each step, so its dots lie on a line](https://caseyaedwards.github.io/math_training/diagrams/arithmetic-geometric-sequences/animated.svg)
+
+[Arithmetic versus Geometric Sequences: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/arithmetic-geometric-sequences/)
+
+Watch the arithmetic dots line up in a straight line while the geometric jumps keep growing.
+
+![Animated step-by-step diagram of Gauss's Trick: Two Staircases Make a Rectangle: Stack 1 + 2 + ](https://caseyaedwards.github.io/math_training/diagrams/gauss-sum/animated.svg)
+
+[Gauss's Trick: Two Staircases Make a Rectangle: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/gauss-sum/)
+
+Watch two staircases fit together into a rectangle, so one staircase holds half its area.
+
+![Animated step-by-step diagram of Geometric Series: Halving a Square: Shade half of a square, then half of what is left, and keep going](https://caseyaedwards.github.io/math_training/diagrams/geometric-series-square/animated.svg)
+
+[Geometric Series: Halving a Square: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/geometric-series-square/)
+
+Watch the shaded halves keep filling what remains until they cover the whole square.
+
+![Animated step-by-step diagram of Geometric Series: Halfway Hops: A frog hops half the remaining distance to 1 on each jump](https://caseyaedwards.github.io/math_training/diagrams/geometric-series-number-line/animated.svg)
+
+[Geometric Series: Halfway Hops: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/geometric-series-number-line/)
+
+Watch each hop cover half the remaining distance, so the total closes in on 1 without passing it.
+
+![Animated step-by-step diagram of The Harmonic Series Diverges: Group the terms of 1 + 1/2 + 1/3 + ](https://caseyaedwards.github.io/math_training/diagrams/harmonic-series/animated.svg)
+
+[The Harmonic Series Diverges: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/harmonic-series/)
+
+Watch each block of terms add at least one half, so the sum grows past any bound.
+
+![Animated step-by-step diagram of Fibonacci Squares and the Golden Ratio: Squares with Fibonacci side lengths 1, 1, 2, 3, 5, 8 tile a rectangle, and quarter circles through them trace a spiral](https://caseyaedwards.github.io/math_training/diagrams/fibonacci-spiral/animated.svg)
+
+[Fibonacci Squares and the Golden Ratio: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/fibonacci-spiral/)
+
+Watch each new square take the sum of the previous two sides and the ratio of neighbors settle near 1.618.
+
 ## Common Mistakes
 
 * Off-by-one in the term formula: $a_n = a_1 + (n - 1)d$, not $a_1 + nd$.

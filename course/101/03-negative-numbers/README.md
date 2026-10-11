@@ -117,6 +117,20 @@ Host A reads `−340 ms` against the reference clock. Host B reads `+125 ms`. Ho
 = 465 ms                   the distance between the two points
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Adding Integers on a Number Line: Every number is a position](https://caseyaedwards.github.io/math_training/diagrams/number-line-integers/animated.svg)
+
+[Adding Integers on a Number Line: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/number-line-integers/)
+
+Watch positive numbers move the marker right and negative numbers move it left.
+
+![Animated step-by-step diagram of Absolute Value Inequality as Distance: |x − 2| is the distance from x to 2](https://caseyaedwards.github.io/math_training/diagrams/absolute-value-distance/animated.svg)
+
+[Absolute Value Inequality as Distance: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/absolute-value-distance/)
+
+Watch the solution set grow three steps out from 2 in both directions, since absolute value measures distance.
+
 ## Common Mistakes
 
 * Writing `−7 > −2` because `7 > 2`: further left is smaller. Picture the thermometer.

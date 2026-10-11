@@ -148,6 +148,26 @@ A service has served $N(t) = 5t^2 + 100t$ requests after $t$ seconds.
   N'(10) = 200 req/s, N'(20) = 300 req/s      the rate is climbing
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Secant Lines to a Tangent Line: A secant line through two points of a curve has a slope you can compute](https://caseyaedwards.github.io/math_training/diagrams/secant-to-tangent/animated.svg)
+
+[Secant Lines to a Tangent Line: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/secant-to-tangent/)
+
+Watch the secant slopes close in on the tangent slope as the second point slides toward the first.
+
+![Animated step-by-step diagram of Zoom In: Curves Look Straight: Zoom in on a smooth curve and it straightens out](https://caseyaedwards.github.io/math_training/diagrams/local-linearity/animated.svg)
+
+[Zoom In: Curves Look Straight: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/local-linearity/)
+
+Watch the curve straighten out as the zoom deepens until it matches its tangent line.
+
+![Animated step-by-step diagram of Graphing the Derivative: Measure the slope of f at many points and plot each slope as a height](https://caseyaedwards.github.io/math_training/diagrams/derivative-graph/animated.svg)
+
+[Graphing the Derivative: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/derivative-graph/)
+
+Watch each slope of f become a height on the new graph, tracing out the derivative.
+
 ## The SRE Connection
 
 <!-- diagram: type=stacked-plots top="N(t)=200t+(3000/pi)(1-cos(pi t/30))" bottom="N'(t)=200+100 sin(pi t/30)" mark=t:15 caption="Counter and its rate" -->

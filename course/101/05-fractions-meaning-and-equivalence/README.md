@@ -107,6 +107,20 @@ $\frac{k}{k} = 1$ for any `k` except `0`: `k` pieces of size `1/k` make one whol
   answer: 5/8 > 3/5
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Equivalent Fractions with Circles: Cutting every slice into equal smaller slices changes the names but not the amount](https://caseyaedwards.github.io/math_training/diagrams/equivalent-fractions-circles/animated.svg)
+
+[Equivalent Fractions with Circles: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/equivalent-fractions-circles/)
+
+Watch every slice split into equal smaller slices while the shaded amount stays the same.
+
+![Animated step-by-step diagram of Equivalent Fractions on Number Lines: Stack number lines cut into fourths, eighths, and twelfths](https://caseyaedwards.github.io/math_training/diagrams/equivalent-fractions-number-lines/animated.svg)
+
+[Equivalent Fractions on Number Lines: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/equivalent-fractions-number-lines/)
+
+Watch the marks for 3/4, 6/8 and 9/12 line up at the same point on the stacked lines.
+
 ## Common Mistakes
 
 * Adding to top and bottom: `1/2` is not `2/3`. Only multiplying or dividing both by the same number keeps the value.

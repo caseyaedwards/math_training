@@ -134,6 +134,26 @@ p99 latency, the time that 99% of requests beat, goes from `200 ms` to `250 ms`,
   0.001 × 43,200 = 43.2 min                 budget in minutes
 ```
 
+## See It Step by Step
+
+![Animated step-by-step diagram of Decimals on a Hundredths Grid: A square split into 100 small squares is one whole](https://caseyaedwards.github.io/math_training/diagrams/decimal-hundredths-grid/animated.svg)
+
+[Decimals on a Hundredths Grid: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/decimal-hundredths-grid/)
+
+Watch how three full columns and seven single squares add up to 37 of the 100 squares.
+
+![Animated step-by-step diagram of Zooming In on a Decimal: Find 0.37 by zooming](https://caseyaedwards.github.io/math_training/diagrams/decimal-zoom/animated.svg)
+
+[Zooming In on a Decimal: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/decimal-zoom/)
+
+Watch each digit pick one tenth of the current interval, so every new digit zooms in by a factor of ten.
+
+![Animated step-by-step diagram of Percent of a Number on a Grid: Percent means out of 100](https://caseyaedwards.github.io/math_training/diagrams/percent-grid/animated.svg)
+
+[Percent of a Number on a Grid: open the step-by-step walkthrough](https://caseyaedwards.github.io/math_training/diagrams/percent-grid/)
+
+Watch the whole grid stand for 80, so each square is worth 0.8 and 35 squares are worth 28.
+
 ## Common Mistakes
 
 * Comparing by length: `0.45` is not bigger than `0.5`. Pad to `0.450` and `0.500`.

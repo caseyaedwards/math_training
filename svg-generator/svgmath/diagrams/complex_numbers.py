@@ -370,3 +370,81 @@ def roots_of_unity() -> Walkthrough:
         panel_line(c, PX, row(5), "sum of roots = 0", color=theme.RED, boxed=True)
 
     return wt
+
+
+@diagram("roots-of-unity-polygons", "Roots of Unity for Every n", CAT)
+def roots_polygons() -> Walkthrough:
+    ns = [2, 3, 4, 5, 8]
+    cols = [theme.BLUE, theme.ORANGE, theme.GREEN, theme.PURPLE, theme.RED]
+    wt = Walkthrough(
+        "roots-of-unity-polygons", "Roots of Unity for Every n", CAT,
+        concept="z^n = 1 \\iff z = e^{2\\pi ik/n}: n points 360°/n apart",
+        summary="The n solutions of zⁿ = 1 always sit on the unit circle, spaced 360°/n apart, starting at 1. "
+                "They form a regular polygon with n corners.",
+        width=720, height=330, level="301",
+    )
+    R = 54.0
+    centers = [(76 + 142 * i, 150.0) for i in range(5)]
+    exact = {
+        2: ["1", "−1"],
+        3: ["1", "−½ + (√3/2)i", "−½ − (√3/2)i"],
+        4: ["1", "i", "−1", "−i"],
+    }
+
+    @wt.setup
+    def _(c):
+        for (x, y), n in zip(centers, ns):
+            c.circle(x, y, R, color=theme.MUTED, width=1.4)
+            c.line(x - R - 8, y, x + R + 8, y, color=theme.GRID, width=1)
+            c.line(x, y - R - 8, x, y + R + 8, color=theme.GRID, width=1)
+        return None
+
+    def draw(c, i):
+        n, col = ns[i], cols[i]
+        x, y = centers[i]
+        pts = [(x + R * math.cos(2 * math.pi * k / n), y - R * math.sin(2 * math.pi * k / n)) for k in range(n)]
+        if n == 2:
+            c.line(*pts[0], *pts[1], color=col, width=2.5)
+        else:
+            c.polygon(pts, color=col, fill=theme.fill(col, "22"), width=2.5)
+        for P in pts:
+            c.dot(*P, r=4.5, color=col)
+        c.text(x, y - R - 30, f"z^{n} = 1", size=17, color=col, math=True)
+        c.text(x, y + R + 28, f"{n} roots", size=14, color=col, weight="bold")
+        c.text(x, y + R + 48, f"{num(360 / n, 1)}° apart", size=13, color=theme.SOFT_INK)
+        if n in exact and c.is_new:
+            for k, s in enumerate(exact[n]):
+                a = 2 * math.pi * k / n
+                lx, ly = x + (R + 14) * math.cos(a), y - (R + 12) * math.sin(a)
+                anchor = "start" if math.cos(a) > 0.3 else ("end" if math.cos(a) < -0.3 else "middle")
+                c.text(lx, ly, s, size=12, color=col, anchor=anchor, halo=True)
+
+    @wt.step("Two square roots of 1",
+             "z² = 1 has two answers, 1 and −1. They sit on opposite sides of the circle, 180° apart.",
+             math="z^2 = 1: z = 1, -1")
+    def _(c):
+        draw(c, 0)
+
+    @wt.step("Three cube roots of 1",
+             "z³ = 1 has three answers, 120° apart. Only one of them is real; the other two are complex "
+             "and form a triangle with it.",
+             math="z^3 = 1: z = 1, -1/2 \\pm (√3/2)i")
+    def _(c):
+        draw(c, 1)
+
+    @wt.step("Four fourth roots of 1",
+             "z⁴ = 1 gives 1, i, −1, and −i, a square. Each one is the previous one turned a quarter turn, "
+             "which is multiplication by i.",
+             math="z^4 = 1: z = 1, i, -1, -i")
+    def _(c):
+        draw(c, 2)
+
+    @wt.step("Five and eight",
+             "z⁵ = 1 makes a pentagon and z⁸ = 1 an octagon. Any n works the same way, and the polygon "
+             "always has a corner at 1.",
+             math="z^n = 1: z_k = cos(2\\pi k/n) + i sin(2\\pi k/n), k = 0, ..., n - 1")
+    def _(c):
+        draw(c, 3)
+        draw(c, 4)
+
+    return wt

@@ -445,3 +445,82 @@ def tangent_segment() -> Walkthrough:
         c.text(top[0] - 4, top[1] + 12, "80°", size=13, color=theme.RED, anchor="end", halo=True)
 
     return wt
+
+
+@diagram("arc-length-sector", "Arc Length and Sector Area", "Trigonometry")
+def arc_length_sector() -> Walkthrough:
+    r, th = 3.0, 2.0
+    s_len = r * th
+    area = r * r * th / 2
+    deg = math.degrees(th)
+    wt = Walkthrough(
+        "arc-length-sector", "Arc Length and Sector Area", "Trigonometry",
+        concept="s = r\\theta, A = r^2\\theta/2 (\\theta in radians)",
+        summary="With the angle in radians, the arc length is the radius times the angle, and the sector area "
+                "is half the radius squared times the angle. Radians make both formulas short.",
+        width=720, height=420, level="201",
+    )
+    CX, CY, K = 200.0, 250.0, 52.0  # pixels per unit
+    R = r * K
+    S_COL, A_COL, R_COL = theme.BLUE, theme.GREEN, theme.INK
+
+    @wt.setup
+    def _(c):
+        c.circle(CX, CY, R, color=theme.MUTED, width=1.6, dash="5 5")
+        c.dot(CX, CY, r=4, color=theme.INK)
+        c.line(420, 30, 420, 400, color=theme.GRID, width=1)
+        return None
+
+    def panel(c, i, s, color=theme.INK, size=17):
+        c.math(436, 64 + i * 50, s, anchor="start", color=color, size=size)
+
+    @wt.step("Draw a sector",
+             f"Take radius r = {num(r)} and angle θ = {num(th)} radians, about {num(deg, 1)}°. The sector is "
+             "the pizza slice between the two radii.",
+             math=f"r = {num(r)}, \\theta = {num(th)} rad \\approx {num(deg, 1)}°")
+    def _(c):
+        x1, y1 = polar_px(CX, CY, R, deg)
+        c.line(CX, CY, CX + R, CY, color=R_COL, width=2.5)
+        c.line(CX, CY, x1, y1, color=R_COL, width=2.5)
+        c.text(CX + R / 2, CY + 16, f"r = {num(r)}", size=15, math=True, halo=True)
+        c.arc(CX, CY, 36, 0, deg, color=ANG, width=2)
+        arc_label(c, CX, CY, 56, deg / 2, f"θ = {num(th)}", color=ANG, size=15)
+        panel(c, 0, f"r = {num(r)}, \\theta = {num(th)} rad")
+
+    @wt.step("Arc length is r times θ",
+             f"One radian cuts off one radius of arc, so {num(th)} radians cut off {num(th)} radii. "
+             f"The arc is {num(th)} × {num(r)} = {num(s_len)} long.",
+             math=f"s = r\\theta = {num(r)} \\times {num(th)} = {num(s_len)}")
+    def _(c):
+        one = math.degrees(1)
+        c.arc(CX, CY, R, 0, one, color=S_COL, width=6)
+        c.arc(CX, CY, R, one, deg, color=theme.SKY, width=6)
+        for k in (0, 1, 2):
+            x0, y0 = polar_px(CX, CY, R - 8, k * one)
+            x1, y1 = polar_px(CX, CY, R + 8, k * one)
+            c.line(x0, y0, x1, y1, color=theme.INK, width=2)
+        arc_label(c, CX, CY, R + 22, one / 2, "r", color=S_COL, size=16)
+        arc_label(c, CX, CY, R + 22, one * 1.5, "r", color=S_COL, size=16)
+        arc_label(c, CX, CY, R + 46, deg / 2 + 10, f"s = {num(s_len)}", color=S_COL, size=17)
+        panel(c, 1, f"s = r\\theta = {num(s_len)}", color=S_COL)
+
+    @wt.step("Area is the same slice of the disk",
+             f"The whole disk has area πr² and a full turn is 2π radians. The sector takes θ/(2π) of it, "
+             f"which simplifies to r²θ/2 = {num(area)}.",
+             math=f"A = (\\theta/2\\pi)\\cdot \\pi r^2 = r^2\\theta/2 = 9 \\cdot 2/2 = {num(area)}")
+    def _(c):
+        c.arc(CX, CY, R, 0, deg, color="none", fill=theme.fill(A_COL, "33"), sector=True)
+        arc_label(c, CX, CY, R * 0.6, deg / 2, f"A = {num(area)}", color=A_COL, size=17)
+        panel(c, 2, f"A = r^2\\theta/2 = {num(area)}", color=A_COL)
+        panel(c, 3, f"disk: \\pi r^2 \\approx {num(math.pi * r * r, 2)}", color=theme.SOFT_INK, size=16)
+
+    @wt.step("Degrees need an extra factor",
+             f"In degrees the same arc needs the clumsy factor π/180: s = r · {num(deg, 1)}° · π/180. "
+             "Radians bake that factor in, which is why calculus prefers them.",
+             math=f"s = 2\\pi r \\cdot ({num(deg, 2)}°/360°) \\approx {num(s_len, 2)}")
+    def _(c):
+        panel(c, 4, f"degrees: s = r \\cdot \\theta° \\cdot \\pi/180", color=theme.SOFT_INK, size=16)
+        panel(c, 5, f"= {num(r)} \\cdot {num(deg, 2)} \\cdot \\pi/180 \\approx {num(s_len, 2)}",
+              color=theme.SOFT_INK, size=16)
+
+    return wt

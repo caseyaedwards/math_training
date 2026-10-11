@@ -1,0 +1,9 @@
+Core move in every related rates problem	Write the equation linking the quantities, then take d/dt of both sides.	math::401::related-rates
+When do you plug in the snapshot numbers?	After differentiating. Constants have zero rate.	math::401::related-rates
+\(\frac{d}{dt}(y^2)\)	\(2y\,\frac{dy}{dt}\) (chain rule).	math::401::related-rates
+Ladder: \(x^2 + y^2 = 100\), x = 6, dx/dt = 1. Find dy/dt.	-0.75 m/s. From \(2x\,x' + 2y\,y' = 0\) with y = 8.	math::401::related-rates
+Rate of change of a circle's area	\(\frac{dA}{dt} = 2\pi r \frac{dr}{dt}\): circumference times the growth of the radius.	math::401::related-rates
+Cone of top radius 3 and height 6: r in terms of h	r = h/2 (similar triangles), so \(V = \pi h^3/12\).	math::401::related-rates
+Queue backlog rate	\(\frac{dQ}{dt} = \lambda - \mu\): arrivals minus service.	math::401::related-rates
+Links in a full mesh of n nodes, and their rate	\(L = n(n-1)/2\), \(\frac{dL}{dt} = \frac{2n-1}{2}\frac{dn}{dt}\).	math::401::related-rates
+Two cars leave a corner east at 30 m/s and north at 40 m/s. How fast does the distance grow?	50 m/s, constant.	math::401::related-rates

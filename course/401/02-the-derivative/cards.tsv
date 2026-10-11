@@ -1,0 +1,10 @@
+Difference quotient	\(\frac{f(a+h) - f(a)}{h}\): the slope of the secant line from a to a + h.	math::401::derivative
+Limit definition of the derivative	\(f'(a) = \lim_{h \to 0} \frac{f(a+h) - f(a)}{h}\)	math::401::derivative
+Secant line versus tangent line	A secant cuts the curve at two points. A tangent grazes it at one point and has the curve's slope there.	math::401::derivative
+Derivative of \(x^2\) from the definition	\(2x\). The quotient simplifies to \(2x + h\), then \(h \to 0\).	math::401::derivative
+Units of a derivative	Output units per input unit, for example requests per second.	math::401::derivative
+Is \(|x|\) differentiable at 0?	No. Corner: slope -1 on the left, +1 on the right.	math::401::derivative
+Meaning of \(f' > 0\), \(f' < 0\), \(f' = 0\)	Rising, falling, flat (often a peak or valley).	math::401::derivative
+Meaning of \(f'' > 0\)	The slope is increasing: the graph bends up like a cup.	math::401::derivative
+What is rate(x[5m]) in calculus terms?	A secant slope of the counter over a 5-minute window: an average rate.	math::401::derivative
+Why not use a tiny h like 1e-15 on a computer?	Subtracting nearly equal floats destroys precision. The quotient gets worse, not better.	math::401::derivative

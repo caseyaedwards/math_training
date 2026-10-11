@@ -1,0 +1,10 @@
+FTC Part 1	If \(A(x) = \int_a^x f(t)\,dt\), then \(A'(x) = f(x)\).	math::401::ftc
+FTC Part 2	\(\int_a^b f(x)\,dx = F(b) - F(a)\) for any antiderivative F.	math::401::ftc
+Why the + C disappears in a definite integral	It appears in F(b) and F(a) and cancels.	math::401::ftc
+\(\int x^n\,dx\) for \(n \ne -1\)	\(\frac{x^{n+1}}{n+1} + C\)	math::401::ftc
+\(\int \frac{1}{x}\,dx\)	\(\ln|x| + C\)	math::401::ftc
+\(\int_0^\pi \sin x\,dx\)	2	math::401::ftc
+\(\frac{d}{dx}\int_0^x \cos(t^2)\,dt\)	\(\cos(x^2)\)	math::401::ftc
+Net change theorem	\(\int_a^b N'(t)\,dt = N(b) - N(a)\): integrate a rate, get the change in the total.	math::401::ftc
+Prometheus increase() in calculus terms	N(b) - N(a), which equals the area under the rate from a to b.	math::401::ftc
+Why the strip argument gives A'(x) = f(x)	\(A(x+h) - A(x) \approx f(x)h\). Divide by h, let h go to 0.	math::401::ftc

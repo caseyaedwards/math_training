@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 260" width="680" height="260" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Three rectangles with 40 m of fence and different areas</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="680" height="260" fill="#ffffff"/>
+<rect x="20" y="96" width="192" height="48" rx="0" fill="#e9ecef" stroke="#222222" stroke-width="1.5"/>
+<text x="116" y="210" text-anchor="middle" font-size="14" fill="#222222">16 m × 4 m</text>
+<text x="116" y="230" text-anchor="middle" font-size="14" fill="#222222">area 64 m²</text>
+<rect x="242" y="60" width="120" height="120" rx="0" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="2"/>
+<text x="302" y="210" text-anchor="middle" font-size="14" fill="#222222">10 m × 10 m</text>
+<text x="302" y="230" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">area 100 m²</text>
+<rect x="392" y="108" width="216" height="24" rx="0" fill="#e9ecef" stroke="#222222" stroke-width="1.5"/>
+<text x="500" y="210" text-anchor="middle" font-size="14" fill="#222222">18 m × 2 m</text>
+<text x="500" y="230" text-anchor="middle" font-size="14" fill="#222222">area 36 m²</text>
+<text x="20" y="30" text-anchor="start" font-size="13" fill="#222222">Same 40 m of fence each time. The square encloses the most.</text>
+</svg>

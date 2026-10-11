@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Double integral as stacked slices</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="600" height="400" fill="#ffffff"/>
+<rect x="70" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.134" stroke="none" stroke-width="1.5"/>
+<rect x="84" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.142" stroke="none" stroke-width="1.5"/>
+<rect x="98" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="none" stroke-width="1.5"/>
+<rect x="112" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.158" stroke="none" stroke-width="1.5"/>
+<rect x="126" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.166" stroke="none" stroke-width="1.5"/>
+<rect x="140" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.174" stroke="none" stroke-width="1.5"/>
+<rect x="154" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.182" stroke="none" stroke-width="1.5"/>
+<rect x="168" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.19" stroke="none" stroke-width="1.5"/>
+<rect x="182" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.198" stroke="none" stroke-width="1.5"/>
+<rect x="196" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.206" stroke="none" stroke-width="1.5"/>
+<rect x="210" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.214" stroke="none" stroke-width="1.5"/>
+<rect x="224" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.222" stroke="none" stroke-width="1.5"/>
+<rect x="238" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.23" stroke="none" stroke-width="1.5"/>
+<rect x="252" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.238" stroke="none" stroke-width="1.5"/>
+<rect x="266" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.246" stroke="none" stroke-width="1.5"/>
+<rect x="280" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.254" stroke="none" stroke-width="1.5"/>
+<rect x="294" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.262" stroke="none" stroke-width="1.5"/>
+<rect x="308" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.27" stroke="none" stroke-width="1.5"/>
+<rect x="322" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.278" stroke="none" stroke-width="1.5"/>
+<rect x="336" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.286" stroke="none" stroke-width="1.5"/>
+<rect x="350" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.294" stroke="none" stroke-width="1.5"/>
+<rect x="364" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.302" stroke="none" stroke-width="1.5"/>
+<rect x="378" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.31" stroke="none" stroke-width="1.5"/>
+<rect x="392" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.318" stroke="none" stroke-width="1.5"/>
+<rect x="406" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.326" stroke="none" stroke-width="1.5"/>
+<rect x="420" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.334" stroke="none" stroke-width="1.5"/>
+<rect x="434" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.342" stroke="none" stroke-width="1.5"/>
+<rect x="448" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.35" stroke="none" stroke-width="1.5"/>
+<rect x="462" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.358" stroke="none" stroke-width="1.5"/>
+<rect x="476" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.366" stroke="none" stroke-width="1.5"/>
+<rect x="322" y="40" width="14" height="280" rx="0" fill="#d9480f" fill-opacity="0.6" stroke="#d9480f" stroke-width="1.5"/>
+<rect x="70" y="40" width="420" height="280" rx="0" fill="none" stroke="#222222" stroke-width="1.5"/>
+<line x1="70" y1="320" x2="498" y2="320" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="70" y1="320" x2="70" y2="32" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<text x="502" y="325" text-anchor="start" font-size="14" fill="#222222" font-style="italic">x</text>
+<text x="70" y="26" text-anchor="middle" font-size="14" fill="#222222" font-style="italic">y</text>
+<line x1="210" y1="316" x2="210" y2="324" stroke="#222222" stroke-width="1.5"/>
+<text x="210" y="340" text-anchor="middle" font-size="12" fill="#868e96">1</text>
+<line x1="350" y1="316" x2="350" y2="324" stroke="#222222" stroke-width="1.5"/>
+<text x="350" y="340" text-anchor="middle" font-size="12" fill="#868e96">2</text>
+<line x1="490" y1="316" x2="490" y2="324" stroke="#222222" stroke-width="1.5"/>
+<text x="490" y="340" text-anchor="middle" font-size="12" fill="#868e96">3</text>
+<line x1="66" y1="180" x2="74" y2="180" stroke="#222222" stroke-width="1.5"/>
+<text x="62" y="184" text-anchor="end" font-size="12" fill="#868e96">1</text>
+<line x1="66" y1="40" x2="74" y2="40" stroke="#222222" stroke-width="1.5"/>
+<text x="62" y="44" text-anchor="end" font-size="12" fill="#868e96">2</text>
+<text x="329" y="30" text-anchor="middle" font-size="12" fill="#d9480f">slice at x: (x + y) summed over y from 0 to 2 = 2x + 2</text>
+<text x="329" y="360" text-anchor="middle" font-size="14" fill="#d9480f">dx</text>
+<text x="300" y="388" text-anchor="middle" font-size="13" fill="#222222" font-weight="bold">Inner: add along y for one x. Outer: integrate 2x + 2 from 0 to 3 = 9 + 6 = 15.</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 500" width="560" height="500" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Contour lines of x squared plus 2 y squared with gradient arrows</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="560" height="500" fill="#ffffff"/>
+<line x1="40" y1="270" x2="528" y2="270" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="280" y1="450" x2="280" y2="82" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<text x="532" y="275" text-anchor="start" font-size="14" fill="#222222" font-style="italic">x</text>
+<text x="280" y="76" text-anchor="middle" font-size="14" fill="#222222" font-style="italic">y</text>
+<line x1="55" y1="266" x2="55" y2="274" stroke="#222222" stroke-width="1.5"/>
+<text x="55" y="290" text-anchor="middle" font-size="12" fill="#868e96">-3</text>
+<line x1="130" y1="266" x2="130" y2="274" stroke="#222222" stroke-width="1.5"/>
+<text x="130" y="290" text-anchor="middle" font-size="12" fill="#868e96">-2</text>
+<line x1="205" y1="266" x2="205" y2="274" stroke="#222222" stroke-width="1.5"/>
+<text x="205" y="290" text-anchor="middle" font-size="12" fill="#868e96">-1</text>
+<line x1="355" y1="266" x2="355" y2="274" stroke="#222222" stroke-width="1.5"/>
+<text x="355" y="290" text-anchor="middle" font-size="12" fill="#868e96">1</text>
+<line x1="430" y1="266" x2="430" y2="274" stroke="#222222" stroke-width="1.5"/>
+<text x="430" y="290" text-anchor="middle" font-size="12" fill="#868e96">2</text>
+<line x1="505" y1="266" x2="505" y2="274" stroke="#222222" stroke-width="1.5"/>
+<text x="505" y="290" text-anchor="middle" font-size="12" fill="#868e96">3</text>
+<line x1="276" y1="420" x2="284" y2="420" stroke="#222222" stroke-width="1.5"/>
+<text x="272" y="424" text-anchor="end" font-size="12" fill="#868e96">-2</text>
+<line x1="276" y1="345" x2="284" y2="345" stroke="#222222" stroke-width="1.5"/>
+<text x="272" y="349" text-anchor="end" font-size="12" fill="#868e96">-1</text>
+<line x1="276" y1="195" x2="284" y2="195" stroke="#222222" stroke-width="1.5"/>
+<text x="272" y="199" text-anchor="end" font-size="12" fill="#868e96">1</text>
+<line x1="276" y1="120" x2="284" y2="120" stroke="#222222" stroke-width="1.5"/>
+<text x="272" y="124" text-anchor="end" font-size="12" fill="#868e96">2</text>
+<ellipse cx="280" cy="270" rx="75" ry="53.03" fill="none" stroke="#868e96" stroke-width="1.2"/>
+<text x="338.03" y="320.5" text-anchor="start" font-size="11" fill="#868e96">1</text>
+<ellipse cx="280" cy="270" rx="106.07" ry="75" fill="none" stroke="#868e96" stroke-width="1.2"/>
+<text x="360" y="336.03" text-anchor="start" font-size="11" fill="#868e96">2</text>
+<ellipse cx="280" cy="270" rx="150" ry="106.07" fill="none" stroke="#222222" stroke-width="2"/>
+<text x="391.07" y="358" text-anchor="start" font-size="11" fill="#868e96">4</text>
+<ellipse cx="280" cy="270" rx="183.71" ry="129.9" fill="none" stroke="#868e96" stroke-width="1.2"/>
+<text x="414.9" y="374.86" text-anchor="start" font-size="11" fill="#868e96">6</text>
+<ellipse cx="280" cy="270" rx="212.13" ry="150" fill="none" stroke="#868e96" stroke-width="1.2"/>
+<text x="435" y="389.07" text-anchor="start" font-size="11" fill="#868e96">8</text>
+<line x1="430" y1="270" x2="484" y2="270" stroke="#d9480f" stroke-width="2" marker-end="url(#arra)"/>
+<circle cx="430" cy="270" r="3" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<line x1="394.91" y1="201.82" x2="436.27" y2="152.73" stroke="#d9480f" stroke-width="2" marker-end="url(#arra)"/>
+<circle cx="394.91" cy="201.82" r="3" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<line x1="280" y1="163.93" x2="280" y2="87.57" stroke="#d9480f" stroke-width="2" marker-end="url(#arra)"/>
+<circle cx="280" cy="163.93" r="3" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<line x1="165.09" y1="201.82" x2="123.73" y2="152.73" stroke="#d9480f" stroke-width="2" marker-end="url(#arra)"/>
+<circle cx="165.09" cy="201.82" r="3" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<line x1="139.05" y1="306.28" x2="88.3" y2="332.4" stroke="#d9480f" stroke-width="2" marker-end="url(#arra)"/>
+<circle cx="139.05" cy="306.28" r="3" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<line x1="355" y1="361.86" x2="382" y2="427.99" stroke="#d9480f" stroke-width="2" marker-end="url(#arra)"/>
+<circle cx="355" cy="361.86" r="3" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="20" y="24" text-anchor="start" font-size="13" fill="#222222" font-weight="bold">f(x, y) = x² + 2y²</text>
+<text x="20" y="44" text-anchor="start" font-size="12" fill="#d9480f">Arrows: ∇f = (2x, 4y) at points on the level-4 curve. Each points uphill,</text>
+<text x="20" y="62" text-anchor="start" font-size="12" fill="#d9480f">perpendicular to the contour.</text>
+<text x="280" y="490" text-anchor="middle" font-size="12" fill="#868e96">Numbers mark each contour level. Crowded contours mean a steep slope.</text>
+</svg>

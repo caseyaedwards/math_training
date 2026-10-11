@@ -1,0 +1,9 @@
+The slicing pattern	Slice thin, write one slice as (something) times dx, add with an integral.	math::401::applications
+Area between curves	\(\int_a^b (\text{top} - \text{bottom})\,dx\), limits where the curves cross.	math::401::applications
+Area between y = x and y = \(x^2\)	1/6	math::401::applications
+Disk method volume	\(V = \int_a^b \pi f(x)^2\,dx\)	math::401::applications
+Washer slice volume	\(\pi(R^2 - r^2)\,dx\), not \(\pi(R - r)^2\,dx\).	math::401::applications
+Volume from spinning \(\sqrt{x}\) on [0, 4]	\(8\pi\)	math::401::applications
+Average value of f on [a, b]	\(\frac{1}{b-a}\int_a^b f(x)\,dx\)	math::401::applications
+Average of sin x on [0, \(\pi\)]	\(2/\pi \approx 0.637\)	math::401::applications
+rate(x[w]) as an average value	Area under the true rate over the window, divided by the window width.	math::401::applications

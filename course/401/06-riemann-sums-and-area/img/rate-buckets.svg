@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" width="600" height="360" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Request rate per minute bucket; total requests equal the area</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="600" height="360" fill="#ffffff"/>
+<rect x="80" y="204.29" width="76.67" height="85.71" rx="0" fill="#d9480f" fill-opacity="0.22" stroke="#d9480f" stroke-width="1.2"/>
+<text x="118.33" y="198.29" text-anchor="middle" font-size="12" fill="#222222">120</text>
+<text x="118.33" y="247.14" text-anchor="middle" font-size="11" fill="#d9480f">7,200</text>
+<rect x="156.67" y="161.43" width="76.67" height="128.57" rx="0" fill="#d9480f" fill-opacity="0.22" stroke="#d9480f" stroke-width="1.2"/>
+<text x="195" y="155.43" text-anchor="middle" font-size="12" fill="#222222">180</text>
+<text x="195" y="225.71" text-anchor="middle" font-size="11" fill="#d9480f">10,800</text>
+<rect x="233.33" y="104.29" width="76.67" height="185.71" rx="0" fill="#d9480f" fill-opacity="0.22" stroke="#d9480f" stroke-width="1.2"/>
+<text x="271.67" y="98.29" text-anchor="middle" font-size="12" fill="#222222">260</text>
+<text x="271.67" y="197.14" text-anchor="middle" font-size="11" fill="#d9480f">15,600</text>
+<rect x="310" y="75.71" width="76.67" height="214.29" rx="0" fill="#d9480f" fill-opacity="0.22" stroke="#d9480f" stroke-width="1.2"/>
+<text x="348.33" y="69.71" text-anchor="middle" font-size="12" fill="#222222">300</text>
+<text x="348.33" y="182.86" text-anchor="middle" font-size="11" fill="#d9480f">18,000</text>
+<rect x="386.67" y="132.86" width="76.67" height="157.14" rx="0" fill="#d9480f" fill-opacity="0.22" stroke="#d9480f" stroke-width="1.2"/>
+<text x="425" y="126.86" text-anchor="middle" font-size="12" fill="#222222">220</text>
+<text x="425" y="211.43" text-anchor="middle" font-size="11" fill="#d9480f">13,200</text>
+<rect x="463.33" y="190" width="76.67" height="100" rx="0" fill="#d9480f" fill-opacity="0.22" stroke="#d9480f" stroke-width="1.2"/>
+<text x="501.67" y="184" text-anchor="middle" font-size="12" fill="#222222">140</text>
+<text x="501.67" y="240" text-anchor="middle" font-size="11" fill="#d9480f">8,400</text>
+<line x1="80" y1="290" x2="548" y2="290" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="80" y1="290" x2="80" y2="32" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<text x="552" y="295" text-anchor="start" font-size="14" fill="#222222" font-style="italic">minute</text>
+<text x="80" y="26" text-anchor="middle" font-size="14" fill="#222222" font-style="italic">req/s</text>
+<line x1="156.67" y1="286" x2="156.67" y2="294" stroke="#222222" stroke-width="1.5"/>
+<text x="156.67" y="310" text-anchor="middle" font-size="12" fill="#868e96">1</text>
+<line x1="233.33" y1="286" x2="233.33" y2="294" stroke="#222222" stroke-width="1.5"/>
+<text x="233.33" y="310" text-anchor="middle" font-size="12" fill="#868e96">2</text>
+<line x1="310" y1="286" x2="310" y2="294" stroke="#222222" stroke-width="1.5"/>
+<text x="310" y="310" text-anchor="middle" font-size="12" fill="#868e96">3</text>
+<line x1="386.67" y1="286" x2="386.67" y2="294" stroke="#222222" stroke-width="1.5"/>
+<text x="386.67" y="310" text-anchor="middle" font-size="12" fill="#868e96">4</text>
+<line x1="463.33" y1="286" x2="463.33" y2="294" stroke="#222222" stroke-width="1.5"/>
+<text x="463.33" y="310" text-anchor="middle" font-size="12" fill="#868e96">5</text>
+<line x1="540" y1="286" x2="540" y2="294" stroke="#222222" stroke-width="1.5"/>
+<text x="540" y="310" text-anchor="middle" font-size="12" fill="#868e96">6</text>
+<line x1="76" y1="218.57" x2="84" y2="218.57" stroke="#222222" stroke-width="1.5"/>
+<text x="72" y="222.57" text-anchor="end" font-size="12" fill="#868e96">100</text>
+<line x1="76" y1="147.14" x2="84" y2="147.14" stroke="#222222" stroke-width="1.5"/>
+<text x="72" y="151.14" text-anchor="end" font-size="12" fill="#868e96">200</text>
+<line x1="76" y1="75.71" x2="84" y2="75.71" stroke="#222222" stroke-width="1.5"/>
+<text x="72" y="79.71" text-anchor="end" font-size="12" fill="#868e96">300</text>
+<text x="300" y="330" text-anchor="middle" font-size="12" fill="#868e96">Each bar: rate (req/s) × 60 s = requests in that minute (number inside).</text>
+<text x="300" y="350" text-anchor="middle" font-size="12" fill="#222222" font-weight="bold">Total = sum of bar areas = 73,200 requests.</text>
+</svg>

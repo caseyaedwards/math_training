@@ -1,0 +1,11 @@
+Critical point	An x where \(f'(x) = 0\) or \(f'(x)\) does not exist.	math::401::optimization
+First derivative test	f' goes + to -: max. - to +: min. No sign change: neither.	math::401::optimization
+Second derivative test	\(f'(c) = 0\) and \(f''(c) < 0\): max. \(f''(c) > 0\): min. \(f''(c) = 0\): no conclusion.	math::401::optimization
+Closed interval method	Evaluate f at every critical point inside and at both endpoints. Compare.	math::401::optimization
+Rectangle with fixed perimeter P: max area?	A square with side P/4.	math::401::optimization
+Minimize \(C(b) = F/b + cb\)	\(b = \sqrt{F/c}\), where the two costs are equal.	math::401::optimization
+Linear approximation at a	\(f(x) \approx f(a) + f'(a)(x - a)\): the tangent line.	math::401::optimization
+Estimate \(\sqrt{4.1}\)	\(2 + 0.1/4 = 2.025\)	math::401::optimization
+Differential dy	\(dy = f'(x)\,dx\): the change the tangent line predicts.	math::401::optimization
+Newton's method update	\(x_{n+1} = x_n - f(x_n)/f'(x_n)\)	math::401::optimization
+Is \(x = 0\) a max or min of \(x^3\)?	Neither, even though \(f'(0) = 0\).	math::401::optimization

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 420" width="560" height="420" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Double Riemann sum on a 6 by 4 grid</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="560" height="420" fill="#ffffff"/>
+<rect x="70" y="250" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.13" stroke="#222222" stroke-width="0.8"/>
+<text x="105" y="290" text-anchor="middle" font-size="12" fill="#222222">0.5</text>
+<rect x="70" y="180" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.2" stroke="#222222" stroke-width="0.8"/>
+<text x="105" y="220" text-anchor="middle" font-size="12" fill="#222222">1</text>
+<rect x="70" y="110" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.27" stroke="#222222" stroke-width="0.8"/>
+<text x="105" y="150" text-anchor="middle" font-size="12" fill="#222222">1.5</text>
+<rect x="70" y="40" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.34" stroke="#222222" stroke-width="0.8"/>
+<text x="105" y="80" text-anchor="middle" font-size="12" fill="#222222">2</text>
+<rect x="140" y="250" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.2" stroke="#222222" stroke-width="0.8"/>
+<text x="175" y="290" text-anchor="middle" font-size="12" fill="#222222">1</text>
+<rect x="140" y="180" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.27" stroke="#222222" stroke-width="0.8"/>
+<text x="175" y="220" text-anchor="middle" font-size="12" fill="#222222">1.5</text>
+<rect x="140" y="110" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.34" stroke="#222222" stroke-width="0.8"/>
+<text x="175" y="150" text-anchor="middle" font-size="12" fill="#222222">2</text>
+<rect x="140" y="40" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.41" stroke="#222222" stroke-width="0.8"/>
+<text x="175" y="80" text-anchor="middle" font-size="12" fill="#222222">2.5</text>
+<rect x="210" y="250" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.27" stroke="#222222" stroke-width="0.8"/>
+<text x="245" y="290" text-anchor="middle" font-size="12" fill="#222222">1.5</text>
+<rect x="210" y="180" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.34" stroke="#222222" stroke-width="0.8"/>
+<text x="245" y="220" text-anchor="middle" font-size="12" fill="#222222">2</text>
+<rect x="210" y="110" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.41" stroke="#222222" stroke-width="0.8"/>
+<text x="245" y="150" text-anchor="middle" font-size="12" fill="#222222">2.5</text>
+<rect x="210" y="40" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.48" stroke="#222222" stroke-width="0.8"/>
+<text x="245" y="80" text-anchor="middle" font-size="12" fill="#222222">3</text>
+<rect x="280" y="250" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.34" stroke="#222222" stroke-width="0.8"/>
+<text x="315" y="290" text-anchor="middle" font-size="12" fill="#222222">2</text>
+<rect x="280" y="180" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.41" stroke="#222222" stroke-width="0.8"/>
+<text x="315" y="220" text-anchor="middle" font-size="12" fill="#222222">2.5</text>
+<rect x="280" y="110" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.48" stroke="#222222" stroke-width="0.8"/>
+<text x="315" y="150" text-anchor="middle" font-size="12" fill="#222222">3</text>
+<rect x="280" y="40" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.55" stroke="#222222" stroke-width="0.8"/>
+<text x="315" y="80" text-anchor="middle" font-size="12" fill="#222222">3.5</text>
+<rect x="350" y="250" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.41" stroke="#222222" stroke-width="0.8"/>
+<text x="385" y="290" text-anchor="middle" font-size="12" fill="#222222">2.5</text>
+<rect x="350" y="180" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.48" stroke="#222222" stroke-width="0.8"/>
+<text x="385" y="220" text-anchor="middle" font-size="12" fill="#222222">3</text>
+<rect x="350" y="110" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.55" stroke="#222222" stroke-width="0.8"/>
+<text x="385" y="150" text-anchor="middle" font-size="12" fill="#222222">3.5</text>
+<rect x="350" y="40" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.62" stroke="#222222" stroke-width="0.8"/>
+<text x="385" y="80" text-anchor="middle" font-size="12" fill="#222222">4</text>
+<rect x="420" y="250" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.48" stroke="#222222" stroke-width="0.8"/>
+<text x="455" y="290" text-anchor="middle" font-size="12" fill="#222222">3</text>
+<rect x="420" y="180" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.55" stroke="#222222" stroke-width="0.8"/>
+<text x="455" y="220" text-anchor="middle" font-size="12" fill="#222222">3.5</text>
+<rect x="420" y="110" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.62" stroke="#222222" stroke-width="0.8"/>
+<text x="455" y="150" text-anchor="middle" font-size="12" fill="#222222">4</text>
+<rect x="420" y="40" width="70" height="70" rx="0" fill="#d9480f" fill-opacity="0.69" stroke="#222222" stroke-width="0.8"/>
+<text x="455" y="80" text-anchor="middle" font-size="12" fill="#222222">4.5</text>
+<line x1="70" y1="320" x2="498" y2="320" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="70" y1="320" x2="70" y2="32" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<text x="502" y="325" text-anchor="start" font-size="14" fill="#222222" font-style="italic">x</text>
+<text x="70" y="26" text-anchor="middle" font-size="14" fill="#222222" font-style="italic">y</text>
+<line x1="210" y1="316" x2="210" y2="324" stroke="#222222" stroke-width="1.5"/>
+<text x="210" y="340" text-anchor="middle" font-size="12" fill="#868e96">1</text>
+<line x1="350" y1="316" x2="350" y2="324" stroke="#222222" stroke-width="1.5"/>
+<text x="350" y="340" text-anchor="middle" font-size="12" fill="#868e96">2</text>
+<line x1="490" y1="316" x2="490" y2="324" stroke="#222222" stroke-width="1.5"/>
+<text x="490" y="340" text-anchor="middle" font-size="12" fill="#868e96">3</text>
+<line x1="66" y1="180" x2="74" y2="180" stroke="#222222" stroke-width="1.5"/>
+<text x="62" y="184" text-anchor="end" font-size="12" fill="#868e96">1</text>
+<line x1="66" y1="40" x2="74" y2="40" stroke="#222222" stroke-width="1.5"/>
+<text x="62" y="44" text-anchor="end" font-size="12" fill="#868e96">2</text>
+<text x="280" y="368" text-anchor="middle" font-size="12" fill="#868e96">Each cell: f(x, y) = x + y at its center, times area ΔA = 0.25.</text>
+<text x="280" y="395" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">Sum of f·ΔA over 24 cells = 15 = the exact volume ∬ (x + y) dA</text>
+</svg>

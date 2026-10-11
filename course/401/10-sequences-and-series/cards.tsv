@@ -1,0 +1,12 @@
+Series convergence is defined through...	Partial sums \(S_N = a_1 + \dots + a_N\). The series converges if \(S_N\) converges.	math::401::series
+Geometric series sum	\(\frac{a}{1 - r}\) when \(|r| < 1\). Diverges otherwise.	math::401::series
+0.999... equals?	Exactly 1: \(0.9/(1 - 0.1)\).	math::401::series
+Divergence test	If the terms do not go to 0, the series diverges. The converse is false.	math::401::series
+Does \(\sum 1/n\) converge?	No. Partial sums grow like ln N.	math::401::series
+p-series \(\sum 1/n^p\)	Converges when p > 1, diverges when \(p \le 1\).	math::401::series
+\(\sum 1/n^2\)	\(\pi^2/6 \approx 1.645\)	math::401::series
+Ratio test	\(L = \lim |a_{n+1}/a_n|\). L < 1 converges, L > 1 diverges, L = 1 says nothing.	math::401::series
+Alternating series error bound	Never larger than the first omitted term.	math::401::series
+\(1 - 1/2 + 1/3 - 1/4 + \dots\)	\(\ln 2 \approx 0.693\)	math::401::series
+Expected attempts if each fails with chance p and is retried	\(1/(1 - p)\), a geometric series.	math::401::series
+Total uncapped backoff wait before attempt n + 1 (base 1 s, doubling)	\(2^n - 1\) seconds.	math::401::series

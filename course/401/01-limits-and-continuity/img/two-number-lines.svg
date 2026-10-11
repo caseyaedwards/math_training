@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Epsilon delta as two number lines</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="600" height="300" fill="#ffffff"/>
+<line x1="50" y1="80" x2="550" y2="80" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="50" y1="220" x2="550" y2="220" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<text x="560" y="85" text-anchor="start" font-size="14" fill="#222222" font-style="italic">x</text>
+<text x="560" y="225" text-anchor="start" font-size="14" fill="#222222" font-style="italic">f(x)</text>
+<rect x="204" y="70" width="192" height="20" rx="0" fill="#868e96" fill-opacity="0.25" stroke="none" stroke-width="1.5"/>
+<rect x="180" y="210" width="240" height="20" rx="0" fill="#d9480f" fill-opacity="0.2" stroke="none" stroke-width="1.5"/>
+<line x1="60" y1="75" x2="60" y2="85" stroke="#222222" stroke-width="1.5"/>
+<text x="60" y="66" text-anchor="middle" font-size="12" fill="#868e96">1</text>
+<line x1="60" y1="215" x2="60" y2="225" stroke="#222222" stroke-width="1.5"/>
+<text x="60" y="246" text-anchor="middle" font-size="12" fill="#868e96">1</text>
+<line x1="180" y1="75" x2="180" y2="85" stroke="#222222" stroke-width="1.5"/>
+<text x="180" y="66" text-anchor="middle" font-size="12" fill="#868e96">1.5</text>
+<line x1="180" y1="215" x2="180" y2="225" stroke="#222222" stroke-width="1.5"/>
+<text x="180" y="246" text-anchor="middle" font-size="12" fill="#868e96">1.5</text>
+<line x1="300" y1="75" x2="300" y2="85" stroke="#222222" stroke-width="1.5"/>
+<text x="300" y="66" text-anchor="middle" font-size="12" fill="#868e96">2</text>
+<line x1="300" y1="215" x2="300" y2="225" stroke="#222222" stroke-width="1.5"/>
+<text x="300" y="246" text-anchor="middle" font-size="12" fill="#868e96">2</text>
+<line x1="420" y1="75" x2="420" y2="85" stroke="#222222" stroke-width="1.5"/>
+<text x="420" y="66" text-anchor="middle" font-size="12" fill="#868e96">2.5</text>
+<line x1="420" y1="215" x2="420" y2="225" stroke="#222222" stroke-width="1.5"/>
+<text x="420" y="246" text-anchor="middle" font-size="12" fill="#868e96">2.5</text>
+<line x1="540" y1="75" x2="540" y2="85" stroke="#222222" stroke-width="1.5"/>
+<text x="540" y="66" text-anchor="middle" font-size="12" fill="#868e96">3</text>
+<line x1="540" y1="215" x2="540" y2="225" stroke="#222222" stroke-width="1.5"/>
+<text x="540" y="246" text-anchor="middle" font-size="12" fill="#868e96">3</text>
+<line x1="204" y1="86" x2="213.6" y2="212" stroke="#d9480f" stroke-width="1.2" marker-end="url(#arra)"/>
+<line x1="252" y1="86" x2="254.4" y2="212" stroke="#d9480f" stroke-width="1.2" marker-end="url(#arra)"/>
+<line x1="300" y1="86" x2="300" y2="212" stroke="#222222" stroke-width="1.2" marker-end="url(#arr)"/>
+<line x1="348" y1="86" x2="350.4" y2="212" stroke="#d9480f" stroke-width="1.2" marker-end="url(#arra)"/>
+<line x1="396" y1="86" x2="405.6" y2="212" stroke="#d9480f" stroke-width="1.2" marker-end="url(#arra)"/>
+<text x="300" y="48" text-anchor="middle" font-size="12" fill="#222222">window: a − δ to a + δ  (1.6 to 2.4)</text>
+<text x="300" y="268" text-anchor="middle" font-size="12" fill="#d9480f">band: L − ε to L + ε  (1.5 to 2.5)</text>
+<text x="30" y="160" text-anchor="start" font-size="16" fill="#222222" font-style="italic">f</text>
+</svg>

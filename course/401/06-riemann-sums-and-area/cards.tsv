@@ -1,0 +1,9 @@
+Strip width for n strips on [a, b]	\(\Delta x = (b - a)/n\)	math::401::riemann
+Riemann sum	\(\sum_{i=1}^{n} f(x_i)\,\Delta x\): heights times widths, added.	math::401::riemann
+Definite integral as a limit	\(\int_a^b f(x)\,dx = \lim_{n\to\infty} \sum f(x_i)\Delta x\)	math::401::riemann
+Left sum for an increasing function: over or under?	Under. Each left edge is the lowest point of its strip.	math::401::riemann
+Trapezoid sum in terms of left and right sums	Their average: (L + R)/2.	math::401::riemann
+Left and right sums for \(x^2\) on [0, 2] with 4 strips	1.75 and 3.75. The exact value is 8/3.	math::401::riemann
+Signed area	Area above the x-axis counts plus, below counts minus.	math::401::riemann
+\(\int_{-2}^{2} x\,dx\)	0	math::401::riemann
+Total requests from per-minute rates in req/s	Sum of (rate times 60 s) over all buckets: a Riemann sum.	math::401::riemann

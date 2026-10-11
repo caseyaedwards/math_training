@@ -1,0 +1,12 @@
+What does \(\lim_{x \to a} f(x) = L\) mean in plain words?	As x gets close to a (but not equal to a), f(x) gets as close to L as you like.	math::401::limits
+Does the value f(a) affect \(\lim_{x \to a} f(x)\)?	No. The limit only looks at inputs near a, never at a itself.	math::401::limits
+You substitute and get 0/0. What next?	Simplify first: factor and cancel, or multiply by a conjugate. 0/0 is a signal, not an answer.	math::401::limits
+When does a two-sided limit exist?	When the left limit and the right limit both exist and are equal.	math::401::limits
+State the epsilon-delta definition of a limit.	For every \(\varepsilon > 0\) there is a \(\delta > 0\) with \(0 < |x-a| < \delta \implies |f(x) - L| < \varepsilon\).	math::401::limits
+Epsilon-delta for \(f(x) = 3x + 1\) at \(a = 2\): which delta?	\(\delta = \varepsilon / 3\), because \(|f(x) - 7| = 3|x - 2|\).	math::401::limits
+Three conditions for continuity at a	f(a) exists, the limit at a exists, and they are equal.	math::401::limits
+Name the three kinds of discontinuity.	Removable (hole), jump, infinite (vertical asymptote).	math::401::limits
+\(\lim_{x \to \infty} \frac{3x^2+1}{x^2+5}\)	3. Divide top and bottom by \(x^2\).	math::401::limits
+\(\lim_{x \to 0} \frac{\sin x}{x}\)	1, with x in radians.	math::401::limits
+Intermediate Value Theorem	If f is continuous on [a, b] and f(a), f(b) have opposite signs, f has a zero between a and b.	math::401::limits
+Which everyday SRE tool is the Intermediate Value Theorem in action?	git bisect: a pass and a later fail guarantee a first bad commit in between.	math::401::limits

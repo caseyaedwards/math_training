@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 420" width="560" height="420" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Approaching the hole in y = x + 1 at x = 1 from both sides</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="560" height="420" fill="#ffffff"/>
+<line x1="60" y1="350" x2="508" y2="350" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="60" y1="350" x2="60" y2="22" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<text x="512" y="355" text-anchor="start" font-size="14" fill="#222222" font-style="italic">x</text>
+<text x="60" y="16" text-anchor="middle" font-size="14" fill="#222222" font-style="italic">y</text>
+<line x1="170" y1="346" x2="170" y2="354" stroke="#222222" stroke-width="1.5"/>
+<text x="170" y="370" text-anchor="middle" font-size="12" fill="#868e96">0.5</text>
+<line x1="280" y1="346" x2="280" y2="354" stroke="#222222" stroke-width="1.5"/>
+<text x="280" y="370" text-anchor="middle" font-size="12" fill="#868e96">1</text>
+<line x1="390" y1="346" x2="390" y2="354" stroke="#222222" stroke-width="1.5"/>
+<text x="390" y="370" text-anchor="middle" font-size="12" fill="#868e96">1.5</text>
+<line x1="56" y1="250" x2="64" y2="250" stroke="#222222" stroke-width="1.5"/>
+<text x="52" y="254" text-anchor="end" font-size="12" fill="#868e96">1</text>
+<line x1="56" y1="150" x2="64" y2="150" stroke="#222222" stroke-width="1.5"/>
+<text x="52" y="154" text-anchor="end" font-size="12" fill="#868e96">2</text>
+<line x1="56" y1="50" x2="64" y2="50" stroke="#222222" stroke-width="1.5"/>
+<text x="52" y="54" text-anchor="end" font-size="12" fill="#868e96">3</text>
+<polyline points="60,250 62.2,249 64.4,248 66.6,247 68.8,246 71,245 73.2,244 75.4,243 77.6,242 79.8,241 82,240 84.2,239 86.4,238 88.6,237 90.8,236 93,235 95.2,234 97.4,233 99.6,232 101.8,231 104,230 106.2,229 108.4,228 110.6,227 112.8,226 115,225 117.2,224 119.4,223 121.6,222 123.8,221 126,220 128.2,219 130.4,218 132.6,217 134.8,216 137,215 139.2,214 141.4,213 143.6,212 145.8,211 148,210 150.2,209 152.4,208 154.6,207 156.8,206 159,205 161.2,204 163.4,203 165.6,202 167.8,201 170,200 172.2,199 174.4,198 176.6,197 178.8,196 181,195 183.2,194 185.4,193 187.6,192 189.8,191 192,190 194.2,189 196.4,188 198.6,187 200.8,186 203,185 205.2,184 207.4,183 209.6,182 211.8,181 214,180 216.2,179 218.4,178 220.6,177 222.8,176 225,175 227.2,174 229.4,173 231.6,172 233.8,171 236,170 238.2,169 240.4,168 242.6,167 244.8,166 247,165 249.2,164 251.4,163 253.6,162 255.8,161 258,160 260.2,159 262.4,158 264.6,157 266.8,156 269,155 271.2,154 273.4,153 275.6,152 277.8,151 280,150 282.2,149 284.4,148 286.6,147 288.8,146 291,145 293.2,144 295.4,143 297.6,142 299.8,141 302,140 304.2,139 306.4,138 308.6,137 310.8,136 313,135 315.2,134 317.4,133 319.6,132 321.8,131 324,130 326.2,129 328.4,128 330.6,127 332.8,126 335,125 337.2,124 339.4,123 341.6,122 343.8,121 346,120 348.2,119 350.4,118 352.6,117 354.8,116 357,115 359.2,114 361.4,113 363.6,112 365.8,111 368,110 370.2,109 372.4,108 374.6,107 376.8,106 379,105 381.2,104 383.4,103 385.6,102 387.8,101 390,100 392.2,99 394.4,98 396.6,97 398.8,96 401,95 403.2,94 405.4,93 407.6,92 409.8,91 412,90 414.2,89 416.4,88 418.6,87 420.8,86 423,85 425.2,84 427.4,83 429.6,82 431.8,81 434,80 436.2,79 438.4,78 440.6,77 442.8,76 445,75 447.2,74 449.4,73 451.6,72 453.8,71 456,70 458.2,69 460.4,68 462.6,67 464.8,66 467,65 469.2,64 471.4,63 473.6,62 475.8,61 478,60 480.2,59 482.4,58 484.6,57 486.8,56 489,55 491.2,54 493.4,53 495.6,52 497.8,51 500,50" fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="170" cy="200" r="3.5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<line x1="170" y1="350" x2="170" y2="200" stroke="#dee2e6" stroke-width="1"/>
+<circle cx="236" cy="170" r="3.5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<line x1="236" y1="350" x2="236" y2="170" stroke="#dee2e6" stroke-width="1"/>
+<circle cx="258" cy="160" r="3.5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<line x1="258" y1="350" x2="258" y2="160" stroke="#dee2e6" stroke-width="1"/>
+<circle cx="269" cy="155" r="3.5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<line x1="269" y1="350" x2="269" y2="155" stroke="#dee2e6" stroke-width="1"/>
+<circle cx="390" cy="100" r="3.5" fill="#868e96" stroke="#868e96" stroke-width="1.5"/>
+<line x1="390" y1="350" x2="390" y2="100" stroke="#dee2e6" stroke-width="1"/>
+<circle cx="324" cy="130" r="3.5" fill="#868e96" stroke="#868e96" stroke-width="1.5"/>
+<line x1="324" y1="350" x2="324" y2="130" stroke="#dee2e6" stroke-width="1"/>
+<circle cx="302" cy="140" r="3.5" fill="#868e96" stroke="#868e96" stroke-width="1.5"/>
+<line x1="302" y1="350" x2="302" y2="140" stroke="#dee2e6" stroke-width="1"/>
+<circle cx="291" cy="145" r="3.5" fill="#868e96" stroke="#868e96" stroke-width="1.5"/>
+<line x1="291" y1="350" x2="291" y2="145" stroke="#dee2e6" stroke-width="1"/>
+<circle cx="280" cy="150" r="6" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<line x1="60" y1="150" x2="280" y2="150" stroke="#222222" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="181" y1="338" x2="264.6" y2="338" stroke="#d9480f" stroke-width="2" marker-end="url(#arra)"/>
+<line x1="379" y1="338" x2="295.4" y2="338" stroke="#868e96" stroke-width="2" marker-end="url(#arr)"/>
+<text x="126" y="60" text-anchor="start" font-size="14" fill="#222222" font-weight="bold">f(x) = (x² − 1)/(x − 1)</text>
+<text x="270" y="136" text-anchor="end" font-size="14" fill="#222222">hole at (1, 2)</text>
+<text x="222.8" y="330" text-anchor="middle" font-size="12" fill="#d9480f">from the left</text>
+<text x="337.2" y="330" text-anchor="middle" font-size="12" fill="#868e96">from the right</text>
+<text x="280" y="410" text-anchor="middle" font-size="12" fill="#868e96">Both sides head for height 2. The limit is 2, even though f(1) is undefined.</text>
+</svg>

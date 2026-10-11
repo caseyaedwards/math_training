@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 280" width="660" height="280" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Full mesh links grow faster than nodes</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="660" height="280" fill="#ffffff"/>
+<line x1="110" y1="50" x2="180" y2="120" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="110" y1="50" x2="110" y2="190" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="110" y1="50" x2="40" y2="120" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="180" y1="120" x2="110" y2="190" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="180" y1="120" x2="40" y2="120" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="110" y1="190" x2="40" y2="120" stroke="#d9480f" stroke-width="1.2"/>
+<circle cx="110" cy="50" r="7" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="180" cy="120" r="7" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="110" cy="190" r="7" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="40" cy="120" r="7" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="110" y="226" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">n = 4: 6 links</text>
+<line x1="330" y1="50" x2="396.57" y2="98.37" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="330" y1="50" x2="371.14" y2="176.63" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="330" y1="50" x2="288.86" y2="176.63" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="330" y1="50" x2="263.43" y2="98.37" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="396.57" y1="98.37" x2="371.14" y2="176.63" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="396.57" y1="98.37" x2="288.86" y2="176.63" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="396.57" y1="98.37" x2="263.43" y2="98.37" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="371.14" y1="176.63" x2="288.86" y2="176.63" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="371.14" y1="176.63" x2="263.43" y2="98.37" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="288.86" y1="176.63" x2="263.43" y2="98.37" stroke="#d9480f" stroke-width="1.2"/>
+<circle cx="330" cy="50" r="7" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="396.57" cy="98.37" r="7" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="371.14" cy="176.63" r="7" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="288.86" cy="176.63" r="7" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="263.43" cy="98.37" r="7" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="330" y="226" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">n = 5: 10 links</text>
+<line x1="550" y1="50" x2="610.62" y2="85" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="550" y1="50" x2="610.62" y2="155" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="550" y1="50" x2="550" y2="190" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="550" y1="50" x2="489.38" y2="155" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="550" y1="50" x2="489.38" y2="85" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="610.62" y1="85" x2="610.62" y2="155" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="610.62" y1="85" x2="550" y2="190" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="610.62" y1="85" x2="489.38" y2="155" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="610.62" y1="85" x2="489.38" y2="85" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="610.62" y1="155" x2="550" y2="190" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="610.62" y1="155" x2="489.38" y2="155" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="610.62" y1="155" x2="489.38" y2="85" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="550" y1="190" x2="489.38" y2="155" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="550" y1="190" x2="489.38" y2="85" stroke="#d9480f" stroke-width="1.2"/>
+<line x1="489.38" y1="155" x2="489.38" y2="85" stroke="#d9480f" stroke-width="1.2"/>
+<circle cx="550" cy="50" r="7" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="610.62" cy="85" r="7" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="610.62" cy="155" r="7" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="550" cy="190" r="7" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="489.38" cy="155" r="7" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="489.38" cy="85" r="7" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="550" y="226" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">n = 6: 15 links</text>
+<text x="330" y="265" text-anchor="middle" font-size="12" fill="#868e96">Links L = n(n − 1)/2, so dL/dt = ((2n − 1)/2) · dn/dt.</text>
+</svg>

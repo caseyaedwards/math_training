@@ -164,7 +164,7 @@ class Walkthrough:
             y += theme.CAPTION_SIZE * 1.4
         if st.math:
             y += 6
-            mw = text_width(st.math, theme.MATH_SIZE, "serif") + 24
+            mw = text_width(st.math, theme.MATH_SIZE, "serif") * 1.1 + 28
             c.rect(PAD - 2, y - 4, mw, theme.MATH_SIZE + 12, color=theme.GRID, fill=theme.PAPER, rx=5, width=1)
             c.math(PAD + 10, y + theme.MATH_SIZE / 2 + 2, st.math, anchor="start", size=theme.MATH_SIZE)
         return c

@@ -146,8 +146,11 @@ class Walkthrough:
                      fill=theme.BLUE if i <= k else theme.PAPER, width=1.4)
 
         # drawing
+        clip = c.clip_rect(0, 0, self.width, self.height)
         with c.translate(0, HEADER_H, class_="drawing"):
-            self._draw_steps(c, k)
+            # keep stray marks out of the header and caption
+            with c.group(clip_path=clip):
+                self._draw_steps(c, k)
 
         # caption
         top = HEADER_H + self.height

@@ -33,6 +33,10 @@ jobs:
         working-directory: site
         run: npm ci
 
+      - name: Build the diagram showcase
+        working-directory: svg-generator
+        run: python3 -m svgmath showcase --out ../site/public/diagrams
+
       - name: Build the site
         working-directory: site
         env:

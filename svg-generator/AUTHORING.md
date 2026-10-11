@@ -90,10 +90,27 @@ Math markup for any text drawn with `math=True` and for `concept` and step `math
 | `x^2`, `x^{n+1}` | superscript |
 | `a_1`, `a_{n-1}` | subscript |
 | `\pi`, `\theta`, `\Delta`, `\int`, `\sum`, `\infty` | Greek letters and symbols, see `SYMBOLS` in `svgmath/svg.py` |
-| `\cdot`, `\times`, `\leq`, `\neq`, `\approx`, `\to` | operators |
+| `\cdot`, `\cdots`, `\times`, `\leq`, `\neq`, `\approx`, `\to` | operators |
+| `\bar{x}`, `\hat{y}` | a letter with a bar or hat |
 | `sqrt(2)` | √(2) |
 
 Single latin letters render in italics, and a hyphen before a number becomes a minus sign.
+
+Known limits of the markup:
+
+- A superscript inside a subscript, such as `S_{2^m}`, does not render. Rephrase the label.
+- Every single latin letter is italic, including the word "a". Keep prose out of math lines.
+- `brace` bulges to the left of the direction of travel. Draw a brace under a segment from right to left.
+
+Shared helpers already written by diagram modules, worth reusing before writing your own:
+
+| Module | Helpers |
+| --- | --- |
+| `diagrams/_kit.py` | `rich` for one line with a color per term, `frac` for a stacked fraction, `fade`, `tag` |
+| `diagrams/_algebra_helpers.py` | `colored_math`, `tile` for algebra tiles, `thick_ray` for inequality rays |
+| `diagrams/_function_kit.py` | `ctable`, `machine`, `axis_bar`, `num` for numbers with a true minus sign |
+| `diagrams/_calculus_tools.py` | `tangent` of fixed pixel length, `table_rows` |
+| `diagrams/_trigkit.py` | `fraction`, `maybe_faded` |
 
 ## Writing Rules
 

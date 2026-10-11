@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 330" width="840" height="330" font-family="sans-serif" font-size="14">
+<title>Left, right and trapezoid sums of the rate with 60-second slices</title>
+<rect x="0" y="0" width="840" height="330" fill="#ffffff"/>
+<line x1="60" y1="260.0" x2="280" y2="260.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="60" y1="60" x2="60" y2="260.0" stroke="#222222" stroke-width="1.5"/>
+<rect x="60.0" y="176.7" width="44.0" height="83.3" fill="#fde4d6" stroke="#d9480f"/>
+<rect x="104.0" y="156.7" width="44.0" height="103.3" fill="#fde4d6" stroke="#d9480f"/>
+<rect x="148.0" y="136.7" width="44.0" height="123.3" fill="#fde4d6" stroke="#d9480f"/>
+<rect x="192.0" y="116.7" width="44.0" height="143.3" fill="#fde4d6" stroke="#d9480f"/>
+<rect x="236.0" y="96.7" width="44.0" height="163.3" fill="#fde4d6" stroke="#d9480f"/>
+<polyline points="60.0,176.7 280.0,76.7" fill="none" stroke="#222222" stroke-width="2.2"/>
+<text x="60.0" y="276.0" font-size="11" fill="#222222" text-anchor="middle">0</text>
+<text x="170.0" y="276.0" font-size="11" fill="#222222" text-anchor="middle">150</text>
+<text x="280.0" y="276.0" font-size="11" fill="#222222" text-anchor="middle">300</text>
+<text x="170.0" y="45.0" font-size="14" fill="#222222" text-anchor="middle" font-weight="bold">left</text>
+<text x="170.0" y="300.0" font-size="14" fill="#d9480f" text-anchor="middle">sum = 22,200</text>
+<line x1="330" y1="260.0" x2="550" y2="260.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="330" y1="60" x2="330" y2="260.0" stroke="#222222" stroke-width="1.5"/>
+<rect x="330.0" y="156.7" width="44.0" height="103.3" fill="#fde4d6" stroke="#d9480f"/>
+<rect x="374.0" y="136.7" width="44.0" height="123.3" fill="#fde4d6" stroke="#d9480f"/>
+<rect x="418.0" y="116.7" width="44.0" height="143.3" fill="#fde4d6" stroke="#d9480f"/>
+<rect x="462.0" y="96.7" width="44.0" height="163.3" fill="#fde4d6" stroke="#d9480f"/>
+<rect x="506.0" y="76.7" width="44.0" height="183.3" fill="#fde4d6" stroke="#d9480f"/>
+<polyline points="330.0,176.7 550.0,76.7" fill="none" stroke="#222222" stroke-width="2.2"/>
+<text x="330.0" y="276.0" font-size="11" fill="#222222" text-anchor="middle">0</text>
+<text x="440.0" y="276.0" font-size="11" fill="#222222" text-anchor="middle">150</text>
+<text x="550.0" y="276.0" font-size="11" fill="#222222" text-anchor="middle">300</text>
+<text x="440.0" y="45.0" font-size="14" fill="#222222" text-anchor="middle" font-weight="bold">right</text>
+<text x="440.0" y="300.0" font-size="14" fill="#d9480f" text-anchor="middle">sum = 25,800</text>
+<line x1="600" y1="260.0" x2="820" y2="260.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="600" y1="60" x2="600" y2="260.0" stroke="#222222" stroke-width="1.5"/>
+<polygon points="600.0,260.0 600.0,176.7 644.0,156.7 644.0,260.0" fill="#fde4d6" stroke="#d9480f"/>
+<polygon points="644.0,260.0 644.0,156.7 688.0,136.7 688.0,260.0" fill="#fde4d6" stroke="#d9480f"/>
+<polygon points="688.0,260.0 688.0,136.7 732.0,116.7 732.0,260.0" fill="#fde4d6" stroke="#d9480f"/>
+<polygon points="732.0,260.0 732.0,116.7 776.0,96.7 776.0,260.0" fill="#fde4d6" stroke="#d9480f"/>
+<polygon points="776.0,260.0 776.0,96.7 820.0,76.7 820.0,260.0" fill="#fde4d6" stroke="#d9480f"/>
+<polyline points="600.0,176.7 820.0,76.7" fill="none" stroke="#222222" stroke-width="2.2"/>
+<text x="600.0" y="276.0" font-size="11" fill="#222222" text-anchor="middle">0</text>
+<text x="710.0" y="276.0" font-size="11" fill="#222222" text-anchor="middle">150</text>
+<text x="820.0" y="276.0" font-size="11" fill="#222222" text-anchor="middle">300</text>
+<text x="710.0" y="45.0" font-size="14" fill="#222222" text-anchor="middle" font-weight="bold">trapezoid</text>
+<text x="710.0" y="300.0" font-size="14" fill="#d9480f" text-anchor="middle">sum = 24,000</text>
+<text x="420.0" y="22.0" font-size="13" fill="#222222" text-anchor="middle">Same line r(t) = 50 + 0.2t, five slices of 60 s. Exact area: 24,000.</text>
+<text x="420.0" y="320.0" font-size="12" fill="#555555" text-anchor="middle">Left misses the triangles, right overshoots, the trapezoid fits a straight line exactly.</text>
+</svg>

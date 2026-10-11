@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 440" width="700" height="440">
+  <title>Equirectangular and Mercator grids with equal-size circles at several latitudes</title>
+  <rect width="700" height="440" fill="#ffffff"/>
+  <line x1="50.0" y1="106.7" x2="50.0" y2="329.3" stroke="#ced4da" stroke-width="1"/>
+  <line x1="94.5" y1="106.7" x2="94.5" y2="329.3" stroke="#ced4da" stroke-width="1"/>
+  <line x1="139.0" y1="106.7" x2="139.0" y2="329.3" stroke="#ced4da" stroke-width="1"/>
+  <line x1="183.5" y1="106.7" x2="183.5" y2="329.3" stroke="#ced4da" stroke-width="1"/>
+  <line x1="228.0" y1="106.7" x2="228.0" y2="329.3" stroke="#ced4da" stroke-width="1"/>
+  <line x1="272.5" y1="106.7" x2="272.5" y2="329.3" stroke="#ced4da" stroke-width="1"/>
+  <line x1="317.0" y1="106.7" x2="317.0" y2="329.3" stroke="#ced4da" stroke-width="1"/>
+  <line x1="50.0" y1="329.3" x2="317.0" y2="329.3" stroke="#ced4da" stroke-width="1"/>
+  <text x="46.0" y="333.3" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">-75°</text>
+  <line x1="50.0" y1="307.0" x2="317.0" y2="307.0" stroke="#ced4da" stroke-width="1"/>
+  <text x="46.0" y="311.0" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">-60°</text>
+  <line x1="50.0" y1="284.8" x2="317.0" y2="284.8" stroke="#ced4da" stroke-width="1"/>
+  <text x="46.0" y="288.8" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">-45°</text>
+  <line x1="50.0" y1="262.5" x2="317.0" y2="262.5" stroke="#ced4da" stroke-width="1"/>
+  <text x="46.0" y="266.5" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">-30°</text>
+  <line x1="50.0" y1="240.3" x2="317.0" y2="240.3" stroke="#ced4da" stroke-width="1"/>
+  <text x="46.0" y="244.3" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">-15°</text>
+  <line x1="50.0" y1="218.0" x2="317.0" y2="218.0" stroke="#868e96" stroke-width="1.5"/>
+  <text x="46.0" y="222.0" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">0°</text>
+  <line x1="50.0" y1="195.7" x2="317.0" y2="195.7" stroke="#ced4da" stroke-width="1"/>
+  <text x="46.0" y="199.7" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">15°</text>
+  <line x1="50.0" y1="173.5" x2="317.0" y2="173.5" stroke="#ced4da" stroke-width="1"/>
+  <text x="46.0" y="177.5" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">30°</text>
+  <line x1="50.0" y1="151.2" x2="317.0" y2="151.2" stroke="#ced4da" stroke-width="1"/>
+  <text x="46.0" y="155.2" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">45°</text>
+  <line x1="50.0" y1="129.0" x2="317.0" y2="129.0" stroke="#ced4da" stroke-width="1"/>
+  <text x="46.0" y="133.0" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">60°</text>
+  <line x1="50.0" y1="106.7" x2="317.0" y2="106.7" stroke="#ced4da" stroke-width="1"/>
+  <text x="46.0" y="110.7" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">75°</text>
+  <ellipse cx="94.5" cy="218.0" rx="10.2" ry="10.2" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="183.5" cy="218.0" rx="10.2" ry="10.2" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="272.5" cy="218.0" rx="10.2" ry="10.2" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="94.5" cy="173.5" rx="11.8" ry="10.2" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="183.5" cy="173.5" rx="11.8" ry="10.2" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="272.5" cy="173.5" rx="11.8" ry="10.2" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="94.5" cy="129.0" rx="20.4" ry="10.2" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="183.5" cy="129.0" rx="20.4" ry="10.2" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="272.5" cy="129.0" rx="20.4" ry="10.2" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="94.5" cy="262.5" rx="11.8" ry="10.2" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="183.5" cy="262.5" rx="11.8" ry="10.2" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="272.5" cy="262.5" rx="11.8" ry="10.2" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="94.5" cy="307.0" rx="20.4" ry="10.2" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="183.5" cy="307.0" rx="20.4" ry="10.2" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="272.5" cy="307.0" rx="20.4" ry="10.2" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <text x="183.5" y="24.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#212529" stroke="#ffffff" stroke-width="3" paint-order="stroke">Equirectangular: y = R φ</text>
+  <rect x="50" y="106.7" width="267.0" height="222.5" fill="none" stroke="#212529" stroke-width="1.5"/>
+  <line x1="380.0" y1="45.7" x2="380.0" y2="390.3" stroke="#ced4da" stroke-width="1"/>
+  <line x1="424.5" y1="45.7" x2="424.5" y2="390.3" stroke="#ced4da" stroke-width="1"/>
+  <line x1="469.0" y1="45.7" x2="469.0" y2="390.3" stroke="#ced4da" stroke-width="1"/>
+  <line x1="513.5" y1="45.7" x2="513.5" y2="390.3" stroke="#ced4da" stroke-width="1"/>
+  <line x1="558.0" y1="45.7" x2="558.0" y2="390.3" stroke="#ced4da" stroke-width="1"/>
+  <line x1="602.5" y1="45.7" x2="602.5" y2="390.3" stroke="#ced4da" stroke-width="1"/>
+  <line x1="647.0" y1="45.7" x2="647.0" y2="390.3" stroke="#ced4da" stroke-width="1"/>
+  <line x1="380.0" y1="390.3" x2="647.0" y2="390.3" stroke="#ced4da" stroke-width="1"/>
+  <text x="376.0" y="394.3" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">-75°</text>
+  <line x1="380.0" y1="329.9" x2="647.0" y2="329.9" stroke="#ced4da" stroke-width="1"/>
+  <text x="376.0" y="333.9" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">-60°</text>
+  <line x1="380.0" y1="292.9" x2="647.0" y2="292.9" stroke="#ced4da" stroke-width="1"/>
+  <text x="376.0" y="296.9" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">-45°</text>
+  <line x1="380.0" y1="264.7" x2="647.0" y2="264.7" stroke="#ced4da" stroke-width="1"/>
+  <text x="376.0" y="268.7" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">-30°</text>
+  <line x1="380.0" y1="240.5" x2="647.0" y2="240.5" stroke="#ced4da" stroke-width="1"/>
+  <text x="376.0" y="244.5" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">-15°</text>
+  <line x1="380.0" y1="218.0" x2="647.0" y2="218.0" stroke="#868e96" stroke-width="1.5"/>
+  <text x="376.0" y="222.0" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">0°</text>
+  <line x1="380.0" y1="195.5" x2="647.0" y2="195.5" stroke="#ced4da" stroke-width="1"/>
+  <text x="376.0" y="199.5" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">15°</text>
+  <line x1="380.0" y1="171.3" x2="647.0" y2="171.3" stroke="#ced4da" stroke-width="1"/>
+  <text x="376.0" y="175.3" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">30°</text>
+  <line x1="380.0" y1="143.1" x2="647.0" y2="143.1" stroke="#ced4da" stroke-width="1"/>
+  <text x="376.0" y="147.1" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">45°</text>
+  <line x1="380.0" y1="106.1" x2="647.0" y2="106.1" stroke="#ced4da" stroke-width="1"/>
+  <text x="376.0" y="110.1" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">60°</text>
+  <line x1="380.0" y1="45.7" x2="647.0" y2="45.7" stroke="#ced4da" stroke-width="1"/>
+  <text x="376.0" y="49.7" font-family="sans-serif" font-size="12" text-anchor="end" fill="#868e96">75°</text>
+  <ellipse cx="424.5" cy="218.0" rx="10.2" ry="10.2" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="513.5" cy="218.0" rx="10.2" ry="10.2" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="602.5" cy="218.0" rx="10.2" ry="10.2" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="424.5" cy="171.3" rx="11.8" ry="11.8" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="513.5" cy="171.3" rx="11.8" ry="11.8" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="602.5" cy="171.3" rx="11.8" ry="11.8" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="424.5" cy="106.1" rx="20.4" ry="20.4" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="513.5" cy="106.1" rx="20.4" ry="20.4" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="602.5" cy="106.1" rx="20.4" ry="20.4" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="424.5" cy="264.7" rx="11.8" ry="11.8" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="513.5" cy="264.7" rx="11.8" ry="11.8" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="602.5" cy="264.7" rx="11.8" ry="11.8" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="424.5" cy="329.9" rx="20.4" ry="20.4" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="513.5" cy="329.9" rx="20.4" ry="20.4" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <ellipse cx="602.5" cy="329.9" rx="20.4" ry="20.4" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="1.5"/>
+  <text x="513.5" y="24.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#212529" stroke="#ffffff" stroke-width="3" paint-order="stroke">Mercator: y = R ln tan(45° + φ/2)</text>
+  <rect x="380" y="45.7" width="267.0" height="344.7" fill="none" stroke="#212529" stroke-width="1.5"/>
+  <text x="350.0" y="428.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#212529" stroke="#ffffff" stroke-width="3" paint-order="stroke">Every orange shape covers the same ground. Lines every 15° of latitude, 30° of longitude.</text>
+</svg>

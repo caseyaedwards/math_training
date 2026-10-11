@@ -1,0 +1,15 @@
+What do latitude \(\varphi\) and longitude \(\lambda\) measure?	Latitude: angle north (+) or south (-) of the equator. Longitude: angle east (+) or west (-) of the Greenwich meridian.	math::workshops::maps-and-projections
+Convert latitude \(\varphi\) and longitude \(\lambda\) to x, y, z on the unit sphere.	\(x = \cos\varphi\cos\lambda,\ y = \cos\varphi\sin\lambda,\ z = \sin\varphi\)	math::workshops::maps-and-projections
+How do you get the central angle between two points from their unit vectors?	\(\cos\theta = \mathbf{a}\cdot\mathbf{b}\). Surface distance is \(d = R\theta\).	math::workshops::maps-and-projections
+Spherical law of cosines for distance	\(\cos\theta = \sin\varphi_1\sin\varphi_2 + \cos\varphi_1\cos\varphi_2\cos\Delta\lambda\), \(d = R\theta\)	math::workshops::maps-and-projections
+Haversine formula	\(a = \sin^2(\Delta\varphi/2) + \cos\varphi_1\cos\varphi_2\sin^2(\Delta\lambda/2)\), \(d = 2R\arcsin\sqrt{a}\)	math::workshops::maps-and-projections
+Why prefer haversine over the law of cosines for short distances?	For nearby points \(\cos\theta\) is almost 1 and acos loses digits. Haversine stays accurate.	math::workshops::maps-and-projections
+Great-circle distance JFK to LHR with R = 6,371 km	About 5,540 km	math::workshops::maps-and-projections
+Initial bearing formula	\(\theta_0 = \operatorname{atan2}(\sin\Delta\lambda\cos\varphi_2,\ \cos\varphi_1\sin\varphi_2 - \sin\varphi_1\cos\varphi_2\cos\Delta\lambda)\)	math::workshops::maps-and-projections
+Why does the shortest New York to London route curve north on a flat map?	A degree of longitude is shorter near the poles. The great circle does its east-west travel at high latitude. Mercator does not draw great circles straight.	math::workshops::maps-and-projections
+Speed-of-light round-trip floor in fiber for distance d km	About \(2d / 200\) ms, that is, \(d/100\) ms	math::workshops::maps-and-projections
+Mercator projection formulas	\(x = R\lambda,\ y = R\ln\tan(\pi/4 + \varphi/2)\)	math::workshops::maps-and-projections
+Mercator length scale and area scale at latitude \(\varphi\)	Length \(\sec\varphi\), area \(\sec^2\varphi\)	math::workshops::maps-and-projections
+Why does Greenland look as big as Africa on Mercator?	At about 72 degrees N the area factor is \(\sec^2 72^\circ \approx 10.5\). Africa is 14 times bigger but sits near the equator, where the factor is about 1.	math::workshops::maps-and-projections
+Equirectangular projection formulas and its flaw	\(x = R\lambda,\ y = R\varphi\). Even latitude spacing, but east-west is stretched by \(\sec\varphi\) and north-south is not. Shapes squash.	math::workshops::maps-and-projections
+What does a Tissot circle show?	A small circle of fixed ground size drawn on a map. Its distortion shows how the projection stretches area and shape at that spot.	math::workshops::maps-and-projections

@@ -1,0 +1,73 @@
+---
+import 'katex/dist/katex.min.css';
+import '../styles/site.css';
+import { NAV, GITHUB_BLOB } from '../lib/config.mjs';
+import { navItems, withBase } from '../lib/content.mjs';
+
+const { title, entry, headings = [] } = Astro.props;
+const nav = navItems(NAV);
+const top = entry.route.split('/')[1] || '';
+const siteName = 'Math Training';
+const pageTitle = entry.route === '/' ? siteName : `${title} | ${siteName}`;
+const sourceUrl = entry.repoPath ? GITHUB_BLOB + encodeURI(entry.repoPath) : null;
+const isLong = headings.length >= 4;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <title>{pageTitle}</title>
+    <link rel="icon" type="image/svg+xml" href={withBase('/favicon.svg')} />
+    {entry.route !== '/404/' && <link rel="canonical" href={new URL(withBase(entry.route), Astro.site)} />}
+  </head>
+  <body>
+    <a class="skip" href="#content">Skip to content</a>
+    <header class="masthead">
+      <div class="wrap">
+        <a class="sitename" href={withBase('/')}>{siteName}</a>
+        <nav aria-label="Main">
+          <ul>
+            {nav.map((n) => (
+              <li><a href={n.href} aria-current={(n.dir === top && (n.dir !== '' || entry.route === '/')) ? 'page' : undefined}>{n.label}</a></li>
+            ))}
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main id="content" class="wrap">
+      {entry.crumbs.length > 0 && (
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <ol>
+            {entry.crumbs.map((c) => <li><a href={c.href}>{c.title}</a></li>)}
+            <li aria-current="page">{title}</li>
+          </ol>
+        </nav>
+      )}
+      {isLong && (
+        <details class="toc">
+          <summary>On this page</summary>
+          <ol>
+            {headings.filter((h) => h.id).map((h) => <li><a href={`#${h.id}`}>{h.text}</a></li>)}
+          </ol>
+        </details>
+      )}
+      <article class="prose">
+        <slot />
+      </article>
+      {(entry.prev || entry.next) && (
+        <nav class="pager" aria-label="Previous and next">
+          {entry.prev ? <a class="prev" rel="prev" href={entry.prev.href}><span>Previous</span>{entry.prev.title}</a> : <span />}
+          {entry.next ? <a class="next" rel="next" href={entry.next.href}><span>Next</span>{entry.next.title}</a> : <span />}
+        </nav>
+      )}
+    </main>
+    <footer class="wrap footer">
+      <p>
+        Free, self-paced math from arithmetic to proof.
+        {sourceUrl && <> <a href={sourceUrl}>View the source of this page on GitHub</a>.</>}
+      </p>
+    </footer>
+  </body>
+</html>

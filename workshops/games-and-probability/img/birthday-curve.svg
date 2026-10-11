@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" width="720" height="380" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Birthday problem probability curve crossing one half at 23 people</title>
+<rect x="0" y="0" width="720" height="380" fill="#ffffff"/>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker></defs>
+<text x="360.0" y="28.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Birthday problem: P(at least one shared birthday) in a group of n</text>
+<line x1="70" y1="310" x2="690" y2="310" stroke="#222222" stroke-width="1.5"/>
+<line x1="70" y1="310" x2="70" y2="50" stroke="#222222" stroke-width="1.5"/>
+<line x1="70.0" y1="310" x2="70.0" y2="316" stroke="#222222"/>
+<text x="70.0" y="334.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="normal">0</text>
+<line x1="147.5" y1="310" x2="147.5" y2="316" stroke="#222222"/>
+<text x="147.5" y="334.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="normal">10</text>
+<line x1="225.0" y1="310" x2="225.0" y2="316" stroke="#222222"/>
+<text x="225.0" y="334.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="normal">20</text>
+<line x1="302.5" y1="310" x2="302.5" y2="316" stroke="#222222"/>
+<text x="302.5" y="334.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="normal">30</text>
+<line x1="380.0" y1="310" x2="380.0" y2="316" stroke="#222222"/>
+<text x="380.0" y="334.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="normal">40</text>
+<line x1="457.5" y1="310" x2="457.5" y2="316" stroke="#222222"/>
+<text x="457.5" y="334.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="normal">50</text>
+<line x1="535.0" y1="310" x2="535.0" y2="316" stroke="#222222"/>
+<text x="535.0" y="334.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="normal">60</text>
+<line x1="612.5" y1="310" x2="612.5" y2="316" stroke="#222222"/>
+<text x="612.5" y="334.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="normal">70</text>
+<line x1="690.0" y1="310" x2="690.0" y2="316" stroke="#222222"/>
+<text x="690.0" y="334.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="normal">80</text>
+<text x="380.0" y="360.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="normal">people in the room, n</text>
+<line x1="64" y1="310.0" x2="70" y2="310.0" stroke="#222222"/>
+<text x="58.0" y="315.0" text-anchor="end" fill="#222222" font-size="14" font-weight="normal">0.0</text>
+<line x1="64" y1="258.0" x2="70" y2="258.0" stroke="#222222"/>
+<text x="58.0" y="263.0" text-anchor="end" fill="#222222" font-size="14" font-weight="normal">0.2</text>
+<line x1="64" y1="206.0" x2="70" y2="206.0" stroke="#222222"/>
+<text x="58.0" y="211.0" text-anchor="end" fill="#222222" font-size="14" font-weight="normal">0.4</text>
+<line x1="64" y1="154.0" x2="70" y2="154.0" stroke="#222222"/>
+<text x="58.0" y="159.0" text-anchor="end" fill="#222222" font-size="14" font-weight="normal">0.6</text>
+<line x1="64" y1="102.0" x2="70" y2="102.0" stroke="#222222"/>
+<text x="58.0" y="107.0" text-anchor="end" fill="#222222" font-size="14" font-weight="normal">0.8</text>
+<line x1="64" y1="50.0" x2="70" y2="50.0" stroke="#222222"/>
+<text x="58.0" y="55.0" text-anchor="end" fill="#222222" font-size="14" font-weight="normal">1.0</text>
+<line x1="70" y1="180.0" x2="690" y2="180.0" stroke="#888888" stroke-dasharray="6 4"/>
+<path d="M70.0,310.0 L77.8,310.0 L85.5,309.3 L93.2,307.9 L101.0,305.7 L108.8,302.9 L116.5,299.5 L124.2,295.4 L132.0,290.7 L139.8,285.4 L147.5,279.6 L155.2,273.3 L163.0,266.6 L170.8,259.5 L178.5,252.0 L186.2,244.2 L194.0,236.3 L201.8,228.1 L209.5,219.8 L217.2,211.4 L225.0,203.0 L232.8,194.6 L240.5,186.3 L248.2,178.1 L256.0,170.0 L263.8,162.1 L271.5,154.5 L279.2,147.0 L287.0,139.8 L294.8,132.9 L302.5,126.4 L310.2,120.1 L318.0,114.1 L325.8,108.5 L333.5,103.2 L341.2,98.3 L349.0,93.6 L356.8,89.3 L364.5,85.3 L372.2,81.7 L380.0,78.3 L387.8,75.2 L395.5,72.4 L403.2,69.8 L411.0,67.4 L418.8,65.3 L426.5,63.5 L434.2,61.8 L442.0,60.2 L449.8,58.9 L457.5,57.7 L465.2,56.6 L473.0,55.7 L480.8,54.9 L488.5,54.2 L496.2,53.6 L504.0,53.0 L511.8,52.6 L519.5,52.2 L527.2,51.8 L535.0,51.5 L542.8,51.3 L550.5,51.1 L558.2,50.9 L566.0,50.7 L573.8,50.6 L581.5,50.5 L589.2,50.4 L597.0,50.3 L604.8,50.3 L612.5,50.2 L620.2,50.2 L628.0,50.1 L635.8,50.1 L643.5,50.1 L651.2,50.1 L659.0,50.1 L666.8,50.0 L674.5,50.0 L682.2,50.0 L690.0,50.0" fill="none" stroke="#222222" stroke-width="2"/>
+<line x1="248.2" y1="310" x2="248.2" y2="178.1" stroke="#d9480f" stroke-width="1.5" stroke-dasharray="4 3"/>
+<circle cx="248.2" cy="178.1" r="5" fill="#d9480f"/>
+<text x="258.2" y="200.1" text-anchor="start" fill="#d9480f" font-size="14" font-weight="bold">n = 23: 0.5073</text>
+<circle cx="511.8" cy="52.6" r="4" fill="#222222"/>
+<text x="515.8" y="76.6" text-anchor="start" fill="#222222" font-size="14" font-weight="normal">n = 57: 0.9901</text>
+<text x="690.0" y="200.0" text-anchor="end" fill="#888888" font-size="14" font-weight="normal">50% line</text>
+</svg>

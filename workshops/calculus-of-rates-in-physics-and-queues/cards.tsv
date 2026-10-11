@@ -1,0 +1,14 @@
+What does rate(counter[1m]) compute?	The slope of the secant over the last 60 s: increase in the window divided by 60. An average rate, not an instant one.	math::workshop::calculus-of-rates
+Difference quotient?	\(\frac{c(t+h) - c(t)}{h}\): rise over run across a window of width h.	math::workshop::calculus-of-rates
+Derivative as a limit?	\(c'(t) = \lim_{h \to 0} \frac{c(t+h) - c(t)}{h}\): the slope the secants settle on as the window shrinks.	math::workshop::calculus-of-rates
+For \(c(t) = 50t + 0.1t^2\), what is \(c'(60)\)?	\(50 + 0.2 \times 60 = 62\) requests per second.	math::workshop::calculus-of-rates
+How does Prometheus handle a counter reset (simplified)?	If a sample is lower than the one before, assume a restart from 0 and use the new sample as the delta.	math::workshop::calculus-of-rates
+Why does a 1-minute rate() match the true rate at the window midpoint for a linear rate?	Mean Value Theorem: some instant inside the window has rate equal to the average. For a straight-line rate it is the midpoint.	math::workshop::calculus-of-rates
+Fundamental Theorem of Calculus in SRE words?	Add up the rate over an interval and you get the change in the counter: \(\int_a^b c'(t)\,dt = c(b) - c(a)\).	math::workshop::calculus-of-rates
+Trapezoid rule for one slice?	\(\frac{r(t_k) + r(t_{k+1})}{2}\,\Delta t\). Exact when the rate is a straight line.	math::workshop::calculus-of-rates
+Falling from 100 m with \(a = -9.8\): height formula and impact time?	\(h(t) = 100 - 4.9t^2\). Impact at \(t = \sqrt{100/4.9} \approx 4.52\) s, speed about 44.27 m/s.	math::workshop::calculus-of-rates
+Euler step for height and velocity?	\(h \leftarrow h + v\,\Delta t\), then \(v \leftarrow v + a\,\Delta t\).	math::workshop::calculus-of-rates
+How does Euler error scale with step size?	Proportional to \(\Delta t\) (first order). Here error at t = 4 is \(19.6\,\Delta t\): halve the step, halve the error.	math::workshop::calculus-of-rates
+Little's law?	\(L = \lambda W\): average number inside = arrival rate × average time inside. Holds for any stable system.	math::workshop::calculus-of-rates
+M/M/1 average time in system?	\(W = \frac{1}{\mu - \lambda}\). With \(\mu = 100\)/s: 20 ms at 50%, 100 ms at 90%, 1,000 ms at 99%.	math::workshop::calculus-of-rates
+M/M/1 average number in system?	\(L = \frac{\rho}{1 - \rho}\) with \(\rho = \lambda / \mu\). At 90% busy, L = 9.	math::workshop::calculus-of-rates

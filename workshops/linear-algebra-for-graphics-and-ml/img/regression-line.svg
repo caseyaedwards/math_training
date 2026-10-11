@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 340" width="520" height="340">
+  <title>Least-squares line through request rate versus CPU with residuals</title>
+  <defs>
+    <marker id="ha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+    <marker id="hk" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#212529"/></marker>
+  </defs>
+  <rect width="520" height="340" fill="#ffffff"/>
+  <line x1="70.0" y1="290.0" x2="490.0" y2="290.0" stroke="#ced4da" stroke-width="1"/>
+  <text x="62.0" y="295.0" font-family="sans-serif" font-size="14" text-anchor="end" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">0%</text>
+  <line x1="70.0" y1="254.3" x2="490.0" y2="254.3" stroke="#ced4da" stroke-width="1"/>
+  <text x="62.0" y="259.3" font-family="sans-serif" font-size="14" text-anchor="end" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">10%</text>
+  <line x1="70.0" y1="218.6" x2="490.0" y2="218.6" stroke="#ced4da" stroke-width="1"/>
+  <text x="62.0" y="223.6" font-family="sans-serif" font-size="14" text-anchor="end" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">20%</text>
+  <line x1="70.0" y1="182.9" x2="490.0" y2="182.9" stroke="#ced4da" stroke-width="1"/>
+  <text x="62.0" y="187.9" font-family="sans-serif" font-size="14" text-anchor="end" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">30%</text>
+  <line x1="70.0" y1="147.1" x2="490.0" y2="147.1" stroke="#ced4da" stroke-width="1"/>
+  <text x="62.0" y="152.1" font-family="sans-serif" font-size="14" text-anchor="end" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">40%</text>
+  <line x1="70.0" y1="111.4" x2="490.0" y2="111.4" stroke="#ced4da" stroke-width="1"/>
+  <text x="62.0" y="116.4" font-family="sans-serif" font-size="14" text-anchor="end" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">50%</text>
+  <line x1="70.0" y1="75.7" x2="490.0" y2="75.7" stroke="#ced4da" stroke-width="1"/>
+  <text x="62.0" y="80.7" font-family="sans-serif" font-size="14" text-anchor="end" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">60%</text>
+  <line x1="70.0" y1="40.0" x2="490.0" y2="40.0" stroke="#ced4da" stroke-width="1"/>
+  <text x="62.0" y="45.0" font-family="sans-serif" font-size="14" text-anchor="end" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">70%</text>
+  <line x1="70.0" y1="290.0" x2="70.0" y2="40.0" stroke="#ced4da" stroke-width="1"/>
+  <text x="70.0" y="308.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">0</text>
+  <line x1="140.0" y1="290.0" x2="140.0" y2="40.0" stroke="#ced4da" stroke-width="1"/>
+  <text x="140.0" y="308.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">100</text>
+  <line x1="210.0" y1="290.0" x2="210.0" y2="40.0" stroke="#ced4da" stroke-width="1"/>
+  <text x="210.0" y="308.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">200</text>
+  <line x1="280.0" y1="290.0" x2="280.0" y2="40.0" stroke="#ced4da" stroke-width="1"/>
+  <text x="280.0" y="308.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">300</text>
+  <line x1="350.0" y1="290.0" x2="350.0" y2="40.0" stroke="#ced4da" stroke-width="1"/>
+  <text x="350.0" y="308.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">400</text>
+  <line x1="420.0" y1="290.0" x2="420.0" y2="40.0" stroke="#ced4da" stroke-width="1"/>
+  <text x="420.0" y="308.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">500</text>
+  <line x1="490.0" y1="290.0" x2="490.0" y2="40.0" stroke="#ced4da" stroke-width="1"/>
+  <text x="490.0" y="308.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#868e96" stroke="#ffffff" stroke-width="3" paint-order="stroke">600</text>
+  <line x1="70.0" y1="290.0" x2="490.0" y2="290.0" stroke="#868e96" stroke-width="1.5"/>
+  <line x1="70.0" y1="290.0" x2="70.0" y2="40.0" stroke="#868e96" stroke-width="1.5"/>
+  <line x1="70.0" y1="251.1" x2="490.0" y2="43.2" stroke="#d9480f" stroke-width="2.5"/>
+  <line x1="140.0" y1="218.6" x2="140.0" y2="216.4" stroke="#212529" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <line x1="210.0" y1="179.3" x2="210.0" y2="181.8" stroke="#212529" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <line x1="280.0" y1="150.7" x2="280.0" y2="147.1" stroke="#212529" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <line x1="350.0" y1="104.3" x2="350.0" y2="112.5" stroke="#212529" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <line x1="420.0" y1="82.9" x2="420.0" y2="77.9" stroke="#212529" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <circle cx="140.0" cy="218.6" r="5" fill="#212529"/>
+  <circle cx="210.0" cy="179.3" r="5" fill="#212529"/>
+  <circle cx="280.0" cy="150.7" r="5" fill="#212529"/>
+  <circle cx="350.0" cy="104.3" r="5" fill="#212529"/>
+  <circle cx="420.0" cy="82.9" r="5" fill="#212529"/>
+  <text x="340.0" y="100.3" font-family="sans-serif" font-size="14" text-anchor="end" fill="#212529" stroke="#ffffff" stroke-width="3" paint-order="stroke">residual +2.3</text>
+  <text x="280.0" y="330.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#212529" stroke="#ffffff" stroke-width="3" paint-order="stroke">request rate (req/s)</text>
+  <text x="80.0" y="26.0" font-family="sans-serif" font-size="14" text-anchor="start" fill="#d9480f" stroke="#ffffff" stroke-width="3" paint-order="stroke">CPU = 9.7 x + 10.9   (x in hundreds of req/s)</text>
+</svg>

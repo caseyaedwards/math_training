@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 420" width="780" height="420" font-family="sans-serif" font-size="14">
+<title>Articulation points: removing one splits the graph</title>
+<defs>
+<marker id="ad" viewBox="0 0 10 10" refX="10" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="ag" viewBox="0 0 10 10" refX="10" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#9a9a9a"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="10" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="780" height="420" fill="#ffffff"/>
+<line x1="125.0" y1="80.0" x2="175.0" y2="80.0" stroke="#222222" stroke-width="1.6"/>
+<line x1="265.0" y1="80.0" x2="315.0" y2="80.0" stroke="#222222" stroke-width="1.6"/>
+<line x1="405.0" y1="80.0" x2="475.0" y2="80.0" stroke="#222222" stroke-width="1.6"/>
+<line x1="360.0" y1="98.0" x2="360.0" y2="192.0" stroke="#222222" stroke-width="1.6"/>
+<line x1="371.5" y1="98.0" x2="508.5" y2="312.0" stroke="#222222" stroke-width="1.6"/>
+<line x1="382.2" y1="98.0" x2="497.8" y2="192.0" stroke="#222222" stroke-width="1.6"/>
+<line x1="520.0" y1="98.0" x2="520.0" y2="192.0" stroke="#222222" stroke-width="1.6"/>
+<line x1="565.0" y1="80.0" x2="635.0" y2="80.0" stroke="#222222" stroke-width="1.6"/>
+<line x1="635.0" y1="286.9" x2="565.0" y2="313.1" stroke="#222222" stroke-width="1.6"/>
+<line x1="635.0" y1="253.1" x2="565.0" y2="226.9" stroke="#222222" stroke-width="1.6"/>
+<rect x="35.0" y="62.0" width="90" height="36" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.6"/><text x="80" y="85" text-anchor="middle" fill="#222222">lb</text>
+<rect x="175.0" y="62.0" width="90" height="36" rx="6" fill="#d9480f" stroke="#d9480f" stroke-width="1.6"/><text x="220" y="85" text-anchor="middle" fill="#ffffff" font-weight="bold">web</text>
+<rect x="315.0" y="62.0" width="90" height="36" rx="6" fill="#d9480f" stroke="#d9480f" stroke-width="1.6"/><text x="360" y="85" text-anchor="middle" fill="#ffffff" font-weight="bold">api</text>
+<rect x="315.0" y="192.0" width="90" height="36" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.6"/><text x="360" y="215" text-anchor="middle" fill="#222222">cache</text>
+<rect x="475.0" y="62.0" width="90" height="36" rx="6" fill="#d9480f" stroke="#d9480f" stroke-width="1.6"/><text x="520" y="85" text-anchor="middle" fill="#ffffff" font-weight="bold">auth</text>
+<rect x="635.0" y="62.0" width="90" height="36" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.6"/><text x="680" y="85" text-anchor="middle" fill="#222222">config</text>
+<rect x="475.0" y="192.0" width="90" height="36" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.6"/><text x="520" y="215" text-anchor="middle" fill="#222222">db</text>
+<rect x="475.0" y="312.0" width="90" height="36" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.6"/><text x="520" y="335" text-anchor="middle" fill="#222222">queue</text>
+<rect x="635.0" y="252.0" width="90" height="36" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.6"/><text x="680" y="275" text-anchor="middle" fill="#222222">worker</text>
+<text x="390.0" y="28.0" font-size="13" fill="#222222" text-anchor="middle">Edges treated as two-way links. Orange = single point of failure.</text>
+<text x="20.0" y="380.0" font-size="13" fill="#d9480f" text-anchor="start">Remove api: cache is alone, and lb, web lose the rest.</text>
+<text x="20.0" y="400.0" font-size="13" fill="#222222" text-anchor="start">Remove db: everything still connects. Big blast radius, but not a cut vertex.</text>
+</svg>

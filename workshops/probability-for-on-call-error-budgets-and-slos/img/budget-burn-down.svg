@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" width="700" height="420" font-family="sans-serif" font-size="14">
+<title>Error budget burn-down at several burn rates</title>
+<rect x="0" y="0" width="700" height="420" fill="#fff"/>
+<line x1="70.0" y1="350.0" x2="580.0" y2="350.0" stroke="#ddd" stroke-width="1"/>
+<text x="62.0" y="355.0" text-anchor="end" fill="#222" font-size="14" font-weight="normal">0%</text>
+<line x1="70.0" y1="272.5" x2="580.0" y2="272.5" stroke="#ddd" stroke-width="1"/>
+<text x="62.0" y="277.5" text-anchor="end" fill="#222" font-size="14" font-weight="normal">25%</text>
+<line x1="70.0" y1="195.0" x2="580.0" y2="195.0" stroke="#ddd" stroke-width="1"/>
+<text x="62.0" y="200.0" text-anchor="end" fill="#222" font-size="14" font-weight="normal">50%</text>
+<line x1="70.0" y1="117.5" x2="580.0" y2="117.5" stroke="#ddd" stroke-width="1"/>
+<text x="62.0" y="122.5" text-anchor="end" fill="#222" font-size="14" font-weight="normal">75%</text>
+<line x1="70.0" y1="40.0" x2="580.0" y2="40.0" stroke="#ddd" stroke-width="1"/>
+<text x="62.0" y="45.0" text-anchor="end" fill="#222" font-size="14" font-weight="normal">100%</text>
+<line x1="70.0" y1="350.0" x2="70.0" y2="355.0" stroke="#222" stroke-width="1"/>
+<text x="70.0" y="372.0" text-anchor="middle" fill="#222" font-size="14" font-weight="normal">0</text>
+<line x1="155.0" y1="350.0" x2="155.0" y2="355.0" stroke="#222" stroke-width="1"/>
+<text x="155.0" y="372.0" text-anchor="middle" fill="#222" font-size="14" font-weight="normal">5</text>
+<line x1="240.0" y1="350.0" x2="240.0" y2="355.0" stroke="#222" stroke-width="1"/>
+<text x="240.0" y="372.0" text-anchor="middle" fill="#222" font-size="14" font-weight="normal">10</text>
+<line x1="325.0" y1="350.0" x2="325.0" y2="355.0" stroke="#222" stroke-width="1"/>
+<text x="325.0" y="372.0" text-anchor="middle" fill="#222" font-size="14" font-weight="normal">15</text>
+<line x1="410.0" y1="350.0" x2="410.0" y2="355.0" stroke="#222" stroke-width="1"/>
+<text x="410.0" y="372.0" text-anchor="middle" fill="#222" font-size="14" font-weight="normal">20</text>
+<line x1="495.0" y1="350.0" x2="495.0" y2="355.0" stroke="#222" stroke-width="1"/>
+<text x="495.0" y="372.0" text-anchor="middle" fill="#222" font-size="14" font-weight="normal">25</text>
+<line x1="580.0" y1="350.0" x2="580.0" y2="355.0" stroke="#222" stroke-width="1"/>
+<text x="580.0" y="372.0" text-anchor="middle" fill="#222" font-size="14" font-weight="normal">30</text>
+<line x1="70.0" y1="350.0" x2="580.0" y2="350.0" stroke="#222" stroke-width="2"/>
+<line x1="70.0" y1="40.0" x2="70.0" y2="350.0" stroke="#222" stroke-width="2"/>
+<text x="325.0" y="398.0" text-anchor="middle" fill="#222" font-size="14" font-weight="normal">day of the 30-day SLO window</text>
+<text x="18" y="195.0" text-anchor="middle" fill="#222" transform="rotate(-90 18 195.0)">budget remaining</text>
+<line x1="70.0" y1="40.0" x2="580.0" y2="195.0" stroke="#888" stroke-width="2"/>
+<text x="586.0" y="200.0" text-anchor="start" fill="#888" font-size="14" font-weight="bold">0.5x</text>
+<line x1="70.0" y1="40.0" x2="580.0" y2="350.0" stroke="#222" stroke-width="2"/>
+<circle cx="580.0" cy="350.0" r="4" fill="#222"/>
+<text x="586.0" y="336.0" text-anchor="start" fill="#222" font-size="14" font-weight="bold">1x steady</text>
+<line x1="70.0" y1="40.0" x2="325.0" y2="350.0" stroke="#888" stroke-width="2"/>
+<circle cx="325.0" cy="350.0" r="4" fill="#888"/>
+<text x="329.0" y="336.0" text-anchor="start" fill="#888" font-size="14" font-weight="bold">2x</text>
+<line x1="70.0" y1="40.0" x2="155.0" y2="350.0" stroke="#222" stroke-width="2"/>
+<circle cx="155.0" cy="350.0" r="4" fill="#222"/>
+<text x="159.0" y="336.0" text-anchor="start" fill="#222" font-size="14" font-weight="bold">6x</text>
+<line x1="70.0" y1="40.0" x2="105.4" y2="350.0" stroke="#d9480f" stroke-width="3"/>
+<circle cx="105.4" cy="350.0" r="4" fill="#d9480f"/>
+<text x="109.4" y="336.0" text-anchor="start" fill="#d9480f" font-size="14" font-weight="bold">14.4x</text>
+<text x="578.0" y="58.0" text-anchor="end" fill="#444" font-size="14" font-weight="normal">budget empty after 30 / burn days</text>
+<text x="578.0" y="78.0" text-anchor="end" fill="#444" font-size="14" font-weight="normal">14.4x: 2.1 days, 6x: 5 days, 2x: 15 days</text>
+</svg>

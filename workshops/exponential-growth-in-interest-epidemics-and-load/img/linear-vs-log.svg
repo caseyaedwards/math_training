@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" width="760" height="380" role="img" aria-label="The same exponential load curve on a linear axis and on a log axis">
+<title>The same exponential load curve on a linear axis and on a log axis</title>
+<rect x="0" y="0" width="760" height="380" fill="#ffffff"/>
+<text x="210.0" y="36.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="bold">Linear y-axis</text>
+<line x1="70.0" y1="310.0" x2="350.0" y2="310.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="70.0" y1="60.0" x2="70.0" y2="310.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="65.0" y1="310.0" x2="70.0" y2="310.0" stroke="#222222" stroke-width="1.5"/>
+<text x="62.0" y="315.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="end" font-weight="normal">0k</text>
+<line x1="65.0" y1="274.3" x2="70.0" y2="274.3" stroke="#222222" stroke-width="1.5"/>
+<text x="62.0" y="279.3" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="end" font-weight="normal">10k</text>
+<line x1="65.0" y1="238.6" x2="70.0" y2="238.6" stroke="#222222" stroke-width="1.5"/>
+<text x="62.0" y="243.6" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="end" font-weight="normal">20k</text>
+<line x1="65.0" y1="202.9" x2="70.0" y2="202.9" stroke="#222222" stroke-width="1.5"/>
+<text x="62.0" y="207.9" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="end" font-weight="normal">30k</text>
+<line x1="65.0" y1="167.1" x2="70.0" y2="167.1" stroke="#222222" stroke-width="1.5"/>
+<text x="62.0" y="172.1" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="end" font-weight="normal">40k</text>
+<line x1="65.0" y1="131.4" x2="70.0" y2="131.4" stroke="#222222" stroke-width="1.5"/>
+<text x="62.0" y="136.4" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="end" font-weight="normal">50k</text>
+<line x1="65.0" y1="95.7" x2="70.0" y2="95.7" stroke="#222222" stroke-width="1.5"/>
+<text x="62.0" y="100.7" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="end" font-weight="normal">60k</text>
+<line x1="65.0" y1="60.0" x2="70.0" y2="60.0" stroke="#222222" stroke-width="1.5"/>
+<text x="62.0" y="65.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="end" font-weight="normal">70k</text>
+<line x1="70.0" y1="310.0" x2="70.0" y2="315.0" stroke="#222222" stroke-width="1.5"/>
+<text x="70.0" y="332.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">0</text>
+<line x1="140.0" y1="310.0" x2="140.0" y2="315.0" stroke="#222222" stroke-width="1.5"/>
+<text x="140.0" y="332.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">6</text>
+<line x1="210.0" y1="310.0" x2="210.0" y2="315.0" stroke="#222222" stroke-width="1.5"/>
+<text x="210.0" y="332.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">12</text>
+<line x1="280.0" y1="310.0" x2="280.0" y2="315.0" stroke="#222222" stroke-width="1.5"/>
+<text x="280.0" y="332.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">18</text>
+<line x1="350.0" y1="310.0" x2="350.0" y2="315.0" stroke="#222222" stroke-width="1.5"/>
+<text x="350.0" y="332.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">24</text>
+<text x="210.0" y="354.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">month</text>
+<line x1="70.0" y1="131.4" x2="350.0" y2="131.4" stroke="#d9480f" stroke-width="2" stroke-dasharray="6,4"/>
+<text x="76.0" y="123.4" font-family="sans-serif" font-size="14" fill="#d9480f" text-anchor="start" font-weight="normal">capacity 50k rps</text>
+<polyline points="70.0,274.3 81.7,271.4 93.3,268.3 105.0,265.0 116.7,261.4 128.3,257.5 140.0,253.3 151.7,248.8 163.3,243.9 175.0,238.6 186.7,232.9 198.3,226.7 210.0,220.1 221.7,212.9 233.3,205.1 245.0,196.7 256.7,187.6 268.3,177.9 280.0,167.3 291.7,155.9 303.3,143.5 315.0,130.2 326.7,115.8 338.3,100.3 350.0,83.5" fill="none" stroke="#222222" stroke-width="2.5"/>
+<circle cx="314.0" cy="131.4" r="5" fill="#d9480f"/>
+<text x="93.3" y="167.1" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="start" font-weight="normal">curve bends upward</text>
+<text x="590.0" y="36.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="bold">Log y-axis</text>
+<line x1="450.0" y1="310.0" x2="730.0" y2="310.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="450.0" y1="60.0" x2="450.0" y2="310.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="445.0" y1="310.0" x2="450.0" y2="310.0" stroke="#222222" stroke-width="1.5"/>
+<text x="442.0" y="315.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="end" font-weight="normal">5k</text>
+<line x1="445.0" y1="252.2" x2="450.0" y2="252.2" stroke="#222222" stroke-width="1.5"/>
+<text x="442.0" y="257.2" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="end" font-weight="normal">10k</text>
+<line x1="445.0" y1="194.3" x2="450.0" y2="194.3" stroke="#222222" stroke-width="1.5"/>
+<text x="442.0" y="199.3" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="end" font-weight="normal">20k</text>
+<line x1="445.0" y1="117.8" x2="450.0" y2="117.8" stroke="#222222" stroke-width="1.5"/>
+<text x="442.0" y="122.8" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="end" font-weight="normal">50k</text>
+<line x1="445.0" y1="60.0" x2="450.0" y2="60.0" stroke="#222222" stroke-width="1.5"/>
+<text x="442.0" y="65.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="end" font-weight="normal">100k</text>
+<line x1="450.0" y1="310.0" x2="450.0" y2="315.0" stroke="#222222" stroke-width="1.5"/>
+<text x="450.0" y="332.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">0</text>
+<line x1="520.0" y1="310.0" x2="520.0" y2="315.0" stroke="#222222" stroke-width="1.5"/>
+<text x="520.0" y="332.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">6</text>
+<line x1="590.0" y1="310.0" x2="590.0" y2="315.0" stroke="#222222" stroke-width="1.5"/>
+<text x="590.0" y="332.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">12</text>
+<line x1="660.0" y1="310.0" x2="660.0" y2="315.0" stroke="#222222" stroke-width="1.5"/>
+<text x="660.0" y="332.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">18</text>
+<line x1="730.0" y1="310.0" x2="730.0" y2="315.0" stroke="#222222" stroke-width="1.5"/>
+<text x="730.0" y="332.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">24</text>
+<text x="590.0" y="354.0" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">month</text>
+<line x1="450.0" y1="117.8" x2="730.0" y2="117.8" stroke="#d9480f" stroke-width="2" stroke-dasharray="6,4"/>
+<text x="456.0" y="109.8" font-family="sans-serif" font-size="14" fill="#d9480f" text-anchor="start" font-weight="normal">capacity 50k rps</text>
+<polyline points="450.0,252.2 461.7,245.7 473.3,239.3 485.0,232.9 496.7,226.5 508.3,220.0 520.0,213.6 531.7,207.2 543.3,200.8 555.0,194.4 566.7,187.9 578.3,181.5 590.0,175.1 601.7,168.7 613.3,162.2 625.0,155.8 636.7,149.4 648.3,143.0 660.0,136.5 671.7,130.1 683.3,123.7 695.0,117.3 706.7,110.9 718.3,104.4 730.0,98.0" fill="none" stroke="#222222" stroke-width="2.5"/>
+<circle cx="694.0" cy="117.8" r="5" fill="#d9480f"/>
+<text x="594.0" y="201.1" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="start" font-weight="normal">straight line:</text>
+<text x="594.0" y="219.1" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="start" font-weight="normal">slope = log 1.08</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300" font-family="sans-serif" font-size="14">
+<title>Parts of a graph: vertex, edge, directed edge, weighted edge, degree</title>
+<defs>
+<marker id="ad" viewBox="0 0 10 10" refX="10" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="ag" viewBox="0 0 10 10" refX="10" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#9a9a9a"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="10" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="800" height="300" fill="#ffffff"/>
+<text x="100.0" y="40.0" font-size="14" fill="#222222" text-anchor="middle" font-weight="bold">edge (two-way)</text>
+<line x1="74.0" y1="130.0" x2="126.0" y2="130.0" stroke="#222222" stroke-width="1.8"/>
+<circle cx="50" cy="130" r="24" fill="#ffffff" stroke="#222222" stroke-width="1.8"/><text x="50.0" y="135.0" font-size="14" fill="#222222" text-anchor="middle">A</text>
+<circle cx="150" cy="130" r="24" fill="#ffffff" stroke="#222222" stroke-width="1.8"/><text x="150.0" y="135.0" font-size="14" fill="#222222" text-anchor="middle">B</text>
+<text x="100.0" y="190.0" font-size="12" fill="#555555" text-anchor="middle">A and B are vertices</text>
+<text x="100.0" y="207.0" font-size="12" fill="#555555" text-anchor="middle">(dots, nodes, services)</text>
+<text x="300.0" y="40.0" font-size="14" fill="#222222" text-anchor="middle" font-weight="bold">directed edge</text>
+<line x1="274.0" y1="130.0" x2="326.0" y2="130.0" stroke="#222222" stroke-width="1.8" marker-end="url(#ad)"/>
+<circle cx="250" cy="130" r="24" fill="#ffffff" stroke="#222222" stroke-width="1.8"/><text x="250.0" y="135.0" font-size="14" fill="#222222" text-anchor="middle">A</text>
+<circle cx="350" cy="130" r="24" fill="#ffffff" stroke="#222222" stroke-width="1.8"/><text x="350.0" y="135.0" font-size="14" fill="#222222" text-anchor="middle">B</text>
+<text x="300.0" y="190.0" font-size="12" fill="#555555" text-anchor="middle">arrow means: A needs B</text>
+<text x="300.0" y="207.0" font-size="12" fill="#555555" text-anchor="middle">B starts first</text>
+<text x="500.0" y="40.0" font-size="14" fill="#222222" text-anchor="middle" font-weight="bold">weighted edge</text>
+<line x1="474.0" y1="130.0" x2="526.0" y2="130.0" stroke="#222222" stroke-width="1.8"/>
+<rect x="483" y="112" width="34" height="18" fill="#ffffff"/>
+<text x="500.0" y="126.0" font-size="13" fill="#d9480f" text-anchor="middle">75</text>
+<circle cx="450" cy="130" r="24" fill="#ffffff" stroke="#222222" stroke-width="1.8"/><text x="450.0" y="135.0" font-size="14" fill="#222222" text-anchor="middle">A</text>
+<circle cx="550" cy="130" r="24" fill="#ffffff" stroke="#222222" stroke-width="1.8"/><text x="550.0" y="135.0" font-size="14" fill="#222222" text-anchor="middle">B</text>
+<text x="500.0" y="190.0" font-size="12" fill="#555555" text-anchor="middle">the number is a cost:</text>
+<text x="500.0" y="207.0" font-size="12" fill="#555555" text-anchor="middle">ms, dollars, hops</text>
+<text x="700.0" y="40.0" font-size="14" fill="#222222" text-anchor="middle" font-weight="bold">degree</text>
+<line x1="657.0" y1="97.0" x2="683.0" y2="123.0" stroke="#d9480f" stroke-width="1.8" marker-end="url(#aa)"/>
+<line x1="657.0" y1="183.0" x2="683.0" y2="157.0" stroke="#d9480f" stroke-width="1.8" marker-end="url(#aa)"/>
+<line x1="724.0" y1="140.0" x2="746.0" y2="140.0" stroke="#222222" stroke-width="1.8" marker-end="url(#ad)"/>
+<circle cx="700" cy="140" r="24" fill="#fde4d6" stroke="#d9480f" stroke-width="1.8"/><text x="700.0" y="145.0" font-size="14" fill="#222222" text-anchor="middle">db</text>
+<circle cx="640" cy="80" r="10" fill="#ffffff" stroke="#222222" stroke-width="1.8"/><text x="640.0" y="85.0" font-size="14" fill="#222222" text-anchor="middle"></text>
+<circle cx="640" cy="200" r="10" fill="#ffffff" stroke="#222222" stroke-width="1.8"/><text x="640.0" y="205.0" font-size="14" fill="#222222" text-anchor="middle"></text>
+<circle cx="770" cy="140" r="10" fill="#ffffff" stroke="#222222" stroke-width="1.8"/><text x="770.0" y="145.0" font-size="14" fill="#222222" text-anchor="middle"></text>
+<text x="700.0" y="240.0" font-size="12" fill="#d9480f" text-anchor="middle">in-degree 2 (orange arrows in)</text>
+<text x="700.0" y="257.0" font-size="12" fill="#222222" text-anchor="middle">out-degree 1 (arrow out)</text>
+<text x="400.0" y="290.0" font-size="13" fill="#222222" text-anchor="middle">A graph is just dots and lines. The dots are vertices. The lines are edges.</text>
+</svg>

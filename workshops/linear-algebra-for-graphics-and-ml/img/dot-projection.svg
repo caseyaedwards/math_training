@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 300" width="460" height="300">
+  <title>The dot product as length of a times the shadow of b on a</title>
+  <defs>
+    <marker id="ha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+    <marker id="hk" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#212529"/></marker>
+  </defs>
+  <rect width="460" height="300" fill="#ffffff"/>
+  <line x1="50.0" y1="284.0" x2="50.0" y2="28.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="130.0" y1="284.0" x2="130.0" y2="28.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="210.0" y1="284.0" x2="210.0" y2="28.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="290.0" y1="284.0" x2="290.0" y2="28.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="370.0" y1="284.0" x2="370.0" y2="28.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="26.0" y1="260.0" x2="418.0" y2="260.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="26.0" y1="180.0" x2="418.0" y2="180.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="26.0" y1="100.0" x2="418.0" y2="100.0" stroke="#ced4da" stroke-width="1"/>
+  <line x1="26.0" y1="260.0" x2="418.0" y2="260.0" stroke="#868e96" stroke-width="1.5"/>
+  <line x1="50.0" y1="284.0" x2="50.0" y2="28.0" stroke="#868e96" stroke-width="1.5"/>
+  <line x1="50.0" y1="260.0" x2="290.0" y2="180.0" stroke="#d9480f" stroke-width="3" marker-end="url(#ha)"/>
+  <line x1="50.0" y1="260.0" x2="130.0" y2="100.0" stroke="#212529" stroke-width="3" marker-end="url(#hk)"/>
+  <line x1="130.0" y1="100.0" x2="170.0" y2="220.0" stroke="#212529" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <line x1="50.0" y1="260.0" x2="170.0" y2="220.0" stroke="#d9480f" stroke-width="7" stroke-opacity="0.35"/>
+  <text x="298.0" y="185.0" font-family="sans-serif" font-size="14" text-anchor="start" fill="#d9480f" stroke="#ffffff" stroke-width="3" paint-order="stroke">a = (3, 1)</text>
+  <text x="138.0" y="100.0" font-family="sans-serif" font-size="14" text-anchor="start" fill="#212529" stroke="#ffffff" stroke-width="3" paint-order="stroke">b = (1, 2)</text>
+  <text x="178.0" y="242.0" font-family="sans-serif" font-size="14" text-anchor="start" fill="#d9480f" stroke="#ffffff" stroke-width="3" paint-order="stroke">shadow = 5/√10 ≈ 1.58</text>
+  <text x="240.0" y="30.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#212529" stroke="#ffffff" stroke-width="3" paint-order="stroke">a · b = |a| × shadow of b on a</text>
+  <text x="240.0" y="52.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#d9480f" stroke="#ffffff" stroke-width="3" paint-order="stroke">= √10 × 1.58 = 5</text>
+</svg>

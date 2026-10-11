@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 385" width="760" height="385" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Toy RSA encrypt, decrypt, sign and verify flow</title>
+<rect x="0" y="0" width="760" height="385" fill="#ffffff"/>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<text x="380.0" y="28.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Toy RSA: n = 61 · 53 = 3233, e = 17, d = 2753 (learning only)</text>
+<rect x="20" y="70" width="180" height="70" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="110.0" y="98.0" text-anchor="middle" fill="#888888" font-size="14" font-weight="normal">plaintext</text>
+<text x="110.0" y="124.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">m = 65</text>
+<rect x="290" y="70" width="180" height="70" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="380.0" y="98.0" text-anchor="middle" fill="#888888" font-size="14" font-weight="normal">ciphertext</text>
+<text x="380.0" y="124.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">c = 2790</text>
+<rect x="560" y="70" width="180" height="70" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="650.0" y="98.0" text-anchor="middle" fill="#888888" font-size="14" font-weight="normal">plaintext</text>
+<text x="650.0" y="124.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">m = 65</text>
+<line x1="204" y1="105" x2="286" y2="105" stroke="#d9480f" stroke-width="3" marker-end="url(#arrA)"/>
+<text x="245.0" y="62.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">encrypt</text>
+<text x="245.0" y="165.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="normal">m^e mod n</text>
+<text x="245.0" y="185.0" text-anchor="middle" fill="#888888" font-size="14" font-weight="normal">public (n, e)</text>
+<line x1="474" y1="105" x2="556" y2="105" stroke="#222222" stroke-width="3" marker-end="url(#arr)"/>
+<text x="515.0" y="62.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">decrypt</text>
+<text x="515.0" y="165.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="normal">c^d mod n</text>
+<text x="515.0" y="185.0" text-anchor="middle" fill="#888888" font-size="14" font-weight="normal">private (n, d)</text>
+<line x1="20" y1="215" x2="740" y2="215" stroke="#888888" stroke-width="1" stroke-dasharray="4 4"/>
+<rect x="20" y="250" width="180" height="70" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="110.0" y="278.0" text-anchor="middle" fill="#888888" font-size="14" font-weight="normal">digest</text>
+<text x="110.0" y="304.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">h = 123</text>
+<rect x="290" y="250" width="180" height="70" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="380.0" y="278.0" text-anchor="middle" fill="#888888" font-size="14" font-weight="normal">signature</text>
+<text x="380.0" y="304.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">s = 2746</text>
+<rect x="560" y="250" width="180" height="70" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="650.0" y="278.0" text-anchor="middle" fill="#888888" font-size="14" font-weight="normal">verified</text>
+<text x="650.0" y="304.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">123 = h</text>
+<line x1="204" y1="285" x2="286" y2="285" stroke="#222222" stroke-width="3" marker-end="url(#arr)"/>
+<text x="245.0" y="242.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">sign</text>
+<text x="245.0" y="345.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="normal">h^d mod n</text>
+<text x="245.0" y="365.0" text-anchor="middle" fill="#888888" font-size="14" font-weight="normal">private (n, d)</text>
+<line x1="474" y1="285" x2="556" y2="285" stroke="#d9480f" stroke-width="3" marker-end="url(#arrA)"/>
+<text x="515.0" y="242.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">verify</text>
+<text x="515.0" y="345.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="normal">s^e mod n</text>
+<text x="515.0" y="365.0" text-anchor="middle" fill="#888888" font-size="14" font-weight="normal">public (n, e)</text>
+</svg>

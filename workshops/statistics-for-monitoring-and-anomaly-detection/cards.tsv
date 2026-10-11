@@ -1,0 +1,14 @@
+Why does the mean latency mislead on skewed data?	A few slow requests pull it toward the tail. One 30,000 ms request moved a mean of 100 requests by 296 ms; the median moved 1.7 ms.	math::workshop::statistics
+Define the nearest-rank percentile.	Sort the n values and take the one at rank \(\lceil p/100 \times n \rceil\), counting from 1.	math::workshop::statistics
+What does histogram_quantile assume inside a bucket?	That requests spread evenly, therefore it interpolates linearly: \(\ell + (u - \ell)(r - c_{below})/c_{in}\).	math::workshop::monitoring
+What does histogram_quantile return when the rank falls in the +Inf bucket?	The highest finite bucket bound.	math::workshop::monitoring
+Can you average p99 values across hosts?	No. Sum the bucket counts across hosts, then take the quantile (PromQL: sum by (le)).	math::workshop::monitoring
+Why can bucket counts be summed but percentiles cannot?	Counts add. A percentile is a position in the merged ranking, which per-host summaries throw away.	math::workshop::monitoring
+How do you make a latency SLO ratio exact in Prometheus?	Put a bucket bound exactly at the SLO threshold, for example le=300 for 300 ms.	math::workshop::monitoring
+Population variance of 12, 15, 11, 14, 18?	6: mean 14, squared distances 4, 1, 9, 0, 16 sum to 30, and 30 / 5 = 6. The sd is about 2.449.	math::workshop::statistics
+What is a z-score, and what does the 3-sigma rule flag?	\(z = (x - \bar{x})/\sigma\). It flags \(|z| > 3\), about 0.27% of normal data.	math::workshop::statistics
+Why does the 3-sigma rule fail on raw latency?	Latency is skewed: the lower edge goes negative and the upper side fires far more than 0.135%.	math::workshop::statistics
+What is masking?	Big outliers inflate the sd so much that their own z-scores stay small.	math::workshop::statistics
+EWMA update rule?	\(m_t = m_{t-1} + \alpha (x_t - m_{t-1})\). Small alpha is smooth and slow.	math::workshop::monitoring
+What does an EWMA band do on a level shift?	It alerts on the edge, then widens and adapts to the new level.	math::workshop::monitoring
+Define the MAD and the modified z-score.	\(\text{MAD} = \text{median}(|x_i - \text{median}(x)|)\); \(M = 0.6745 (x - \text{median})/\text{MAD}\), flag \(|M| > 3.5\).	math::workshop::statistics

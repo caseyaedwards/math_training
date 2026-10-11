@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300" font-family="sans-serif" font-size="14">
+<title>Dijkstra finalizes regions in order of distance, like a ripple</title>
+<defs>
+<marker id="ad" viewBox="0 0 10 10" refX="10" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker>
+<marker id="ag" viewBox="0 0 10 10" refX="10" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#9a9a9a"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="10" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="800" height="300" fill="#ffffff"/>
+<line x1="60" y1="200" x2="720" y2="200" stroke="#222222" stroke-width="1.5"/>
+<line x1="60.0" y1="200" x2="60.0" y2="206" stroke="#222222"/>
+<text x="60.0" y="222.0" font-size="12" fill="#222222" text-anchor="middle">0</text>
+<line x1="142.5" y1="200" x2="142.5" y2="206" stroke="#222222"/>
+<text x="142.5" y="222.0" font-size="12" fill="#222222" text-anchor="middle">25</text>
+<line x1="225.0" y1="200" x2="225.0" y2="206" stroke="#222222"/>
+<text x="225.0" y="222.0" font-size="12" fill="#222222" text-anchor="middle">50</text>
+<line x1="307.5" y1="200" x2="307.5" y2="206" stroke="#222222"/>
+<text x="307.5" y="222.0" font-size="12" fill="#222222" text-anchor="middle">75</text>
+<line x1="390.0" y1="200" x2="390.0" y2="206" stroke="#222222"/>
+<text x="390.0" y="222.0" font-size="12" fill="#222222" text-anchor="middle">100</text>
+<line x1="472.5" y1="200" x2="472.5" y2="206" stroke="#222222"/>
+<text x="472.5" y="222.0" font-size="12" fill="#222222" text-anchor="middle">125</text>
+<line x1="555.0" y1="200" x2="555.0" y2="206" stroke="#222222"/>
+<text x="555.0" y="222.0" font-size="12" fill="#222222" text-anchor="middle">150</text>
+<line x1="637.5" y1="200" x2="637.5" y2="206" stroke="#222222"/>
+<text x="637.5" y="222.0" font-size="12" fill="#222222" text-anchor="middle">175</text>
+<line x1="720.0" y1="200" x2="720.0" y2="206" stroke="#222222"/>
+<text x="720.0" y="222.0" font-size="12" fill="#222222" text-anchor="middle">200</text>
+<text x="410.0" y="248.0" font-size="13" fill="#222222" text-anchor="middle">distance from us-east (ms)</text>
+<line x1="60.0" y1="84" x2="60.0" y2="196" stroke="#9a9a9a" stroke-dasharray="3,3"/>
+<circle cx="60.0" cy="200" r="5" fill="#d9480f"/>
+<text x="60.0" y="70.0" font-size="13" fill="#222222" text-anchor="middle">1. us-east</text>
+<line x1="264.6" y1="144" x2="264.6" y2="196" stroke="#9a9a9a" stroke-dasharray="3,3"/>
+<circle cx="264.6" cy="200" r="5" fill="#d9480f"/>
+<text x="264.6" y="130.0" font-size="13" fill="#222222" text-anchor="middle">2. us-west</text>
+<line x1="307.5" y1="84" x2="307.5" y2="196" stroke="#9a9a9a" stroke-dasharray="3,3"/>
+<circle cx="307.5" cy="200" r="5" fill="#d9480f"/>
+<text x="307.5" y="70.0" font-size="13" fill="#222222" text-anchor="middle">3. eu-west</text>
+<line x1="357.0" y1="144" x2="357.0" y2="196" stroke="#9a9a9a" stroke-dasharray="3,3"/>
+<circle cx="357.0" cy="200" r="5" fill="#d9480f"/>
+<text x="357.0" y="130.0" font-size="13" fill="#222222" text-anchor="middle">4. eu-central</text>
+<line x1="439.5" y1="84" x2="439.5" y2="196" stroke="#9a9a9a" stroke-dasharray="3,3"/>
+<circle cx="439.5" cy="200" r="5" fill="#d9480f"/>
+<text x="439.5" y="70.0" font-size="13" fill="#222222" text-anchor="middle">5. sa-east</text>
+<line x1="611.1" y1="144" x2="611.1" y2="196" stroke="#9a9a9a" stroke-dasharray="3,3"/>
+<circle cx="611.1" cy="200" r="5" fill="#d9480f"/>
+<text x="611.1" y="130.0" font-size="13" fill="#222222" text-anchor="middle">6. ap-northeast</text>
+<line x1="703.5" y1="84" x2="703.5" y2="196" stroke="#9a9a9a" stroke-dasharray="3,3"/>
+<circle cx="703.5" cy="200" r="5" fill="#d9480f"/>
+<text x="703.5" y="70.0" font-size="13" fill="#d9480f" text-anchor="middle" font-weight="bold">7. ap-south</text>
+<text x="400.0" y="30.0" font-size="13" fill="#222222" text-anchor="middle">Step number grows as distance grows. Nothing finalized later is ever closer.</text>
+<text x="400.0" y="285.0" font-size="12" fill="#555555" text-anchor="middle">That ordering is the whole proof: weights never go negative. The ripple only moves outward.</text>
+</svg>

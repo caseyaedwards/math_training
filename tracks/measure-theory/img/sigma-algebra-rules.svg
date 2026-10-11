@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Sigma-algebra rules: complements, countable unions, and the sets a partition generates</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="900" height="380" fill="#ffffff"/>
+<text x="450.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Sigma-Algebra: The Sets You Are Allowed to Measure</text>
+<rect x="30.0" y="70.0" width="220.0" height="140.0" rx="0" fill="#f1f3f5" stroke="#222222" stroke-width="1.5"/>
+<circle cx="120.0" cy="140.0" r="45.0" fill="#d9480f" fill-opacity="0.5" stroke="#222222" stroke-width="1.5"/>
+<text x="120.0" y="145.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">A</text>
+<text x="215.0" y="95.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">Ω</text>
+<text x="200.0" y="198.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">not-A</text>
+<text x="140.0" y="235.0" text-anchor="middle" fill="#222222" font-size="13">A allowed means</text>
+<text x="140.0" y="253.0" text-anchor="middle" fill="#d9480f" font-size="13">not-A (outside) allowed</text>
+<rect x="290.0" y="70.0" width="220.0" height="140.0" rx="0" fill="#f1f3f5" stroke="#222222" stroke-width="1.5"/>
+<circle cx="340.0" cy="120.0" r="26.0" fill="#d9480f" fill-opacity="0.4" stroke="#222222" stroke-width="1.5"/>
+<text x="340.0" y="125.0" text-anchor="middle" fill="#222222" font-size="12">A1</text>
+<circle cx="390.0" cy="160.0" r="22.0" fill="#d9480f" fill-opacity="0.4" stroke="#222222" stroke-width="1.5"/>
+<text x="390.0" y="165.0" text-anchor="middle" fill="#222222" font-size="12">A2</text>
+<circle cx="440.0" cy="115.0" r="18.0" fill="#d9480f" fill-opacity="0.4" stroke="#222222" stroke-width="1.5"/>
+<text x="440.0" y="120.0" text-anchor="middle" fill="#222222" font-size="12">A3</text>
+<circle cx="480.0" cy="170.0" r="14.0" fill="#d9480f" fill-opacity="0.4" stroke="#222222" stroke-width="1.5"/>
+<text x="480.0" y="175.0" text-anchor="middle" fill="#222222" font-size="12">A4</text>
+<text x="400.0" y="235.0" text-anchor="middle" fill="#222222" font-size="13">A1, A2, A3, ... allowed means</text>
+<text x="400.0" y="253.0" text-anchor="middle" fill="#d9480f" font-size="13">their union allowed</text>
+<text x="700.0" y="70.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">3 blocks generate 2 x 2 x 2 = 8 sets</text>
+<rect x="560.0" y="90.0" width="62.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<line x1="584.8" y1="90.0" x2="584.8" y2="130.0" stroke="#222222" stroke-width="0.8"/>
+<line x1="603.4" y1="90.0" x2="603.4" y2="130.0" stroke="#222222" stroke-width="0.8"/>
+<text x="591.0" y="145.0" text-anchor="middle" fill="#666666" font-size="11">∅</text>
+<rect x="632.0" y="90.0" width="62.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<rect x="632.0" y="90.0" width="24.8" height="40.0" rx="0" fill="#d9480f" fill-opacity="0.55" stroke="none" stroke-width="0"/>
+<line x1="656.8" y1="90.0" x2="656.8" y2="130.0" stroke="#222222" stroke-width="0.8"/>
+<line x1="675.4" y1="90.0" x2="675.4" y2="130.0" stroke="#222222" stroke-width="0.8"/>
+<text x="663.0" y="145.0" text-anchor="middle" fill="#666666" font-size="11">A</text>
+<rect x="704.0" y="90.0" width="62.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<rect x="728.8" y="90.0" width="18.6" height="40.0" rx="0" fill="#d9480f" fill-opacity="0.55" stroke="none" stroke-width="0"/>
+<line x1="728.8" y1="90.0" x2="728.8" y2="130.0" stroke="#222222" stroke-width="0.8"/>
+<line x1="747.4" y1="90.0" x2="747.4" y2="130.0" stroke="#222222" stroke-width="0.8"/>
+<text x="735.0" y="145.0" text-anchor="middle" fill="#666666" font-size="11">B</text>
+<rect x="776.0" y="90.0" width="62.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<rect x="776.0" y="90.0" width="24.8" height="40.0" rx="0" fill="#d9480f" fill-opacity="0.55" stroke="none" stroke-width="0"/>
+<rect x="800.8" y="90.0" width="18.6" height="40.0" rx="0" fill="#d9480f" fill-opacity="0.55" stroke="none" stroke-width="0"/>
+<line x1="800.8" y1="90.0" x2="800.8" y2="130.0" stroke="#222222" stroke-width="0.8"/>
+<line x1="819.4" y1="90.0" x2="819.4" y2="130.0" stroke="#222222" stroke-width="0.8"/>
+<text x="807.0" y="145.0" text-anchor="middle" fill="#666666" font-size="11">A ∪ B</text>
+<rect x="560.0" y="160.0" width="62.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<line x1="584.8" y1="160.0" x2="584.8" y2="200.0" stroke="#222222" stroke-width="0.8"/>
+<rect x="603.4" y="160.0" width="18.6" height="40.0" rx="0" fill="#d9480f" fill-opacity="0.55" stroke="none" stroke-width="0"/>
+<line x1="603.4" y1="160.0" x2="603.4" y2="200.0" stroke="#222222" stroke-width="0.8"/>
+<text x="591.0" y="215.0" text-anchor="middle" fill="#666666" font-size="11">C</text>
+<rect x="632.0" y="160.0" width="62.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<rect x="632.0" y="160.0" width="24.8" height="40.0" rx="0" fill="#d9480f" fill-opacity="0.55" stroke="none" stroke-width="0"/>
+<line x1="656.8" y1="160.0" x2="656.8" y2="200.0" stroke="#222222" stroke-width="0.8"/>
+<rect x="675.4" y="160.0" width="18.6" height="40.0" rx="0" fill="#d9480f" fill-opacity="0.55" stroke="none" stroke-width="0"/>
+<line x1="675.4" y1="160.0" x2="675.4" y2="200.0" stroke="#222222" stroke-width="0.8"/>
+<text x="663.0" y="215.0" text-anchor="middle" fill="#666666" font-size="11">A ∪ C</text>
+<rect x="704.0" y="160.0" width="62.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<rect x="728.8" y="160.0" width="18.6" height="40.0" rx="0" fill="#d9480f" fill-opacity="0.55" stroke="none" stroke-width="0"/>
+<line x1="728.8" y1="160.0" x2="728.8" y2="200.0" stroke="#222222" stroke-width="0.8"/>
+<rect x="747.4" y="160.0" width="18.6" height="40.0" rx="0" fill="#d9480f" fill-opacity="0.55" stroke="none" stroke-width="0"/>
+<line x1="747.4" y1="160.0" x2="747.4" y2="200.0" stroke="#222222" stroke-width="0.8"/>
+<text x="735.0" y="215.0" text-anchor="middle" fill="#666666" font-size="11">B ∪ C</text>
+<rect x="776.0" y="160.0" width="62.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<rect x="776.0" y="160.0" width="24.8" height="40.0" rx="0" fill="#d9480f" fill-opacity="0.55" stroke="none" stroke-width="0"/>
+<rect x="800.8" y="160.0" width="18.6" height="40.0" rx="0" fill="#d9480f" fill-opacity="0.55" stroke="none" stroke-width="0"/>
+<line x1="800.8" y1="160.0" x2="800.8" y2="200.0" stroke="#222222" stroke-width="0.8"/>
+<rect x="819.4" y="160.0" width="18.6" height="40.0" rx="0" fill="#d9480f" fill-opacity="0.55" stroke="none" stroke-width="0"/>
+<line x1="819.4" y1="160.0" x2="819.4" y2="200.0" stroke="#222222" stroke-width="0.8"/>
+<text x="807.0" y="215.0" text-anchor="middle" fill="#666666" font-size="11">Ω</text>
+<text x="450.0" y="300.0" text-anchor="middle" fill="#666666" font-size="13">A sigma-algebra contains the empty set and the whole space Ω, and it is closed under</text>
+<text x="450.0" y="320.0" text-anchor="middle" fill="#666666" font-size="13">complements and countable unions. Intersections and differences follow for free.</text>
+<text x="450.0" y="350.0" text-anchor="middle" fill="#d9480f" font-size="13">Measure is defined only on these sets. The rest, like the Vitali set, are left out on purpose.</text>
+</svg>

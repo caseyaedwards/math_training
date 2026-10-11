@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Birth-death chain for a queue with balance across each cut</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#666666"/></marker></defs>
+<rect x="0" y="0" width="760" height="300" fill="#ffffff"/>
+<text x="380.0" y="32.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">Birth-Death Chain: One Step Up or One Step Down</text>
+<circle cx="80.0" cy="150.0" r="30" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="80.0" y="156.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">0</text>
+<circle cx="210.0" cy="150.0" r="30" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="210.0" y="156.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">1</text>
+<circle cx="340.0" cy="150.0" r="30" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="340.0" y="156.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">2</text>
+<circle cx="470.0" cy="150.0" r="30" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="470.0" y="156.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">3</text>
+<circle cx="600.0" cy="150.0" r="30" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="600.0" y="156.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">4</text>
+<text x="735.0" y="156.0" text-anchor="middle" fill="#222222" font-size="18">. . .</text>
+<path d="M104,132 C130,95 160,95 186,132" fill="none" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="145.0" y="100.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">λ</text>
+<path d="M186,168 C160,205 130,205 104,168" fill="none" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="145.0" y="212.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">μ</text>
+<path d="M234,132 C260,95 290,95 316,132" fill="none" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="275.0" y="100.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">λ</text>
+<path d="M316,168 C290,205 260,205 234,168" fill="none" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="275.0" y="212.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">μ</text>
+<path d="M364,132 C390,95 420,95 446,132" fill="none" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="405.0" y="100.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">λ</text>
+<path d="M446,168 C420,205 390,205 364,168" fill="none" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="405.0" y="212.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">μ</text>
+<path d="M494,132 C520,95 550,95 576,132" fill="none" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="535.0" y="100.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">λ</text>
+<path d="M576,168 C550,205 520,205 494,168" fill="none" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="535.0" y="212.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">μ</text>
+<path d="M624,132 C650,95 662,95 688,132" fill="none" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="656.0" y="100.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">λ</text>
+<path d="M688,168 C662,205 650,205 624,168" fill="none" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="656.0" y="212.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">μ</text>
+<line x1="405.0" y1="80.0" x2="405.0" y2="225.0" stroke="#d9480f" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="405.0" y="245.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">cut</text>
+<text x="380.0" y="275.0" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">Across any cut, flow right equals flow left:  π(n) λ = π(n+1) μ</text>
+<text x="50.0" y="245.0" text-anchor="start" fill="#666666" font-size="13">state n = requests in system</text>
+</svg>

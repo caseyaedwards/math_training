@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 350" width="780" height="350" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Naturality square for First</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="780" height="350" fill="#ffffff"/>
+<text x="390.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Naturality square for First</text>
+<rect x="160.0" y="78.0" width="80.0" height="34.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="200.0" y="100.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">[]int</text>
+<rect x="530.0" y="78.0" width="100.0" height="34.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="580.0" y="100.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">[]string</text>
+<rect x="140.0" y="228.0" width="120.0" height="34.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="200.0" y="250.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">Option[int]</text>
+<rect x="510.0" y="228.0" width="140.0" height="34.0" rx="6" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="580.0" y="250.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">Option[string]</text>
+<line x1="243.0" y1="95.0" x2="527.0" y2="95.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="385.0" y="112.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">Map(·, itoa)</text>
+<line x1="263.0" y1="245.0" x2="507.0" y2="245.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="385.0" y="236.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">MapOpt(·, itoa)</text>
+<line x1="200.0" y1="115.0" x2="200.0" y2="225.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="186.0" y="175.0" text-anchor="end" fill="#222222" font-size="14" xml:space="preserve">First</text>
+<line x1="580.0" y1="115.0" x2="580.0" y2="225.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="594.0" y="175.0" text-anchor="start" fill="#222222" font-size="14" xml:space="preserve">First</text>
+<text x="200.0" y="64.0" text-anchor="middle" fill="#555555" font-size="13" xml:space="preserve">[7 8 9]</text>
+<text x="580.0" y="64.0" text-anchor="middle" fill="#555555" font-size="13" xml:space="preserve">["7" "8" "9"]</text>
+<text x="200.0" y="285.0" text-anchor="middle" fill="#555555" font-size="13" xml:space="preserve">Some(7)</text>
+<text x="580.0" y="285.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold" xml:space="preserve">Some("7") either way</text>
+<text x="390.0" y="175.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold" xml:space="preserve">commutes</text>
+<text x="390.0" y="320.0" text-anchor="middle" fill="#555555" font-size="13" xml:space="preserve">First never looks inside the values, so the square commutes for every T and f</text>
+</svg>

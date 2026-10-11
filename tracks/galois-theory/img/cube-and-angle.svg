@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 400" width="820" height="400" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Doubling the cube and trisecting 60 degrees</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#444444"/></marker></defs>
+<rect x="0" y="0" width="820" height="400" fill="#ffffff"/>
+<text x="410.0" y="30.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">Two Greek Problems That Have No Ruler-and-Compass Solution</text>
+<polygon points="50.0,320.0 150.0,320.0 150.0,220.0 50.0,220.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<polygon points="50.0,220.0 95.0,175.0 195.0,175.0 150.0,220.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<polygon points="150.0,320.0 195.0,275.0 195.0,175.0 150.0,220.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="100.0" y="345.0" text-anchor="middle" fill="#222222" font-size="13">side 1, volume 1</text>
+<polygon points="220.0,320.0 346.0,320.0 346.0,194.0 220.0,194.0" fill="#fff4e6" stroke="#d9480f" stroke-width="1.8"/>
+<polygon points="220.0,194.0 276.7,137.3 402.7,137.3 346.0,194.0" fill="#fff4e6" stroke="#d9480f" stroke-width="1.8"/>
+<polygon points="346.0,320.0 402.7,263.3 402.7,137.3 346.0,194.0" fill="#fff4e6" stroke="#d9480f" stroke-width="1.8"/>
+<text x="283.0" y="345.0" text-anchor="middle" fill="#d9480f" font-size="13">side ∛2 ≈ 1.26, volume 2</text>
+<text x="200.0" y="375.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">Doubling the cube needs ∛2</text>
+<line x1="470.0" y1="320.0" x2="690.0" y2="320.0" stroke="#222222" stroke-width="2"/>
+<line x1="470.0" y1="320.0" x2="580.0" y2="129.5" stroke="#222222" stroke-width="2"/>
+<line x1="470.0" y1="320.0" x2="676.7" y2="244.8" stroke="#d9480f" stroke-width="1.6" stroke-dasharray="6 4"/>
+<line x1="470.0" y1="320.0" x2="638.5" y2="178.6" stroke="#d9480f" stroke-width="1.6" stroke-dasharray="6 4"/>
+<path d="M540.0,320.0 A70,70 0 0 0 505.0,259.4" fill="none" stroke="#222222" stroke-width="1.2"/>
+<text x="568.5" y="307.6" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">20°</text>
+<text x="505.0" y="241.4" text-anchor="end" fill="#222222" font-size="13">60°</text>
+<text x="684.7" y="244.8" text-anchor="start" fill="#d9480f" font-size="13">needs cos 20°</text>
+<text x="640.0" y="375.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">Trisecting 60° needs cos 20°</text>
+</svg>

@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>The FFT butterfly network for 8 points: three stages of pairwise combine steps</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="900" height="420" fill="#ffffff"/>
+<text x="450.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">FFT: log2(8) = 3 Stages of Butterflies</text>
+<line x1="148.0" y1="70.0" x2="322.0" y2="70.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="148.0" y1="70.0" x2="322.0" y2="112.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="148.0" y1="112.0" x2="322.0" y2="112.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="148.0" y1="112.0" x2="322.0" y2="70.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="148.0" y1="154.0" x2="322.0" y2="154.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="148.0" y1="154.0" x2="322.0" y2="196.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="148.0" y1="196.0" x2="322.0" y2="196.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="148.0" y1="196.0" x2="322.0" y2="154.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="148.0" y1="238.0" x2="322.0" y2="238.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="148.0" y1="238.0" x2="322.0" y2="280.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="148.0" y1="280.0" x2="322.0" y2="280.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="148.0" y1="280.0" x2="322.0" y2="238.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="148.0" y1="322.0" x2="322.0" y2="322.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="148.0" y1="322.0" x2="322.0" y2="364.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="148.0" y1="364.0" x2="322.0" y2="364.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="148.0" y1="364.0" x2="322.0" y2="322.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="338.0" y1="70.0" x2="512.0" y2="70.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="338.0" y1="70.0" x2="512.0" y2="154.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="338.0" y1="112.0" x2="512.0" y2="112.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="338.0" y1="112.0" x2="512.0" y2="196.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="338.0" y1="154.0" x2="512.0" y2="154.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="338.0" y1="154.0" x2="512.0" y2="70.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="338.0" y1="196.0" x2="512.0" y2="196.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="338.0" y1="196.0" x2="512.0" y2="112.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="338.0" y1="238.0" x2="512.0" y2="238.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="338.0" y1="238.0" x2="512.0" y2="322.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="338.0" y1="280.0" x2="512.0" y2="280.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="338.0" y1="280.0" x2="512.0" y2="364.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="338.0" y1="322.0" x2="512.0" y2="322.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="338.0" y1="322.0" x2="512.0" y2="238.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="338.0" y1="364.0" x2="512.0" y2="364.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="338.0" y1="364.0" x2="512.0" y2="280.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="528.0" y1="70.0" x2="702.0" y2="70.0" stroke="#d9480f" stroke-width="1.6"/>
+<line x1="528.0" y1="70.0" x2="702.0" y2="238.0" stroke="#d9480f" stroke-width="1.6"/>
+<line x1="528.0" y1="112.0" x2="702.0" y2="112.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="528.0" y1="112.0" x2="702.0" y2="280.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="528.0" y1="154.0" x2="702.0" y2="154.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="528.0" y1="154.0" x2="702.0" y2="322.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="528.0" y1="196.0" x2="702.0" y2="196.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="528.0" y1="196.0" x2="702.0" y2="364.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="528.0" y1="238.0" x2="702.0" y2="238.0" stroke="#d9480f" stroke-width="1.6"/>
+<line x1="528.0" y1="238.0" x2="702.0" y2="70.0" stroke="#d9480f" stroke-width="1.6"/>
+<line x1="528.0" y1="280.0" x2="702.0" y2="280.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="528.0" y1="280.0" x2="702.0" y2="112.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="528.0" y1="322.0" x2="702.0" y2="322.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="528.0" y1="322.0" x2="702.0" y2="154.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="528.0" y1="364.0" x2="702.0" y2="364.0" stroke="#868e96" stroke-width="1.6"/>
+<line x1="528.0" y1="364.0" x2="702.0" y2="196.0" stroke="#868e96" stroke-width="1.6"/>
+<circle cx="140.0" cy="70.0" r="7.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="140.0" cy="112.0" r="7.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="140.0" cy="154.0" r="7.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="140.0" cy="196.0" r="7.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="140.0" cy="238.0" r="7.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="140.0" cy="280.0" r="7.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="140.0" cy="322.0" r="7.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="140.0" cy="364.0" r="7.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="330.0" cy="70.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="330.0" cy="112.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="330.0" cy="154.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="330.0" cy="196.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="330.0" cy="238.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="330.0" cy="280.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="330.0" cy="322.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="330.0" cy="364.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="520.0" cy="70.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="520.0" cy="112.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="520.0" cy="154.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="520.0" cy="196.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="520.0" cy="238.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="520.0" cy="280.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="520.0" cy="322.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="520.0" cy="364.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="710.0" cy="70.0" r="7.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="710.0" cy="112.0" r="7.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="710.0" cy="154.0" r="7.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="710.0" cy="196.0" r="7.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="710.0" cy="238.0" r="7.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="710.0" cy="280.0" r="7.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="710.0" cy="322.0" r="7.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="710.0" cy="364.0" r="7.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<text x="124.0" y="75.0" text-anchor="end" fill="#222222" font-size="13">x[0]</text>
+<text x="726.0" y="75.0" text-anchor="start" fill="#222222" font-size="13">X[0]</text>
+<text x="124.0" y="117.0" text-anchor="end" fill="#222222" font-size="13">x[4]</text>
+<text x="726.0" y="117.0" text-anchor="start" fill="#222222" font-size="13">X[1]</text>
+<text x="124.0" y="159.0" text-anchor="end" fill="#222222" font-size="13">x[2]</text>
+<text x="726.0" y="159.0" text-anchor="start" fill="#222222" font-size="13">X[2]</text>
+<text x="124.0" y="201.0" text-anchor="end" fill="#222222" font-size="13">x[6]</text>
+<text x="726.0" y="201.0" text-anchor="start" fill="#222222" font-size="13">X[3]</text>
+<text x="124.0" y="243.0" text-anchor="end" fill="#222222" font-size="13">x[1]</text>
+<text x="726.0" y="243.0" text-anchor="start" fill="#222222" font-size="13">X[4]</text>
+<text x="124.0" y="285.0" text-anchor="end" fill="#222222" font-size="13">x[5]</text>
+<text x="726.0" y="285.0" text-anchor="start" fill="#222222" font-size="13">X[5]</text>
+<text x="124.0" y="327.0" text-anchor="end" fill="#222222" font-size="13">x[3]</text>
+<text x="726.0" y="327.0" text-anchor="start" fill="#222222" font-size="13">X[6]</text>
+<text x="124.0" y="369.0" text-anchor="end" fill="#222222" font-size="13">x[7]</text>
+<text x="726.0" y="369.0" text-anchor="start" fill="#222222" font-size="13">X[7]</text>
+<text x="235.0" y="50.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">stage 1</text>
+<text x="425.0" y="50.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">stage 2</text>
+<text x="615.0" y="50.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">stage 3</text>
+<text x="450.0" y="405.0" text-anchor="middle" fill="#666666" font-size="12">Each stage does N = 8 small steps. 3 stages: 24 steps instead of 8 × 8 = 64. For N = 1,048,576: 52,429 times fewer.</text>
+<text x="140.0" y="385.0" text-anchor="middle" fill="#666666" font-size="12">inputs in bit-reversed order</text>
+</svg>

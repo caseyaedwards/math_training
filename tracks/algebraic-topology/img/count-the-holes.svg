@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 340" width="780" height="340" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Count the Holes</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="780" height="340" fill="#ffffff"/>
+<text x="390.0" y="28.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">Count the Holes</text>
+<circle cx="130.0" cy="140.0" r="70.0" fill="#f1f3f5" stroke="#222222" stroke-width="2.2"/>
+<text x="130.0" y="245.0" text-anchor="middle" fill="#222222" font-weight="bold">0 holes</text>
+<text x="130.0" y="265.0" text-anchor="middle" fill="#555555" font-size="13">disk, ball, coin</text>
+<circle cx="390.0" cy="140.0" r="70.0" fill="#f1f3f5" stroke="#222222" stroke-width="2.2"/>
+<circle cx="390.0" cy="140.0" r="28.0" fill="#ffffff" stroke="#d9480f" stroke-width="2.4"/>
+<text x="390.0" y="245.0" text-anchor="middle" fill="#222222" font-weight="bold">1 hole</text>
+<text x="390.0" y="265.0" text-anchor="middle" fill="#555555" font-size="13">washer, donut, coffee mug</text>
+<ellipse cx="650.0" cy="140.0" rx="110.0" ry="66.0" fill="#f1f3f5" stroke="#222222" stroke-width="2.2"/>
+<circle cx="605.0" cy="140.0" r="24.0" fill="#ffffff" stroke="#d9480f" stroke-width="2.4"/>
+<circle cx="695.0" cy="140.0" r="24.0" fill="#ffffff" stroke="#d9480f" stroke-width="2.4"/>
+<text x="650.0" y="245.0" text-anchor="middle" fill="#222222" font-weight="bold">2 holes</text>
+<text x="650.0" y="265.0" text-anchor="middle" fill="#555555" font-size="13">pretzel, double donut</text>
+<text x="390.0" y="305.0" text-anchor="middle" fill="#555555" font-size="13">Capital letters, sans-serif: B has 2 holes. A, D, O, P, Q, R have 1. The rest have 0.</text>
+<text x="390.0" y="325.0" text-anchor="middle" fill="#555555" font-size="13">Stretching and bending never change the count. Only cutting or gluing does.</text>
+</svg>

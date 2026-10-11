@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="900" height="500" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Field lattice of Q(sqrt2, sqrt3) matched with the upside-down subgroup lattice of its Galois group</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#444444"/></marker></defs>
+<rect x="0" y="0" width="900" height="500" fill="#ffffff"/>
+<text x="450.0" y="30.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">The Galois Correspondence for ℚ(√2, √3)</text>
+<line x1="220.0" y1="380.0" x2="90.0" y2="240.0" stroke="#222222" stroke-width="1.5"/>
+<text x="145.0" y="315.0" text-anchor="end" fill="#555555" font-size="12">2</text>
+<line x1="220.0" y1="380.0" x2="220.0" y2="240.0" stroke="#222222" stroke-width="1.5"/>
+<text x="230.0" y="315.0" text-anchor="start" fill="#555555" font-size="12">2</text>
+<line x1="220.0" y1="380.0" x2="350.0" y2="240.0" stroke="#222222" stroke-width="1.5"/>
+<text x="295.0" y="315.0" text-anchor="start" fill="#555555" font-size="12">2</text>
+<line x1="90.0" y1="240.0" x2="220.0" y2="100.0" stroke="#222222" stroke-width="1.5"/>
+<text x="145.0" y="175.0" text-anchor="end" fill="#555555" font-size="12">2</text>
+<line x1="220.0" y1="240.0" x2="220.0" y2="100.0" stroke="#222222" stroke-width="1.5"/>
+<text x="230.0" y="175.0" text-anchor="start" fill="#555555" font-size="12">2</text>
+<line x1="350.0" y1="240.0" x2="220.0" y2="100.0" stroke="#222222" stroke-width="1.5"/>
+<text x="295.0" y="175.0" text-anchor="start" fill="#555555" font-size="12">2</text>
+<line x1="680.0" y1="380.0" x2="550.0" y2="240.0" stroke="#222222" stroke-width="1.5"/>
+<text x="605.0" y="315.0" text-anchor="end" fill="#555555" font-size="12">2</text>
+<line x1="680.0" y1="380.0" x2="680.0" y2="240.0" stroke="#222222" stroke-width="1.5"/>
+<text x="690.0" y="315.0" text-anchor="start" fill="#555555" font-size="12">2</text>
+<line x1="680.0" y1="380.0" x2="810.0" y2="240.0" stroke="#222222" stroke-width="1.5"/>
+<text x="755.0" y="315.0" text-anchor="start" fill="#555555" font-size="12">2</text>
+<line x1="550.0" y1="240.0" x2="680.0" y2="100.0" stroke="#222222" stroke-width="1.5"/>
+<text x="605.0" y="175.0" text-anchor="end" fill="#555555" font-size="12">2</text>
+<line x1="680.0" y1="240.0" x2="680.0" y2="100.0" stroke="#222222" stroke-width="1.5"/>
+<text x="690.0" y="175.0" text-anchor="start" fill="#555555" font-size="12">2</text>
+<line x1="810.0" y1="240.0" x2="680.0" y2="100.0" stroke="#222222" stroke-width="1.5"/>
+<text x="755.0" y="175.0" text-anchor="start" fill="#555555" font-size="12">2</text>
+<rect x="173.7" y="85.0" width="92.6" height="30.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="220.0" y="105.0" text-anchor="middle" fill="#222222" font-size="14">ℚ(√2, √3)</text>
+<rect x="59.4" y="225.0" width="61.2" height="30.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="90.0" y="245.0" text-anchor="middle" fill="#222222" font-size="14">ℚ(√2)</text>
+<rect x="189.4" y="225.0" width="61.2" height="30.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="220.0" y="245.0" text-anchor="middle" fill="#222222" font-size="14">ℚ(√3)</text>
+<rect x="319.4" y="225.0" width="61.2" height="30.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="350.0" y="245.0" text-anchor="middle" fill="#222222" font-size="14">ℚ(√6)</text>
+<rect x="205.1" y="365.0" width="29.8" height="30.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="220.0" y="385.0" text-anchor="middle" fill="#222222" font-size="14">ℚ</text>
+<rect x="653.3" y="85.0" width="53.4" height="30.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="680.0" y="105.0" text-anchor="middle" fill="#222222" font-size="14">{id}</text>
+<rect x="511.6" y="225.0" width="76.9" height="30.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="550.0" y="245.0" text-anchor="middle" fill="#222222" font-size="14">{id, τ}</text>
+<rect x="641.6" y="225.0" width="76.9" height="30.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="680.0" y="245.0" text-anchor="middle" fill="#222222" font-size="14">{id, σ}</text>
+<rect x="767.6" y="225.0" width="84.7" height="30.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="810.0" y="245.0" text-anchor="middle" fill="#222222" font-size="14">{id, στ}</text>
+<rect x="614.1" y="365.0" width="131.8" height="30.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="680.0" y="385.0" text-anchor="middle" fill="#222222" font-size="14">{id, σ, τ, στ}</text>
+<text x="450.0" y="462.0" text-anchor="middle" fill="#555555" font-size="13">Each field sits in the same spot as the subgroup that fixes it. Big field, small group.</text>
+<text x="450.0" y="482.0" text-anchor="middle" fill="#555555" font-size="13">σ flips √2, τ flips √3. Every edge has degree 2 on the left and index 2 on the right.</text>
+<text x="220.0" y="60.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">intermediate fields</text>
+<text x="680.0" y="60.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">subgroups that fix them</text>
+<text x="98.0" y="292.0" text-anchor="end" fill="#d9480f" font-size="13" font-weight="bold">fixed by τ</text>
+<text x="560.0" y="292.0" text-anchor="end" fill="#d9480f" font-size="13" font-weight="bold">fixes ℚ(√2)</text>
+<line x1="271.3" y1="100.0" x2="648.3" y2="100.0" stroke="#868e96" stroke-width="1.2" stroke-dasharray="6 4" marker-end="url(#ahg)"/>
+<line x1="239.9" y1="380.0" x2="609.1" y2="380.0" stroke="#868e96" stroke-width="1.2" stroke-dasharray="6 4" marker-end="url(#ahg)"/>
+<text x="450.0" y="92.0" text-anchor="middle" fill="#555555" font-size="12">fixes</text>
+<text x="450.0" y="372.0" text-anchor="middle" fill="#555555" font-size="12">fixes</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 360" width="860" height="360" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>A linear functional's level sets are parallel lines perpendicular to one vector g</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="860" height="360" fill="#ffffff"/>
+<text x="430.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Riesz: Every Functional Is an Inner Product with Some g</text>
+<line x1="207.7" y1="330.0" x2="45.7" y2="60.0" stroke="#868e96" stroke-width="1.3" stroke-dasharray="5 4"/>
+<text x="62.7" y="78.3" text-anchor="start" fill="#666666" font-size="12">φ = -2</text>
+<line x1="274.3" y1="330.0" x2="112.3" y2="60.0" stroke="#868e96" stroke-width="1.3" stroke-dasharray="5 4"/>
+<text x="129.3" y="78.3" text-anchor="start" fill="#666666" font-size="12">φ = -1</text>
+<line x1="341.0" y1="330.0" x2="179.0" y2="60.0" stroke="#868e96" stroke-width="1.3"/>
+<text x="196.0" y="78.3" text-anchor="start" fill="#666666" font-size="12">φ = 0</text>
+<line x1="407.7" y1="330.0" x2="245.7" y2="60.0" stroke="#d9480f" stroke-width="2.2"/>
+<text x="262.7" y="78.3" text-anchor="start" fill="#d9480f" font-size="12">φ = 1</text>
+<line x1="474.3" y1="330.0" x2="312.3" y2="60.0" stroke="#868e96" stroke-width="1.3" stroke-dasharray="5 4"/>
+<text x="329.3" y="78.3" text-anchor="start" fill="#666666" font-size="12">φ = 2</text>
+<line x1="260.0" y1="195.0" x2="326.7" y2="155.0" stroke="#222222" stroke-width="3" marker-end="url(#ah)"/>
+<text x="334.7" y="173.0" text-anchor="start" fill="#222222" font-size="14" font-weight="bold">g</text>
+<circle cx="260.0" cy="195.0" r="3.5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<rect x="500.0" y="80.0" width="340.0" height="210.0" rx="6" fill="#f1f3f5" stroke="#222222" stroke-width="1.5"/>
+<text x="670.0" y="108.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">functional φ: vector in, number out</text>
+<text x="670.0" y="134.0" text-anchor="middle" fill="#222222" font-size="13">linear: φ(au + bv) = aφ(u) + bφ(v)</text>
+<text x="670.0" y="160.0" text-anchor="middle" fill="#222222" font-size="13">Riesz: in a Hilbert space,</text>
+<text x="670.0" y="186.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">φ(v) = &lt;g, v&gt; for exactly one g</text>
+<text x="670.0" y="212.0" text-anchor="middle" fill="#222222" font-size="13">examples on functions:</text>
+<text x="670.0" y="238.0" text-anchor="middle" fill="#222222" font-size="13">average over [0,1]: g = 1</text>
+<text x="670.0" y="264.0" text-anchor="middle" fill="#222222" font-size="13">weighted average: g = weight</text>
+</svg>

@@ -1,0 +1,15 @@
+What is a parametrized curve?	A moving point: a rule \( r(t) \) that gives a position for each time \( t \). Its derivative \( r'(t) \) is the velocity, tangent to the path.	math::tracks::differential-geometry
+Define curvature of a curve.	How fast the direction turns per unit length. \( \kappa = 1/R \), where \( R \) is the radius of the best-fit (osculating) circle.	math::tracks::differential-geometry
+Curvature of the graph \( y = f(x) \)?	\( \kappa = |f''| / (1 + f'^2)^{3/2} \)	math::tracks::differential-geometry
+What does torsion measure?	How fast a space curve twists out of its own plane. A flat curve has torsion 0.	math::tracks::differential-geometry
+Curvature and torsion of the helix \( (a\cos t, a\sin t, bt) \)?	\( \kappa = a/(a^2+b^2) \), \( \tau = b/(a^2+b^2) \)	math::tracks::differential-geometry
+What are the principal curvatures?	The largest and smallest bending among all normal slices at a point. Their directions are at right angles.	math::tracks::differential-geometry
+Define Gaussian curvature.	\( K = \kappa_1 \kappa_2 \), the product of the principal curvatures.	math::tracks::differential-geometry
+Sign of \( K \) for sphere, cylinder, saddle?	Sphere \( K > 0 \) (\( 1/R^2 \)), cylinder \( K = 0 \), saddle \( K < 0 \).	math::tracks::differential-geometry
+State the Theorema Egregium.	Gaussian curvature depends only on distances inside the surface. Bending without stretching never changes \( K \).	math::tracks::differential-geometry
+Why does curling a pizza crust keep the tip up?	The slice has \( K = 0 \). Bending it across the width forces the lengthwise direction to stay straight, because \( \kappa_1 \kappa_2 \) must remain 0.	math::tracks::differential-geometry
+Metric of a sphere of radius \( R \)?	\( ds^2 = R^2 d\varphi^2 + R^2 \cos^2\varphi \, d\lambda^2 \) (latitude \( \varphi \), longitude \( \lambda \)).	math::tracks::differential-geometry
+What is a geodesic?	The straightest possible path on a surface. Short geodesics are shortest paths. On a sphere: great circles.	math::tracks::differential-geometry
+State Gauss-Bonnet (triangle and closed surface).	Triangle: angle sum minus \( \pi \) equals \( \iint K\,dA \). Closed surface: \( \iint K\,dA = 2\pi\chi \).	math::tracks::differential-geometry
+What is a manifold?	A space that looks like flat \( \mathbb{R}^n \) near every point. It is described by an atlas of overlapping charts.	math::tracks::differential-geometry
+Why do GPS clocks need relativity?	Weaker gravity makes them gain about 45.7 microseconds per day, speed makes them lose about 7.2. Net +38.5, about 11.5 km of error per day uncorrected.	math::tracks::differential-geometry

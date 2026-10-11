@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" width="640" height="380" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>A Curve Is a Moving Point</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="640" height="380" fill="#ffffff"/>
+<text x="320.0" y="28.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">A Curve Is a Moving Point</text>
+<line x1="170.0" y1="210.0" x2="470.0" y2="210.0" stroke="#868e96" stroke-width="1.2" marker-end="url(#ahg)"/>
+<line x1="320.0" y1="360.0" x2="320.0" y2="60.0" stroke="#868e96" stroke-width="1.2" marker-end="url(#ahg)"/>
+<text x="466.0" y="202.0" text-anchor="end" fill="#555555" font-size="13" font-style="italic">x</text>
+<text x="328.0" y="72.0" text-anchor="start" fill="#555555" font-size="13" font-style="italic">y</text>
+<path d="M435.4,210.0 L435.2,202.8 L434.5,195.5 L433.3,188.4 L431.8,181.3 L429.7,174.3 L427.3,167.5 L424.4,160.9 L421.1,154.4 L417.4,148.2 L413.3,142.2 L408.9,136.5 L404.1,131.0 L399.0,125.9 L393.5,121.1 L387.8,116.7 L381.8,112.6 L375.6,108.9 L369.1,105.6 L362.5,102.7 L355.7,100.3 L348.7,98.2 L341.6,96.7 L334.5,95.5 L327.2,94.8 L320.0,94.6 L312.8,94.8 L305.5,95.5 L298.4,96.7 L291.3,98.2 L284.3,100.3 L277.5,102.7 L270.9,105.6 L264.4,108.9 L258.2,112.6 L252.2,116.7 L246.5,121.1 L241.0,125.9 L235.9,131.0 L231.1,136.5 L226.7,142.2 L222.6,148.2 L218.9,154.4 L215.6,160.9 L212.7,167.5 L210.3,174.3 L208.2,181.3 L206.7,188.4 L205.5,195.5 L204.8,202.8 L204.6,210.0 L204.8,217.2 L205.5,224.5 L206.7,231.6 L208.2,238.7 L210.3,245.7 L212.7,252.5 L215.6,259.1 L218.9,265.6 L222.6,271.8 L226.7,277.8 L231.1,283.5 L235.9,289.0 L241.0,294.1 L246.5,298.9 L252.2,303.3 L258.2,307.4 L264.4,311.1 L270.9,314.4 L277.5,317.3 L284.3,319.7 L291.3,321.8 L298.4,323.3 L305.5,324.5 L312.8,325.2 L320.0,325.4 L327.2,325.2 L334.5,324.5 L341.6,323.3 L348.7,321.8 L355.7,319.7 L362.5,317.3 L369.1,314.4 L375.6,311.1 L381.8,307.4 L387.8,303.3 L393.5,298.9 L399.0,294.1 L404.1,289.0 L408.9,283.5 L413.3,277.8 L417.4,271.8 L421.1,265.6 L424.4,259.1 L427.3,252.5 L429.7,245.7 L431.8,238.7 L433.3,231.6 L434.5,224.5 L435.2,217.2 L435.4,210.0" fill="none" stroke="#222222" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="435.4" cy="210.0" r="5" fill="#222222"/>
+<line x1="435.4" y1="210.0" x2="435.4" y2="152.3" stroke="#d9480f" stroke-width="2.6" marker-end="url(#aha)"/>
+<line x1="320.0" y1="210.0" x2="435.4" y2="210.0" stroke="#868e96" stroke-width="1.2" stroke-dasharray="4,3"/>
+<circle cx="377.7" cy="110.1" r="5" fill="#222222"/>
+<line x1="377.7" y1="110.1" x2="327.7" y2="81.2" stroke="#d9480f" stroke-width="2.6" marker-end="url(#aha)"/>
+<line x1="320.0" y1="210.0" x2="377.7" y2="110.1" stroke="#868e96" stroke-width="1.2" stroke-dasharray="4,3"/>
+<circle cx="243.6" cy="123.5" r="5" fill="#222222"/>
+<line x1="243.6" y1="123.5" x2="200.4" y2="161.7" stroke="#d9480f" stroke-width="2.6" marker-end="url(#aha)"/>
+<line x1="320.0" y1="210.0" x2="243.6" y2="123.5" stroke="#868e96" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="445.4" y="230.0" text-anchor="start" fill="#222222" font-size="13">t = 0</text>
+<text x="389.7" y="102.1" text-anchor="start" fill="#222222" font-size="13">t = π/3</text>
+<text x="505.0" y="120.0" text-anchor="start" fill="#555555" font-size="13">position</text>
+<text x="505.0" y="138.0" text-anchor="start" fill="#222222" font-size="13">r(t) = (2 cos t, 2 sin t)</text>
+<text x="505.0" y="180.0" text-anchor="start" fill="#d9480f" font-size="13">velocity (orange)</text>
+<text x="505.0" y="198.0" text-anchor="start" fill="#222222" font-size="13">r′(t) = (−2 sin t, 2 cos t)</text>
+<text x="505.0" y="240.0" text-anchor="start" fill="#222222" font-size="13">speed = |r′(t)| = 2</text>
+<text x="505.0" y="280.0" text-anchor="start" fill="#555555" font-size="13">Velocity is always</text>
+<text x="505.0" y="298.0" text-anchor="start" fill="#555555" font-size="13">tangent to the path.</text>
+<text x="320.0" y="372.0" text-anchor="middle" fill="#555555" font-size="12">Arrows drawn at half length. The dashed lines are position vectors.</text>
+</svg>

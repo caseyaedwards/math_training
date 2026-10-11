@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 340" width="680" height="340" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>A game as a grid: two coffee shops pick a price</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="680" height="340" fill="#ffffff"/>
+<text x="340.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">A Game Is a Grid of Payoffs</text>
+<text x="270.0" y="56.0" text-anchor="middle" fill="#222222" font-weight="bold">Shop B chooses a column</text>
+<text x="58.0" y="175.0" text-anchor="middle" fill="#222222" font-weight="bold" transform="rotate(-90 58.0 175.0)">Shop A chooses a row</text>
+<text x="210.0" y="80.0" text-anchor="middle" fill="#666666">High</text>
+<text x="330.0" y="80.0" text-anchor="middle" fill="#666666">Low</text>
+<text x="140.0" y="135.0" text-anchor="end" fill="#666666">High</text>
+<text x="140.0" y="215.0" text-anchor="end" fill="#666666">Low</text>
+<rect x="150.0" y="90.0" width="120.0" height="80.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<rect x="270.0" y="90.0" width="120.0" height="80.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<rect x="150.0" y="170.0" width="120.0" height="80.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<rect x="270.0" y="170.0" width="120.0" height="80.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="210.0" y="136.0" text-anchor="middle" font-size="18"><tspan fill="#222222" font-weight="bold">6</tspan><tspan fill="#666666">,  </tspan><tspan fill="#222222">6</tspan></text>
+<text x="330.0" y="136.0" text-anchor="middle" font-size="18"><tspan fill="#222222" font-weight="bold">2</tspan><tspan fill="#666666">,  </tspan><tspan fill="#222222">8</tspan></text>
+<text x="210.0" y="216.0" text-anchor="middle" font-size="18"><tspan fill="#222222" font-weight="bold">8</tspan><tspan fill="#666666">,  </tspan><tspan fill="#222222">2</tspan></text>
+<text x="330.0" y="216.0" text-anchor="middle" font-size="18"><tspan fill="#222222" font-weight="bold">4</tspan><tspan fill="#666666">,  </tspan><tspan fill="#222222">4</tspan></text>
+<rect x="154.0" y="174.0" width="112.0" height="72.0" rx="0" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<line x1="210.0" y1="268.0" x2="210.0" y2="254.0" stroke="#d9480f" stroke-width="1.5" marker-end="url(#aha)"/>
+<text x="170.0" y="284.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">A plays Low, B plays High: A earns 8, B earns 2.</text>
+<text x="420.0" y="92.0" text-anchor="start" fill="#222222" font-size="13">Players: Shop A, Shop B</text>
+<text x="420.0" y="114.0" text-anchor="start" fill="#222222" font-size="13">Choices: High or Low price</text>
+<text x="420.0" y="136.0" text-anchor="start" fill="#222222" font-size="13">Payoffs: profit, $100s per day</text>
+<text x="420" y="170" text-anchor="start" font-size="13"><tspan fill="#222222" font-weight="bold">first</tspan><tspan fill="#222222"> number: row player (A)</tspan></text>
+<text x="420.0" y="190.0" text-anchor="start" fill="#222222" font-size="13">second number: column player (B)</text>
+<text x="340.0" y="325.0" text-anchor="middle" fill="#666666" font-size="13">Both choose at the same time. Neither sees the other first.</text>
+</svg>

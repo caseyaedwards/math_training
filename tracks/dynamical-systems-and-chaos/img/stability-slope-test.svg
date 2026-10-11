@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 790" width="820" height="790" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Fixed point stability depends on the slope</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="820" height="790" fill="#ffffff"/>
+<text x="410.0" y="28.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">The Slope Test: |f'(x*)| Less Than 1 Pulls In, Greater Than 1 Pushes Out</text>
+<line x1="80.0" y1="80.0" x2="80.0" y2="360.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="220.0" y1="80.0" x2="220.0" y2="360.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="360.0" y1="80.0" x2="360.0" y2="360.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="80.0" y1="360.0" x2="360.0" y2="360.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="80.0" y1="220.0" x2="360.0" y2="220.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="80.0" y1="80.0" x2="360.0" y2="80.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="80.0" y1="360.0" x2="360.0" y2="360.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="80.0" y1="360.0" x2="80.0" y2="80.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="80.0" y1="360.0" x2="80.0" y2="364.0" stroke="#222222" stroke-width="1.5"/>
+<text x="80.0" y="377.0" text-anchor="middle" fill="#666666" font-size="12">0</text>
+<line x1="220.0" y1="360.0" x2="220.0" y2="364.0" stroke="#222222" stroke-width="1.5"/>
+<text x="220.0" y="377.0" text-anchor="middle" fill="#666666" font-size="12">0.5</text>
+<line x1="360.0" y1="360.0" x2="360.0" y2="364.0" stroke="#222222" stroke-width="1.5"/>
+<text x="360.0" y="377.0" text-anchor="middle" fill="#666666" font-size="12">1</text>
+<line x1="76.0" y1="360.0" x2="80.0" y2="360.0" stroke="#222222" stroke-width="1.5"/>
+<text x="73.0" y="364.0" text-anchor="end" fill="#666666" font-size="12">0</text>
+<line x1="76.0" y1="220.0" x2="80.0" y2="220.0" stroke="#222222" stroke-width="1.5"/>
+<text x="73.0" y="224.0" text-anchor="end" fill="#666666" font-size="12">0.5</text>
+<line x1="76.0" y1="80.0" x2="80.0" y2="80.0" stroke="#222222" stroke-width="1.5"/>
+<text x="73.0" y="84.0" text-anchor="end" fill="#666666" font-size="12">1</text>
+<text x="220.0" y="68.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">slope 0.5: staircase in, stable</text>
+<line x1="80.0" y1="360.0" x2="360.0" y2="80.0" stroke="#868e96" stroke-width="1.5" stroke-dasharray="6 4"/>
+<polyline points="80.0,290.0 360.0,150.0" fill="none" stroke="#222222" stroke-width="2.5" stroke-linejoin="round"/>
+<polyline points="346.0,360.0 346.0,157.0 283.0,157.0 283.0,188.5 251.5,188.5 251.5,204.2 235.8,204.2 235.8,212.1 227.9,212.1 227.9,216.1 223.9,216.1 223.9,218.0 222.0,218.0 222.0,219.0 221.0,219.0 221.0,219.5 220.5,219.5 220.5,219.8 220.2,219.8 220.2,219.9 220.1,219.9 220.1,219.9 220.1,219.9 220.1,220.0 220.0,220.0" fill="none" stroke="#d9480f" stroke-width="1.6" stroke-linejoin="round"/>
+<circle cx="220.0" cy="220.0" r="5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<line x1="480.0" y1="80.0" x2="480.0" y2="360.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="620.0" y1="80.0" x2="620.0" y2="360.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="760.0" y1="80.0" x2="760.0" y2="360.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="480.0" y1="360.0" x2="760.0" y2="360.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="480.0" y1="220.0" x2="760.0" y2="220.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="480.0" y1="80.0" x2="760.0" y2="80.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="480.0" y1="360.0" x2="760.0" y2="360.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="480.0" y1="360.0" x2="480.0" y2="80.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="480.0" y1="360.0" x2="480.0" y2="364.0" stroke="#222222" stroke-width="1.5"/>
+<text x="480.0" y="377.0" text-anchor="middle" fill="#666666" font-size="12">0</text>
+<line x1="620.0" y1="360.0" x2="620.0" y2="364.0" stroke="#222222" stroke-width="1.5"/>
+<text x="620.0" y="377.0" text-anchor="middle" fill="#666666" font-size="12">0.5</text>
+<line x1="760.0" y1="360.0" x2="760.0" y2="364.0" stroke="#222222" stroke-width="1.5"/>
+<text x="760.0" y="377.0" text-anchor="middle" fill="#666666" font-size="12">1</text>
+<line x1="476.0" y1="360.0" x2="480.0" y2="360.0" stroke="#222222" stroke-width="1.5"/>
+<text x="473.0" y="364.0" text-anchor="end" fill="#666666" font-size="12">0</text>
+<line x1="476.0" y1="220.0" x2="480.0" y2="220.0" stroke="#222222" stroke-width="1.5"/>
+<text x="473.0" y="224.0" text-anchor="end" fill="#666666" font-size="12">0.5</text>
+<line x1="476.0" y1="80.0" x2="480.0" y2="80.0" stroke="#222222" stroke-width="1.5"/>
+<text x="473.0" y="84.0" text-anchor="end" fill="#666666" font-size="12">1</text>
+<text x="620.0" y="68.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">slope -0.5: spiral in, stable</text>
+<line x1="480.0" y1="360.0" x2="760.0" y2="80.0" stroke="#868e96" stroke-width="1.5" stroke-dasharray="6 4"/>
+<polyline points="480.0,150.0 760.0,290.0" fill="none" stroke="#222222" stroke-width="2.5" stroke-linejoin="round"/>
+<polyline points="746.0,360.0 746.0,283.0 557.0,283.0 557.0,188.5 651.5,188.5 651.5,235.8 604.2,235.8 604.2,212.1 627.9,212.1 627.9,223.9 616.1,223.9 616.1,218.0 622.0,218.0 622.0,221.0 619.0,221.0 619.0,219.5 620.5,219.5 620.5,220.2 619.8,220.2 619.8,219.9 620.1,219.9 620.1,220.1 619.9,220.1 619.9,220.0 620.0,220.0" fill="none" stroke="#d9480f" stroke-width="1.6" stroke-linejoin="round"/>
+<circle cx="620.0" cy="220.0" r="5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<line x1="80.0" y1="430.0" x2="80.0" y2="710.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="220.0" y1="430.0" x2="220.0" y2="710.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="360.0" y1="430.0" x2="360.0" y2="710.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="80.0" y1="710.0" x2="360.0" y2="710.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="80.0" y1="570.0" x2="360.0" y2="570.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="80.0" y1="430.0" x2="360.0" y2="430.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="80.0" y1="710.0" x2="360.0" y2="710.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="80.0" y1="710.0" x2="80.0" y2="430.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="80.0" y1="710.0" x2="80.0" y2="714.0" stroke="#222222" stroke-width="1.5"/>
+<text x="80.0" y="727.0" text-anchor="middle" fill="#666666" font-size="12">0</text>
+<line x1="220.0" y1="710.0" x2="220.0" y2="714.0" stroke="#222222" stroke-width="1.5"/>
+<text x="220.0" y="727.0" text-anchor="middle" fill="#666666" font-size="12">0.5</text>
+<line x1="360.0" y1="710.0" x2="360.0" y2="714.0" stroke="#222222" stroke-width="1.5"/>
+<text x="360.0" y="727.0" text-anchor="middle" fill="#666666" font-size="12">1</text>
+<line x1="76.0" y1="710.0" x2="80.0" y2="710.0" stroke="#222222" stroke-width="1.5"/>
+<text x="73.0" y="714.0" text-anchor="end" fill="#666666" font-size="12">0</text>
+<line x1="76.0" y1="570.0" x2="80.0" y2="570.0" stroke="#222222" stroke-width="1.5"/>
+<text x="73.0" y="574.0" text-anchor="end" fill="#666666" font-size="12">0.5</text>
+<line x1="76.0" y1="430.0" x2="80.0" y2="430.0" stroke="#222222" stroke-width="1.5"/>
+<text x="73.0" y="434.0" text-anchor="end" fill="#666666" font-size="12">1</text>
+<text x="220.0" y="418.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">slope 1.5: staircase out, unstable</text>
+<line x1="80.0" y1="710.0" x2="360.0" y2="430.0" stroke="#868e96" stroke-width="1.5" stroke-dasharray="6 4"/>
+<polyline points="126.7,710.0 313.3,430.0" fill="none" stroke="#222222" stroke-width="2.5" stroke-linejoin="round"/>
+<polyline points="236.8,710.0 236.8,544.8 245.2,544.8 245.2,532.2 257.8,532.2 257.8,513.3 276.7,513.3 276.7,484.9 305.1,484.9 305.1,442.4 347.6,442.4" fill="none" stroke="#d9480f" stroke-width="1.6" stroke-linejoin="round"/>
+<circle cx="220.0" cy="570.0" r="5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<line x1="480.0" y1="430.0" x2="480.0" y2="710.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="620.0" y1="430.0" x2="620.0" y2="710.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="760.0" y1="430.0" x2="760.0" y2="710.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="480.0" y1="710.0" x2="760.0" y2="710.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="480.0" y1="570.0" x2="760.0" y2="570.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="480.0" y1="430.0" x2="760.0" y2="430.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="480.0" y1="710.0" x2="760.0" y2="710.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="480.0" y1="710.0" x2="480.0" y2="430.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="480.0" y1="710.0" x2="480.0" y2="714.0" stroke="#222222" stroke-width="1.5"/>
+<text x="480.0" y="727.0" text-anchor="middle" fill="#666666" font-size="12">0</text>
+<line x1="620.0" y1="710.0" x2="620.0" y2="714.0" stroke="#222222" stroke-width="1.5"/>
+<text x="620.0" y="727.0" text-anchor="middle" fill="#666666" font-size="12">0.5</text>
+<line x1="760.0" y1="710.0" x2="760.0" y2="714.0" stroke="#222222" stroke-width="1.5"/>
+<text x="760.0" y="727.0" text-anchor="middle" fill="#666666" font-size="12">1</text>
+<line x1="476.0" y1="710.0" x2="480.0" y2="710.0" stroke="#222222" stroke-width="1.5"/>
+<text x="473.0" y="714.0" text-anchor="end" fill="#666666" font-size="12">0</text>
+<line x1="476.0" y1="570.0" x2="480.0" y2="570.0" stroke="#222222" stroke-width="1.5"/>
+<text x="473.0" y="574.0" text-anchor="end" fill="#666666" font-size="12">0.5</text>
+<line x1="476.0" y1="430.0" x2="480.0" y2="430.0" stroke="#222222" stroke-width="1.5"/>
+<text x="473.0" y="434.0" text-anchor="end" fill="#666666" font-size="12">1</text>
+<text x="620.0" y="418.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">slope -1.5: spiral out, unstable</text>
+<line x1="480.0" y1="710.0" x2="760.0" y2="430.0" stroke="#868e96" stroke-width="1.5" stroke-dasharray="6 4"/>
+<polyline points="526.7,430.0 713.3,710.0" fill="none" stroke="#222222" stroke-width="2.5" stroke-linejoin="round"/>
+<polyline points="631.2,710.0 631.2,586.8 603.2,586.8 603.2,544.8 645.2,544.8 645.2,607.8 582.2,607.8 582.2,513.3 676.7,513.3 676.7,655.1 534.9,655.1 534.9,442.4 747.6,442.4" fill="none" stroke="#d9480f" stroke-width="1.6" stroke-linejoin="round"/>
+<circle cx="620.0" cy="570.0" r="5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<text x="410.0" y="772.0" text-anchor="middle" fill="#666666" font-size="14">All four maps fix x* = 0.5. Only the size of the slope decides who comes home.</text>
+</svg>

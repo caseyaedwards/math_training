@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 340" width="780" height="340" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Currying: a two-input function as a function that returns a function</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="780" height="340" fill="#ffffff"/>
+<text x="390.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Currying: a two-input function as a function that returns a function</text>
+<text x="170.0" y="56.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold" xml:space="preserve">f : A × B → C</text>
+<text x="560.0" y="56.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold" xml:space="preserve">curry(f) : A → (B → C)</text>
+<text x="135.0" y="82.0" text-anchor="middle" fill="#555555" font-size="13" xml:space="preserve">b1</text>
+<text x="185.0" y="82.0" text-anchor="middle" fill="#555555" font-size="13" xml:space="preserve">b2</text>
+<text x="235.0" y="82.0" text-anchor="middle" fill="#555555" font-size="13" xml:space="preserve">b3</text>
+<text x="100.0" y="113.0" text-anchor="end" fill="#555555" font-size="13" xml:space="preserve">a1</text>
+<rect x="110" y="90" width="50" height="36" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="135.0" y="113.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">0</text>
+<rect x="160" y="90" width="50" height="36" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="185.0" y="113.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">1</text>
+<rect x="210" y="90" width="50" height="36" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="235.0" y="113.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">1</text>
+<text x="100.0" y="149.0" text-anchor="end" fill="#555555" font-size="13" xml:space="preserve">a2</text>
+<rect x="110" y="126" width="50" height="36" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="135.0" y="149.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">1</text>
+<rect x="160" y="126" width="50" height="36" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="185.0" y="149.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">0</text>
+<rect x="210" y="126" width="50" height="36" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="235.0" y="149.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">1</text>
+<text x="185.0" y="190.0" text-anchor="middle" fill="#555555" font-size="13" xml:space="preserve">one table: 6 cells</text>
+<line x1="290.0" y1="126.0" x2="370.0" y2="126.0" stroke="#d9480f" stroke-width="2" marker-end="url(#aha)"/>
+<text x="330.0" y="115.0" text-anchor="middle" fill="#d9480f" font-size="14" xml:space="preserve">curry</text>
+<rect x="388.0" y="85.0" width="44.0" height="30.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="410.0" y="105.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">a1</text>
+<line x1="434.0" y1="100.0" x2="468.0" y2="100.0" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<rect x="499.4" y="85.0" width="161.1" height="30.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="580.0" y="105.0" text-anchor="middle" fill="#222222" font-size="13" xml:space="preserve">[b1→0, b2→1, b3→1]</text>
+<rect x="388.0" y="137.0" width="44.0" height="30.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="410.0" y="157.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">a2</text>
+<line x1="434.0" y1="152.0" x2="468.0" y2="152.0" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<rect x="499.4" y="137.0" width="161.1" height="30.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="580.0" y="157.0" text-anchor="middle" fill="#222222" font-size="13" xml:space="preserve">[b1→1, b2→0, b3→1]</text>
+<text x="560.0" y="190.0" text-anchor="middle" fill="#555555" font-size="13" xml:space="preserve">each a returns one row: a function B → C</text>
+<text x="390.0" y="245.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold" xml:space="preserve">count with |A| = 2, |B| = 3, |C| = 2:   2^(2·3) = 64 = (2^3)^2</text>
+<text x="390.0" y="275.0" text-anchor="middle" fill="#222222" font-size="13" xml:space="preserve">Go:  func(a A, b B) C   ↔   func(a A) func(b B) C</text>
+<text x="390.0" y="303.0" text-anchor="middle" fill="#555555" font-size="13" xml:space="preserve">same information, different packaging</text>
+</svg>

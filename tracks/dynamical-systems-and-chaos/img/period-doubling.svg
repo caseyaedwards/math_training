@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 520" width="820" height="520" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Period doubling: a 2-cycle cobweb and the shrinking gaps</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="820" height="520" fill="#ffffff"/>
+<text x="410.0" y="28.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">Period Doubling: Cobweb at r = 3.2 and the Shrinking Gaps</text>
+<line x1="70.0" y1="70.0" x2="70.0" y2="370.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="145.0" y1="70.0" x2="145.0" y2="370.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="220.0" y1="70.0" x2="220.0" y2="370.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="295.0" y1="70.0" x2="295.0" y2="370.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="370.0" y1="70.0" x2="370.0" y2="370.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="70.0" y1="370.0" x2="370.0" y2="370.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="70.0" y1="295.0" x2="370.0" y2="295.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="70.0" y1="220.0" x2="370.0" y2="220.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="70.0" y1="145.0" x2="370.0" y2="145.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="70.0" y1="70.0" x2="370.0" y2="70.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="70.0" y1="370.0" x2="370.0" y2="370.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="70.0" y1="370.0" x2="70.0" y2="70.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="70.0" y1="370.0" x2="70.0" y2="374.0" stroke="#222222" stroke-width="1.5"/>
+<text x="70.0" y="387.0" text-anchor="middle" fill="#666666" font-size="12">0</text>
+<line x1="145.0" y1="370.0" x2="145.0" y2="374.0" stroke="#222222" stroke-width="1.5"/>
+<text x="145.0" y="387.0" text-anchor="middle" fill="#666666" font-size="12">0.25</text>
+<line x1="220.0" y1="370.0" x2="220.0" y2="374.0" stroke="#222222" stroke-width="1.5"/>
+<text x="220.0" y="387.0" text-anchor="middle" fill="#666666" font-size="12">0.5</text>
+<line x1="295.0" y1="370.0" x2="295.0" y2="374.0" stroke="#222222" stroke-width="1.5"/>
+<text x="295.0" y="387.0" text-anchor="middle" fill="#666666" font-size="12">0.75</text>
+<line x1="370.0" y1="370.0" x2="370.0" y2="374.0" stroke="#222222" stroke-width="1.5"/>
+<text x="370.0" y="387.0" text-anchor="middle" fill="#666666" font-size="12">1</text>
+<line x1="66.0" y1="370.0" x2="70.0" y2="370.0" stroke="#222222" stroke-width="1.5"/>
+<text x="63.0" y="374.0" text-anchor="end" fill="#666666" font-size="12">0</text>
+<line x1="66.0" y1="295.0" x2="70.0" y2="295.0" stroke="#222222" stroke-width="1.5"/>
+<text x="63.0" y="299.0" text-anchor="end" fill="#666666" font-size="12">0.25</text>
+<line x1="66.0" y1="220.0" x2="70.0" y2="220.0" stroke="#222222" stroke-width="1.5"/>
+<text x="63.0" y="224.0" text-anchor="end" fill="#666666" font-size="12">0.5</text>
+<line x1="66.0" y1="145.0" x2="70.0" y2="145.0" stroke="#222222" stroke-width="1.5"/>
+<text x="63.0" y="149.0" text-anchor="end" fill="#666666" font-size="12">0.75</text>
+<line x1="66.0" y1="70.0" x2="70.0" y2="70.0" stroke="#222222" stroke-width="1.5"/>
+<text x="63.0" y="74.0" text-anchor="end" fill="#666666" font-size="12">1</text>
+<text x="220.0" y="404.0" text-anchor="middle" fill="#666666" font-size="13">x</text>
+<line x1="70.0" y1="370.0" x2="370.0" y2="70.0" stroke="#868e96" stroke-width="1.5" stroke-dasharray="6 4"/>
+<polyline points="70.0,370.0 73.0,360.5 76.0,351.2 79.0,342.1 82.0,333.1 85.0,324.4 88.0,315.9 91.0,307.5 94.0,299.3 97.0,291.4 100.0,283.6 103.0,276.0 106.0,268.6 109.0,261.4 112.0,254.4 115.0,247.6 118.0,241.0 121.0,234.5 124.0,228.3 127.0,222.3 130.0,216.4 133.0,210.7 136.0,205.3 139.0,200.0 142.0,194.9 145.0,190.0 148.0,185.3 151.0,180.8 154.0,176.5 157.0,172.3 160.0,168.4 163.0,164.7 166.0,161.1 169.0,157.7 172.0,154.6 175.0,151.6 178.0,148.8 181.0,146.2 184.0,143.8 187.0,141.6 190.0,139.6 193.0,137.8 196.0,136.1 199.0,134.7 202.0,133.5 205.0,132.4 208.0,131.5 211.0,130.9 214.0,130.4 217.0,130.1 220.0,130.0 223.0,130.1 226.0,130.4 229.0,130.9 232.0,131.5 235.0,132.4 238.0,133.5 241.0,134.7 244.0,136.1 247.0,137.8 250.0,139.6 253.0,141.6 256.0,143.8 259.0,146.2 262.0,148.8 265.0,151.6 268.0,154.6 271.0,157.7 274.0,161.1 277.0,164.7 280.0,168.4 283.0,172.3 286.0,176.5 289.0,180.8 292.0,185.3 295.0,190.0 298.0,194.9 301.0,200.0 304.0,205.3 307.0,210.7 310.0,216.4 313.0,222.3 316.0,228.3 319.0,234.5 322.0,241.0 325.0,247.6 328.0,254.4 331.0,261.4 334.0,268.6 337.0,276.0 340.0,283.6 343.0,291.4 346.0,299.3 349.0,307.5 352.0,315.9 355.0,324.4 358.0,333.1 361.0,342.1 364.0,351.2 367.0,360.5 370.0,370.0" fill="none" stroke="#222222" stroke-width="2.5" stroke-linejoin="round"/>
+<polyline points="130.0,370.0 130.0,216.4 223.6,216.4 223.6,130.1 309.9,130.1 309.9,216.1 223.9,216.1 223.9,130.2 309.8,130.2 309.8,216.1 223.9,216.1 223.9,130.2 309.8,130.2 309.8,216.1 223.9,216.1 223.9,130.2 309.8,130.2 309.8,216.1 223.9,216.1 223.9,130.2 309.8,130.2 309.8,216.1 223.9,216.1 223.9,130.2 309.8,130.2 309.8,216.1 223.9,216.1 223.9,130.2 309.8,130.2 309.8,216.1 223.9,216.1 223.9,130.2 309.8,130.2 309.8,216.1 223.9,216.1 223.9,130.2 309.8,130.2 309.8,216.1 223.9,216.1 223.9,130.2 309.8,130.2 309.8,216.1 223.9,216.1 223.9,130.2 309.8,130.2 309.8,216.1 223.9,216.1 223.9,130.2 309.8,130.2 309.8,216.1 223.9,216.1 223.9,130.2 309.8,130.2 309.8,216.1 223.9,216.1 223.9,130.2 309.8,130.2 309.8,216.1 223.9,216.1 223.9,130.2 309.8,130.2 309.8,216.1 223.9,216.1 223.9,130.2 309.8,130.2 309.8,216.1 223.9,216.1 223.9,130.2 309.8,130.2 309.8,216.1 223.9,216.1 223.9,130.2 309.8,130.2 309.8,216.1 223.9,216.1 223.9,130.2 309.8,130.2 309.8,216.1 223.9,216.1 223.9,130.2 309.8,130.2" fill="none" stroke="#d9480f" stroke-width="1.2" stroke-linejoin="round"/>
+<circle cx="223.9" cy="216.1" r="5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="309.8" cy="130.2" r="5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="276.2" cy="163.8" r="5" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="215.9" y="236.1" text-anchor="end" fill="#222222" font-size="13">0.513</text>
+<text x="317.8" y="148.2" text-anchor="start" fill="#222222" font-size="13">0.799</text>
+<text x="220.0" y="428.0" text-anchor="middle" fill="#666666" font-size="13">the orbit ends on a square: two values, forever</text>
+<text x="220.0" y="448.0" text-anchor="middle" fill="#666666" font-size="13">hollow dot: the fixed point 0.6875, now unstable</text>
+<text x="615.0" y="80.0" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">Where the period doubles</text>
+<line x1="440.0" y1="200.0" x2="790.0" y2="200.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="466.9" y1="200.0" x2="466.9" y2="205.0" stroke="#222222" stroke-width="1.5"/>
+<text x="466.9" y="220.0" text-anchor="middle" fill="#666666" font-size="12">3</text>
+<line x1="520.8" y1="200.0" x2="520.8" y2="205.0" stroke="#222222" stroke-width="1.5"/>
+<text x="520.8" y="220.0" text-anchor="middle" fill="#666666" font-size="12">3.1</text>
+<line x1="574.6" y1="200.0" x2="574.6" y2="205.0" stroke="#222222" stroke-width="1.5"/>
+<text x="574.6" y="220.0" text-anchor="middle" fill="#666666" font-size="12">3.2</text>
+<line x1="628.5" y1="200.0" x2="628.5" y2="205.0" stroke="#222222" stroke-width="1.5"/>
+<text x="628.5" y="220.0" text-anchor="middle" fill="#666666" font-size="12">3.3</text>
+<line x1="682.3" y1="200.0" x2="682.3" y2="205.0" stroke="#222222" stroke-width="1.5"/>
+<text x="682.3" y="220.0" text-anchor="middle" fill="#666666" font-size="12">3.4</text>
+<line x1="736.2" y1="200.0" x2="736.2" y2="205.0" stroke="#222222" stroke-width="1.5"/>
+<text x="736.2" y="220.0" text-anchor="middle" fill="#666666" font-size="12">3.5</text>
+<line x1="790.0" y1="200.0" x2="790.0" y2="205.0" stroke="#222222" stroke-width="1.5"/>
+<text x="790.0" y="220.0" text-anchor="middle" fill="#666666" font-size="12">3.6</text>
+<line x1="466.9" y1="186.0" x2="466.9" y2="200.0" stroke="#d9480f" stroke-width="2"/>
+<line x1="709.0" y1="186.0" x2="709.0" y2="200.0" stroke="#d9480f" stroke-width="2"/>
+<line x1="759.9" y1="186.0" x2="759.9" y2="200.0" stroke="#d9480f" stroke-width="2"/>
+<line x1="770.8" y1="186.0" x2="770.8" y2="200.0" stroke="#d9480f" stroke-width="2"/>
+<line x1="773.2" y1="186.0" x2="773.2" y2="200.0" stroke="#d9480f" stroke-width="2"/>
+<text x="466.9" y="180.0" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">1 to 2</text>
+<text x="709.0" y="180.0" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">2 to 4</text>
+<text x="761.8" y="162.0" text-anchor="end" fill="#d9480f" font-size="12" font-weight="bold">4, 8, 16, ...</text>
+<line x1="773.8" y1="150.0" x2="773.8" y2="230.0" stroke="#222222" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="777.8" y="244.0" text-anchor="start" fill="#222222" font-size="12">3.5699</text>
+<text x="440.0" y="290.0" text-anchor="start" fill="#222222" font-size="13">r1 = 3</text>
+<text x="570.0" y="290.0" text-anchor="start" fill="#666666" font-size="13"></text>
+<text x="690.0" y="290.0" text-anchor="start" fill="#d9480f" font-size="13"></text>
+<text x="440.0" y="314.0" text-anchor="start" fill="#222222" font-size="13">r2 = 3.449490</text>
+<text x="570.0" y="314.0" text-anchor="start" fill="#666666" font-size="13">gap 0.449490</text>
+<text x="690.0" y="314.0" text-anchor="start" fill="#d9480f" font-size="13"></text>
+<text x="440.0" y="338.0" text-anchor="start" fill="#222222" font-size="13">r3 = 3.544090</text>
+<text x="570.0" y="338.0" text-anchor="start" fill="#666666" font-size="13">gap 0.094600</text>
+<text x="690.0" y="338.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">ratio 4.751</text>
+<text x="440.0" y="362.0" text-anchor="start" fill="#222222" font-size="13">r4 = 3.564407</text>
+<text x="570.0" y="362.0" text-anchor="start" fill="#666666" font-size="13">gap 0.020317</text>
+<text x="690.0" y="362.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">ratio 4.656</text>
+<text x="440.0" y="386.0" text-anchor="start" fill="#222222" font-size="13">r5 = 3.568759</text>
+<text x="570.0" y="386.0" text-anchor="start" fill="#666666" font-size="13">gap 0.004352</text>
+<text x="690.0" y="386.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">ratio 4.668</text>
+<text x="615.0" y="430.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">Each gap is about 4.669 times smaller</text>
+<text x="615.0" y="450.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">than the one before: the Feigenbaum constant.</text>
+</svg>

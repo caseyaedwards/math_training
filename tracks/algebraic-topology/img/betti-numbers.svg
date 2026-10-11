@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Betti Numbers: Holes in Each Dimension</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="760" height="420" fill="#ffffff"/>
+<text x="380.0" y="28.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">Betti Numbers: Holes in Each Dimension</text>
+<text x="260.0" y="70.0" text-anchor="middle" fill="#222222" font-weight="bold">b₀</text>
+<text x="260.0" y="88.0" text-anchor="middle" fill="#555555" font-size="12">pieces</text>
+<text x="370.0" y="70.0" text-anchor="middle" fill="#222222" font-weight="bold">b₁</text>
+<text x="370.0" y="88.0" text-anchor="middle" fill="#555555" font-size="12">loops</text>
+<text x="480.0" y="70.0" text-anchor="middle" fill="#222222" font-weight="bold">b₂</text>
+<text x="480.0" y="88.0" text-anchor="middle" fill="#555555" font-size="12">voids</text>
+<text x="600.0" y="70.0" text-anchor="middle" fill="#222222" font-weight="bold">χ = b₀ − b₁ + b₂</text>
+<line x1="40.0" y1="97.0" x2="720.0" y2="97.0" stroke="#cccccc" stroke-width="1"/>
+<circle cx="80.0" cy="130.0" r="5" fill="#222222"/>
+<text x="150.0" y="135.0" text-anchor="start" fill="#222222" font-weight="bold">point</text>
+<text x="260.0" y="135.0" text-anchor="middle" fill="#d9480f" font-size="16" font-weight="bold">1</text>
+<text x="370.0" y="135.0" text-anchor="middle" fill="#222222" font-size="16">0</text>
+<text x="480.0" y="135.0" text-anchor="middle" fill="#222222" font-size="16">0</text>
+<text x="600.0" y="135.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">1</text>
+<line x1="40.0" y1="172.0" x2="720.0" y2="172.0" stroke="#cccccc" stroke-width="1"/>
+<circle cx="80.0" cy="205.0" r="26.0" fill="none" stroke="#222222" stroke-width="2.2"/>
+<text x="150.0" y="210.0" text-anchor="start" fill="#222222" font-weight="bold">circle</text>
+<text x="260.0" y="210.0" text-anchor="middle" fill="#d9480f" font-size="16" font-weight="bold">1</text>
+<text x="370.0" y="210.0" text-anchor="middle" fill="#d9480f" font-size="16" font-weight="bold">1</text>
+<text x="480.0" y="210.0" text-anchor="middle" fill="#222222" font-size="16">0</text>
+<text x="600.0" y="210.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">0</text>
+<line x1="40.0" y1="247.0" x2="720.0" y2="247.0" stroke="#cccccc" stroke-width="1"/>
+<circle cx="80.0" cy="280.0" r="28.0" fill="none" stroke="#222222" stroke-width="2.2"/>
+<ellipse cx="80.0" cy="280.0" rx="28.0" ry="8.0" fill="none" stroke="#868e96" stroke-width="1.2" stroke-dasharray="3,3"/>
+<text x="150.0" y="285.0" text-anchor="start" fill="#222222" font-weight="bold">sphere</text>
+<text x="260.0" y="285.0" text-anchor="middle" fill="#d9480f" font-size="16" font-weight="bold">1</text>
+<text x="370.0" y="285.0" text-anchor="middle" fill="#222222" font-size="16">0</text>
+<text x="480.0" y="285.0" text-anchor="middle" fill="#d9480f" font-size="16" font-weight="bold">1</text>
+<text x="600.0" y="285.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">2</text>
+<line x1="40.0" y1="322.0" x2="720.0" y2="322.0" stroke="#cccccc" stroke-width="1"/>
+<ellipse cx="80.0" cy="355.0" rx="46.0" ry="24.0" fill="none" stroke="#222222" stroke-width="2"/>
+<path d="M60.68,353.8 Q80,365.8 99.32,353.8" fill="none" stroke="#222222" stroke-width="2"/>
+<path d="M65.51,357.16 Q80,349.96 94.49,357.16" fill="none" stroke="#222222" stroke-width="2"/>
+<text x="150.0" y="360.0" text-anchor="start" fill="#222222" font-weight="bold">torus</text>
+<text x="260.0" y="360.0" text-anchor="middle" fill="#d9480f" font-size="16" font-weight="bold">1</text>
+<text x="370.0" y="360.0" text-anchor="middle" fill="#d9480f" font-size="16" font-weight="bold">2</text>
+<text x="480.0" y="360.0" text-anchor="middle" fill="#d9480f" font-size="16" font-weight="bold">1</text>
+<text x="600.0" y="360.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">0</text>
+<line x1="40.0" y1="397.0" x2="720.0" y2="397.0" stroke="#cccccc" stroke-width="1"/>
+<text x="380.0" y="410.0" text-anchor="middle" fill="#555555" font-size="13">Same χ as V − E + F, now explained: count pieces, subtract loops, add voids.</text>
+</svg>

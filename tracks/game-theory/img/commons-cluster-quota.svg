@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 400" width="680" height="400" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Shared cluster: hoarding quota versus holding back</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="680" height="400" fill="#ffffff"/>
+<text x="340.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Five Teams, One Cluster: The Tragedy of the Commons</text>
+<line x1="90.0" y1="60.0" x2="90.0" y2="330.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="195.0" y1="60.0" x2="195.0" y2="330.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="300.0" y1="60.0" x2="300.0" y2="330.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="405.0" y1="60.0" x2="405.0" y2="330.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="510.0" y1="60.0" x2="510.0" y2="330.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="90.0" y1="330.0" x2="510.0" y2="330.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="90.0" y1="291.4" x2="510.0" y2="291.4" stroke="#eeeeee" stroke-width="1"/>
+<line x1="90.0" y1="252.9" x2="510.0" y2="252.9" stroke="#eeeeee" stroke-width="1"/>
+<line x1="90.0" y1="214.3" x2="510.0" y2="214.3" stroke="#eeeeee" stroke-width="1"/>
+<line x1="90.0" y1="175.7" x2="510.0" y2="175.7" stroke="#eeeeee" stroke-width="1"/>
+<line x1="90.0" y1="137.1" x2="510.0" y2="137.1" stroke="#eeeeee" stroke-width="1"/>
+<line x1="90.0" y1="98.6" x2="510.0" y2="98.6" stroke="#eeeeee" stroke-width="1"/>
+<line x1="90.0" y1="60.0" x2="510.0" y2="60.0" stroke="#eeeeee" stroke-width="1"/>
+<line x1="90.0" y1="330.0" x2="510.0" y2="330.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="90.0" y1="60.0" x2="90.0" y2="330.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="90.0" y1="175.7" x2="510.0" y2="175.7" stroke="#868e96" stroke-width="1.2"/>
+<line x1="90.0" y1="330.0" x2="90.0" y2="334.0" stroke="#222222" stroke-width="1.5"/>
+<text x="90.0" y="348.0" text-anchor="middle" fill="#666666" font-size="12">0</text>
+<line x1="195.0" y1="330.0" x2="195.0" y2="334.0" stroke="#222222" stroke-width="1.5"/>
+<text x="195.0" y="348.0" text-anchor="middle" fill="#666666" font-size="12">1</text>
+<line x1="300.0" y1="330.0" x2="300.0" y2="334.0" stroke="#222222" stroke-width="1.5"/>
+<text x="300.0" y="348.0" text-anchor="middle" fill="#666666" font-size="12">2</text>
+<line x1="405.0" y1="330.0" x2="405.0" y2="334.0" stroke="#222222" stroke-width="1.5"/>
+<text x="405.0" y="348.0" text-anchor="middle" fill="#666666" font-size="12">3</text>
+<line x1="510.0" y1="330.0" x2="510.0" y2="334.0" stroke="#222222" stroke-width="1.5"/>
+<text x="510.0" y="348.0" text-anchor="middle" fill="#666666" font-size="12">4</text>
+<line x1="86.0" y1="330.0" x2="90.0" y2="330.0" stroke="#222222" stroke-width="1.5"/>
+<text x="83.0" y="334.0" text-anchor="end" fill="#666666" font-size="12">-4</text>
+<line x1="86.0" y1="291.4" x2="90.0" y2="291.4" stroke="#222222" stroke-width="1.5"/>
+<text x="83.0" y="295.4" text-anchor="end" fill="#666666" font-size="12">-3</text>
+<line x1="86.0" y1="252.9" x2="90.0" y2="252.9" stroke="#222222" stroke-width="1.5"/>
+<text x="83.0" y="256.9" text-anchor="end" fill="#666666" font-size="12">-2</text>
+<line x1="86.0" y1="214.3" x2="90.0" y2="214.3" stroke="#222222" stroke-width="1.5"/>
+<text x="83.0" y="218.3" text-anchor="end" fill="#666666" font-size="12">-1</text>
+<line x1="86.0" y1="175.7" x2="90.0" y2="175.7" stroke="#222222" stroke-width="1.5"/>
+<text x="83.0" y="179.7" text-anchor="end" fill="#666666" font-size="12">0</text>
+<line x1="86.0" y1="137.1" x2="90.0" y2="137.1" stroke="#222222" stroke-width="1.5"/>
+<text x="83.0" y="141.1" text-anchor="end" fill="#666666" font-size="12">1</text>
+<line x1="86.0" y1="98.6" x2="90.0" y2="98.6" stroke="#222222" stroke-width="1.5"/>
+<text x="83.0" y="102.6" text-anchor="end" fill="#666666" font-size="12">2</text>
+<line x1="86.0" y1="60.0" x2="90.0" y2="60.0" stroke="#222222" stroke-width="1.5"/>
+<text x="83.0" y="64.0" text-anchor="end" fill="#666666" font-size="12">3</text>
+<text x="300.0" y="368.0" text-anchor="middle" fill="#222222" font-size="13">number of OTHER teams that hoard</text>
+<text x="48.0" y="195.0" text-anchor="middle" fill="#222222" font-size="13" transform="rotate(-90 48.0 195.0)">payoff to my team</text>
+<polyline points="90.0,98.6 195.0,137.1 300.0,175.7 405.0,214.3 510.0,252.9" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<polyline points="90.0,175.7 195.0,214.3 300.0,252.9 405.0,291.4 510.0,330.0" fill="none" stroke="#222222" stroke-width="2.5"/>
+<circle cx="90.0" cy="98.6" r="4.5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="195.0" cy="137.1" r="4.5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="300.0" cy="175.7" r="4.5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="405.0" cy="214.3" r="4.5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="510.0" cy="252.9" r="4.5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<circle cx="90.0" cy="175.7" r="4.5" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="195.0" cy="214.3" r="4.5" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="300.0" cy="252.9" r="4.5" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="405.0" cy="291.4" r="4.5" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="510.0" cy="330.0" r="4.5" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<text x="203.0" y="127.1" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">I hoard: 2 - k</text>
+<text x="105.8" y="249.0" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">I hold back: -k</text>
+<line x1="352.5" y1="197.0" x2="352.5" y2="270.1" stroke="#666666" stroke-width="1.2" marker-end="url(#ahg)"/>
+<line x1="352.5" y1="270.1" x2="352.5" y2="197.0" stroke="#666666" stroke-width="1.2" marker-end="url(#ahg)"/>
+<text x="358.5" y="237.6" text-anchor="start" fill="#666666" font-size="12">gap 2</text>
+<circle cx="90.0" cy="175.7" r="9" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="510.0" cy="252.9" r="9" fill="none" stroke="#d9480f" stroke-width="2"/>
+<text x="530.0" y="80.0" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">Each team that hoards:</text>
+<text x="530.0" y="98.0" text-anchor="start" fill="#222222" font-size="13">gains 3 for itself</text>
+<text x="530.0" y="116.0" text-anchor="start" fill="#222222" font-size="13">costs every team 1</text>
+<text x="530.0" y="150.0" text-anchor="start" fill="#222222" font-size="13">Hoard is always 2</text>
+<text x="530.0" y="168.0" text-anchor="start" fill="#222222" font-size="13">higher: dominant.</text>
+<text x="530.0" y="202.0" text-anchor="start" fill="#222222" font-size="13">All hold back:</text>
+<text x="530.0" y="220.0" text-anchor="start" fill="#222222" font-size="13">0 each (circled black)</text>
+<text x="530.0" y="254.0" text-anchor="start" fill="#d9480f" font-size="13">All hoard:</text>
+<text x="530.0" y="272.0" text-anchor="start" fill="#d9480f" font-size="13">-2 each (circled orange)</text>
+<text x="340.0" y="390.0" text-anchor="middle" fill="#666666" font-size="13">Every team follows the better line, and every team ends up worse off.</text>
+</svg>

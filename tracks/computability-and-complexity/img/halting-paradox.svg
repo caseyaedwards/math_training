@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 380" width="780" height="380" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>The program D built from a supposed halting decider H</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="780" height="380" fill="#ffffff"/>
+<text x="390.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">If a Halting Checker H Existed</text>
+<rect x="35.0" y="93.0" width="190.0" height="54.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="130.0" y="125.0" text-anchor="middle" fill="#222222" font-size="14">input: a program P</text>
+<line x1="226.0" y1="120.0" x2="296.0" y2="120.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<rect x="300.0" y="85.0" width="200.0" height="70.0" rx="8" fill="#fde4d6" stroke="#d9480f" stroke-width="2"/>
+<text x="400.0" y="113.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">ask H:</text>
+<text x="400.0" y="135.0" text-anchor="middle" fill="#222222" font-size="13">does P halt on input P?</text>
+<line x1="500.0" y1="105.0" x2="582.0" y2="80.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="500.0" y1="135.0" x2="580.0" y2="175.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="540.0" y="82.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">yes</text>
+<text x="540.0" y="172.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">no</text>
+<rect x="585.0" y="53.0" width="170.0" height="44.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="670.0" y="80.0" text-anchor="middle" fill="#222222" font-size="14">loop forever</text>
+<rect x="585.0" y="163.0" width="170.0" height="44.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="670.0" y="190.0" text-anchor="middle" fill="#222222" font-size="14">halt</text>
+<rect x="40.0" y="255.0" width="700.0" height="100.0" rx="8" fill="#f8f9fa" stroke="#222222" stroke-width="1.2"/>
+<text x="60.0" y="282.0" text-anchor="start" fill="#222222" font-size="14" font-weight="bold">Now run D on its own code, D:</text>
+<text x="60.0" y="306.0" text-anchor="start" fill="#222222" font-size="13">if D halts on D, then H says yes, so D loops forever.  Contradiction.</text>
+<text x="60.0" y="330.0" text-anchor="start" fill="#222222" font-size="13">if D loops on D, then H says no, so D halts.  Contradiction.</text>
+<text x="390.0" y="48.0" text-anchor="middle" fill="#666666" font-size="13">The program D (Turing, 1936)</text>
+<text x="390.0" y="372.0" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">Both cases break, so the assumption fails: no program H decides halting for all programs.</text>
+</svg>

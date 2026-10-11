@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" width="960" height="400" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Each linear constraint keeps a half-plane; together they cut out a polygon</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#666666"/></marker></defs>
+<rect x="0" y="0" width="960" height="400" fill="#ffffff"/>
+<text x="480.0" y="30.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">Each Constraint Cuts the Plane in Half. Their Overlap Is the Feasible Region</text>
+<polygon points="55.0,292.0 239.6,292.0 128.8,70.0 55.0,70.0" fill="#fff4e6" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<line x1="55.0" y1="292.0" x2="55.0" y2="297.0" stroke="#222222" stroke-width="1.5"/>
+<text x="55.0" y="312.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="normal">0</text>
+<line x1="128.8" y1="292.0" x2="128.8" y2="297.0" stroke="#222222" stroke-width="1.5"/>
+<text x="128.8" y="312.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="normal">2</text>
+<line x1="202.7" y1="292.0" x2="202.7" y2="297.0" stroke="#222222" stroke-width="1.5"/>
+<text x="202.7" y="312.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="normal">4</text>
+<line x1="276.5" y1="292.0" x2="276.5" y2="297.0" stroke="#222222" stroke-width="1.5"/>
+<text x="276.5" y="312.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="normal">6</text>
+<line x1="50.0" y1="292.0" x2="55.0" y2="292.0" stroke="#222222" stroke-width="1.5"/>
+<text x="46.0" y="297.0" text-anchor="end" fill="#222222" font-size="13" font-weight="normal">0</text>
+<line x1="50.0" y1="218.0" x2="55.0" y2="218.0" stroke="#222222" stroke-width="1.5"/>
+<text x="46.0" y="223.0" text-anchor="end" fill="#222222" font-size="13" font-weight="normal">2</text>
+<line x1="50.0" y1="144.0" x2="55.0" y2="144.0" stroke="#222222" stroke-width="1.5"/>
+<text x="46.0" y="149.0" text-anchor="end" fill="#222222" font-size="13" font-weight="normal">4</text>
+<line x1="50.0" y1="70.0" x2="55.0" y2="70.0" stroke="#222222" stroke-width="1.5"/>
+<text x="46.0" y="75.0" text-anchor="end" fill="#222222" font-size="13" font-weight="normal">6</text>
+<line x1="55.0" y1="292.0" x2="303.0" y2="292.0" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="55.0" y1="292.0" x2="55.0" y2="62.0" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="128.8" y1="70.0" x2="239.6" y2="292.0" stroke="#d9480f" stroke-width="2"/>
+<text x="175.0" y="62.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">2x + y &lt;= 10  (CPU)</text>
+<polygon points="370.0,292.0 610.0,292.0 610.0,187.2 370.0,107.0" fill="#fff4e6" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<line x1="370.0" y1="292.0" x2="370.0" y2="297.0" stroke="#222222" stroke-width="1.5"/>
+<text x="370.0" y="312.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="normal">0</text>
+<line x1="443.8" y1="292.0" x2="443.8" y2="297.0" stroke="#222222" stroke-width="1.5"/>
+<text x="443.8" y="312.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="normal">2</text>
+<line x1="517.7" y1="292.0" x2="517.7" y2="297.0" stroke="#222222" stroke-width="1.5"/>
+<text x="517.7" y="312.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="normal">4</text>
+<line x1="591.5" y1="292.0" x2="591.5" y2="297.0" stroke="#222222" stroke-width="1.5"/>
+<text x="591.5" y="312.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="normal">6</text>
+<line x1="365.0" y1="292.0" x2="370.0" y2="292.0" stroke="#222222" stroke-width="1.5"/>
+<text x="361.0" y="297.0" text-anchor="end" fill="#222222" font-size="13" font-weight="normal">0</text>
+<line x1="365.0" y1="218.0" x2="370.0" y2="218.0" stroke="#222222" stroke-width="1.5"/>
+<text x="361.0" y="223.0" text-anchor="end" fill="#222222" font-size="13" font-weight="normal">2</text>
+<line x1="365.0" y1="144.0" x2="370.0" y2="144.0" stroke="#222222" stroke-width="1.5"/>
+<text x="361.0" y="149.0" text-anchor="end" fill="#222222" font-size="13" font-weight="normal">4</text>
+<line x1="365.0" y1="70.0" x2="370.0" y2="70.0" stroke="#222222" stroke-width="1.5"/>
+<text x="361.0" y="75.0" text-anchor="end" fill="#222222" font-size="13" font-weight="normal">6</text>
+<line x1="370.0" y1="292.0" x2="618.0" y2="292.0" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="370.0" y1="292.0" x2="370.0" y2="62.0" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="370.0" y1="107.0" x2="610.0" y2="187.2" stroke="#d9480f" stroke-width="2"/>
+<text x="490.0" y="62.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">x + 3y &lt;= 15  (memory)</text>
+<polygon points="685.0,292.0 869.6,292.0 795.8,144.0 685.0,107.0" fill="#e9ecef" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+<line x1="685.0" y1="292.0" x2="685.0" y2="297.0" stroke="#222222" stroke-width="1.5"/>
+<text x="685.0" y="312.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="normal">0</text>
+<line x1="758.8" y1="292.0" x2="758.8" y2="297.0" stroke="#222222" stroke-width="1.5"/>
+<text x="758.8" y="312.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="normal">2</text>
+<line x1="832.7" y1="292.0" x2="832.7" y2="297.0" stroke="#222222" stroke-width="1.5"/>
+<text x="832.7" y="312.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="normal">4</text>
+<line x1="906.5" y1="292.0" x2="906.5" y2="297.0" stroke="#222222" stroke-width="1.5"/>
+<text x="906.5" y="312.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="normal">6</text>
+<line x1="680.0" y1="292.0" x2="685.0" y2="292.0" stroke="#222222" stroke-width="1.5"/>
+<text x="676.0" y="297.0" text-anchor="end" fill="#222222" font-size="13" font-weight="normal">0</text>
+<line x1="680.0" y1="218.0" x2="685.0" y2="218.0" stroke="#222222" stroke-width="1.5"/>
+<text x="676.0" y="223.0" text-anchor="end" fill="#222222" font-size="13" font-weight="normal">2</text>
+<line x1="680.0" y1="144.0" x2="685.0" y2="144.0" stroke="#222222" stroke-width="1.5"/>
+<text x="676.0" y="149.0" text-anchor="end" fill="#222222" font-size="13" font-weight="normal">4</text>
+<line x1="680.0" y1="70.0" x2="685.0" y2="70.0" stroke="#222222" stroke-width="1.5"/>
+<text x="676.0" y="75.0" text-anchor="end" fill="#222222" font-size="13" font-weight="normal">6</text>
+<line x1="685.0" y1="292.0" x2="933.0" y2="292.0" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="685.0" y1="292.0" x2="685.0" y2="62.0" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="758.8" y1="70.0" x2="869.6" y2="292.0" stroke="#666666" stroke-width="1.2" stroke-dasharray="5 4"/>
+<line x1="685.0" y1="107.0" x2="925.0" y2="187.2" stroke="#666666" stroke-width="1.2" stroke-dasharray="5 4"/>
+<polygon points="685.0,292.0 869.6,292.0 795.8,144.0 685.0,107.0" fill="none" stroke="#222222" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="685.0" cy="292.0" r="4.5" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="869.6" cy="292.0" r="4.5" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="795.8" cy="144.0" r="4.5" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="685.0" cy="107.0" r="4.5" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<text x="805.0" y="62.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">both, with x, y &gt;= 0</text>
+<text x="175.0" y="345.0" text-anchor="middle" fill="#666666" font-size="13" font-weight="normal">test (0, 0): 0 &lt;= 10, keep that side</text>
+<text x="490.0" y="345.0" text-anchor="middle" fill="#666666" font-size="13" font-weight="normal">test (0, 0): 0 &lt;= 15, keep that side</text>
+<text x="805.0" y="345.0" text-anchor="middle" fill="#666666" font-size="13" font-weight="normal">4 corners: (0,0) (5,0) (3,4) (0,5)</text>
+<text x="480.0" y="380.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="normal">The overlap of half-planes is always convex: a straight line between two plans stays inside.</text>
+</svg>

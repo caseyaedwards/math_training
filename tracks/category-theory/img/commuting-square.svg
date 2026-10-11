@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 340" width="660" height="340" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>A commuting square: two paths, one answer</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="660" height="340" fill="#ffffff"/>
+<text x="330.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">A commuting square: two paths, one answer</text>
+<rect x="120.0" y="63.0" width="60.0" height="34.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="150.0" y="85.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">A</text>
+<rect x="480.0" y="63.0" width="60.0" height="34.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="510.0" y="85.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">B</text>
+<rect x="120.0" y="233.0" width="60.0" height="34.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="150.0" y="255.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">C</text>
+<rect x="480.0" y="233.0" width="60.0" height="34.0" rx="6" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="510.0" y="255.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">D</text>
+<line x1="183.0" y1="80.0" x2="477.0" y2="80.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="330.0" y="97.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">f</text>
+<line x1="510.0" y1="100.0" x2="510.0" y2="230.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="524.0" y="170.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">g</text>
+<line x1="150.0" y1="100.0" x2="150.0" y2="230.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="136.0" y="170.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">h</text>
+<line x1="183.0" y1="250.0" x2="477.0" y2="250.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="330.0" y="241.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">k</text>
+<line x1="182.7" y1="95.4" x2="477.3" y2="234.6" stroke="#d9480f" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#aha)"/>
+<text x="336.0" y="157.3" text-anchor="start" fill="#d9480f" font-size="13" xml:space="preserve">the one arrow A to D</text>
+<text x="330.0" y="300.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold" xml:space="preserve">The square commutes when  g ∘ f = k ∘ h</text>
+<text x="330.0" y="324.0" text-anchor="middle" fill="#555555" font-size="13" xml:space="preserve">right then down, or down then right: same result for every input</text>
+</svg>

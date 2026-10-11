@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 380" width="1100" height="380" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Covering the rationals in 0 to 1 with intervals of shrinking length</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="1100" height="380" fill="#ffffff"/>
+<text x="550.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Every Rational Fits in Total Length eps (drawn with eps = 0.5)</text>
+<line x1="170.0" y1="330.0" x2="850.0" y2="330.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="170.0" y1="325.0" x2="170.0" y2="335.0" stroke="#222222" stroke-width="1.5"/>
+<text x="170.0" y="352.0" text-anchor="middle" fill="#666666" font-size="12">0</text>
+<line x1="340.0" y1="325.0" x2="340.0" y2="335.0" stroke="#222222" stroke-width="1.5"/>
+<text x="340.0" y="352.0" text-anchor="middle" fill="#666666" font-size="12">0.25</text>
+<line x1="510.0" y1="325.0" x2="510.0" y2="335.0" stroke="#222222" stroke-width="1.5"/>
+<text x="510.0" y="352.0" text-anchor="middle" fill="#666666" font-size="12">0.5</text>
+<line x1="680.0" y1="325.0" x2="680.0" y2="335.0" stroke="#222222" stroke-width="1.5"/>
+<text x="680.0" y="352.0" text-anchor="middle" fill="#666666" font-size="12">0.75</text>
+<line x1="850.0" y1="325.0" x2="850.0" y2="335.0" stroke="#222222" stroke-width="1.5"/>
+<text x="850.0" y="352.0" text-anchor="middle" fill="#666666" font-size="12">1</text>
+<rect x="85.0" y="43.0" width="170.0" height="14.0" rx="0" fill="#d9480f" fill-opacity="0.35" stroke="#d9480f" stroke-width="1"/>
+<circle cx="170.0" cy="50.0" r="3.5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<line x1="170.0" y1="57.0" x2="170.0" y2="330.0" stroke="#cccccc" stroke-width="1" stroke-dasharray="2 3"/>
+<circle cx="170.0" cy="330.0" r="3.5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<text x="30.0" y="55.0" text-anchor="middle" fill="#666666" font-size="12">#1</text>
+<text x="905.0" y="55.0" text-anchor="start" fill="#222222" font-size="12">0: length eps/2</text>
+<rect x="807.5" y="72.0" width="85.0" height="14.0" rx="0" fill="#d9480f" fill-opacity="0.35" stroke="#d9480f" stroke-width="1"/>
+<circle cx="850.0" cy="79.0" r="3.5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<line x1="850.0" y1="86.0" x2="850.0" y2="330.0" stroke="#cccccc" stroke-width="1" stroke-dasharray="2 3"/>
+<circle cx="850.0" cy="330.0" r="3.5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<text x="30.0" y="84.0" text-anchor="middle" fill="#666666" font-size="12">#2</text>
+<text x="905.0" y="84.0" text-anchor="start" fill="#222222" font-size="12">1: length eps/4</text>
+<rect x="488.8" y="101.0" width="42.5" height="14.0" rx="0" fill="#d9480f" fill-opacity="0.35" stroke="#d9480f" stroke-width="1"/>
+<circle cx="510.0" cy="108.0" r="3.5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<line x1="510.0" y1="115.0" x2="510.0" y2="330.0" stroke="#cccccc" stroke-width="1" stroke-dasharray="2 3"/>
+<circle cx="510.0" cy="330.0" r="3.5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<text x="30.0" y="113.0" text-anchor="middle" fill="#666666" font-size="12">#3</text>
+<text x="905.0" y="113.0" text-anchor="start" fill="#222222" font-size="12">1/2: length eps/8</text>
+<rect x="386.0" y="130.0" width="21.2" height="14.0" rx="0" fill="#d9480f" fill-opacity="0.35" stroke="#d9480f" stroke-width="1"/>
+<circle cx="396.7" cy="137.0" r="3.5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<line x1="396.7" y1="144.0" x2="396.7" y2="330.0" stroke="#cccccc" stroke-width="1" stroke-dasharray="2 3"/>
+<circle cx="396.7" cy="330.0" r="3.5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<text x="30.0" y="142.0" text-anchor="middle" fill="#666666" font-size="12">#4</text>
+<text x="905.0" y="142.0" text-anchor="start" fill="#222222" font-size="12">1/3: length eps/16</text>
+<rect x="618.0" y="159.0" width="10.6" height="14.0" rx="0" fill="#d9480f" fill-opacity="0.35" stroke="#d9480f" stroke-width="1"/>
+<circle cx="623.3" cy="166.0" r="3.5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<line x1="623.3" y1="173.0" x2="623.3" y2="330.0" stroke="#cccccc" stroke-width="1" stroke-dasharray="2 3"/>
+<circle cx="623.3" cy="330.0" r="3.5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<text x="30.0" y="171.0" text-anchor="middle" fill="#666666" font-size="12">#5</text>
+<text x="905.0" y="171.0" text-anchor="start" fill="#222222" font-size="12">2/3: length eps/32</text>
+<rect x="337.3" y="188.0" width="5.3" height="14.0" rx="0" fill="#d9480f" fill-opacity="0.35" stroke="#d9480f" stroke-width="1"/>
+<circle cx="340.0" cy="195.0" r="3.5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<line x1="340.0" y1="202.0" x2="340.0" y2="330.0" stroke="#cccccc" stroke-width="1" stroke-dasharray="2 3"/>
+<circle cx="340.0" cy="330.0" r="3.5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<text x="30.0" y="200.0" text-anchor="middle" fill="#666666" font-size="12">#6</text>
+<text x="905.0" y="200.0" text-anchor="start" fill="#222222" font-size="12">1/4: length eps/64</text>
+<rect x="678.7" y="217.0" width="2.7" height="14.0" rx="0" fill="#d9480f" fill-opacity="0.35" stroke="#d9480f" stroke-width="1"/>
+<circle cx="680.0" cy="224.0" r="3.5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<line x1="680.0" y1="231.0" x2="680.0" y2="330.0" stroke="#cccccc" stroke-width="1" stroke-dasharray="2 3"/>
+<circle cx="680.0" cy="330.0" r="3.5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<text x="30.0" y="229.0" text-anchor="middle" fill="#666666" font-size="12">#7</text>
+<text x="905.0" y="229.0" text-anchor="start" fill="#222222" font-size="12">3/4: length eps/128</text>
+<rect x="305.3" y="246.0" width="1.3" height="14.0" rx="0" fill="#d9480f" fill-opacity="0.35" stroke="#d9480f" stroke-width="1"/>
+<circle cx="306.0" cy="253.0" r="3.5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<line x1="306.0" y1="260.0" x2="306.0" y2="330.0" stroke="#cccccc" stroke-width="1" stroke-dasharray="2 3"/>
+<circle cx="306.0" cy="330.0" r="3.5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<text x="30.0" y="258.0" text-anchor="middle" fill="#666666" font-size="12">#8</text>
+<text x="905.0" y="258.0" text-anchor="start" fill="#222222" font-size="12">1/5: length eps/256</text>
+<rect x="441.7" y="275.0" width="0.7" height="14.0" rx="0" fill="#d9480f" fill-opacity="0.35" stroke="#d9480f" stroke-width="1"/>
+<circle cx="442.0" cy="282.0" r="3.5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<line x1="442.0" y1="289.0" x2="442.0" y2="330.0" stroke="#cccccc" stroke-width="1" stroke-dasharray="2 3"/>
+<circle cx="442.0" cy="330.0" r="3.5" fill="#222222" stroke="none" stroke-width="1.5"/>
+<text x="30.0" y="287.0" text-anchor="middle" fill="#666666" font-size="12">#9</text>
+<text x="905.0" y="287.0" text-anchor="start" fill="#222222" font-size="12">2/5: length eps/512</text>
+<text x="550.0" y="375.0" text-anchor="middle" fill="#666666" font-size="13">Total length is at most eps/2 + eps/4 + eps/8 + ... = eps. Shrink eps toward 0: the rationals have length 0.</text>
+</svg>

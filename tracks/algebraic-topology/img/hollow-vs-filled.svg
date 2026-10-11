@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 360" width="780" height="360" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>A Cycle Is a Hole Unless Something Fills It</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="780" height="360" fill="#ffffff"/>
+<text x="390.0" y="28.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">A Cycle Is a Hole Unless Something Fills It</text>
+<path d="M110.0,230.0 L290.0,230.0 L200.0,80.0 Z" fill="none" stroke="#d9480f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="110.0" cy="230.0" r="5.5" fill="#222222"/>
+<circle cx="290.0" cy="230.0" r="5.5" fill="#222222"/>
+<circle cx="200.0" cy="80.0" r="5.5" fill="#222222"/>
+<text x="96.0" y="236.0" text-anchor="end" fill="#222222" font-weight="bold">a</text>
+<text x="304.0" y="236.0" text-anchor="start" fill="#222222" font-weight="bold">b</text>
+<text x="200.0" y="68.0" text-anchor="middle" fill="#222222" font-weight="bold">c</text>
+<path d="M490.0,230.0 L670.0,230.0 L580.0,80.0 Z" fill="#fde4d6" stroke="#222222" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="490.0" cy="230.0" r="5.5" fill="#222222"/>
+<circle cx="670.0" cy="230.0" r="5.5" fill="#222222"/>
+<circle cx="580.0" cy="80.0" r="5.5" fill="#222222"/>
+<text x="476.0" y="236.0" text-anchor="end" fill="#222222" font-weight="bold">a</text>
+<text x="684.0" y="236.0" text-anchor="start" fill="#222222" font-weight="bold">b</text>
+<text x="580.0" y="68.0" text-anchor="middle" fill="#222222" font-weight="bold">c</text>
+<text x="200.0" y="270.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">hollow triangle: V = 3, E = 3, F = 0</text>
+<text x="200.0" y="292.0" text-anchor="middle" fill="#555555" font-size="13">ab + bc + ca has no boundary: a cycle</text>
+<text x="200.0" y="312.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">nothing fills it: b₁ = 1</text>
+<text x="580.0" y="270.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">filled triangle: V = 3, E = 3, F = 1</text>
+<text x="580.0" y="292.0" text-anchor="middle" fill="#555555" font-size="13">same cycle, but it is the boundary of abc</text>
+<text x="580.0" y="312.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">the hole is plugged: b₁ = 0</text>
+<text x="390.0" y="345.0" text-anchor="middle" fill="#555555" font-size="13">Homology counts cycles that are not boundaries. Boundary of a boundary is always zero.</text>
+</svg>

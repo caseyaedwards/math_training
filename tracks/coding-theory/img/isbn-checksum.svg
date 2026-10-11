@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" width="720" height="360" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>ISBN-10 weighted checksum catches a swap that a plain sum misses</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="720" height="360" fill="#ffffff"/>
+<text x="360.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Weighted Checksum: Position Matters</text>
+<text x="152.0" y="58.0" text-anchor="middle" fill="#666666" font-size="12">×10</text>
+<text x="196.0" y="58.0" text-anchor="middle" fill="#666666" font-size="12">×9</text>
+<text x="240.0" y="58.0" text-anchor="middle" fill="#666666" font-size="12">×8</text>
+<text x="284.0" y="58.0" text-anchor="middle" fill="#666666" font-size="12">×7</text>
+<text x="328.0" y="58.0" text-anchor="middle" fill="#666666" font-size="12">×6</text>
+<text x="372.0" y="58.0" text-anchor="middle" fill="#666666" font-size="12">×5</text>
+<text x="416.0" y="58.0" text-anchor="middle" fill="#666666" font-size="12">×4</text>
+<text x="460.0" y="58.0" text-anchor="middle" fill="#666666" font-size="12">×3</text>
+<text x="504.0" y="58.0" text-anchor="middle" fill="#666666" font-size="12">×2</text>
+<text x="548.0" y="58.0" text-anchor="middle" fill="#666666" font-size="12">×1</text>
+<text x="118.0" y="58.0" text-anchor="end" fill="#666666" font-size="12">weight</text>
+<text x="118.0" y="119.0" text-anchor="end" fill="#666666" font-size="12">digit</text>
+<text x="118.0" y="155.0" text-anchor="end" fill="#666666" font-size="12">product</text>
+<text x="130.0" y="90.0" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">original</text>
+<rect x="134.0" y="100.0" width="36.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="152.0" y="119.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<text x="152.0" y="155.0" text-anchor="middle" fill="#222222" font-size="13">0</text>
+<rect x="178.0" y="100.0" width="36.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="196.0" y="119.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">3</text>
+<text x="196.0" y="155.0" text-anchor="middle" fill="#222222" font-size="13">27</text>
+<rect x="222.0" y="100.0" width="36.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="240.0" y="119.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<text x="240.0" y="155.0" text-anchor="middle" fill="#222222" font-size="13">0</text>
+<rect x="266.0" y="100.0" width="36.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="284.0" y="119.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">6</text>
+<text x="284.0" y="155.0" text-anchor="middle" fill="#222222" font-size="13">42</text>
+<rect x="310.0" y="100.0" width="36.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="328.0" y="119.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">4</text>
+<text x="328.0" y="155.0" text-anchor="middle" fill="#222222" font-size="13">24</text>
+<rect x="354.0" y="100.0" width="36.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="372.0" y="119.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<text x="372.0" y="155.0" text-anchor="middle" fill="#222222" font-size="13">0</text>
+<rect x="398.0" y="100.0" width="36.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="416.0" y="119.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">6</text>
+<text x="416.0" y="155.0" text-anchor="middle" fill="#222222" font-size="13">24</text>
+<rect x="442.0" y="100.0" width="36.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="460.0" y="119.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<text x="460.0" y="155.0" text-anchor="middle" fill="#222222" font-size="13">3</text>
+<rect x="486.0" y="100.0" width="36.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="504.0" y="119.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">5</text>
+<text x="504.0" y="155.0" text-anchor="middle" fill="#222222" font-size="13">10</text>
+<rect x="530.0" y="100.0" width="36.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="548.0" y="119.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">2</text>
+<text x="548.0" y="155.0" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<text x="578.0" y="119.0" text-anchor="start" fill="#222222" font-size="12">plain sum 27</text>
+<text x="578.0" y="155.0" text-anchor="start" fill="#2b8a3e" font-size="12" font-weight="bold">132 mod 11 = 0</text>
+<text x="118.0" y="229.0" text-anchor="end" fill="#666666" font-size="12">digit</text>
+<text x="118.0" y="265.0" text-anchor="end" fill="#666666" font-size="12">product</text>
+<text x="130.0" y="200.0" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">digits 6, 7 swapped</text>
+<rect x="134.0" y="210.0" width="36.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="152.0" y="229.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<text x="152.0" y="265.0" text-anchor="middle" fill="#222222" font-size="13">0</text>
+<rect x="178.0" y="210.0" width="36.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="196.0" y="229.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">3</text>
+<text x="196.0" y="265.0" text-anchor="middle" fill="#222222" font-size="13">27</text>
+<rect x="222.0" y="210.0" width="36.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="240.0" y="229.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<text x="240.0" y="265.0" text-anchor="middle" fill="#222222" font-size="13">0</text>
+<rect x="266.0" y="210.0" width="36.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="284.0" y="229.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">6</text>
+<text x="284.0" y="265.0" text-anchor="middle" fill="#222222" font-size="13">42</text>
+<rect x="310.0" y="210.0" width="36.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="328.0" y="229.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">4</text>
+<text x="328.0" y="265.0" text-anchor="middle" fill="#222222" font-size="13">24</text>
+<rect x="354.0" y="210.0" width="36.0" height="28.0" rx="0" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="2"/>
+<text x="372.0" y="229.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">6</text>
+<text x="372.0" y="265.0" text-anchor="middle" fill="#d9480f" font-size="13">30</text>
+<rect x="398.0" y="210.0" width="36.0" height="28.0" rx="0" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="2"/>
+<text x="416.0" y="229.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<text x="416.0" y="265.0" text-anchor="middle" fill="#d9480f" font-size="13">0</text>
+<rect x="442.0" y="210.0" width="36.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="460.0" y="229.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<text x="460.0" y="265.0" text-anchor="middle" fill="#222222" font-size="13">3</text>
+<rect x="486.0" y="210.0" width="36.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="504.0" y="229.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">5</text>
+<text x="504.0" y="265.0" text-anchor="middle" fill="#222222" font-size="13">10</text>
+<rect x="530.0" y="210.0" width="36.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="548.0" y="229.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">2</text>
+<text x="548.0" y="265.0" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<text x="578.0" y="229.0" text-anchor="start" fill="#222222" font-size="12">plain sum 27</text>
+<text x="578.0" y="265.0" text-anchor="start" fill="#d9480f" font-size="12" font-weight="bold">138 mod 11 = 6</text>
+<text x="360.0" y="318.0" text-anchor="middle" fill="#222222" font-size="13">Plain sum: 27 both times. The swap is invisible.</text>
+<text x="360.0" y="340.0" text-anchor="middle" fill="#d9480f" font-size="13">Weighted sum: 132 = 12 × 11 is valid, 138 leaves remainder 6. The swap is caught.</text>
+</svg>

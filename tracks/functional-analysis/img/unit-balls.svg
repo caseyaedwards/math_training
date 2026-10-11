@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" height="360" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Unit balls of the L1, L2 and sup norms in the plane</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="900" height="360" fill="#ffffff"/>
+<text x="450.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Three Ways to Measure Size: Unit Balls in the Plane</text>
+<line x1="20.0" y1="190.0" x2="280.0" y2="190.0" stroke="#cccccc" stroke-width="1.5"/>
+<line x1="150.0" y1="60.0" x2="150.0" y2="320.0" stroke="#cccccc" stroke-width="1.5"/>
+<polygon points="250.0,190.0 150.0,90.0 50.0,190.0 150.0,290.0" fill="#d9480f" fill-opacity="0.2" stroke="#d9480f" stroke-width="2.5" stroke-linejoin="round"/>
+<line x1="150.0" y1="190.0" x2="210.0" y2="110.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<circle cx="210.0" cy="110.0" r="4.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<text x="150.0" y="62.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">L1 norm</text>
+<text x="150.0" y="335.0" text-anchor="middle" fill="#222222" font-size="13">|x| + |y| = 1</text>
+<text x="218.0" y="104.0" text-anchor="start" fill="#666666" font-size="12">(0.6, 0.8): 1.4</text>
+<line x1="320.0" y1="190.0" x2="580.0" y2="190.0" stroke="#cccccc" stroke-width="1.5"/>
+<line x1="450.0" y1="60.0" x2="450.0" y2="320.0" stroke="#cccccc" stroke-width="1.5"/>
+<circle cx="450.0" cy="190.0" r="100.0" fill="#d9480f" fill-opacity="0.2" stroke="#d9480f" stroke-width="2.5"/>
+<line x1="450.0" y1="190.0" x2="510.0" y2="110.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<circle cx="510.0" cy="110.0" r="4.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<text x="450.0" y="62.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">L2 norm</text>
+<text x="450.0" y="335.0" text-anchor="middle" fill="#222222" font-size="13">√(x² + y²) = 1</text>
+<text x="518.0" y="104.0" text-anchor="start" fill="#666666" font-size="12">(0.6, 0.8): 1</text>
+<line x1="620.0" y1="190.0" x2="880.0" y2="190.0" stroke="#cccccc" stroke-width="1.5"/>
+<line x1="750.0" y1="60.0" x2="750.0" y2="320.0" stroke="#cccccc" stroke-width="1.5"/>
+<rect x="650.0" y="90.0" width="200.0" height="200.0" rx="0" fill="#d9480f" fill-opacity="0.2" stroke="#d9480f" stroke-width="2.5"/>
+<line x1="750.0" y1="190.0" x2="810.0" y2="110.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<circle cx="810.0" cy="110.0" r="4.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<text x="750.0" y="62.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">sup norm</text>
+<text x="750.0" y="335.0" text-anchor="middle" fill="#222222" font-size="13">max(|x|, |y|) = 1</text>
+<text x="818.0" y="104.0" text-anchor="start" fill="#666666" font-size="12">(0.6, 0.8): 0.8</text>
+<text x="450.0" y="355.0" text-anchor="middle" fill="#666666" font-size="12">Each shape is every point of size exactly 1. Same point (0.6, 0.8), three different sizes: 1.4, 1, 0.8.</text>
+</svg>

@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 440" width="780" height="440" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>The four symmetries of Q(sqrt2, sqrt3) and their composition table</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#444444"/></marker></defs>
+<rect x="0" y="0" width="780" height="440" fill="#ffffff"/>
+<text x="390.0" y="30.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">Gal(ℚ(√2, √3) / ℚ): Four Symmetries</text>
+<text x="40.0" y="80.0" text-anchor="start" fill="#222222" font-size="14" font-weight="bold">What each symmetry does</text>
+<text x="85.0" y="114.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold"></text>
+<text x="167.5" y="114.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">√2 →</text>
+<text x="242.5" y="114.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">√3 →</text>
+<text x="317.5" y="114.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">√6 →</text>
+<line x1="40.0" y1="122.0" x2="355.0" y2="122.0" stroke="#868e96" stroke-width="1"/>
+<text x="85.0" y="144.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">id</text>
+<text x="167.5" y="144.0" text-anchor="middle" fill="#222222" font-size="14">√2</text>
+<text x="242.5" y="144.0" text-anchor="middle" fill="#222222" font-size="14">√3</text>
+<text x="317.5" y="144.0" text-anchor="middle" fill="#222222" font-size="14">√6</text>
+<text x="85.0" y="176.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">σ</text>
+<text x="167.5" y="176.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">-√2</text>
+<text x="242.5" y="176.0" text-anchor="middle" fill="#222222" font-size="14">√3</text>
+<text x="317.5" y="176.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">-√6</text>
+<text x="85.0" y="208.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">τ</text>
+<text x="167.5" y="208.0" text-anchor="middle" fill="#222222" font-size="14">√2</text>
+<text x="242.5" y="208.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">-√3</text>
+<text x="317.5" y="208.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">-√6</text>
+<text x="85.0" y="240.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">στ</text>
+<text x="167.5" y="240.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">-√2</text>
+<text x="242.5" y="240.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">-√3</text>
+<text x="317.5" y="240.0" text-anchor="middle" fill="#222222" font-size="14">√6</text>
+<text x="40.0" y="300.0" text-anchor="start" fill="#222222" font-size="13">√6 = √2 · √3. Its sign is the</text>
+<text x="40.0" y="320.0" text-anchor="start" fill="#222222" font-size="13">product of the other two signs.</text>
+<text x="40.0" y="350.0" text-anchor="start" fill="#555555" font-size="13">Every symmetry fixes all of ℚ.</text>
+<text x="590.0" y="80.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">Do one, then the other</text>
+<text x="478.0" y="143.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">∘</text>
+<rect x="506.0" y="110.0" width="56.0" height="56.0" rx="0" fill="#f1f3f5" stroke="#222222" stroke-width="1"/>
+<text x="534.0" y="143.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">id</text>
+<rect x="450.0" y="166.0" width="56.0" height="56.0" rx="0" fill="#f1f3f5" stroke="#222222" stroke-width="1"/>
+<text x="478.0" y="199.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">id</text>
+<rect x="562.0" y="110.0" width="56.0" height="56.0" rx="0" fill="#f1f3f5" stroke="#222222" stroke-width="1"/>
+<text x="590.0" y="143.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">σ</text>
+<rect x="450.0" y="222.0" width="56.0" height="56.0" rx="0" fill="#f1f3f5" stroke="#222222" stroke-width="1"/>
+<text x="478.0" y="255.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">σ</text>
+<rect x="618.0" y="110.0" width="56.0" height="56.0" rx="0" fill="#f1f3f5" stroke="#222222" stroke-width="1"/>
+<text x="646.0" y="143.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">τ</text>
+<rect x="450.0" y="278.0" width="56.0" height="56.0" rx="0" fill="#f1f3f5" stroke="#222222" stroke-width="1"/>
+<text x="478.0" y="311.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">τ</text>
+<rect x="674.0" y="110.0" width="56.0" height="56.0" rx="0" fill="#f1f3f5" stroke="#222222" stroke-width="1"/>
+<text x="702.0" y="143.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">στ</text>
+<rect x="450.0" y="334.0" width="56.0" height="56.0" rx="0" fill="#f1f3f5" stroke="#222222" stroke-width="1"/>
+<text x="478.0" y="367.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">στ</text>
+<rect x="506.0" y="166.0" width="56.0" height="56.0" rx="0" fill="#fff4e6" stroke="#222222" stroke-width="1"/>
+<text x="534.0" y="199.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">id</text>
+<rect x="562.0" y="166.0" width="56.0" height="56.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="590.0" y="199.0" text-anchor="middle" fill="#222222" font-size="14">σ</text>
+<rect x="618.0" y="166.0" width="56.0" height="56.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="646.0" y="199.0" text-anchor="middle" fill="#222222" font-size="14">τ</text>
+<rect x="674.0" y="166.0" width="56.0" height="56.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="702.0" y="199.0" text-anchor="middle" fill="#222222" font-size="14">στ</text>
+<rect x="506.0" y="222.0" width="56.0" height="56.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="534.0" y="255.0" text-anchor="middle" fill="#222222" font-size="14">σ</text>
+<rect x="562.0" y="222.0" width="56.0" height="56.0" rx="0" fill="#fff4e6" stroke="#222222" stroke-width="1"/>
+<text x="590.0" y="255.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">id</text>
+<rect x="618.0" y="222.0" width="56.0" height="56.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="646.0" y="255.0" text-anchor="middle" fill="#222222" font-size="14">στ</text>
+<rect x="674.0" y="222.0" width="56.0" height="56.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="702.0" y="255.0" text-anchor="middle" fill="#222222" font-size="14">τ</text>
+<rect x="506.0" y="278.0" width="56.0" height="56.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="534.0" y="311.0" text-anchor="middle" fill="#222222" font-size="14">τ</text>
+<rect x="562.0" y="278.0" width="56.0" height="56.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="590.0" y="311.0" text-anchor="middle" fill="#222222" font-size="14">στ</text>
+<rect x="618.0" y="278.0" width="56.0" height="56.0" rx="0" fill="#fff4e6" stroke="#222222" stroke-width="1"/>
+<text x="646.0" y="311.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">id</text>
+<rect x="674.0" y="278.0" width="56.0" height="56.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="702.0" y="311.0" text-anchor="middle" fill="#222222" font-size="14">σ</text>
+<rect x="506.0" y="334.0" width="56.0" height="56.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="534.0" y="367.0" text-anchor="middle" fill="#222222" font-size="14">στ</text>
+<rect x="562.0" y="334.0" width="56.0" height="56.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="590.0" y="367.0" text-anchor="middle" fill="#222222" font-size="14">τ</text>
+<rect x="618.0" y="334.0" width="56.0" height="56.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="646.0" y="367.0" text-anchor="middle" fill="#222222" font-size="14">σ</text>
+<rect x="674.0" y="334.0" width="56.0" height="56.0" rx="0" fill="#fff4e6" stroke="#222222" stroke-width="1"/>
+<text x="702.0" y="367.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">id</text>
+<text x="590.0" y="416.0" text-anchor="middle" fill="#555555" font-size="13">id down the diagonal: each undoes itself</text>
+</svg>

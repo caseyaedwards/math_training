@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 380" width="780" height="380" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>A functor maps types to slice types and funcs to Map</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="780" height="380" fill="#ffffff"/>
+<text x="390.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">A functor maps types to slice types and funcs to Map</text>
+<text x="170.0" y="56.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold" xml:space="preserve">Category: Go types</text>
+<text x="590.0" y="56.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold" xml:space="preserve">Image under F = slice of</text>
+<rect x="135.0" y="133.0" width="70.0" height="34.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="170.0" y="155.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">int</text>
+<rect x="130.0" y="253.0" width="80.0" height="34.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="170.0" y="275.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">string</text>
+<rect x="550.0" y="133.0" width="80.0" height="34.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="590.0" y="155.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">[]int</text>
+<rect x="542.0" y="253.0" width="96.0" height="34.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="590.0" y="275.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">[]string</text>
+<path d="M158.0,131.0 C136.0,87.0 204.0,87.0 182.0,132.0" fill="none" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<text x="170.0" y="92.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">dbl</text>
+<path d="M578.0,131.0 C556.0,87.0 624.0,87.0 602.0,132.0" fill="none" stroke="#222222" stroke-width="1.8" marker-end="url(#ah)"/>
+<text x="590.0" y="92.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">Map(·, dbl)</text>
+<line x1="170.0" y1="170.0" x2="170.0" y2="250.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="182.0" y="215.0" text-anchor="start" fill="#222222" font-size="14" xml:space="preserve">itoa</text>
+<line x1="590.0" y1="170.0" x2="590.0" y2="250.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="602.0" y="215.0" text-anchor="start" fill="#222222" font-size="14" xml:space="preserve">Map(·, itoa)</text>
+<line x1="208.0" y1="150.0" x2="547.0" y2="150.0" stroke="#d9480f" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#aha)"/>
+<text x="377.5" y="167.0" text-anchor="middle" fill="#d9480f" font-size="14" xml:space="preserve">F</text>
+<line x1="213.0" y1="270.0" x2="539.0" y2="270.0" stroke="#d9480f" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#aha)"/>
+<text x="376.0" y="287.0" text-anchor="middle" fill="#d9480f" font-size="14" xml:space="preserve">F</text>
+<text x="390.0" y="325.0" text-anchor="middle" fill="#222222" font-size="13" xml:space="preserve">Map(·, itoa):  [1 2 3]  →  ["1" "2" "3"]</text>
+<text x="390.0" y="352.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold" xml:space="preserve">laws:  Map(id) = id     Map(g ∘ f) = Map(g) ∘ Map(f)</text>
+</svg>

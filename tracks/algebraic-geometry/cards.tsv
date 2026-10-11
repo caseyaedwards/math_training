@@ -1,0 +1,15 @@
+What is a plane algebraic curve?	The zero set \( \{(x, y) : F(x, y) = 0\} \) of a polynomial \( F \). Its degree is the degree of \( F \).	math::tracks::algebraic-geometry
+How does \( B^2 - 4AC \) classify a conic?	Negative: ellipse. Zero: parabola. Positive: hyperbola (or a degenerate pair of lines).	math::tracks::algebraic-geometry
+Rational parametrization of the unit circle?	\( \left( \frac{1 - t^2}{1 + t^2}, \frac{2t}{1 + t^2} \right) \): the second point on the line of slope \( t \) through \( (-1, 0) \).	math::tracks::algebraic-geometry
+Pythagorean triple from \( t = 1/2 \)?	\( (3/5, 4/5) \), which gives \( 3^2 + 4^2 = 5^2 \).	math::tracks::algebraic-geometry
+What is a singular point of \( F = 0 \)?	A point where \( F \), \( F_x \) and \( F_y \) all vanish: a node (self-crossing) or a cusp (sharp point).	math::tracks::algebraic-geometry
+Why does a tangent line count as meeting a circle twice?	Substitution gives a quadratic with a double root. Counted with multiplicity, a line always meets a conic twice.	math::tracks::algebraic-geometry
+What are homogeneous coordinates?	\( [x : y : z] \) with \( [x : y : z] = [\lambda x : \lambda y : \lambda z] \). Ordinary points have \( z = 1 \), points at infinity \( z = 0 \).	math::tracks::algebraic-geometry
+State Bezout's theorem.	Projective plane curves of degrees \( m \) and \( n \) with no common piece meet in \( mn \) points, counted with multiplicity over \( \mathbb{C} \).	math::tracks::algebraic-geometry
+Weierstrass form of an elliptic curve and smoothness test?	\( y^2 = x^3 + ax + b \), smooth exactly when \( 4a^3 + 27b^2 \ne 0 \).	math::tracks::algebraic-geometry
+What shape are the complex points of an elliptic curve?	A torus (genus 1). Genus of a smooth degree-\( d \) curve: \( (d-1)(d-2)/2 \).	math::tracks::algebraic-geometry
+Chord rule for \( P + Q \)?	Draw the line through \( P \) and \( Q \), find the third intersection \( R \), reflect across the x-axis.	math::tracks::algebraic-geometry
+Addition formulas on \( y^2 = x^3 + ax + b \)?	\( x_3 = \lambda^2 - x_1 - x_2 \), \( y_3 = \lambda(x_1 - x_3) - y_1 \), with \( \lambda \) the chord slope or \( (3x_1^2 + a)/(2y_1) \) for doubling.	math::tracks::algebraic-geometry
+What is the zero of the elliptic curve group?	The point at infinity \( O \). \( P + (-P) = O \), where \( -P \) is the reflection of \( P \).	math::tracks::algebraic-geometry
+State the Hasse bound.	\( |E(\mathbb{F}_p)| = p + 1 - t \) with \( |t| \le 2\sqrt{p} \).	math::tracks::algebraic-geometry
+Why is elliptic curve cryptography secure?	Computing \( kG \) is fast (double-and-add). Recovering \( k \) from \( kG \) (the discrete log) has no known fast method.	math::tracks::algebraic-geometry

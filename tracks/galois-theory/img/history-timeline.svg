@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 330" width="960" height="330" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Timeline of solving polynomial equations</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#444444"/></marker></defs>
+<rect x="0" y="0" width="960" height="330" fill="#ffffff"/>
+<text x="480.0" y="30.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">3,600 Years of Hunting for Formulas</text>
+<line x1="40.0" y1="165.0" x2="920.0" y2="165.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<circle cx="70.0" cy="165.0" r="6.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<line x1="70.0" y1="159.0" x2="70.0" y2="135.0" stroke="#868e96" stroke-width="1"/>
+<text x="70.0" y="73.0" text-anchor="middle" fill="#555555" font-size="13">c. 1800 BCE</text>
+<text x="70.0" y="91.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">Babylon</text>
+<text x="70.0" y="109.0" text-anchor="middle" fill="#222222" font-size="13">quadratics on</text>
+<text x="70.0" y="125.0" text-anchor="middle" fill="#222222" font-size="13">clay tablets</text>
+<circle cx="172.5" cy="165.0" r="6.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<line x1="172.5" y1="171.0" x2="172.5" y2="195.0" stroke="#868e96" stroke-width="1"/>
+<text x="172.5" y="213.0" text-anchor="middle" fill="#555555" font-size="13">c. 820</text>
+<text x="172.5" y="231.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">al-Khwarizmi</text>
+<text x="172.5" y="249.0" text-anchor="middle" fill="#222222" font-size="13">completing</text>
+<text x="172.5" y="265.0" text-anchor="middle" fill="#222222" font-size="13">the square</text>
+<circle cx="275.0" cy="165.0" r="6.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<line x1="275.0" y1="159.0" x2="275.0" y2="135.0" stroke="#868e96" stroke-width="1"/>
+<text x="275.0" y="73.0" text-anchor="middle" fill="#555555" font-size="13">1545</text>
+<text x="275.0" y="91.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">Cardano</text>
+<text x="275.0" y="109.0" text-anchor="middle" fill="#222222" font-size="13">prints cubic and</text>
+<text x="275.0" y="125.0" text-anchor="middle" fill="#222222" font-size="13">quartic formulas</text>
+<circle cx="377.5" cy="165.0" r="6.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<line x1="377.5" y1="171.0" x2="377.5" y2="195.0" stroke="#868e96" stroke-width="1"/>
+<text x="377.5" y="213.0" text-anchor="middle" fill="#555555" font-size="13">1572</text>
+<text x="377.5" y="231.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">Bombelli</text>
+<text x="377.5" y="249.0" text-anchor="middle" fill="#222222" font-size="13">complex numbers</text>
+<text x="377.5" y="265.0" text-anchor="middle" fill="#222222" font-size="13">tame the cubic</text>
+<circle cx="480.0" cy="165.0" r="6.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<line x1="480.0" y1="159.0" x2="480.0" y2="135.0" stroke="#868e96" stroke-width="1"/>
+<text x="480.0" y="73.0" text-anchor="middle" fill="#555555" font-size="13">1770</text>
+<text x="480.0" y="91.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">Lagrange</text>
+<text x="480.0" y="109.0" text-anchor="middle" fill="#222222" font-size="13">studies how</text>
+<text x="480.0" y="125.0" text-anchor="middle" fill="#222222" font-size="13">roots permute</text>
+<circle cx="582.5" cy="165.0" r="6.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<line x1="582.5" y1="171.0" x2="582.5" y2="195.0" stroke="#868e96" stroke-width="1"/>
+<text x="582.5" y="213.0" text-anchor="middle" fill="#555555" font-size="13">1799</text>
+<text x="582.5" y="231.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">Ruffini</text>
+<text x="582.5" y="249.0" text-anchor="middle" fill="#222222" font-size="13">quintic proof</text>
+<text x="582.5" y="265.0" text-anchor="middle" fill="#222222" font-size="13">with gaps</text>
+<circle cx="685.0" cy="165.0" r="6.0" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<line x1="685.0" y1="159.0" x2="685.0" y2="135.0" stroke="#868e96" stroke-width="1"/>
+<text x="685.0" y="73.0" text-anchor="middle" fill="#555555" font-size="13">1824</text>
+<text x="685.0" y="91.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">Abel</text>
+<text x="685.0" y="109.0" text-anchor="middle" fill="#222222" font-size="13">no general</text>
+<text x="685.0" y="125.0" text-anchor="middle" fill="#222222" font-size="13">quintic formula</text>
+<circle cx="787.5" cy="165.0" r="6.0" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<line x1="787.5" y1="171.0" x2="787.5" y2="195.0" stroke="#868e96" stroke-width="1"/>
+<text x="787.5" y="213.0" text-anchor="middle" fill="#555555" font-size="13">1832</text>
+<text x="787.5" y="231.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">Galois</text>
+<text x="787.5" y="249.0" text-anchor="middle" fill="#222222" font-size="13">groups decide</text>
+<text x="787.5" y="265.0" text-anchor="middle" fill="#222222" font-size="13">every case</text>
+<circle cx="890.0" cy="165.0" r="6.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<line x1="890.0" y1="159.0" x2="890.0" y2="135.0" stroke="#868e96" stroke-width="1"/>
+<text x="890.0" y="73.0" text-anchor="middle" fill="#555555" font-size="13">1837</text>
+<text x="890.0" y="91.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">Wantzel</text>
+<text x="890.0" y="109.0" text-anchor="middle" fill="#222222" font-size="13">cube and angle</text>
+<text x="890.0" y="125.0" text-anchor="middle" fill="#222222" font-size="13">impossible</text>
+<text x="480.0" y="300.0" text-anchor="middle" fill="#555555" font-size="13">Events are evenly spaced, not to scale. Degree 2, 3, 4 solved. Degree 5: proved impossible in general.</text>
+</svg>

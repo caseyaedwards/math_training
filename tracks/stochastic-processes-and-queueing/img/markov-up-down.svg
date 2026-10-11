@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" width="720" height="360" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Two-state Markov chain for a server that fails and gets repaired</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#666666"/></marker></defs>
+<rect x="0" y="0" width="720" height="360" fill="#ffffff"/>
+<text x="360.0" y="32.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">Markov Chain: A Server That Is Up or Down</text>
+<circle cx="150.0" cy="190.0" r="46" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="400.0" cy="190.0" r="46" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="150.0" y="196.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">Up</text>
+<text x="400.0" y="196.0" text-anchor="middle" fill="#d9480f" font-size="18" font-weight="bold">Down</text>
+<path d="M180,155 C240,95 310,95 370,155" fill="none" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="275.0" y="108.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">fail 0.1</text>
+<path d="M370,225 C310,285 240,285 180,225" fill="none" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="275.0" y="288.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">repair 0.6</text>
+<path d="M112,164 C30,110 30,270 112,216" fill="none" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="50.0" y="195.0" text-anchor="end" fill="#222222" font-size="14" font-weight="bold">0.9</text>
+<path d="M438,164 C520,110 520,270 438,216" fill="none" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="500.0" y="195.0" text-anchor="start" fill="#222222" font-size="14" font-weight="bold">0.4</text>
+<text x="620.0" y="110.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">transition matrix P</text>
+<text x="610.0" y="140.0" text-anchor="start" fill="#666666" font-size="13">to Up   to Down</text>
+<text x="600.0" y="170.0" text-anchor="end" fill="#666666" font-size="13">Up</text>
+<text x="600.0" y="200.0" text-anchor="end" fill="#666666" font-size="13">Down</text>
+<text x="632.0" y="170.0" text-anchor="middle" fill="#222222" font-size="14">0.9</text>
+<text x="692.0" y="170.0" text-anchor="middle" fill="#222222" font-size="14">0.1</text>
+<text x="632.0" y="200.0" text-anchor="middle" fill="#222222" font-size="14">0.6</text>
+<text x="692.0" y="200.0" text-anchor="middle" fill="#222222" font-size="14">0.4</text>
+<path d="M612,150 L606,150 L606,210 L612,210" fill="none" stroke="#222222" stroke-width="1.5"/>
+<path d="M712,150 L718,150 L718,210 L712,210" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="660.0" y="240.0" text-anchor="middle" fill="#666666" font-size="13">each row adds to 1</text>
+<text x="360.0" y="335.0" text-anchor="middle" fill="#666666" font-size="14">Memoryless: the next state depends only on the current state, not on the history.</text>
+</svg>

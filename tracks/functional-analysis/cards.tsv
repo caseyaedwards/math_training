@@ -1,0 +1,15 @@
+Why is a function a vector?	It assigns a number to every point, like a list with one coordinate per x. Functions add and scale point by point.	math::tracks::functional-analysis
+Three common norms of a function?	\( \|f\|_1 = \int |f| \), \( \|f\|_2 = \sqrt{\int |f|^2} \), \( \|f\|_\infty = \max |f| \).	math::tracks::functional-analysis
+Three rules of a norm?	Positive except at zero, \( \|cv\| = |c|\,\|v\| \), and the triangle inequality \( \|u+v\| \le \|u\| + \|v\| \).	math::tracks::functional-analysis
+Unit ball shapes of L1, L2 and sup norms in the plane?	Diamond, circle, square.	math::tracks::functional-analysis
+Why does \( x^n \) on \( [0,1] \) show norms disagree?	Its L2 norm \( 1/\sqrt{2n+1} \to 0 \), but its sup norm stays 1.	math::tracks::functional-analysis
+Inner product of two functions on \( [a,b] \)?	\( \langle f, g \rangle = \int_a^b f(x) g(x)\,dx \). Zero means orthogonal.	math::tracks::functional-analysis
+Cauchy-Schwarz inequality?	\( |\langle f, g \rangle| \le \|f\|\,\|g\| \).	math::tracks::functional-analysis
+What is a Hilbert space?	A complete inner product space, such as \( L^2 \).	math::tracks::functional-analysis
+What is a Banach space?	A complete normed space. It has length but not necessarily angles, such as \( L^1 \) or the sup norm.	math::tracks::functional-analysis
+Parallelogram law and why it matters?	\( \|f+g\|^2 + \|f-g\|^2 = 2\|f\|^2 + 2\|g\|^2 \). A norm comes from an inner product exactly when it holds.	math::tracks::functional-analysis
+Parseval's identity?	\( \|f\|^2 = \sum_n |\langle f, e_n \rangle|^2 \) for an orthonormal basis.	math::tracks::functional-analysis
+Operator norm \( \|T\| \)?	The largest stretch \( \|Tv\| \) over unit vectors \( v \). Bounded means finite, which equals continuous for linear maps.	math::tracks::functional-analysis
+Why is differentiation unbounded?	\( \sin(nx) \) keeps the same size while its derivative \( n\cos(nx) \) grows n times.	math::tracks::functional-analysis
+Riesz representation theorem?	Every bounded linear functional on a Hilbert space equals \( \langle g, \cdot \rangle \) for exactly one \( g \).	math::tracks::functional-analysis
+Spectral theorem in one line?	A self-adjoint operator has perpendicular eigenvector axes, and along them it only stretches by its eigenvalues.	math::tracks::functional-analysis

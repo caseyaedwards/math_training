@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 300" width="780" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Tit-for-tat copies the last move of the other player</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="780" height="300" fill="#ffffff"/>
+<text x="390.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Tit-for-Tat: Copy the Last Move</text>
+<text x="130.0" y="95.0" text-anchor="end" fill="#222222" font-weight="bold">opponent</text>
+<text x="130.0" y="195.0" text-anchor="end" fill="#d9480f" font-weight="bold">tit-for-tat</text>
+<text x="150.0" y="62.0" text-anchor="middle" fill="#666666" font-size="12">1</text>
+<line x1="162.0" y1="104.0" x2="194.0" y2="174.0" stroke="#868e96" stroke-width="1.2" marker-end="url(#ahg)"/>
+<text x="204.0" y="62.0" text-anchor="middle" fill="#666666" font-size="12">2</text>
+<line x1="216.0" y1="104.0" x2="248.0" y2="174.0" stroke="#868e96" stroke-width="1.2" marker-end="url(#ahg)"/>
+<text x="258.0" y="62.0" text-anchor="middle" fill="#666666" font-size="12">3</text>
+<line x1="270.0" y1="104.0" x2="302.0" y2="174.0" stroke="#868e96" stroke-width="1.2" marker-end="url(#ahg)"/>
+<text x="312.0" y="62.0" text-anchor="middle" fill="#666666" font-size="12">4</text>
+<line x1="324.0" y1="104.0" x2="356.0" y2="174.0" stroke="#868e96" stroke-width="1.2" marker-end="url(#ahg)"/>
+<text x="366.0" y="62.0" text-anchor="middle" fill="#666666" font-size="12">5</text>
+<line x1="378.0" y1="104.0" x2="410.0" y2="174.0" stroke="#868e96" stroke-width="1.2" marker-end="url(#ahg)"/>
+<text x="420.0" y="62.0" text-anchor="middle" fill="#666666" font-size="12">6</text>
+<line x1="432.0" y1="104.0" x2="464.0" y2="174.0" stroke="#868e96" stroke-width="1.2" marker-end="url(#ahg)"/>
+<text x="474.0" y="62.0" text-anchor="middle" fill="#666666" font-size="12">7</text>
+<line x1="486.0" y1="104.0" x2="518.0" y2="174.0" stroke="#868e96" stroke-width="1.2" marker-end="url(#ahg)"/>
+<text x="528.0" y="62.0" text-anchor="middle" fill="#666666" font-size="12">8</text>
+<line x1="540.0" y1="104.0" x2="572.0" y2="174.0" stroke="#868e96" stroke-width="1.2" marker-end="url(#ahg)"/>
+<text x="582.0" y="62.0" text-anchor="middle" fill="#666666" font-size="12">9</text>
+<line x1="594.0" y1="104.0" x2="626.0" y2="174.0" stroke="#868e96" stroke-width="1.2" marker-end="url(#ahg)"/>
+<text x="636.0" y="62.0" text-anchor="middle" fill="#666666" font-size="12">10</text>
+<circle cx="150.0" cy="90.0" r="16" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="150.0" y="95.0" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<circle cx="150.0" cy="190.0" r="16" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="150.0" y="195.0" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<circle cx="204.0" cy="90.0" r="16" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="204.0" y="95.0" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<circle cx="204.0" cy="190.0" r="16" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="204.0" y="195.0" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<circle cx="258.0" cy="90.0" r="16" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="258.0" y="95.0" text-anchor="middle" fill="#ffffff" font-weight="bold">D</text>
+<circle cx="258.0" cy="190.0" r="16" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="258.0" y="195.0" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<circle cx="312.0" cy="90.0" r="16" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="312.0" y="95.0" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<circle cx="312.0" cy="190.0" r="16" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="312.0" y="195.0" text-anchor="middle" fill="#ffffff" font-weight="bold">D</text>
+<circle cx="366.0" cy="90.0" r="16" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="366.0" y="95.0" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<circle cx="366.0" cy="190.0" r="16" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="366.0" y="195.0" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<circle cx="420.0" cy="90.0" r="16" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="420.0" y="95.0" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<circle cx="420.0" cy="190.0" r="16" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="420.0" y="195.0" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<circle cx="474.0" cy="90.0" r="16" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="474.0" y="95.0" text-anchor="middle" fill="#ffffff" font-weight="bold">D</text>
+<circle cx="474.0" cy="190.0" r="16" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="474.0" y="195.0" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<circle cx="528.0" cy="90.0" r="16" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="528.0" y="95.0" text-anchor="middle" fill="#ffffff" font-weight="bold">D</text>
+<circle cx="528.0" cy="190.0" r="16" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="528.0" y="195.0" text-anchor="middle" fill="#ffffff" font-weight="bold">D</text>
+<circle cx="582.0" cy="90.0" r="16" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="582.0" y="95.0" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<circle cx="582.0" cy="190.0" r="16" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="582.0" y="195.0" text-anchor="middle" fill="#ffffff" font-weight="bold">D</text>
+<circle cx="636.0" cy="90.0" r="16" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="636.0" y="95.0" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<circle cx="636.0" cy="190.0" r="16" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="636.0" y="195.0" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<text x="150.0" y="226.0" text-anchor="middle" fill="#666666" font-size="12">3-3</text>
+<text x="204.0" y="226.0" text-anchor="middle" fill="#666666" font-size="12">3-3</text>
+<text x="258.0" y="226.0" text-anchor="middle" fill="#666666" font-size="12">0-5</text>
+<text x="312.0" y="226.0" text-anchor="middle" fill="#666666" font-size="12">5-0</text>
+<text x="366.0" y="226.0" text-anchor="middle" fill="#666666" font-size="12">3-3</text>
+<text x="420.0" y="226.0" text-anchor="middle" fill="#666666" font-size="12">3-3</text>
+<text x="474.0" y="226.0" text-anchor="middle" fill="#666666" font-size="12">0-5</text>
+<text x="528.0" y="226.0" text-anchor="middle" fill="#666666" font-size="12">1-1</text>
+<text x="582.0" y="226.0" text-anchor="middle" fill="#666666" font-size="12">5-0</text>
+<text x="636.0" y="226.0" text-anchor="middle" fill="#666666" font-size="12">3-3</text>
+<text x="130.0" y="226.0" text-anchor="end" fill="#666666" font-size="12">points (TFT-opp)</text>
+<text x="666.0" y="226.0" text-anchor="start" fill="#222222" font-size="12" font-weight="bold">total 26-26</text>
+<text x="130.0" y="62.0" text-anchor="end" fill="#666666" font-size="12">round</text>
+<text x="390.0" y="282.0" text-anchor="middle" fill="#666666" font-size="13">Grey arrows: each tit-for-tat move repeats the opponent move one round earlier.</text>
+</svg>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 420" width="860" height="420" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Turing machine adding 1 to binary 1011, tape snapshots</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="860" height="420" fill="#ffffff"/>
+<text x="430.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">A Turing Machine Adds 1: 1011 + 1 = 1100</text>
+<text x="40.0" y="108.0" text-anchor="start" fill="#666666" font-size="13">step 0</text>
+<text x="110.0" y="108.0" text-anchor="start" fill="#222222" font-size="14" font-weight="bold">carry</text>
+<rect x="200.0" y="80.0" width="54.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="227.0" y="107.0" text-anchor="middle" fill="#868e96" font-size="16" font-weight="bold">_</text>
+<rect x="254.0" y="80.0" width="54.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="281.0" y="107.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">1</text>
+<rect x="308.0" y="80.0" width="54.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="335.0" y="107.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">0</text>
+<rect x="362.0" y="80.0" width="54.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="389.0" y="107.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">1</text>
+<rect x="416.0" y="80.0" width="54.0" height="40.0" rx="0" fill="#fde4d6" stroke="#222222" stroke-width="1.5"/>
+<text x="443.0" y="107.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">1</text>
+<rect x="470.0" y="80.0" width="54.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="497.0" y="107.0" text-anchor="middle" fill="#868e96" font-size="16" font-weight="bold">_</text>
+<polygon points="435.0,134.0 451.0,134.0 443.0,123.0" fill="#d9480f" stroke="#d9480f" stroke-width="1" stroke-linejoin="round"/>
+<text x="540.0" y="108.0" text-anchor="start" fill="#666666" font-size="12">head ^ in orange cell</text>
+<text x="40.0" y="182.0" text-anchor="start" fill="#666666" font-size="13">step 1</text>
+<text x="110.0" y="182.0" text-anchor="start" fill="#222222" font-size="14" font-weight="bold">carry</text>
+<rect x="200.0" y="154.0" width="54.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="227.0" y="181.0" text-anchor="middle" fill="#868e96" font-size="16" font-weight="bold">_</text>
+<rect x="254.0" y="154.0" width="54.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="281.0" y="181.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">1</text>
+<rect x="308.0" y="154.0" width="54.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="335.0" y="181.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">0</text>
+<rect x="362.0" y="154.0" width="54.0" height="40.0" rx="0" fill="#fde4d6" stroke="#222222" stroke-width="1.5"/>
+<text x="389.0" y="181.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">1</text>
+<rect x="416.0" y="154.0" width="54.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="443.0" y="181.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">0</text>
+<rect x="470.0" y="154.0" width="54.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="497.0" y="181.0" text-anchor="middle" fill="#868e96" font-size="16" font-weight="bold">_</text>
+<polygon points="381.0,208.0 397.0,208.0 389.0,197.0" fill="#d9480f" stroke="#d9480f" stroke-width="1" stroke-linejoin="round"/>
+<text x="40.0" y="256.0" text-anchor="start" fill="#666666" font-size="13">step 2</text>
+<text x="110.0" y="256.0" text-anchor="start" fill="#222222" font-size="14" font-weight="bold">carry</text>
+<rect x="200.0" y="228.0" width="54.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="227.0" y="255.0" text-anchor="middle" fill="#868e96" font-size="16" font-weight="bold">_</text>
+<rect x="254.0" y="228.0" width="54.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="281.0" y="255.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">1</text>
+<rect x="308.0" y="228.0" width="54.0" height="40.0" rx="0" fill="#fde4d6" stroke="#222222" stroke-width="1.5"/>
+<text x="335.0" y="255.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">0</text>
+<rect x="362.0" y="228.0" width="54.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="389.0" y="255.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">0</text>
+<rect x="416.0" y="228.0" width="54.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="443.0" y="255.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">0</text>
+<rect x="470.0" y="228.0" width="54.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="497.0" y="255.0" text-anchor="middle" fill="#868e96" font-size="16" font-weight="bold">_</text>
+<polygon points="327.0,282.0 343.0,282.0 335.0,271.0" fill="#d9480f" stroke="#d9480f" stroke-width="1" stroke-linejoin="round"/>
+<text x="40.0" y="330.0" text-anchor="start" fill="#666666" font-size="13">step 3</text>
+<text x="110.0" y="330.0" text-anchor="start" fill="#d9480f" font-size="14" font-weight="bold">halt</text>
+<rect x="200.0" y="302.0" width="54.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="227.0" y="329.0" text-anchor="middle" fill="#868e96" font-size="16" font-weight="bold">_</text>
+<rect x="254.0" y="302.0" width="54.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="281.0" y="329.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">1</text>
+<rect x="308.0" y="302.0" width="54.0" height="40.0" rx="0" fill="#fde4d6" stroke="#222222" stroke-width="1.5"/>
+<text x="335.0" y="329.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">1</text>
+<rect x="362.0" y="302.0" width="54.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="389.0" y="329.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">0</text>
+<rect x="416.0" y="302.0" width="54.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="443.0" y="329.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">0</text>
+<rect x="470.0" y="302.0" width="54.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="497.0" y="329.0" text-anchor="middle" fill="#868e96" font-size="16" font-weight="bold">_</text>
+<polygon points="327.0,356.0 343.0,356.0 335.0,345.0" fill="#d9480f" stroke="#d9480f" stroke-width="1" stroke-linejoin="round"/>
+<text x="540.0" y="180.0" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">Rules (state carry):</text>
+<text x="540.0" y="202.0" text-anchor="start" fill="#222222" font-size="13">read 1: write 0, move left, stay carry</text>
+<text x="540.0" y="224.0" text-anchor="start" fill="#222222" font-size="13">read 0 or _: write 1, go to halt</text>
+<text x="430.0" y="404.0" text-anchor="middle" fill="#666666" font-size="12">A tape that never runs out, a head that reads and writes, a small rule table. That is the whole machine.</text>
+</svg>

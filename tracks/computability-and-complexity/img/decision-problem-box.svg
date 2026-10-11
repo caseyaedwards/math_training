@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 320" width="780" height="320" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>A decision problem sorts strings into yes and no</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="780" height="320" fill="#ffffff"/>
+<text x="390.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">A Problem Is a Yes/No Question About Strings</text>
+<rect x="45.0" y="66.0" width="70.0" height="28.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="80.0" y="85.0" text-anchor="middle" fill="#222222" font-size="14">0</text>
+<line x1="118.0" y1="80.0" x2="268.0" y2="170.0" stroke="#868e96" stroke-width="1.2" marker-end="url(#ahg)"/>
+<rect x="45.0" y="102.0" width="70.0" height="28.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="80.0" y="121.0" text-anchor="middle" fill="#222222" font-size="14">10</text>
+<line x1="118.0" y1="116.0" x2="268.0" y2="170.0" stroke="#868e96" stroke-width="1.2" marker-end="url(#ahg)"/>
+<rect x="45.0" y="138.0" width="70.0" height="28.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="80.0" y="157.0" text-anchor="middle" fill="#222222" font-size="14">11</text>
+<line x1="118.0" y1="152.0" x2="268.0" y2="170.0" stroke="#868e96" stroke-width="1.2" marker-end="url(#ahg)"/>
+<rect x="45.0" y="174.0" width="70.0" height="28.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="80.0" y="193.0" text-anchor="middle" fill="#222222" font-size="14">100</text>
+<line x1="118.0" y1="188.0" x2="268.0" y2="170.0" stroke="#868e96" stroke-width="1.2" marker-end="url(#ahg)"/>
+<rect x="45.0" y="210.0" width="70.0" height="28.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="80.0" y="229.0" text-anchor="middle" fill="#222222" font-size="14">111</text>
+<line x1="118.0" y1="224.0" x2="268.0" y2="170.0" stroke="#868e96" stroke-width="1.2" marker-end="url(#ahg)"/>
+<rect x="45.0" y="246.0" width="70.0" height="28.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="80.0" y="265.0" text-anchor="middle" fill="#222222" font-size="14">1010</text>
+<line x1="118.0" y1="260.0" x2="268.0" y2="170.0" stroke="#868e96" stroke-width="1.2" marker-end="url(#ahg)"/>
+<text x="80.0" y="52.0" text-anchor="middle" fill="#666666" font-size="13">input strings</text>
+<rect x="270.0" y="125.0" width="200.0" height="90.0" rx="10" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="370.0" y="160.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">Is this binary</text>
+<text x="370.0" y="180.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">number even?</text>
+<text x="370.0" y="202.0" text-anchor="middle" fill="#666666" font-size="12">(the decider)</text>
+<line x1="472.0" y1="150.0" x2="560.0" y2="95.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="472.0" y1="190.0" x2="560.0" y2="245.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<rect x="565.0" y="55.0" width="190.0" height="80.0" rx="10" fill="#fde4d6" stroke="#d9480f" stroke-width="2"/>
+<text x="660.0" y="80.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">YES</text>
+<text x="660.0" y="105.0" text-anchor="middle" fill="#222222" font-size="14">0   10   100   1010</text>
+<text x="660.0" y="125.0" text-anchor="middle" fill="#666666" font-size="12">(the language L)</text>
+<rect x="565.0" y="205.0" width="190.0" height="80.0" rx="10" fill="#f1f3f5" stroke="#222222" stroke-width="1.5"/>
+<text x="660.0" y="230.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">NO</text>
+<text x="660.0" y="255.0" text-anchor="middle" fill="#222222" font-size="14">11   111</text>
+<text x="390.0" y="308.0" text-anchor="middle" fill="#666666" font-size="12">A language is the set of strings with answer yes. Solving the problem means deciding membership.</text>
+</svg>

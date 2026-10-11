@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Constructible numbers have degree a power of 2</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#444444"/></marker></defs>
+<rect x="0" y="0" width="760" height="420" fill="#ffffff"/>
+<text x="380.0" y="30.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">Ruler and Compass Only Reach Degrees 1, 2, 4, 8, ...</text>
+<rect x="110.0" y="353.0" width="120.0" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="170.0" y="375.0" text-anchor="middle" fill="#222222" font-size="14">degree 1</text>
+<rect x="110.0" y="283.0" width="120.0" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="170.0" y="305.0" text-anchor="middle" fill="#222222" font-size="14">degree 2</text>
+<rect x="110.0" y="213.0" width="120.0" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="170.0" y="235.0" text-anchor="middle" fill="#222222" font-size="14">degree 4</text>
+<rect x="110.0" y="143.0" width="120.0" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="170.0" y="165.0" text-anchor="middle" fill="#222222" font-size="14">degree 8</text>
+<rect x="110.0" y="73.0" width="120.0" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="170.0" y="95.0" text-anchor="middle" fill="#222222" font-size="14">degree 16</text>
+<line x1="170.0" y1="353.0" x2="170.0" y2="317.0" stroke="#222222" stroke-width="2"/>
+<text x="182.0" y="340.0" text-anchor="start" fill="#555555" font-size="13">× 2</text>
+<line x1="170.0" y1="283.0" x2="170.0" y2="247.0" stroke="#222222" stroke-width="2"/>
+<text x="182.0" y="270.0" text-anchor="start" fill="#555555" font-size="13">× 2</text>
+<line x1="170.0" y1="213.0" x2="170.0" y2="177.0" stroke="#222222" stroke-width="2"/>
+<text x="182.0" y="200.0" text-anchor="start" fill="#555555" font-size="13">× 2</text>
+<line x1="170.0" y1="143.0" x2="170.0" y2="107.0" stroke="#222222" stroke-width="2"/>
+<text x="182.0" y="130.0" text-anchor="start" fill="#555555" font-size="13">× 2</text>
+<text x="170.0" y="60.0" text-anchor="middle" fill="#555555" font-size="13">each step: one square root</text>
+<text x="250.0" y="375.0" text-anchor="start" fill="#222222" font-size="13">√2 (degree 2)</text>
+<text x="250.0" y="235.0" text-anchor="start" fill="#222222" font-size="13">√(2 + √2) (degree 4)</text>
+<text x="250.0" y="165.0" text-anchor="start" fill="#222222" font-size="13">cos(360°/17) (degree 8)</text>
+<rect x="445.0" y="144.0" width="150.0" height="52.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="520.0" y="166.0" text-anchor="middle" fill="#222222" font-size="14">∛2</text>
+<text x="520.0" y="184.0" text-anchor="middle" fill="#222222" font-size="14">degree 3</text>
+<rect x="445.0" y="264.0" width="150.0" height="52.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="520.0" y="286.0" text-anchor="middle" fill="#222222" font-size="14">cos 20°</text>
+<text x="520.0" y="304.0" text-anchor="middle" fill="#222222" font-size="14">degree 3</text>
+<text x="520.0" y="100.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">3 divides no power of 2</text>
+<text x="520.0" y="360.0" text-anchor="middle" fill="#555555" font-size="13">out of reach, forever</text>
+</svg>

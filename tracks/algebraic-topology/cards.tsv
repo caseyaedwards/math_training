@@ -1,0 +1,15 @@
+What does topology keep and what does it ignore?	It keeps connectedness and holes. It ignores length, angle and area: stretching and bending are allowed, cutting and gluing are not.	math::tracks::algebraic-topology
+Euler characteristic of a polyhedron?	\( \chi = V - E + F \). Any ball-shaped polyhedron gives 2. A one-hole (torus) polyhedron gives 0.	math::tracks::algebraic-topology
+\( \chi \) of a closed orientable surface with \( g \) holes?	\( \chi = 2 - 2g \). Sphere 2, torus 0, double torus \( -2 \).	math::tracks::algebraic-topology
+What is a simplicial complex?	A shape glued from simplices (points, edges, filled triangles, tetrahedra) along shared faces. Stored as lists of vertices, edges, triangles.	math::tracks::algebraic-topology
+What is a homotopy between two loops?	A continuous deformation of one loop into the other, a movie with no cuts.	math::tracks::algebraic-topology
+\( \pi_1 \) of the circle?	\( \mathbb{Z} \). A loop is classified by its winding number.	math::tracks::algebraic-topology
+\( \pi_1 \) of the sphere and of the torus?	Sphere: trivial (every loop shrinks). Torus: \( \mathbb{Z} \times \mathbb{Z} \) (laps around the tube and around the hole).	math::tracks::algebraic-topology
+What do the Betti numbers \( b_0, b_1, b_2 \) count?	Connected pieces, independent loops that bound nothing, and enclosed voids.	math::tracks::algebraic-topology
+Betti numbers of a torus?	\( (1, 2, 1) \), and \( \chi = 1 - 2 + 1 = 0 \).	math::tracks::algebraic-topology
+Key identity of the boundary map?	\( \partial \circ \partial = 0 \): the boundary of a boundary is zero.	math::tracks::algebraic-topology
+Formula for \( b_k \) from boundary matrices?	\( b_k = \dim\ker\partial_k - \operatorname{rank}\partial_{k+1} \): cycles minus boundaries.	math::tracks::algebraic-topology
+State the Brouwer fixed point theorem.	Every continuous map from a closed disk (or ball) to itself has a point with \( f(x) = x \).	math::tracks::algebraic-topology
+State the hairy ball theorem.	Every continuous tangent vector field on a sphere is zero somewhere. A torus can be combed flat.	math::tracks::algebraic-topology
+Poincare-Hopf theorem?	The indices of the zeros of a tangent vector field add up to \( \chi \).	math::tracks::algebraic-topology
+What does a persistence barcode show?	For each hole, the range of scales \( \varepsilon \) over which it exists. Long bars are real structure, short bars are noise.	math::tracks::algebraic-topology

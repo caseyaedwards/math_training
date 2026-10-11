@@ -1,0 +1,15 @@
+Three settings of a sine wave \( A\sin(2\pi f t + \varphi) \)?	Amplitude \( A \) (height), frequency \( f \) (cycles per second), phase \( \varphi \) (shift). Period \( T = 1/f \).	math::tracks::fourier-analysis
+What is a Fourier series?	A sum of sines and cosines at whole-number multiples of a base frequency that equals a repeating signal.	math::tracks::fourier-analysis
+Fourier series of the square wave?	\( \frac{4}{\pi}(\sin t + \frac{\sin 3t}{3} + \frac{\sin 5t}{5} + \cdots) \): odd harmonics only.	math::tracks::fourier-analysis
+How do you find the coefficient \( b_n \)?	Multiply by \( \sin nt \) and integrate: \( b_n = \frac{1}{\pi}\int_0^{2\pi} f(t)\sin(nt)\,dt \). Orthogonality cancels everything else.	math::tracks::fourier-analysis
+What is the Gibbs phenomenon?	Partial sums overshoot a jump by about 9% of the jump size, however many terms you add.	math::tracks::fourier-analysis
+What is a spectrum?	The strength of each frequency in a signal, shown as a bar chart or curve against frequency.	math::tracks::fourier-analysis
+Euler's formula?	\( e^{i\theta} = \cos\theta + i\sin\theta \): a point turning on the unit circle.	math::tracks::fourier-analysis
+Uncertainty principle of signals?	Narrow in time means wide in frequency, and the other way around. No signal is sharp in both.	math::tracks::fourier-analysis
+DFT versus FFT cost?	Direct DFT: about \( N^2 \) steps. FFT: about \( N\log_2 N \) steps, the same answer.	math::tracks::fourier-analysis
+Convolution theorem?	Convolution in time equals multiplication in frequency: \( \widehat{x * h} = \hat{x}\cdot\hat{h} \).	math::tracks::fourier-analysis
+What is a moving average in Fourier terms?	A convolution with a box kernel, which acts as a low-pass filter.	math::tracks::fourier-analysis
+Nyquist-Shannon sampling theorem?	A signal with no frequency above \( B \) is captured exactly by sampling faster than \( 2B \) per second.	math::tracks::fourier-analysis
+Alias of a 9 Hz wave sampled at 10 Hz?	\( |9 - 10| = 1 \) Hz.	math::tracks::fourier-analysis
+Haar wavelet step on a pair \( (a, b) \)?	Average \( (a+b)/2 \) and detail \( (a-b)/2 \). Repeat on the averages.	math::tracks::fourier-analysis
+How does a spectrum show seasonality in a metric?	Spikes at the bins for a 24-hour and a 168-hour period: the daily and weekly cycles.	math::tracks::fourier-analysis

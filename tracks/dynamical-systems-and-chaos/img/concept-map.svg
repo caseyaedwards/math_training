@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Dynamical Systems and Chaos Concept Map</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="960" height="600" fill="#ffffff"/>
+<text x="480.0" y="32.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">Dynamical Systems and Chaos Concept Map</text>
+<rect x="10.0" y="70.0" width="940.0" height="160.0" rx="0" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+<text x="40" y="150" text-anchor="middle" font-size="14" font-weight="bold" fill="#555555" transform="rotate(-90 40 150)">Beginner</text>
+<rect x="10.0" y="230.0" width="940.0" height="160.0" rx="0" fill="#f1f3f5" stroke="#dee2e6" stroke-width="1"/>
+<text x="40" y="310" text-anchor="middle" font-size="14" font-weight="bold" fill="#555555" transform="rotate(-90 40 310)">Intermediate</text>
+<rect x="10.0" y="390.0" width="940.0" height="160.0" rx="0" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+<text x="40" y="470" text-anchor="middle" font-size="14" font-weight="bold" fill="#555555" transform="rotate(-90 40 470)">Advanced</text>
+<line x1="225.0" y1="150.0" x2="275.0" y2="150.0" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="445.0" y1="150.0" x2="495.0" y2="150.0" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="665.0" y1="150.0" x2="715.0" y2="150.0" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<path d="M800.0,176.0 C800.0,230.0 140.0,230.0 140.0,284.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<path d="M800.0,176.0 C800.0,230.0 360.0,230.0 360.0,284.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="445.0" y1="310.0" x2="495.0" y2="310.0" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<path d="M140.0,336.0 C140.0,381.0 800.0,381.0 800.0,336.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<path d="M580.0,336.0 C580.0,390.0 140.0,390.0 140.0,444.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="225.0" y1="470.0" x2="275.0" y2="470.0" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="445.0" y1="470.0" x2="495.0" y2="470.0" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="665.0" y1="470.0" x2="715.0" y2="470.0" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<path d="M580.0,336.0 C580.0,390.0 800.0,390.0 800.0,444.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="55.0" y="124.0" width="170.0" height="52.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="140.0" y="155.0" text-anchor="middle" fill="#222222" font-size="14">Iterated Maps</text>
+<rect x="275.0" y="124.0" width="170.0" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="360.0" y="146.0" text-anchor="middle" fill="#222222" font-size="14">Orbits and</text>
+<text x="360.0" y="164.0" text-anchor="middle" fill="#222222" font-size="14">Fixed Points</text>
+<rect x="495.0" y="124.0" width="170.0" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="580.0" y="155.0" text-anchor="middle" fill="#222222" font-size="14">Cobweb Plots</text>
+<rect x="715.0" y="124.0" width="170.0" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="800.0" y="146.0" text-anchor="middle" fill="#222222" font-size="14">Stability:</text>
+<text x="800.0" y="164.0" text-anchor="middle" fill="#222222" font-size="14">Slope Test</text>
+<rect x="55.0" y="284.0" width="170.0" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="140.0" y="306.0" text-anchor="middle" fill="#222222" font-size="14">Feedback Loops</text>
+<text x="140.0" y="324.0" text-anchor="middle" fill="#222222" font-size="14">and Retry Storms</text>
+<rect x="275.0" y="284.0" width="170.0" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="360.0" y="306.0" text-anchor="middle" fill="#222222" font-size="14">The Logistic</text>
+<text x="360.0" y="324.0" text-anchor="middle" fill="#222222" font-size="14">Map</text>
+<rect x="495.0" y="284.0" width="170.0" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="580.0" y="306.0" text-anchor="middle" fill="#222222" font-size="14">Period Doubling</text>
+<text x="580.0" y="324.0" text-anchor="middle" fill="#222222" font-size="14">and Bifurcation</text>
+<rect x="715.0" y="284.0" width="170.0" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="800.0" y="306.0" text-anchor="middle" fill="#222222" font-size="14">Delay and</text>
+<text x="800.0" y="324.0" text-anchor="middle" fill="#222222" font-size="14">Autoscalers</text>
+<rect x="55.0" y="444.0" width="170.0" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="140.0" y="466.0" text-anchor="middle" fill="#222222" font-size="14">Sensitive</text>
+<text x="140.0" y="484.0" text-anchor="middle" fill="#222222" font-size="14">Dependence</text>
+<rect x="275.0" y="444.0" width="170.0" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="360.0" y="466.0" text-anchor="middle" fill="#222222" font-size="14">The Lorenz</text>
+<text x="360.0" y="484.0" text-anchor="middle" fill="#222222" font-size="14">Attractor</text>
+<rect x="495.0" y="444.0" width="170.0" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="580.0" y="466.0" text-anchor="middle" fill="#222222" font-size="14">Fractals and</text>
+<text x="580.0" y="484.0" text-anchor="middle" fill="#222222" font-size="14">Dimension</text>
+<rect x="715.0" y="444.0" width="170.0" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="800.0" y="466.0" text-anchor="middle" fill="#222222" font-size="14">The Mandelbrot</text>
+<text x="800.0" y="484.0" text-anchor="middle" fill="#222222" font-size="14">Set</text>
+<text x="20.0" y="582.0" text-anchor="start" fill="#555555" font-size="13">Arrow A to B: learn A before B. Orange box: start here.</text>
+</svg>

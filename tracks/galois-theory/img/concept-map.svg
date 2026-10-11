@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 568" width="960" height="568" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Galois Theory Concept Map</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#444444"/></marker></defs>
+<rect x="0" y="0" width="960" height="568" fill="#ffffff"/>
+<text x="480.0" y="30.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">Galois Theory Concept Map</text>
+<rect x="10" y="70" width="940" height="224" fill="#f8f9fa" stroke="#dee2e6"/>
+<text x="40.0" y="182.0" text-anchor="middle" fill="#555555" font-size="14" font-weight="bold" transform="rotate(-90 40 182.0)">Beginner</text>
+<rect x="10" y="294" width="940" height="112" fill="#f1f3f5" stroke="#dee2e6"/>
+<text x="40.0" y="350.0" text-anchor="middle" fill="#555555" font-size="14" font-weight="bold" transform="rotate(-90 40 350.0)">Intermediate</text>
+<rect x="10" y="406" width="940" height="112" fill="#f8f9fa" stroke="#dee2e6"/>
+<text x="40.0" y="462.0" text-anchor="middle" fill="#555555" font-size="14" font-weight="bold" transform="rotate(-90 40 462.0)">Advanced</text>
+<path d="M520.0,143.0 C520.0,177.5 230.0,177.5 230.0,212.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ahg)"/>
+<path d="M520.0,143.0 C520.0,182.0 520.0,182.0 520.0,221.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ahg)"/>
+<path d="M520.0,143.0 C520.0,182.0 790.0,182.0 790.0,221.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ahg)"/>
+<path d="M520.0,255.0 C520.0,289.5 430.0,289.5 430.0,324.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ahg)"/>
+<path d="M790.0,255.0 C790.0,289.5 655.0,289.5 655.0,324.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ahg)"/>
+<path d="M195.0,367.0 C195.0,401.5 195.0,401.5 195.0,436.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ahg)"/>
+<path d="M195.0,367.0 C195.0,401.5 430.0,401.5 430.0,436.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ahg)"/>
+<path d="M655.0,376.0 C655.0,406.0 430.0,406.0 430.0,436.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ahg)"/>
+<path d="M860.0,376.0 C860.0,406.0 655.0,406.0 655.0,436.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ahg)"/>
+<path d="M230.0,264.0 C230.0,298.5 195.0,298.5 195.0,333.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ahg)"/>
+<line x1="377.8" y1="350.0" x2="243.3" y2="350.0" stroke="#444444" stroke-width="1.5" marker-end="url(#ahg)"/>
+<line x1="482.2" y1="350.0" x2="602.8" y2="350.0" stroke="#444444" stroke-width="1.5" marker-end="url(#ahg)"/>
+<line x1="707.2" y1="350.0" x2="815.6" y2="350.0" stroke="#444444" stroke-width="1.5" marker-end="url(#ahg)"/>
+<line x1="486.1" y1="462.0" x2="610.6" y2="462.0" stroke="#444444" stroke-width="1.5" marker-end="url(#ahg)"/>
+<line x1="699.4" y1="462.0" x2="807.8" y2="462.0" stroke="#444444" stroke-width="1.5" marker-end="url(#ahg)"/>
+<rect x="424.7" y="109.0" width="190.6" height="34.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="520.0" y="131.0" text-anchor="middle" fill="#222222" font-size="14">The Quadratic Formula</text>
+<rect x="150.4" y="212.0" width="159.3" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="230.0" y="234.0" text-anchor="middle" fill="#222222" font-size="14">Cubic and Quartic</text>
+<text x="230.0" y="252.0" text-anchor="middle" fill="#222222" font-size="14">Formulas</text>
+<rect x="483.5" y="221.0" width="73.0" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="520.0" y="243.0" text-anchor="middle" fill="#222222" font-size="14">Fields</text>
+<rect x="710.4" y="221.0" width="159.3" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="790.0" y="243.0" text-anchor="middle" fill="#222222" font-size="14">Symmetry of Roots</text>
+<rect x="377.8" y="324.0" width="104.4" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="430.0" y="346.0" text-anchor="middle" fill="#222222" font-size="14">Extensions</text>
+<text x="430.0" y="364.0" text-anchor="middle" fill="#222222" font-size="14">and Degree</text>
+<rect x="146.7" y="333.0" width="96.6" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="195.0" y="355.0" text-anchor="middle" fill="#222222" font-size="14">Tower Law</text>
+<rect x="602.8" y="324.0" width="104.4" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="655.0" y="346.0" text-anchor="middle" fill="#222222" font-size="14">The Galois</text>
+<text x="655.0" y="364.0" text-anchor="middle" fill="#222222" font-size="14">Group</text>
+<rect x="815.6" y="324.0" width="88.7" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="860.0" y="346.0" text-anchor="middle" fill="#222222" font-size="14">Roots of</text>
+<text x="860.0" y="364.0" text-anchor="middle" fill="#222222" font-size="14">Unity</text>
+<rect x="146.7" y="436.0" width="96.6" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="195.0" y="458.0" text-anchor="middle" fill="#222222" font-size="14">Ruler and</text>
+<text x="195.0" y="476.0" text-anchor="middle" fill="#222222" font-size="14">Compass</text>
+<rect x="373.9" y="436.0" width="112.2" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="430.0" y="458.0" text-anchor="middle" fill="#222222" font-size="14">Fundamental</text>
+<text x="430.0" y="476.0" text-anchor="middle" fill="#222222" font-size="14">Theorem</text>
+<rect x="610.6" y="436.0" width="88.7" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="655.0" y="458.0" text-anchor="middle" fill="#222222" font-size="14">Solvable</text>
+<text x="655.0" y="476.0" text-anchor="middle" fill="#222222" font-size="14">Groups</text>
+<rect x="807.8" y="436.0" width="104.4" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="860.0" y="458.0" text-anchor="middle" fill="#222222" font-size="14">No Quintic</text>
+<text x="860.0" y="476.0" text-anchor="middle" fill="#222222" font-size="14">Formula</text>
+<text x="20.0" y="550.0" text-anchor="start" fill="#555555" font-size="13">Arrow A to B: learn A before B. Orange box: start here.</text>
+</svg>

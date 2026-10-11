@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 568" width="960" height="568" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Coding Theory Concept Map</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#444444"/></marker></defs>
+<rect x="0" y="0" width="960" height="568" fill="#ffffff"/>
+<text x="480.0" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#222222">Coding Theory Concept Map</text>
+<rect x="10" y="70" width="940" height="224" fill="#f8f9fa" stroke="#dee2e6"/>
+<text x="40" y="182.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#555555" transform="rotate(-90 40 182.0)">Beginner</text>
+<rect x="10" y="294" width="940" height="112" fill="#f1f3f5" stroke="#dee2e6"/>
+<text x="40" y="350.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#555555" transform="rotate(-90 40 350.0)">Intermediate</text>
+<rect x="10" y="406" width="940" height="112" fill="#f8f9fa" stroke="#dee2e6"/>
+<text x="40" y="462.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#555555" transform="rotate(-90 40 462.0)">Advanced</text>
+<path d="M535.0,152.0 C535.0,186.5 292.0,186.5 292.0,221.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M535.0,152.0 C535.0,186.5 778.0,186.5 778.0,221.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="352.0" y1="238.0" x2="475.0" y2="238.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M292.0,255.0 C292.0,289.5 231.2,289.5 231.2,324.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M778.0,255.0 C778.0,289.5 231.2,289.5 231.2,324.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M778.0,255.0 C778.0,289.5 636.2,289.5 636.2,324.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="306.4" y1="350.0" x2="370.4" y2="350.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="497.1" y1="350.0" x2="572.9" y2="350.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M535.0,255.0 C535.0,289.5 838.8,289.5 838.8,324.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="306.4" y1="350.0" x2="767.5" y2="350.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M838.8,376.0 C838.8,410.5 231.2,410.5 231.2,445.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="294.6" y1="462.0" x2="373.8" y2="462.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M636.2,376.0 C636.2,406.0 433.8,406.0 433.8,436.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="493.8" y1="462.0" x2="569.0" y2="462.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M433.8,376.0 C433.8,406.0 838.8,406.0 838.8,436.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="703.5" y1="462.0" x2="771.5" y2="462.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<rect x="459.8" y="100.0" width="150.4" height="52" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="535.0" y="122.0" text-anchor="middle" fill="#222222">Redundancy:</text>
+<text x="535.0" y="140.0" text-anchor="middle" fill="#222222">Repetition Codes</text>
+<rect x="232.0" y="221.0" width="120.0" height="34" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="292.0" y="243.0" text-anchor="middle" fill="#222222">Parity Bits</text>
+<rect x="475.0" y="221.0" width="120.0" height="34" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="535.0" y="243.0" text-anchor="middle" fill="#222222">Checksums</text>
+<rect x="702.8" y="221.0" width="150.4" height="34" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="778.0" y="243.0" text-anchor="middle" fill="#222222">Hamming Distance</text>
+<rect x="156.1" y="324.0" width="150.4" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="231.2" y="346.0" text-anchor="middle" fill="#222222">Linear Codes and</text>
+<text x="231.2" y="364.0" text-anchor="middle" fill="#222222">Generator Matrix</text>
+<rect x="370.4" y="324.0" width="126.7" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="433.8" y="346.0" text-anchor="middle" fill="#222222">Hamming (7,4)</text>
+<text x="433.8" y="364.0" text-anchor="middle" fill="#222222">Syndromes</text>
+<rect x="572.9" y="324.0" width="126.7" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="636.2" y="346.0" text-anchor="middle" fill="#222222">Perfect Codes</text>
+<text x="636.2" y="364.0" text-anchor="middle" fill="#222222">and Bounds</text>
+<rect x="767.5" y="324.0" width="142.5" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="838.8" y="346.0" text-anchor="middle" fill="#222222">CRC: Polynomial</text>
+<text x="838.8" y="364.0" text-anchor="middle" fill="#222222">Division</text>
+<rect x="167.9" y="445.0" width="126.7" height="34" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="231.2" y="467.0" text-anchor="middle" fill="#222222">Finite Fields</text>
+<rect x="373.8" y="436.0" width="120.0" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="433.8" y="458.0" text-anchor="middle" fill="#222222">Reed-Solomon</text>
+<text x="433.8" y="476.0" text-anchor="middle" fill="#222222">Codes</text>
+<rect x="569.0" y="436.0" width="134.6" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="636.2" y="458.0" text-anchor="middle" fill="#222222">Erasure Coding</text>
+<text x="636.2" y="476.0" text-anchor="middle" fill="#222222">in Storage</text>
+<rect x="771.5" y="436.0" width="134.6" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="838.8" y="458.0" text-anchor="middle" fill="#222222">LDPC and</text>
+<text x="838.8" y="476.0" text-anchor="middle" fill="#222222">Fountain Codes</text>
+<text x="20" y="550" fill="#555555" font-size="13">Arrow A to B: learn A before B. Orange box: start here.</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 380" width="680" height="380" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Coordination game: two teams pick a log format</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="680" height="380" fill="#ffffff"/>
+<text x="340.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Nash Equilibrium: No One Gains by Switching Alone</text>
+<text x="300.0" y="66.0" text-anchor="middle" fill="#222222" font-weight="bold">Team B</text>
+<text x="68.0" y="205.0" text-anchor="middle" fill="#222222" font-weight="bold" transform="rotate(-90 68.0 205.0)">Team A</text>
+<text x="230.0" y="90.0" text-anchor="middle" fill="#666666">JSON</text>
+<text x="370.0" y="90.0" text-anchor="middle" fill="#666666">Plain</text>
+<text x="150.0" y="155.0" text-anchor="end" fill="#666666">JSON</text>
+<text x="150.0" y="255.0" text-anchor="end" fill="#666666">Plain</text>
+<rect x="160.0" y="100.0" width="140.0" height="100.0" rx="0" fill="#fde4d6" stroke="#222222" stroke-width="1.5"/>
+<rect x="300.0" y="100.0" width="140.0" height="100.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<rect x="160.0" y="200.0" width="140.0" height="100.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<rect x="300.0" y="200.0" width="140.0" height="100.0" rx="0" fill="#fde4d6" stroke="#222222" stroke-width="1.5"/>
+<text x="230.0" y="156.0" text-anchor="middle" font-size="18"><tspan fill="#222222" font-weight="bold">3</tspan><tspan fill="#666666">,  </tspan><tspan fill="#222222">3</tspan></text>
+<rect x="163.0" y="103.0" width="134.0" height="94.0" rx="0" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<polygon points="284.0,107.0 286.4,112.7 292.6,113.2 287.9,117.3 289.3,123.3 284.0,120.0 278.7,123.3 280.1,117.3 275.4,113.2 281.6,112.7" fill="#d9480f" stroke="none"/>
+<text x="370.0" y="156.0" text-anchor="middle" font-size="18"><tspan fill="#222222" font-weight="bold">0</tspan><tspan fill="#666666">,  </tspan><tspan fill="#222222">0</tspan></text>
+<text x="230.0" y="256.0" text-anchor="middle" font-size="18"><tspan fill="#222222" font-weight="bold">0</tspan><tspan fill="#666666">,  </tspan><tspan fill="#222222">0</tspan></text>
+<text x="370.0" y="256.0" text-anchor="middle" font-size="18"><tspan fill="#222222" font-weight="bold">2</tspan><tspan fill="#666666">,  </tspan><tspan fill="#222222">2</tspan></text>
+<rect x="303.0" y="203.0" width="134.0" height="94.0" rx="0" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<polygon points="424.0,207.0 426.4,212.7 432.6,213.2 427.9,217.3 429.3,223.3 424.0,220.1 418.7,223.3 420.1,217.3 415.4,213.2 421.6,212.7" fill="#d9480f" stroke="none"/>
+<line x1="188.0" y1="230.0" x2="188.0" y2="170.0" stroke="#d9480f" stroke-width="2" marker-end="url(#aha)"/>
+<line x1="328.0" y1="170.0" x2="328.0" y2="230.0" stroke="#d9480f" stroke-width="2" marker-end="url(#aha)"/>
+<line x1="342.0" y1="120.0" x2="258.0" y2="120.0" stroke="#d9480f" stroke-width="2" marker-end="url(#aha)"/>
+<line x1="258.0" y1="280.0" x2="342.0" y2="280.0" stroke="#d9480f" stroke-width="2" marker-end="url(#aha)"/>
+<polygon points="478.0,119.0 480.4,124.7 486.6,125.2 481.9,129.3 483.3,135.3 478.0,132.1 472.7,135.3 474.1,129.3 469.4,125.2 475.6,124.7" fill="#d9480f" stroke="none"/>
+<text x="492.0" y="133.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">equilibrium</text>
+<text x="470.0" y="166.0" text-anchor="start" fill="#222222" font-size="13">Same format: logs join</text>
+<text x="470.0" y="184.0" text-anchor="start" fill="#222222" font-size="13">up and both teams win.</text>
+<text x="470.0" y="214.0" text-anchor="start" fill="#222222" font-size="13">Mismatch: the pipeline</text>
+<text x="470.0" y="232.0" text-anchor="start" fill="#222222" font-size="13">breaks and both get 0.</text>
+<text x="470.0" y="262.0" text-anchor="start" fill="#666666" font-size="13">Arrows point toward</text>
+<text x="470.0" y="280.0" text-anchor="start" fill="#666666" font-size="13">the better reply.</text>
+<text x="340.0" y="345.0" text-anchor="middle" fill="#222222" font-size="13">Two equilibria. (Plain, Plain) is worse for both, but still stable:</text>
+<text x="340.0" y="365.0" text-anchor="middle" fill="#666666" font-size="13">a lone team that switches to JSON drops from 2 to 0.</text>
+</svg>

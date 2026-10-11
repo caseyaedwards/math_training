@@ -1,0 +1,15 @@
+What is a decision problem (a language)?	A yes/no question about strings. The language is the set of strings whose answer is yes.	math::tracks::computability-and-complexity
+What is a DFA?	A deterministic finite automaton: a fixed set of states, one move per input symbol, accept if it ends in an accepting state. Finite memory only.	math::tracks::computability-and-complexity
+DFA rule for binary numbers mod 3?	State \( r \) is the value so far mod 3. Reading bit \( b \): \( r \to (2r + b) \bmod 3 \). Accept in state 0.	math::tracks::computability-and-complexity
+Kleene theorem in one line?	Regular expressions, NFAs and DFAs describe exactly the same languages: the regular languages.	math::tracks::computability-and-complexity
+What is catastrophic backtracking (ReDoS)?	A backtracking regex engine tries every way to split the input, so a pattern like \( (a+)+b \) on \( a^n \) takes about \( 2^n \) steps.	math::tracks::computability-and-complexity
+Why is Go regexp safe from ReDoS?	It follows the RE2 design: automaton simulation, guaranteed time linear in the input. It drops backreferences to keep that promise.	math::tracks::computability-and-complexity
+Why is \( a^n b^n \) not regular?	Pumping lemma: a DFA with \( p \) states repeats a state while reading \( a^p \), so it also accepts a string with extra a's. A finite machine cannot count without bound.	math::tracks::computability-and-complexity
+What does a pushdown automaton add to a DFA?	One stack. It decides the context-free languages, such as balanced parentheses and \( a^n b^n \).	math::tracks::computability-and-complexity
+What is a Turing machine?	A finite rule table plus an endless tape and a head that reads, writes and moves. Church-Turing thesis: it computes anything an algorithm computes.	math::tracks::computability-and-complexity
+State the halting problem result.	No program decides, for every program P and input x, whether P halts on x (Turing, 1936). Proof: a diagonal program D does the opposite of the prediction about itself.	math::tracks::computability-and-complexity
+State Rice theorem.	Every nontrivial question about what a program does (its behavior, not its text) is undecidable.	math::tracks::computability-and-complexity
+Define P and NP.	P: solvable in polynomial time. NP: a yes answer has a short certificate that is checkable in polynomial time.	math::tracks::computability-and-complexity
+What makes a problem NP-complete?	It is in NP, and every NP problem reduces to it in polynomial time. Cook-Levin: SAT is NP-complete.	math::tracks::computability-and-complexity
+How does 3-SAT reduce to independent set?	One triangle per clause, an edge between each literal and its opposite. Satisfiable exactly when an independent set of size (number of clauses) exists.	math::tracks::computability-and-complexity
+What is a 2-approximation for vertex cover?	Take a maximal matching and keep both ends of every matched edge. The cover is at most twice the optimum.	math::tracks::computability-and-complexity

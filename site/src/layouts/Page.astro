@@ -11,6 +11,12 @@ const siteName = 'Math Training';
 const pageTitle = entry.route === '/' ? siteName : `${title} | ${siteName}`;
 const sourceUrl = entry.repoPath ? GITHUB_BLOB + encodeURI(entry.repoPath) : null;
 const isLong = headings.length >= 4;
+const widths = [
+  { id: 'slim', label: 'Slim' },
+  { id: 'medium', label: 'Medium' },
+  { id: 'wide', label: 'Wide' },
+  { id: 'full', label: 'Full' },
+];
 ---
 <!doctype html>
 <html lang="en">
@@ -20,12 +26,23 @@ const isLong = headings.length >= 4;
     <meta name="color-scheme" content="light dark" />
     <title>{pageTitle}</title>
     <link rel="icon" type="image/svg+xml" href={withBase('/favicon.svg')} />
+    <script is:inline>
+      // Apply the saved page width before the first paint to avoid a jump.
+      try {
+        const w = localStorage.getItem('page-width');
+        if (w === 'slim' || w === 'wide' || w === 'full') document.documentElement.dataset.width = w;
+      } catch {}
+    </script>
     {entry.route !== '/404/' && <link rel="canonical" href={new URL(withBase(entry.route), Astro.site)} />}
   </head>
   <body>
     <a class="skip" href="#content">Skip to content</a>
     <header class="masthead">
       <div class="wrap">
+        <div class="width-picker" role="group" aria-label="Page width">
+          <span>Width</span>
+          {widths.map((w) => <button type="button" data-width={w.id} aria-pressed={w.id === 'medium' ? 'true' : 'false'}>{w.label}</button>)}
+        </div>
         <a class="sitename" href={withBase('/')}>{siteName}</a>
         <nav aria-label="Main">
           <ul>
@@ -69,5 +86,28 @@ const isLong = headings.length >= 4;
         {sourceUrl && <> <a href={sourceUrl}>View the source of this page on GitHub</a>.</>}
       </p>
     </footer>
+    <script is:inline>
+      // Page width picker: store the choice and mark the pressed button.
+      (() => {
+        const root = document.documentElement;
+        const buttons = document.querySelectorAll('.width-picker button');
+        const mark = () => {
+          const current = root.dataset.width || 'medium';
+          buttons.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.width === current)));
+        };
+        buttons.forEach((b) =>
+          b.addEventListener('click', () => {
+            const w = b.dataset.width;
+            if (w === 'medium') delete root.dataset.width;
+            else root.dataset.width = w;
+            try {
+              localStorage.setItem('page-width', w);
+            } catch {}
+            mark();
+          })
+        );
+        mark();
+      })();
+    </script>
   </body>
 </html>

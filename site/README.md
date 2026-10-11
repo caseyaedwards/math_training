@@ -80,3 +80,7 @@ The package versions in `package.json` are exact. To upgrade, change the version
 ## Diagram Showcase
 
 CI runs `python3 -m svgmath showcase --out ../site/public/diagrams` from `svg-generator/` before the build. The site serves the result at `/diagrams/`. To preview it locally, run the same command first. The output is about 42 MB and stays out of git.
+
+## Page Width
+
+The masthead has a **Width** picker: **Slim** is 38rem, **Medium** is 46rem and the default, **Wide** is 64rem, and **Full** fills the window. The browser remembers the choice in `localStorage`. The picker is hidden on screens narrower than 760 px, where every option looks the same.

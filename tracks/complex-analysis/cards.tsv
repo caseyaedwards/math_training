@@ -1,0 +1,15 @@
+What does multiplying by \( i \) do geometrically?	Turns the point 90° counterclockwise around 0. Length stays the same.	math::tracks::complex-analysis
+\( i^2, i^3, i^4 \)?	\( -1, -i, 1 \).	math::tracks::complex-analysis
+Modulus and conjugate of \( a + bi \)?	\( |z| = \sqrt{a^2+b^2} \); \( \bar z = a - bi \); \( z\bar z = |z|^2 \).	math::tracks::complex-analysis
+Polar rule for multiplication?	Multiply the lengths, add the angles.	math::tracks::complex-analysis
+Euler formula?	\( e^{i\theta} = \cos\theta + i\sin\theta \).	math::tracks::complex-analysis
+Euler identity?	\( e^{i\pi} + 1 = 0 \).	math::tracks::complex-analysis
+The \( n \)-th roots of unity?	\( e^{2\pi i k/n} \) for \( k = 0..n-1 \): a regular \( n \)-gon on the unit circle. They sum to 0.	math::tracks::complex-analysis
+What does \( z^2 \) do to a point \( re^{i\theta} \)?	Squares the length and doubles the angle: \( r^2 e^{2i\theta} \).	math::tracks::complex-analysis
+What does an analytic function do locally?	Rotates and scales tiny shapes by the complex number \( f'(z_0) \).	math::tracks::complex-analysis
+Cauchy-Riemann equations?	\( u_x = v_y \) and \( u_y = -v_x \).	math::tracks::complex-analysis
+What is a conformal map?	A map that preserves angles. Analytic maps are conformal where \( f' \neq 0 \).	math::tracks::complex-analysis
+Cauchy theorem?	The integral of an analytic function around a closed loop is 0.	math::tracks::complex-analysis
+\( \oint dz/z \) around a circle about 0?	\( 2\pi i \).	math::tracks::complex-analysis
+Residue theorem?	\( \oint f\,dz = 2\pi i \sum \) residues inside the loop.	math::tracks::complex-analysis
+Riemann Hypothesis?	Every nontrivial zero of \( \zeta(s) \) has real part 1/2.	math::tracks::complex-analysis

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 260" width="600" height="260" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Binary symmetric channel with flip probability f</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="600" height="260" fill="#ffffff"/>
+<text x="300.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Binary Symmetric Channel</text>
+<line x1="170.0" y1="80.0" x2="428.0" y2="80.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="170.0" y1="190.0" x2="428.0" y2="190.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="168.8" y1="86.9" x2="429.3" y2="182.4" stroke="#d9480f" stroke-width="2" marker-end="url(#aha)"/>
+<line x1="168.8" y1="183.1" x2="429.3" y2="87.6" stroke="#d9480f" stroke-width="2" marker-end="url(#aha)"/>
+<text x="300.0" y="70.0" text-anchor="middle" fill="#222222" font-size="13">1 - f</text>
+<text x="300.0" y="212.0" text-anchor="middle" fill="#222222" font-size="13">1 - f</text>
+<text x="255.0" y="125.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">f</text>
+<text x="255.0" y="160.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">f</text>
+<circle cx="150.0" cy="80.0" r="20.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="150.0" y="85.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">0</text>
+<circle cx="150.0" cy="190.0" r="20.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="150.0" y="195.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<circle cx="450.0" cy="80.0" r="20.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="450.0" y="85.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">0</text>
+<circle cx="450.0" cy="190.0" r="20.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="450.0" y="195.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<text x="150.0" y="35.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">sent</text>
+<text x="450.0" y="35.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">received</text>
+<text x="300.0" y="245.0" text-anchor="middle" fill="#666666" font-size="13">capacity C = 1 - H(f). For f = 0.1: C = 0.531 bits per use</text>
+</svg>

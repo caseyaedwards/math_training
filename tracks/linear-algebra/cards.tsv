@@ -1,0 +1,15 @@
+How do you add two vectors geometrically?	Tip to tail: walk the first, then the second. The sum goes from start to finish.	math::tracks::linear-algebra
+Dot product of \( u, v \) two ways?	\( \sum u_i v_i = \|u\|\|v\|\cos\theta \).	math::tracks::linear-algebra
+What does a zero dot product mean?	The vectors are perpendicular (orthogonal).	math::tracks::linear-algebra
+Where do the basis vectors land under a matrix?	On the columns of the matrix.	math::tracks::linear-algebra
+What does \( AB \) mean as a machine?	Apply \( B \) first, then \( A \).	math::tracks::linear-algebra
+Three possible outcomes for a linear system?	One solution, no solution, or infinitely many.	math::tracks::linear-algebra
+Projection of \( b \) onto \( a \)?	\( \frac{a\cdot b}{a\cdot a} a \). The error is orthogonal to \( a \).	math::tracks::linear-algebra
+What is the rank of a matrix?	The dimension of its column span: the number of independent output directions.	math::tracks::linear-algebra
+2x2 determinant and its meaning?	\( ad - bc \): the factor by which the map scales area. Zero means it squashes space flat.	math::tracks::linear-algebra
+Define eigenvector and eigenvalue.	\( Av = \lambda v \): a direction the matrix only stretches, by factor \( \lambda \).	math::tracks::linear-algebra
+How do you find eigenvalues?	Solve \( \det(A - \lambda I) = 0 \).	math::tracks::linear-algebra
+Normal equations for least squares?	\( A^T A \hat x = A^T b \).	math::tracks::linear-algebra
+What is power iteration?	Multiply a vector by \( A \) repeatedly and rescale. It converges to the top eigenvector. PageRank uses it.	math::tracks::linear-algebra
+SVD in one line?	\( A = U\Sigma V^T \): rotate, stretch along axes by singular values, rotate.	math::tracks::linear-algebra
+State rank-nullity.	rank + nullity = number of columns.	math::tracks::linear-algebra

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 345" width="620" height="345" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Two circular contours, one around the singularity of 1/z and one not</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="620" height="345" fill="#ffffff"/>
+<text x="310.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Contour Integrals of 1/z</text>
+<line x1="60.0" y1="170.0" x2="580.0" y2="170.0" stroke="#666666" stroke-width="1.5"/>
+<line x1="190.0" y1="300.0" x2="190.0" y2="40.0" stroke="#666666" stroke-width="1.5"/>
+<circle cx="190.0" cy="170.0" r="84.5" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<circle cx="437.0" cy="170.0" r="84.5" fill="none" stroke="#222222" stroke-width="2.5"/>
+<line x1="249.8" y1="110.2" x2="240.2" y2="102.0" stroke="#d9480f" stroke-width="2.5" marker-end="url(#aha)"/>
+<line x1="130.2" y1="229.8" x2="139.8" y2="238.0" stroke="#d9480f" stroke-width="2.5" marker-end="url(#aha)"/>
+<line x1="496.8" y1="110.2" x2="487.2" y2="102.0" stroke="#222222" stroke-width="2.5" marker-end="url(#ah)"/>
+<line x1="377.2" y1="229.8" x2="386.8" y2="238.0" stroke="#222222" stroke-width="2.5" marker-end="url(#ah)"/>
+<text x="190.0" y="176.0" text-anchor="middle" fill="#222222" font-size="22" font-weight="bold">×</text>
+<text x="202.0" y="192.0" text-anchor="start" fill="#222222" font-size="12">z = 0</text>
+<text x="190.0" y="274.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">∮ dz/z = 2πi</text>
+<text x="437.0" y="274.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">∮ dz/z = 0</text>
+<text x="320.0" y="335.0" text-anchor="middle" fill="#666666" font-size="12">Only what the loop encloses matters. No singularity inside: the integral is 0.</text>
+</svg>

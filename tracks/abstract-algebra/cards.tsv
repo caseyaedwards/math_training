@@ -1,0 +1,15 @@
+What is \( a \bmod n \)?	The remainder after dividing \( a \) by \( n \). Arithmetic that wraps around.	math::tracks::abstract-algebra
+Four group axioms?	Closure, associativity, identity, inverses.	math::tracks::abstract-algebra
+What is an abelian group?	A group where \( ab = ba \) for all elements.	math::tracks::abstract-algebra
+Order of an element?	The number of steps for repeated combining to return to the identity.	math::tracks::abstract-algebra
+Order of \( a \) in \( \mathbb{Z}/n \)?	\( n / \gcd(a, n) \). \( a \) generates \( \mathbb{Z}/n \) exactly when \( \gcd(a,n) = 1 \).	math::tracks::abstract-algebra
+Size of the symmetric group \( S_n \)?	\( n! \).	math::tracks::abstract-algebra
+Lagrange theorem?	The size of a subgroup divides the size of the group.	math::tracks::abstract-algebra
+What is a coset?	A subgroup shifted by one element. Cosets tile the group without overlap.	math::tracks::abstract-algebra
+What is a homomorphism?	A map with \( f(ab) = f(a)f(b) \): combine-then-map equals map-then-combine.	math::tracks::abstract-algebra
+What is the kernel of a homomorphism?	Everything sent to the identity.	math::tracks::abstract-algebra
+Ring versus field?	A ring has + and x. A field also lets you divide by any nonzero element.	math::tracks::abstract-algebra
+When is \( \mathbb{Z}/n \) a field?	Exactly when \( n \) is prime.	math::tracks::abstract-algebra
+Burnside lemma?	Number of orbits = average number of points fixed by each group element.	math::tracks::abstract-algebra
+Finite fields exist for which sizes?	Exactly the prime powers \( p^k \), one field for each.	math::tracks::abstract-algebra
+Fermat little theorem?	\( a^{p-1} \equiv 1 \pmod p \) for prime \( p \) not dividing \( a \).	math::tracks::abstract-algebra

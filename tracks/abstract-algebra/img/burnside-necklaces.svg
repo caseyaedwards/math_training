@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 270" width="660" height="270" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>The six distinct 4-bead necklaces with two colors up to rotation</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="660" height="270" fill="#ffffff"/>
+<text x="330.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Burnside: 6 Necklaces of 4 Beads, 2 Colors</text>
+<circle cx="65.0" cy="120.0" r="32.0" fill="none" stroke="#cccccc" stroke-width="2"/>
+<circle cx="65.0" cy="88.0" r="11.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="97.0" cy="120.0" r="11.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="65.0" cy="152.0" r="11.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="33.0" cy="120.0" r="11.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="171.0" cy="120.0" r="32.0" fill="none" stroke="#cccccc" stroke-width="2"/>
+<circle cx="171.0" cy="88.0" r="11.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="203.0" cy="120.0" r="11.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="171.0" cy="152.0" r="11.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="139.0" cy="120.0" r="11.0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<circle cx="277.0" cy="120.0" r="32.0" fill="none" stroke="#cccccc" stroke-width="2"/>
+<circle cx="277.0" cy="88.0" r="11.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="309.0" cy="120.0" r="11.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="277.0" cy="152.0" r="11.0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<circle cx="245.0" cy="120.0" r="11.0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<circle cx="383.0" cy="120.0" r="32.0" fill="none" stroke="#cccccc" stroke-width="2"/>
+<circle cx="383.0" cy="88.0" r="11.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="415.0" cy="120.0" r="11.0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<circle cx="383.0" cy="152.0" r="11.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="351.0" cy="120.0" r="11.0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<circle cx="489.0" cy="120.0" r="32.0" fill="none" stroke="#cccccc" stroke-width="2"/>
+<circle cx="489.0" cy="88.0" r="11.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="521.0" cy="120.0" r="11.0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<circle cx="489.0" cy="152.0" r="11.0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<circle cx="457.0" cy="120.0" r="11.0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<circle cx="595.0" cy="120.0" r="32.0" fill="none" stroke="#cccccc" stroke-width="2"/>
+<circle cx="595.0" cy="88.0" r="11.0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<circle cx="627.0" cy="120.0" r="11.0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<circle cx="595.0" cy="152.0" r="11.0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<circle cx="563.0" cy="120.0" r="11.0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<text x="330.0" y="200.0" text-anchor="middle" fill="#222222" font-size="13">Burnside: average number of colorings each rotation leaves unchanged</text>
+<text x="330.0" y="224.0" text-anchor="middle" fill="#d9480f" font-size="15" font-weight="bold">(16 + 2 + 4 + 2) / 4 = 6</text>
+<text x="330.0" y="252.0" text-anchor="middle" fill="#666666" font-size="12">rotations by 0°, 90°, 180°, 270° fix 16, 2, 4, 2 of the 16 colorings</text>
+</svg>

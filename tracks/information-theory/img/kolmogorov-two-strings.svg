@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 250" width="660" height="250" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Two strings with very different shortest descriptions</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="660" height="250" fill="#ffffff"/>
+<text x="330.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Kolmogorov Complexity: Length of the Shortest Program</text>
+<rect x="30.0" y="55.0" width="600.0" height="70.0" rx="6" fill="#f1f3f5" stroke="#222222" stroke-width="1.5"/>
+<text x="45.0" y="82.0" text-anchor="start" fill="#222222" font-size="12">0101010101010101010101010101010101010101010101010101010101010101</text>
+<text x="45.0" y="108.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">shortest program: print "01" x 32     (about 20 characters)</text>
+<rect x="30.0" y="145.0" width="600.0" height="70.0" rx="6" fill="#f1f3f5" stroke="#222222" stroke-width="1.5"/>
+<text x="45.0" y="172.0" text-anchor="start" fill="#222222" font-size="12">1010001000011000100001000011001000100001111111000011111001010110</text>
+<text x="45.0" y="198.0" text-anchor="start" fill="#666666" font-size="13" font-weight="bold">shortest program: print "10100010..."   (64 coin flips: no shortcut)</text>
+<text x="330.0" y="240.0" text-anchor="middle" fill="#666666" font-size="13">Both strings have 64 bits. Only one has a pattern to exploit.</text>
+</svg>

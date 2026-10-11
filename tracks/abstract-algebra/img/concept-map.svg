@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 568" width="960" height="568" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Abstract Algebra Concept Map</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#444444"/></marker></defs>
+<rect x="0" y="0" width="960" height="568" fill="#ffffff"/>
+<text x="480.0" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#222222">Abstract Algebra Concept Map</text>
+<rect x="10" y="70" width="940" height="224" fill="#f8f9fa" stroke="#dee2e6"/>
+<text x="40" y="182.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#555555" transform="rotate(-90 40 182.0)">Beginner</text>
+<rect x="10" y="294" width="940" height="112" fill="#f1f3f5" stroke="#dee2e6"/>
+<text x="40" y="350.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#555555" transform="rotate(-90 40 350.0)">Intermediate</text>
+<rect x="10" y="406" width="940" height="112" fill="#f8f9fa" stroke="#dee2e6"/>
+<text x="40" y="462.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#555555" transform="rotate(-90 40 462.0)">Advanced</text>
+<path d="M373.0,143.0 C373.0,182.0 454.0,182.0 454.0,221.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M697.0,143.0 C697.0,182.0 454.0,182.0 454.0,221.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="514.0" y1="238.0" x2="633.6" y2="238.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M454.0,255.0 C454.0,289.5 231.2,289.5 231.2,324.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M697.0,264.0 C697.0,294.0 433.8,294.0 433.8,324.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="497.1" y1="350.0" x2="572.9" y2="350.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M697.0,264.0 C697.0,298.5 838.8,298.5 838.8,333.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M231.2,376.0 C231.2,406.0 292.0,406.0 292.0,436.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M636.2,376.0 C636.2,410.5 535.0,410.5 535.0,445.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M838.8,367.0 C838.8,406.0 535.0,406.0 535.0,445.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M838.8,367.0 C838.8,406.0 778.0,406.0 778.0,445.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<rect x="297.8" y="109.0" width="150.4" height="34" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="373.0" y="131.0" text-anchor="middle" fill="#222222">Clock Arithmetic</text>
+<rect x="637.0" y="109.0" width="120.0" height="34" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="697.0" y="131.0" text-anchor="middle" fill="#222222">Symmetry</text>
+<rect x="394.0" y="221.0" width="120.0" height="34" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="454.0" y="243.0" text-anchor="middle" fill="#222222">Group Axioms</text>
+<rect x="633.6" y="212.0" width="126.7" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="697.0" y="234.0" text-anchor="middle" fill="#222222">Cyclic Groups</text>
+<text x="697.0" y="252.0" text-anchor="middle" fill="#222222">and Order</text>
+<rect x="171.2" y="324.0" width="120.0" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="231.2" y="346.0" text-anchor="middle" fill="#222222">Permutation</text>
+<text x="231.2" y="364.0" text-anchor="middle" fill="#222222">Groups</text>
+<rect x="370.4" y="324.0" width="126.7" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="433.8" y="346.0" text-anchor="middle" fill="#222222">Subgroups and</text>
+<text x="433.8" y="364.0" text-anchor="middle" fill="#222222">Lagrange</text>
+<rect x="572.9" y="324.0" width="126.7" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="636.2" y="346.0" text-anchor="middle" fill="#222222">Homomorphisms</text>
+<text x="636.2" y="364.0" text-anchor="middle" fill="#222222">and Quotients</text>
+<rect x="763.5" y="333.0" width="150.4" height="34" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="838.8" y="355.0" text-anchor="middle" fill="#222222">Rings and Fields</text>
+<rect x="228.7" y="436.0" width="126.7" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="292.0" y="458.0" text-anchor="middle" fill="#222222">Group Actions</text>
+<text x="292.0" y="476.0" text-anchor="middle" fill="#222222">and Burnside</text>
+<rect x="471.6" y="445.0" width="126.7" height="34" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="535.0" y="467.0" text-anchor="middle" fill="#222222">Galois Theory</text>
+<rect x="714.6" y="445.0" width="126.7" height="34" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="778.0" y="467.0" text-anchor="middle" fill="#222222">Finite Fields</text>
+<text x="20" y="550" fill="#555555" font-size="13">Arrow A to B: learn A before B. Orange box: start here.</text>
+</svg>

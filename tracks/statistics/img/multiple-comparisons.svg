@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 230" width="640" height="230" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Twenty p-values with one below 0.05 by chance</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="640" height="230" fill="#ffffff"/>
+<text x="320.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Test 20 Metrics and One Looks Significant by Luck</text>
+<line x1="60.0" y1="120.0" x2="600.0" y2="120.0" stroke="#222222" stroke-width="2"/>
+<line x1="60.0" y1="120.0" x2="60.0" y2="126.0" stroke="#222222" stroke-width="1.5"/>
+<text x="60.0" y="142.0" text-anchor="middle" fill="#666666" font-size="12">0</text>
+<line x1="87.0" y1="120.0" x2="87.0" y2="126.0" stroke="#222222" stroke-width="1.5"/>
+<text x="87.0" y="142.0" text-anchor="middle" fill="#d9480f" font-size="12">0.05</text>
+<line x1="195.0" y1="120.0" x2="195.0" y2="126.0" stroke="#222222" stroke-width="1.5"/>
+<text x="195.0" y="142.0" text-anchor="middle" fill="#666666" font-size="12">0.25</text>
+<line x1="330.0" y1="120.0" x2="330.0" y2="126.0" stroke="#222222" stroke-width="1.5"/>
+<text x="330.0" y="142.0" text-anchor="middle" fill="#666666" font-size="12">0.5</text>
+<line x1="465.0" y1="120.0" x2="465.0" y2="126.0" stroke="#222222" stroke-width="1.5"/>
+<text x="465.0" y="142.0" text-anchor="middle" fill="#666666" font-size="12">0.75</text>
+<line x1="600.0" y1="120.0" x2="600.0" y2="126.0" stroke="#222222" stroke-width="1.5"/>
+<text x="600.0" y="142.0" text-anchor="middle" fill="#666666" font-size="12">1</text>
+<rect x="60.0" y="60.0" width="27.0" height="60.0" rx="0" fill="#d9480f" fill-opacity="0.2" stroke="none" stroke-width="1.5"/>
+<circle cx="497.4" cy="110.0" r="5.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="243.6" cy="96.0" r="5.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="367.8" cy="82.0" r="5.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="124.8" cy="68.0" r="5.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="562.2" cy="110.0" r="5.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="416.4" cy="96.0" r="5.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="216.6" cy="82.0" r="5.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="76.7" cy="68.0" r="5.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="319.2" cy="110.0" r="5.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="459.6" cy="96.0" r="5.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="178.8" cy="82.0" r="5.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="535.2" cy="68.0" r="5.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="303.0" cy="110.0" r="5.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="389.4" cy="96.0" r="5.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="151.8" cy="82.0" r="5.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="594.6" cy="68.0" r="5.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="265.2" cy="110.0" r="5.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="340.8" cy="96.0" r="5.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="108.6" cy="82.0" r="5.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="438.0" cy="68.0" r="5.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<text x="84.7" y="60.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">p = 0.031: a fluke</text>
+<text x="330.0" y="175.0" text-anchor="middle" fill="#222222" font-size="13">20 metrics with no real effect. At α = 0.05, expect 20 x 0.05 = 1 false alarm.</text>
+<text x="330.0" y="197.0" text-anchor="middle" fill="#666666" font-size="13">Bonferroni fix: require p &lt; 0.05 / 20 = 0.0025 for each test.</text>
+</svg>

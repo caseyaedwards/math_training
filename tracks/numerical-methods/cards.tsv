@@ -1,0 +1,15 @@
+Layout of a float64?	1 sign bit, 11 exponent bits, 52 fraction bits. About 16 significant decimal digits.	math::tracks::numerical-methods
+Why is 0.1 + 0.2 != 0.3 in floating point?	0.1, 0.2 and 0.3 have no exact binary form. The rounded sum lands one double above the rounded 0.3.	math::tracks::numerical-methods
+Machine epsilon for float64?	\( 2^{-52} \approx 2.22 \times 10^{-16} \): the gap between 1 and the next double.	math::tracks::numerical-methods
+How do you compare floats safely?	Use a tolerance: \( |a - b| \le \text{tol} \cdot \max(|a|,|b|) \), never ==.	math::tracks::numerical-methods
+Largest float32 counter value before +1 stops working?	16,777,216 (\( 2^{24} \)).	math::tracks::numerical-methods
+What is catastrophic cancellation?	Subtracting nearly equal numbers wipes out shared digits and leaves rounding noise. Fix by rewriting the formula.	math::tracks::numerical-methods
+What is Kahan summation?	Compensated summation: carry the rounding error of each addition into the next one.	math::tracks::numerical-methods
+Bisection accuracy after \( n \) steps?	Width \( (b-a)/2^n \): one bit per step, guaranteed.	math::tracks::numerical-methods
+Newton method update?	\( x_{n+1} = x_n - f(x_n)/f'(x_n) \). Correct digits roughly double each step near a simple root.	math::tracks::numerical-methods
+Trapezoid versus Simpson error order?	Trapezoid \( O(h^2) \), Simpson \( O(h^4) \).	math::tracks::numerical-methods
+What is LU factorization?	\( A = LU \): lower triangle of elimination multipliers times upper triangle. Factor once, solve many.	math::tracks::numerical-methods
+Why pivot in Gaussian elimination?	Dividing by the largest available entry keeps rounding errors from growing.	math::tracks::numerical-methods
+Gradient descent update?	\( x_{k+1} = x_k - \eta \nabla f(x_k) \), with learning rate \( \eta \).	math::tracks::numerical-methods
+Euler versus RK4 error order?	Euler \( O(h) \), RK4 \( O(h^4) \).	math::tracks::numerical-methods
+Stability limit of Euler on \( y' = -\lambda y \)?	Need \( |1 - h\lambda| < 1 \), that is \( h < 2/\lambda \).	math::tracks::numerical-methods

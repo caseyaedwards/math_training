@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 330" width="640" height="330" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Error per iteration for bisection versus Newton on the square root of 2</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="640" height="330" fill="#ffffff"/>
+<text x="320.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Linear Versus Quadratic Convergence</text>
+<line x1="80.0" y1="270.0" x2="600.0" y2="270.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="80.0" y1="270.0" x2="80.0" y2="50.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="101.7" y1="270.0" x2="101.7" y2="274.0" stroke="#222222" stroke-width="1.5"/>
+<text x="101.7" y="288.0" text-anchor="middle" fill="#666666" font-size="12">0</text>
+<line x1="145.0" y1="270.0" x2="145.0" y2="274.0" stroke="#222222" stroke-width="1.5"/>
+<text x="145.0" y="288.0" text-anchor="middle" fill="#666666" font-size="12">1</text>
+<line x1="188.3" y1="270.0" x2="188.3" y2="274.0" stroke="#222222" stroke-width="1.5"/>
+<text x="188.3" y="288.0" text-anchor="middle" fill="#666666" font-size="12">2</text>
+<line x1="231.7" y1="270.0" x2="231.7" y2="274.0" stroke="#222222" stroke-width="1.5"/>
+<text x="231.7" y="288.0" text-anchor="middle" fill="#666666" font-size="12">3</text>
+<line x1="275.0" y1="270.0" x2="275.0" y2="274.0" stroke="#222222" stroke-width="1.5"/>
+<text x="275.0" y="288.0" text-anchor="middle" fill="#666666" font-size="12">4</text>
+<line x1="318.3" y1="270.0" x2="318.3" y2="274.0" stroke="#222222" stroke-width="1.5"/>
+<text x="318.3" y="288.0" text-anchor="middle" fill="#666666" font-size="12">5</text>
+<line x1="361.7" y1="270.0" x2="361.7" y2="274.0" stroke="#222222" stroke-width="1.5"/>
+<text x="361.7" y="288.0" text-anchor="middle" fill="#666666" font-size="12">6</text>
+<line x1="405.0" y1="270.0" x2="405.0" y2="274.0" stroke="#222222" stroke-width="1.5"/>
+<text x="405.0" y="288.0" text-anchor="middle" fill="#666666" font-size="12">7</text>
+<line x1="448.3" y1="270.0" x2="448.3" y2="274.0" stroke="#222222" stroke-width="1.5"/>
+<text x="448.3" y="288.0" text-anchor="middle" fill="#666666" font-size="12">8</text>
+<line x1="491.7" y1="270.0" x2="491.7" y2="274.0" stroke="#222222" stroke-width="1.5"/>
+<text x="491.7" y="288.0" text-anchor="middle" fill="#666666" font-size="12">9</text>
+<line x1="535.0" y1="270.0" x2="535.0" y2="274.0" stroke="#222222" stroke-width="1.5"/>
+<text x="535.0" y="288.0" text-anchor="middle" fill="#666666" font-size="12">10</text>
+<line x1="578.3" y1="270.0" x2="578.3" y2="274.0" stroke="#222222" stroke-width="1.5"/>
+<text x="578.3" y="288.0" text-anchor="middle" fill="#666666" font-size="12">11</text>
+<line x1="76.0" y1="62.6" x2="80.0" y2="62.6" stroke="#222222" stroke-width="1.5"/>
+<text x="73.0" y="66.6" text-anchor="end" fill="#666666" font-size="12">1e0</text>
+<line x1="76.0" y1="112.9" x2="80.0" y2="112.9" stroke="#222222" stroke-width="1.5"/>
+<text x="73.0" y="116.9" text-anchor="end" fill="#666666" font-size="12">1e-4</text>
+<line x1="76.0" y1="163.1" x2="80.0" y2="163.1" stroke="#222222" stroke-width="1.5"/>
+<text x="73.0" y="167.1" text-anchor="end" fill="#666666" font-size="12">1e-8</text>
+<line x1="76.0" y1="213.4" x2="80.0" y2="213.4" stroke="#222222" stroke-width="1.5"/>
+<text x="73.0" y="217.4" text-anchor="end" fill="#666666" font-size="12">1e-12</text>
+<line x1="76.0" y1="263.7" x2="80.0" y2="263.7" stroke="#222222" stroke-width="1.5"/>
+<text x="73.0" y="267.7" text-anchor="end" fill="#666666" font-size="12">1e-16</text>
+<text x="340.0" y="306.0" text-anchor="middle" fill="#666666" font-size="13">iteration</text>
+<text x="42.0" y="160.0" text-anchor="middle" fill="#666666" font-size="13" transform="rotate(-90 42.0 160.0)">error (log scale)</text>
+<polyline points="101.7,76.0 145.0,72.4 188.3,80.3 231.7,83.1 275.0,89.0 318.3,89.2 361.7,110.6 405.0,93.1 448.3,97.1 491.7,101.3 535.0,106.2 578.3,113.2" fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="101.7" cy="76.0" r="4.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="145.0" cy="72.4" r="4.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="188.3" cy="80.3" r="4.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="231.7" cy="83.1" r="4.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="275.0" cy="89.0" r="4.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="318.3" cy="89.2" r="4.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="361.7" cy="110.6" r="4.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="405.0" cy="93.1" r="4.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="448.3" cy="97.1" r="4.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="491.7" cy="101.3" r="4.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="535.0" cy="106.2" r="4.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<circle cx="578.3" cy="113.2" r="4.0" fill="#222222" stroke="none" stroke-width="1.5"/>
+<polyline points="101.7,60.1 145.0,67.3 188.3,79.2 231.7,101.6 275.0,146.3 318.3,235.8" fill="none" stroke="#d9480f" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="101.7" cy="60.1" r="5.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="145.0" cy="67.3" r="5.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="188.3" cy="79.2" r="5.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="231.7" cy="101.6" r="5.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="275.0" cy="146.3" r="5.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="318.3" cy="235.8" r="5.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<text x="578.3" y="103.2" text-anchor="end" fill="#222222" font-size="13" font-weight="bold">bisection: steady</text>
+<text x="327.0" y="251.1" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">Newton: digits double</text>
+</svg>

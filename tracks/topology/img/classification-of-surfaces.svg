@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 260" width="700" height="260" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Sphere, torus and double torus with genus and Euler characteristic</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="700" height="260" fill="#ffffff"/>
+<text x="350.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Classification: Count the Handles</text>
+<circle cx="120.0" cy="120.0" r="70.0" fill="#f1f3f5" stroke="#222222" stroke-width="2.2"/>
+<path d="M50,120 C50,145 190,145 190,120" fill="none" stroke="#666666" stroke-width="1.5"/>
+<path d="M50,120 C50,97 190,97 190,120" fill="none" stroke="#666666" stroke-width="1.2" stroke-dasharray="4 4"/>
+<path d="M240,120 C240,50 460,50 460,120 C460,190 240,190 240,120 Z" fill="#f1f3f5" stroke="#222222" stroke-width="2.2"/>
+<path d="M305,115 C325,135 375,135 395,115" fill="none" stroke="#222222" stroke-width="2"/>
+<path d="M318,126 C335,108 365,108 382,126" fill="none" stroke="#222222" stroke-width="2"/>
+<path d="M475,120 C475,60 560,70 580,85 C600,70 685,60 685,120 C685,180 600,170 580,155 C560,170 475,180 475,120 Z" fill="#f1f3f5" stroke="#222222" stroke-width="2.2"/>
+<path d="M502,115 C515,130 545,130 558,115" fill="none" stroke="#222222" stroke-width="2"/>
+<path d="M510,123 C520,110 540,110 550,123" fill="none" stroke="#222222" stroke-width="2"/>
+<path d="M602,115 C615,130 645,130 658,115" fill="none" stroke="#222222" stroke-width="2"/>
+<path d="M610,123 C620,110 640,110 650,123" fill="none" stroke="#222222" stroke-width="2"/>
+<text x="120.0" y="215.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">sphere</text>
+<text x="120.0" y="236.0" text-anchor="middle" fill="#d9480f" font-size="13">genus 0,  χ = 2 - 2·0 = 2</text>
+<text x="350.0" y="215.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">torus</text>
+<text x="350.0" y="236.0" text-anchor="middle" fill="#d9480f" font-size="13">genus 1,  χ = 2 - 2·1 = 0</text>
+<text x="580.0" y="215.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">double torus</text>
+<text x="580.0" y="236.0" text-anchor="middle" fill="#d9480f" font-size="13">genus 2,  χ = 2 - 2·2 = -2</text>
+</svg>

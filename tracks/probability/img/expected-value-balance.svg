@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Distribution of heads in three flips balanced at the mean 1.5</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="600" height="300" fill="#ffffff"/>
+<text x="300.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Expected Value = Balance Point</text>
+<rect x="103.0" y="172.8" width="69.0" height="47.2" rx="0" fill="#868e96" fill-opacity="0.8" stroke="#222222" stroke-width="1"/>
+<text x="137.5" y="166.8" text-anchor="middle" fill="#222222" font-size="12">1/8</text>
+<text x="137.5" y="244.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<rect x="218.0" y="78.3" width="69.0" height="141.7" rx="0" fill="#868e96" fill-opacity="0.8" stroke="#222222" stroke-width="1"/>
+<text x="252.5" y="72.3" text-anchor="middle" fill="#222222" font-size="12">3/8</text>
+<text x="252.5" y="244.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<rect x="333.0" y="78.3" width="69.0" height="141.7" rx="0" fill="#868e96" fill-opacity="0.8" stroke="#222222" stroke-width="1"/>
+<text x="367.5" y="72.3" text-anchor="middle" fill="#222222" font-size="12">3/8</text>
+<text x="367.5" y="244.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">2</text>
+<rect x="448.0" y="172.8" width="69.0" height="47.2" rx="0" fill="#868e96" fill-opacity="0.8" stroke="#222222" stroke-width="1"/>
+<text x="482.5" y="166.8" text-anchor="middle" fill="#222222" font-size="12">1/8</text>
+<text x="482.5" y="244.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">3</text>
+<line x1="80.0" y1="220.0" x2="540.0" y2="220.0" stroke="#222222" stroke-width="3"/>
+<polygon points="310.0,222.0 296.0,248.0 324.0,248.0" fill="#d9480f" stroke="#d9480f" stroke-width="2" stroke-linejoin="round"/>
+<text x="310.0" y="270.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">E[X] = 1.5</text>
+<text x="300.0" y="292.0" text-anchor="middle" fill="#666666" font-size="12">number of heads in 3 flips. Var(X) = 0.75</text>
+</svg>

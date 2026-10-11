@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 290" width="680" height="290" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Bootstrap: resample the data many times and look at the spread</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="680" height="290" fill="#ffffff"/>
+<text x="340.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Bootstrap: Resample, Recompute, Repeat</text>
+<rect x="25.0" y="105.0" width="130.0" height="70.0" rx="6" fill="#ffffff" stroke="#d9480f" stroke-width="1.5"/>
+<text x="90.0" y="136.0" text-anchor="middle" fill="#222222" font-size="13">your sample</text>
+<text x="90.0" y="154.0" text-anchor="middle" fill="#222222" font-size="13">n = 1,000</text>
+<line x1="158.0" y1="140.0" x2="268.0" y2="60.0" stroke="#222222" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="270.0" y="42.0" width="120.0" height="36.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="330.0" y="65.0" text-anchor="middle" fill="#222222" font-size="12">resample 1</text>
+<line x1="392.0" y1="60.0" x2="452.0" y2="60.0" stroke="#222222" stroke-width="1.3" marker-end="url(#ah)"/>
+<text x="480.0" y="65.0" text-anchor="start" fill="#222222" font-size="12">p99 #1</text>
+<line x1="158.0" y1="140.0" x2="268.0" y2="115.0" stroke="#222222" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="270.0" y="97.0" width="120.0" height="36.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="330.0" y="120.0" text-anchor="middle" fill="#222222" font-size="12">resample 2</text>
+<line x1="392.0" y1="115.0" x2="452.0" y2="115.0" stroke="#222222" stroke-width="1.3" marker-end="url(#ah)"/>
+<text x="480.0" y="120.0" text-anchor="start" fill="#222222" font-size="12">p99 #2</text>
+<line x1="158.0" y1="140.0" x2="268.0" y2="170.0" stroke="#222222" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="270.0" y="152.0" width="120.0" height="36.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="330.0" y="175.0" text-anchor="middle" fill="#222222" font-size="12">resample 3</text>
+<line x1="392.0" y1="170.0" x2="452.0" y2="170.0" stroke="#222222" stroke-width="1.3" marker-end="url(#ah)"/>
+<text x="480.0" y="175.0" text-anchor="start" fill="#222222" font-size="12">p99 #3</text>
+<line x1="158.0" y1="140.0" x2="268.0" y2="225.0" stroke="#222222" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="270.0" y="207.0" width="120.0" height="36.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="330.0" y="230.0" text-anchor="middle" fill="#222222" font-size="12">... 10,000</text>
+<line x1="392.0" y1="225.0" x2="452.0" y2="225.0" stroke="#222222" stroke-width="1.3" marker-end="url(#ah)"/>
+<text x="480.0" y="230.0" text-anchor="start" fill="#222222" font-size="12">...</text>
+<rect x="540.0" y="236.6" width="10.0" height="3.4" rx="0" fill="#868e96" fill-opacity="0.8" stroke="#222222" stroke-width="0.6"/>
+<rect x="550.0" y="232.1" width="10.0" height="7.9" rx="0" fill="#868e96" fill-opacity="0.8" stroke="#222222" stroke-width="0.6"/>
+<rect x="560.0" y="214.6" width="10.0" height="25.4" rx="0" fill="#868e96" fill-opacity="0.8" stroke="#222222" stroke-width="0.6"/>
+<rect x="570.0" y="193.4" width="10.0" height="46.6" rx="0" fill="#868e96" fill-opacity="0.8" stroke="#222222" stroke-width="0.6"/>
+<rect x="580.0" y="160.9" width="10.0" height="79.1" rx="0" fill="#868e96" fill-opacity="0.8" stroke="#222222" stroke-width="0.6"/>
+<rect x="590.0" y="140.0" width="10.0" height="100.0" rx="0" fill="#868e96" fill-opacity="0.8" stroke="#222222" stroke-width="0.6"/>
+<rect x="600.0" y="141.9" width="10.0" height="98.1" rx="0" fill="#868e96" fill-opacity="0.8" stroke="#222222" stroke-width="0.6"/>
+<rect x="610.0" y="159.0" width="10.0" height="81.0" rx="0" fill="#868e96" fill-opacity="0.8" stroke="#222222" stroke-width="0.6"/>
+<rect x="620.0" y="188.9" width="10.0" height="51.1" rx="0" fill="#868e96" fill-opacity="0.8" stroke="#222222" stroke-width="0.6"/>
+<rect x="630.0" y="216.7" width="10.0" height="23.3" rx="0" fill="#868e96" fill-opacity="0.8" stroke="#222222" stroke-width="0.6"/>
+<rect x="640.0" y="230.2" width="10.0" height="9.8" rx="0" fill="#868e96" fill-opacity="0.8" stroke="#222222" stroke-width="0.6"/>
+<rect x="650.0" y="237.4" width="10.0" height="2.6" rx="0" fill="#868e96" fill-opacity="0.8" stroke="#222222" stroke-width="0.6"/>
+<line x1="540.0" y1="240.0" x2="660.0" y2="240.0" stroke="#222222" stroke-width="1.5"/>
+<text x="600.0" y="262.0" text-anchor="middle" fill="#666666" font-size="12">spread of p99</text>
+<text x="600.0" y="280.0" text-anchor="middle" fill="#666666" font-size="12">= its uncertainty</text>
+<text x="90.0" y="200.0" text-anchor="middle" fill="#666666" font-size="12">draw n values</text>
+<text x="90.0" y="216.0" text-anchor="middle" fill="#666666" font-size="12">with replacement</text>
+</svg>

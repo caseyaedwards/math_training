@@ -1,0 +1,15 @@
+What is a differential equation?	An equation for an unknown function that involves its derivatives: a rule for how fast it changes.	math::tracks::differential-equations
+What does an initial condition do?	It picks one solution out of the family of solutions.	math::tracks::differential-equations
+What is a slope field?	Short segments showing the slope \( f(t,y) \) at each point. Solutions follow the segments.	math::tracks::differential-equations
+Euler method update?	\( y_{n+1} = y_n + h f(t_n, y_n) \).	math::tracks::differential-equations
+Solution of \( y' = ky \)?	\( y = y_0 e^{kt} \). Doubling time \( \ln 2 / k \).	math::tracks::differential-equations
+Logistic equation?	\( y' = ry(1 - y/K) \): exponential at first, levels off at capacity \( K \).	math::tracks::differential-equations
+When is an equilibrium stable on a phase line?	When the rate pushes nearby values back toward it from both sides.	math::tracks::differential-equations
+Newton's law of cooling?	\( T' = -k(T - T_{room}) \); the gap shrinks like \( e^{-kt} \).	math::tracks::differential-equations
+Characteristic equation of \( my'' + cy' + ky = 0 \)?	\( mr^2 + cr + k = 0 \).	math::tracks::differential-equations
+Damping from the discriminant \( c^2 - 4mk \)?	Negative: underdamped (oscillates). Zero: critical. Positive: overdamped.	math::tracks::differential-equations
+Stability of \( x' = Ax \)?	Stable when every eigenvalue of \( A \) has a negative real part.	math::tracks::differential-equations
+What does the Laplace transform do to a derivative?	\( \mathcal{L}\{f'\} = sF(s) - f(0) \): derivatives become multiplication by \( s \).	math::tracks::differential-equations
+Heat equation?	\( u_t = \alpha u_{xx} \). High-frequency wiggles decay fastest.	math::tracks::differential-equations
+What is chaos?	Deterministic motion where tiny changes in the start grow exponentially. Needs 3 or more dimensions for ODEs.	math::tracks::differential-equations
+Existence and uniqueness in one line?	For smooth \( f \), exactly one solution passes through each starting point, so solution curves never cross.	math::tracks::differential-equations

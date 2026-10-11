@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 220" width="700" height="220" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>LU factorization of a 3 by 3 matrix</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="700" height="220" fill="#ffffff"/>
+<text x="350.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">LU: Elimination Recorded as Two Triangles</text>
+<text x="100.0" y="50.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">A</text>
+<rect x="40.0" y="60.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="60.0" y="85.0" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<rect x="80.0" y="60.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="100.0" y="85.0" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<rect x="120.0" y="60.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="140.0" y="85.0" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<rect x="40.0" y="100.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="60.0" y="125.0" text-anchor="middle" fill="#222222" font-size="13">4</text>
+<rect x="80.0" y="100.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="100.0" y="125.0" text-anchor="middle" fill="#222222" font-size="13">-6</text>
+<rect x="120.0" y="100.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="140.0" y="125.0" text-anchor="middle" fill="#222222" font-size="13">0</text>
+<rect x="40.0" y="140.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="60.0" y="165.0" text-anchor="middle" fill="#222222" font-size="13">-2</text>
+<rect x="80.0" y="140.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="100.0" y="165.0" text-anchor="middle" fill="#222222" font-size="13">7</text>
+<rect x="120.0" y="140.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="140.0" y="165.0" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<text x="190.0" y="125.0" text-anchor="middle" fill="#222222" font-size="24" font-weight="bold">=</text>
+<text x="290.0" y="50.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">L (multipliers)</text>
+<rect x="230.0" y="60.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="250.0" y="85.0" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<rect x="270.0" y="60.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="290.0" y="85.0" text-anchor="middle" fill="#222222" font-size="13">0</text>
+<rect x="310.0" y="60.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="330.0" y="85.0" text-anchor="middle" fill="#222222" font-size="13">0</text>
+<rect x="230.0" y="100.0" width="40.0" height="40.0" rx="0" fill="#d9480f" fill-opacity="0.2" stroke="#222222" stroke-width="1"/>
+<text x="250.0" y="125.0" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<rect x="270.0" y="100.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="290.0" y="125.0" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<rect x="310.0" y="100.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="330.0" y="125.0" text-anchor="middle" fill="#222222" font-size="13">0</text>
+<rect x="230.0" y="140.0" width="40.0" height="40.0" rx="0" fill="#d9480f" fill-opacity="0.2" stroke="#222222" stroke-width="1"/>
+<text x="250.0" y="165.0" text-anchor="middle" fill="#222222" font-size="13">-1</text>
+<rect x="270.0" y="140.0" width="40.0" height="40.0" rx="0" fill="#d9480f" fill-opacity="0.2" stroke="#222222" stroke-width="1"/>
+<text x="290.0" y="165.0" text-anchor="middle" fill="#222222" font-size="13">-1</text>
+<rect x="310.0" y="140.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="330.0" y="165.0" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<text x="380.0" y="125.0" text-anchor="middle" fill="#222222" font-size="24" font-weight="bold">×</text>
+<text x="480.0" y="50.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">U (upper)</text>
+<rect x="420.0" y="60.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="440.0" y="85.0" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<rect x="460.0" y="60.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="480.0" y="85.0" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<rect x="500.0" y="60.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="520.0" y="85.0" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<rect x="420.0" y="100.0" width="40.0" height="40.0" rx="0" fill="#d9480f" fill-opacity="0.2" stroke="#222222" stroke-width="1"/>
+<text x="440.0" y="125.0" text-anchor="middle" fill="#222222" font-size="13">0</text>
+<rect x="460.0" y="100.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="480.0" y="125.0" text-anchor="middle" fill="#222222" font-size="13">-8</text>
+<rect x="500.0" y="100.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="520.0" y="125.0" text-anchor="middle" fill="#222222" font-size="13">-2</text>
+<rect x="420.0" y="140.0" width="40.0" height="40.0" rx="0" fill="#d9480f" fill-opacity="0.2" stroke="#222222" stroke-width="1"/>
+<text x="440.0" y="165.0" text-anchor="middle" fill="#222222" font-size="13">0</text>
+<rect x="460.0" y="140.0" width="40.0" height="40.0" rx="0" fill="#d9480f" fill-opacity="0.2" stroke="#222222" stroke-width="1"/>
+<text x="480.0" y="165.0" text-anchor="middle" fill="#222222" font-size="13">0</text>
+<rect x="500.0" y="140.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="520.0" y="165.0" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<text x="350.0" y="205.0" text-anchor="middle" fill="#666666" font-size="12">Factor once, then solve Ax = b for many b with two cheap triangular sweeps.</text>
+</svg>

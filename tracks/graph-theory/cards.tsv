@@ -1,0 +1,15 @@
+What is a graph?	A set of vertices (dots) and a set of edges (lines), each edge joining two vertices. Position and length do not matter.	math::tracks::graph-theory
+What is the degree of a vertex?	The number of edges that touch it.	math::tracks::graph-theory
+State the handshake lemma.	\( \sum_v \deg(v) = 2|E| \). The degree sum is always even.	math::tracks::graph-theory
+Path versus cycle?	A path visits no vertex twice. A cycle is a path that returns to its start.	math::tracks::graph-theory
+What is a tree?	A connected graph with no cycles. On \( n \) vertices it has exactly \( n-1 \) edges.	math::tracks::graph-theory
+When does a connected graph have an Euler circuit?	Exactly when every vertex has even degree.	math::tracks::graph-theory
+When does a connected graph have an Euler path (not a circuit)?	Exactly when it has two odd-degree vertices. The path starts at one and ends at the other.	math::tracks::graph-theory
+Euler path versus Hamilton path?	Euler uses every edge once (easy to test). Hamilton visits every vertex once (NP-complete).	math::tracks::graph-theory
+What does \( (A^k)_{ij} \) count for an adjacency matrix \( A \)?	The number of walks of length \( k \) from vertex \( i \) to vertex \( j \).	math::tracks::graph-theory
+What is a DAG and what does it guarantee?	A directed graph with no directed cycle. It always has a topological order.	math::tracks::graph-theory
+How does Kahn's algorithm detect a cycle?	It repeatedly removes vertices with no incoming arrows. Vertices left over at the end sit on or behind a cycle.	math::tracks::graph-theory
+BFS versus Dijkstra?	BFS finds fewest hops. Dijkstra finds lowest total weight when weights are non-negative.	math::tracks::graph-theory
+Euler formula for planar graphs?	\( V - E + F = 2 \) for a connected planar drawing, counting the outside face.	math::tracks::graph-theory
+When is a graph 2-colorable (bipartite)?	Exactly when it has no odd cycle.	math::tracks::graph-theory
+State max-flow min-cut.	The largest flow from \( s \) to \( t \) equals the smallest total capacity of a cut separating them.	math::tracks::graph-theory

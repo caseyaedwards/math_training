@@ -1,0 +1,13 @@
+Sequence vs series	A sequence is an ordered list of terms; a series is their sum.	math::301::sequences-series
+Explicit vs recursive formula	Explicit gives \( a_n \) directly; recursive gives a start and a rule for the next term.	math::301::sequences-series
+nth term of an arithmetic sequence	\( a_n = a_1 + (n-1)d \)	math::301::sequences-series
+Sum of n terms of an arithmetic sequence	\( S_n = \frac{n(a_1 + a_n)}{2} \)	math::301::sequences-series
+\( 1 + 2 + \dots + n \)	\( \frac{n(n+1)}{2} \)	math::301::sequences-series
+nth term of a geometric sequence	\( a_n = a_1 r^{n-1} \)	math::301::sequences-series
+Sum of n terms of a geometric sequence	\( S_n = a_1\frac{1 - r^n}{1 - r} \), \( r \ne 1 \)	math::301::sequences-series
+Infinite geometric series sum	\( \frac{a_1}{1 - r} \) when \( |r| < 1 \); diverges otherwise.	math::301::sequences-series
+Sum of the first n odd numbers	\( n^2 \)	math::301::sequences-series
+Does the harmonic series \( \sum \frac{1}{n} \) converge?	No. Its terms shrink to 0 but the sum grows without bound.	math::301::sequences-series
+\( 0.999\ldots \) as a geometric series	\( \frac{9/10}{1 - 1/10} = 1 \)	math::301::sequences-series
+Why is appending to a doubling array amortized O(1)?	Total copies \( 1 + 2 + \dots + n/2 < n \), a geometric sum.	math::301::sequences-series
+Number of terms from k = m to k = n	\( n - m + 1 \)	math::301::sequences-series

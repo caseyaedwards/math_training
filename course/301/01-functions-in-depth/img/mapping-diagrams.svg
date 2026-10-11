@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Arrow diagrams: a function can send two inputs to one output, but never one input to two outputs</title><defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#222222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="760" height="300" fill="#ffffff"/>
+<text x="180" y="28" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold">Function: f(x) = x²</text>
+<ellipse cx="90" cy="150" rx="48" ry="100" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<ellipse cx="270" cy="150" rx="48" ry="100" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="90" y="270" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">inputs</text>
+<text x="270" y="270" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">outputs</text>
+<text x="90" y="95" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold">-2</text>
+<text x="90" y="155" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold">2</text>
+<text x="90" y="215" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold">3</text>
+<text x="270" y="95" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold">4</text>
+<text x="270" y="155" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold">9</text>
+<line x1="108" y1="90" x2="248" y2="90" stroke="#222222" stroke-width="1.8" marker-end="url(#arr)"/>
+<line x1="108" y1="150" x2="248" y2="90" stroke="#222222" stroke-width="1.8" marker-end="url(#arr)"/>
+<line x1="108" y1="210" x2="248" y2="150" stroke="#222222" stroke-width="1.8" marker-end="url(#arr)"/>
+<text x="560" y="28" font-size="15" fill="#d9480f" text-anchor="middle" font-weight="bold">Not a function</text>
+<ellipse cx="470" cy="150" rx="48" ry="100" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<ellipse cx="650" cy="150" rx="48" ry="100" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="470" y="270" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">inputs</text>
+<text x="650" y="270" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">outputs</text>
+<text x="470" y="95" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold">4</text>
+<text x="470" y="155" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold">9</text>
+<text x="650" y="95" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold">-2</text>
+<text x="650" y="155" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold">2</text>
+<text x="650" y="215" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold">3</text>
+<line x1="488" y1="90" x2="628" y2="90" stroke="#d9480f" stroke-width="1.8" marker-end="url(#arra)"/>
+<line x1="488" y1="90" x2="628" y2="150" stroke="#d9480f" stroke-width="1.8" marker-end="url(#arra)"/>
+<line x1="488" y1="150" x2="628" y2="210" stroke="#222222" stroke-width="1.8" marker-end="url(#arr)"/>
+<text x="380" y="292" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">Left: two inputs share the output 4, which is fine. Right: input 4 has two outputs, which breaks the rule.</text>
+</svg>

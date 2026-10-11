@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440" width="440" height="440" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Powers of i as quarter turns: 1, i, -1, -i, then back to 1</title><defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#222222"/></marker><marker id="arrm" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1c4e80"/></marker></defs>
+<rect x="0" y="0" width="440" height="440" fill="#ffffff"/>
+<line x1="40" y1="225" x2="400" y2="225" stroke="#222222" stroke-width="1.4" marker-end="url(#arr)"/>
+<line x1="220" y1="405" x2="220" y2="45" stroke="#222222" stroke-width="1.4" marker-end="url(#arr)"/>
+<text x="408" y="230" font-size="13" fill="#222222" text-anchor="start" font-weight="normal" font-style="italic">Re</text>
+<text x="228" y="45" font-size="13" fill="#222222" text-anchor="start" font-weight="normal" font-style="italic">Im</text>
+<circle cx="220" cy="225" r="140" fill="none" stroke="#868e96" stroke-width="1.2" stroke-dasharray="4 4"/>
+<circle cx="360" cy="225" r="6" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="350" y="211" font-size="14" fill="#d9480f" text-anchor="end" font-weight="bold">1 = i⁰ = i⁴</text>
+<circle cx="220" cy="85" r="6" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="232" y="111" font-size="14" fill="#d9480f" text-anchor="start" font-weight="bold">i = i¹</text>
+<circle cx="80" cy="225" r="6" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="90" y="211" font-size="14" fill="#d9480f" text-anchor="start" font-weight="bold">−1 = i²</text>
+<circle cx="220" cy="365" r="6" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="232" y="351" font-size="14" fill="#d9480f" text-anchor="start" font-weight="bold">−i = i³</text>
+<path d="M 376.86 206.09 L 375.87 199.15 L 374.57 192.26 L 372.97 185.44 L 371.06 178.69 L 368.86 172.04 L 366.37 165.49 L 363.58 159.06 L 360.52 152.76 L 357.18 146.6 L 353.56 140.59 L 349.69 134.75 L 345.56 129.09 L 341.18 123.62 L 336.57 118.34 L 331.72 113.28 L 326.66 108.43 L 321.38 103.82 L 315.91 99.44 L 310.25 95.31 L 304.41 91.44 L 298.4 87.82 L 292.24 84.48 L 285.94 81.42 L 279.51 78.63 L 272.96 76.14 L 266.31 73.94 L 259.56 72.03 L 252.74 70.43 L 245.85 69.13 L 238.91 68.14" fill="none" stroke="#1c4e80" stroke-width="1.6" stroke-linejoin="round"/>
+<line x1="246.73" y1="69.28" x2="238.91" y2="68.14" stroke="#1c4e80" stroke-width="1.6" marker-end="url(#arrm)"/>
+<path d="M 201.09 68.14 L 194.15 69.13 L 187.26 70.43 L 180.44 72.03 L 173.69 73.94 L 167.04 76.14 L 160.49 78.63 L 154.06 81.42 L 147.76 84.48 L 141.6 87.82 L 135.59 91.44 L 129.75 95.31 L 124.09 99.44 L 118.62 103.82 L 113.34 108.43 L 108.28 113.28 L 103.43 118.34 L 98.82 123.62 L 94.44 129.09 L 90.31 134.75 L 86.44 140.59 L 82.82 146.6 L 79.48 152.76 L 76.42 159.06 L 73.63 165.49 L 71.14 172.04 L 68.94 178.69 L 67.03 185.44 L 65.43 192.26 L 64.13 199.15 L 63.14 206.09" fill="none" stroke="#1c4e80" stroke-width="1.6" stroke-linejoin="round"/>
+<line x1="64.28" y1="198.27" x2="63.14" y2="206.09" stroke="#1c4e80" stroke-width="1.6" marker-end="url(#arrm)"/>
+<path d="M 63.14 243.91 L 64.13 250.85 L 65.43 257.74 L 67.03 264.56 L 68.94 271.31 L 71.14 277.96 L 73.63 284.51 L 76.42 290.94 L 79.48 297.24 L 82.82 303.4 L 86.44 309.41 L 90.31 315.25 L 94.44 320.91 L 98.82 326.38 L 103.43 331.66 L 108.28 336.72 L 113.34 341.57 L 118.62 346.18 L 124.09 350.56 L 129.75 354.69 L 135.59 358.56 L 141.6 362.18 L 147.76 365.52 L 154.06 368.58 L 160.49 371.37 L 167.04 373.86 L 173.69 376.06 L 180.44 377.97 L 187.26 379.57 L 194.15 380.87 L 201.09 381.86" fill="none" stroke="#1c4e80" stroke-width="1.6" stroke-linejoin="round"/>
+<line x1="193.27" y1="380.72" x2="201.09" y2="381.86" stroke="#1c4e80" stroke-width="1.6" marker-end="url(#arrm)"/>
+<path d="M 238.91 381.86 L 245.85 380.87 L 252.74 379.57 L 259.56 377.97 L 266.31 376.06 L 272.96 373.86 L 279.51 371.37 L 285.94 368.58 L 292.24 365.52 L 298.4 362.18 L 304.41 358.56 L 310.25 354.69 L 315.91 350.56 L 321.38 346.18 L 326.66 341.57 L 331.72 336.72 L 336.57 331.66 L 341.18 326.38 L 345.56 320.91 L 349.69 315.25 L 353.56 309.41 L 357.18 303.4 L 360.52 297.24 L 363.58 290.94 L 366.37 284.51 L 368.86 277.96 L 371.06 271.31 L 372.97 264.56 L 374.57 257.74 L 375.87 250.85 L 376.86 243.91" fill="none" stroke="#1c4e80" stroke-width="1.6" stroke-linejoin="round"/>
+<line x1="375.72" y1="251.73" x2="376.86" y2="243.91" stroke="#1c4e80" stroke-width="1.6" marker-end="url(#arrm)"/>
+<text x="220" y="430" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">Each multiplication by i is one more quarter turn. Four turns: home.</text>
+</svg>

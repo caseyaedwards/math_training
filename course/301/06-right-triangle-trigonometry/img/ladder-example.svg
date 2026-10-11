@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 360" width="460" height="360" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Ladder example: a 5 m ladder reaches 4 m up a wall, so sin theta = 4/5 and theta is about 53.1 degrees</title>
+<rect x="0" y="0" width="460" height="360" fill="#ffffff"/>
+<line x1="30" y1="300" x2="420" y2="300" stroke="#222222" stroke-width="1.5"/>
+<rect x="330" y="40" width="20" height="260" rx="0" fill="#f1f3f5" stroke="#222222" stroke-width="1.5"/>
+<line x1="165" y1="300" x2="330" y2="80" stroke="#d9480f" stroke-width="4"/>
+<path d="M 316 300 L 316 286 L 330 286" fill="none" stroke="#222222" stroke-width="1.2" stroke-linejoin="round"/>
+<path d="M 205 300 L 204.99 299.07 L 204.96 298.15 L 204.9 297.22 L 204.83 296.3 L 204.73 295.37 L 204.61 294.45 L 204.47 293.54 L 204.31 292.62 L 204.13 291.71 L 203.93 290.81 L 203.71 289.91 L 203.46 289.02 L 203.2 288.13 L 202.91 287.24 L 202.61 286.37 L 202.28 285.5 L 201.93 284.64 L 201.57 283.79 L 201.18 282.95 L 200.78 282.11 L 200.35 281.29 L 199.91 280.47 L 199.45 279.67 L 198.97 278.88 L 198.47 278.09 L 197.95 277.32 L 197.42 276.57 L 196.86 275.82 L 196.3 275.09 L 195.71 274.37 L 195.11 273.67 L 194.49 272.97 L 193.85 272.3 L 193.2 271.64 L 192.54 270.99 L 191.86 270.36 L 191.17 269.75 L 190.46 269.15 L 189.74 268.56 L 189 268" fill="none" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="211" y="290" font-size="16" fill="#222222" text-anchor="start" font-weight="bold">θ</text>
+<text x="235.5" y="190" font-size="14" fill="#d9480f" text-anchor="end" font-weight="bold">ladder 5 m (hyp)</text>
+<text x="322" y="190" font-size="14" fill="#222222" text-anchor="end" font-weight="normal">4 m (opp)</text>
+<text x="247.5" y="322" font-size="14" fill="#868e96" text-anchor="middle" font-weight="normal">3 m</text>
+<text x="230" y="30" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold">sin θ = 4/5 = 0.8  →  θ = sin⁻¹(0.8) ≈ 53.1°</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 470" width="500" height="470" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Reference angle: 150 degrees sits 30 degrees short of the negative x-axis, so its point mirrors the 30 degree point</title><defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#222222"/></marker></defs>
+<rect x="0" y="0" width="500" height="470" fill="#ffffff"/>
+<line x1="50" y1="250" x2="450" y2="250" stroke="#222222" stroke-width="1.4" marker-end="url(#arr)"/>
+<line x1="250" y1="440" x2="250" y2="60" stroke="#222222" stroke-width="1.4" marker-end="url(#arr)"/>
+<circle cx="250" cy="250" r="170" fill="none" stroke="#222222" stroke-width="2"/>
+<line x1="250" y1="250" x2="397.22" y2="165" stroke="#868e96" stroke-width="2"/>
+<circle cx="397.22" cy="165" r="6" fill="#868e96" stroke="#868e96" stroke-width="1.5"/>
+<line x1="397.22" y1="165" x2="397.22" y2="250" stroke="#868e96" stroke-width="1.4" stroke-dasharray="4 3"/>
+<line x1="250" y1="250" x2="102.78" y2="165" stroke="#d9480f" stroke-width="2"/>
+<circle cx="102.78" cy="165" r="6" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<line x1="102.78" y1="165" x2="102.78" y2="250" stroke="#d9480f" stroke-width="1.4" stroke-dasharray="4 3"/>
+<path d="M 290 250 L 289.96 248.26 L 289.85 246.51 L 289.66 244.78 L 289.39 243.05 L 289.05 241.34 L 288.64 239.65 L 288.15 237.97 L 287.59 236.32 L 286.96 234.69 L 286.25 233.1 L 285.48 231.53 L 284.64 230 L 283.74 228.51 L 282.77 227.06 L 281.73 225.65 L 280.64 224.29 L 279.49 222.98 L 278.28 221.72 L 277.02 220.51 L 275.71 219.36 L 274.35 218.27 L 272.94 217.23 L 271.49 216.26 L 270 215.36 L 268.47 214.52 L 266.9 213.75 L 265.31 213.04 L 263.68 212.41 L 262.03 211.85 L 260.35 211.36 L 258.66 210.95 L 256.95 210.61 L 255.22 210.34 L 253.49 210.15 L 251.74 210.04 L 250 210 L 248.26 210.04 L 246.51 210.15 L 244.78 210.34 L 243.05 210.61 L 241.34 210.95 L 239.65 211.36 L 237.97 211.85 L 236.32 212.41 L 234.69 213.04 L 233.1 213.75 L 231.53 214.52 L 230 215.36 L 228.51 216.26 L 227.06 217.23 L 225.65 218.27 L 224.29 219.36 L 222.98 220.51 L 221.72 221.72 L 220.51 222.98 L 219.36 224.29 L 218.27 225.65 L 217.23 227.06 L 216.26 228.51 L 215.36 230" fill="none" stroke="#d9480f" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="258" y="204" font-size="14" fill="#d9480f" text-anchor="start" font-weight="bold">150°</text>
+<path d="M 180.72 210 L 180.37 210.61 L 180.03 211.22 L 179.69 211.83 L 179.36 212.44 L 179.04 213.06 L 178.72 213.68 L 178.41 214.3 L 178.1 214.93 L 177.79 215.56 L 177.5 216.19 L 177.2 216.82 L 176.92 217.46 L 176.64 218.1 L 176.36 218.74 L 176.09 219.39 L 175.83 220.03 L 175.57 220.68 L 175.31 221.33 L 175.07 221.98 L 174.82 222.64 L 174.59 223.3 L 174.36 223.95 L 174.13 224.62 L 173.92 225.28 L 173.7 225.94 L 173.5 226.61 L 173.29 227.28 L 173.1 227.95 L 172.91 228.62 L 172.73 229.29 L 172.55 229.97 L 172.38 230.65 L 172.21 231.32 L 172.05 232 L 171.9 232.68 L 171.75 233.37 L 171.61 234.05 L 171.47 234.74 L 171.34 235.42 L 171.22 236.11 L 171.1 236.8 L 170.98 237.49 L 170.88 238.18 L 170.78 238.87 L 170.68 239.56 L 170.6 240.25 L 170.51 240.94 L 170.44 241.64 L 170.37 242.33 L 170.3 243.03 L 170.25 243.72 L 170.19 244.42 L 170.15 245.12 L 170.11 245.81 L 170.08 246.51 L 170.05 247.21 L 170.03 247.91 L 170.01 248.6 L 170 249.3 L 170 250" fill="none" stroke="#1c4e80" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="160" y="244" font-size="14" fill="#1c4e80" text-anchor="end" font-weight="bold">30°</text>
+<text x="94.78" y="153" font-size="14" fill="#d9480f" text-anchor="end" font-weight="bold">(−√3/2, 1/2)</text>
+<text x="405.22" y="153" font-size="14" fill="#868e96" text-anchor="start" font-weight="normal">(√3/2, 1/2)</text>
+<text x="250" y="30" font-size="14" fill="#222222" text-anchor="middle" font-weight="bold">Reference angle = distance to the nearest x-axis</text>
+<text x="250" y="458" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">Same 30° triangle, mirrored: same numbers, x sign flipped.</text>
+</svg>

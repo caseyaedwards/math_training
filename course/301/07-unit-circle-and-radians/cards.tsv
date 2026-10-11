@@ -1,0 +1,14 @@
+What is one radian?	The angle whose arc is exactly one radius long, about \( 57.3^\circ \).	math::301::unit-circle
+\( 360^\circ \) and \( 180^\circ \) in radians	\( 2\pi \) and \( \pi \)	math::301::unit-circle
+Degrees to radians	Multiply by \( \frac{\pi}{180} \).	math::301::unit-circle
+Radians to degrees	Multiply by \( \frac{180}{\pi} \).	math::301::unit-circle
+Arc length formula (radians)	\( s = r\theta \)	math::301::unit-circle
+Linear speed from angular speed	\( v = r\omega \), \( \omega \) in radians per unit time.	math::301::unit-circle
+Coordinates of the point at angle \( \theta \) on the unit circle	\( (\cos\theta, \sin\theta) \)	math::301::unit-circle
+\( \tan\theta \) on the unit circle	\( \frac{\sin\theta}{\cos\theta} \), the slope of the radius; undefined at \( 90^\circ, 270^\circ \).	math::301::unit-circle
+Which functions are positive in quadrants I, II, III, IV?	I: all. II: sin. III: tan. IV: cos.	math::301::unit-circle
+What is a reference angle?	The acute angle between the terminal side and the nearest part of the x-axis.	math::301::unit-circle
+Three steps to evaluate trig at any angle	Find the reference angle, use its value, attach the quadrant sign.	math::301::unit-circle
+\( \cos 150^\circ \), \( \sin 150^\circ \)	\( -\frac{\sqrt{3}}{2} \), \( \frac{1}{2} \)	math::301::unit-circle
+Period of sin and cos	\( 2\pi \): \( \sin(\theta + 2\pi) = \sin\theta \).	math::301::unit-circle
+Direction of positive and negative angles	Positive counterclockwise, negative clockwise, from the positive x-axis.	math::301::unit-circle

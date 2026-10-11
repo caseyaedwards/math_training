@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 200" width="760" height="200" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Double number line converting degrees to radians: 0 to 360 degrees lines up with 0 to 2 pi</title><defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#222222"/></marker></defs>
+<rect x="0" y="0" width="760" height="200" fill="#ffffff"/>
+<line x1="50" y1="70" x2="722" y2="70" stroke="#222222" stroke-width="1.6" marker-end="url(#arr)"/>
+<line x1="50" y1="130" x2="722" y2="130" stroke="#222222" stroke-width="1.6" marker-end="url(#arr)"/>
+<text x="40" y="75" font-size="13" fill="#222222" text-anchor="end" font-weight="bold">deg</text>
+<text x="40" y="135" font-size="13" fill="#d9480f" text-anchor="end" font-weight="bold">rad</text>
+<line x1="50" y1="64" x2="50" y2="76" stroke="#222222" stroke-width="1.2"/>
+<line x1="50" y1="124" x2="50" y2="136" stroke="#222222" stroke-width="1.2"/>
+<text x="50" y="55" font-size="12" fill="#222222" text-anchor="middle" font-weight="normal">0°</text>
+<text x="50" y="156" font-size="13" fill="#d9480f" text-anchor="middle" font-weight="bold">0</text>
+<line x1="50" y1="80" x2="50" y2="120" stroke="#dddddd" stroke-width="1" stroke-dasharray="2 3"/>
+<line x1="105" y1="64" x2="105" y2="76" stroke="#222222" stroke-width="1.2"/>
+<line x1="105" y1="124" x2="105" y2="136" stroke="#222222" stroke-width="1.2"/>
+<text x="105" y="55" font-size="12" fill="#222222" text-anchor="middle" font-weight="normal">30°</text>
+<text x="105" y="156" font-size="13" fill="#d9480f" text-anchor="middle" font-weight="bold">π/6</text>
+<line x1="105" y1="80" x2="105" y2="120" stroke="#dddddd" stroke-width="1" stroke-dasharray="2 3"/>
+<line x1="160" y1="64" x2="160" y2="76" stroke="#222222" stroke-width="1.2"/>
+<line x1="160" y1="124" x2="160" y2="136" stroke="#222222" stroke-width="1.2"/>
+<text x="160" y="55" font-size="12" fill="#222222" text-anchor="middle" font-weight="normal">60°</text>
+<text x="160" y="156" font-size="13" fill="#d9480f" text-anchor="middle" font-weight="bold">π/3</text>
+<line x1="160" y1="80" x2="160" y2="120" stroke="#dddddd" stroke-width="1" stroke-dasharray="2 3"/>
+<line x1="215" y1="64" x2="215" y2="76" stroke="#222222" stroke-width="1.2"/>
+<line x1="215" y1="124" x2="215" y2="136" stroke="#222222" stroke-width="1.2"/>
+<text x="215" y="55" font-size="12" fill="#222222" text-anchor="middle" font-weight="normal">90°</text>
+<text x="215" y="156" font-size="13" fill="#d9480f" text-anchor="middle" font-weight="bold">π/2</text>
+<line x1="215" y1="80" x2="215" y2="120" stroke="#dddddd" stroke-width="1" stroke-dasharray="2 3"/>
+<line x1="270" y1="64" x2="270" y2="76" stroke="#222222" stroke-width="1.2"/>
+<line x1="270" y1="124" x2="270" y2="136" stroke="#222222" stroke-width="1.2"/>
+<text x="270" y="55" font-size="12" fill="#222222" text-anchor="middle" font-weight="normal">120°</text>
+<text x="270" y="156" font-size="13" fill="#d9480f" text-anchor="middle" font-weight="bold">2π/3</text>
+<line x1="270" y1="80" x2="270" y2="120" stroke="#dddddd" stroke-width="1" stroke-dasharray="2 3"/>
+<line x1="325" y1="64" x2="325" y2="76" stroke="#222222" stroke-width="1.2"/>
+<line x1="325" y1="124" x2="325" y2="136" stroke="#222222" stroke-width="1.2"/>
+<text x="325" y="55" font-size="12" fill="#222222" text-anchor="middle" font-weight="normal">150°</text>
+<line x1="325" y1="80" x2="325" y2="120" stroke="#dddddd" stroke-width="1" stroke-dasharray="2 3"/>
+<line x1="380" y1="64" x2="380" y2="76" stroke="#222222" stroke-width="1.2"/>
+<line x1="380" y1="124" x2="380" y2="136" stroke="#222222" stroke-width="1.2"/>
+<text x="380" y="55" font-size="12" fill="#222222" text-anchor="middle" font-weight="normal">180°</text>
+<text x="380" y="156" font-size="13" fill="#d9480f" text-anchor="middle" font-weight="bold">π</text>
+<line x1="380" y1="80" x2="380" y2="120" stroke="#dddddd" stroke-width="1" stroke-dasharray="2 3"/>
+<line x1="435" y1="64" x2="435" y2="76" stroke="#222222" stroke-width="1.2"/>
+<line x1="435" y1="124" x2="435" y2="136" stroke="#222222" stroke-width="1.2"/>
+<text x="435" y="55" font-size="12" fill="#222222" text-anchor="middle" font-weight="normal">210°</text>
+<line x1="435" y1="80" x2="435" y2="120" stroke="#dddddd" stroke-width="1" stroke-dasharray="2 3"/>
+<line x1="490" y1="64" x2="490" y2="76" stroke="#222222" stroke-width="1.2"/>
+<line x1="490" y1="124" x2="490" y2="136" stroke="#222222" stroke-width="1.2"/>
+<text x="490" y="55" font-size="12" fill="#222222" text-anchor="middle" font-weight="normal">240°</text>
+<line x1="490" y1="80" x2="490" y2="120" stroke="#dddddd" stroke-width="1" stroke-dasharray="2 3"/>
+<line x1="545" y1="64" x2="545" y2="76" stroke="#222222" stroke-width="1.2"/>
+<line x1="545" y1="124" x2="545" y2="136" stroke="#222222" stroke-width="1.2"/>
+<text x="545" y="55" font-size="12" fill="#222222" text-anchor="middle" font-weight="normal">270°</text>
+<text x="545" y="156" font-size="13" fill="#d9480f" text-anchor="middle" font-weight="bold">3π/2</text>
+<line x1="545" y1="80" x2="545" y2="120" stroke="#dddddd" stroke-width="1" stroke-dasharray="2 3"/>
+<line x1="600" y1="64" x2="600" y2="76" stroke="#222222" stroke-width="1.2"/>
+<line x1="600" y1="124" x2="600" y2="136" stroke="#222222" stroke-width="1.2"/>
+<text x="600" y="55" font-size="12" fill="#222222" text-anchor="middle" font-weight="normal">300°</text>
+<line x1="600" y1="80" x2="600" y2="120" stroke="#dddddd" stroke-width="1" stroke-dasharray="2 3"/>
+<line x1="655" y1="64" x2="655" y2="76" stroke="#222222" stroke-width="1.2"/>
+<line x1="655" y1="124" x2="655" y2="136" stroke="#222222" stroke-width="1.2"/>
+<text x="655" y="55" font-size="12" fill="#222222" text-anchor="middle" font-weight="normal">330°</text>
+<line x1="655" y1="80" x2="655" y2="120" stroke="#dddddd" stroke-width="1" stroke-dasharray="2 3"/>
+<line x1="710" y1="64" x2="710" y2="76" stroke="#222222" stroke-width="1.2"/>
+<line x1="710" y1="124" x2="710" y2="136" stroke="#222222" stroke-width="1.2"/>
+<text x="710" y="55" font-size="12" fill="#222222" text-anchor="middle" font-weight="normal">360°</text>
+<text x="710" y="156" font-size="13" fill="#d9480f" text-anchor="middle" font-weight="bold">2π</text>
+<line x1="710" y1="80" x2="710" y2="120" stroke="#dddddd" stroke-width="1" stroke-dasharray="2 3"/>
+<text x="380" y="190" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">Multiply degrees by π/180 to get radians. Multiply radians by 180/π to get degrees.</text>
+<text x="380" y="24" font-size="14" fill="#222222" text-anchor="middle" font-weight="bold">180° = π radians, so the two scales line up</text>
+</svg>

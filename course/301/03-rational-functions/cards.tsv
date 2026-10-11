@@ -1,0 +1,12 @@
+What is a rational function?	A polynomial divided by a polynomial, \( \frac{p(x)}{q(x)} \).	math::301::rational-functions
+Domain of \( \frac{p(x)}{q(x)} \)	All x with \( q(x) \ne 0 \).	math::301::rational-functions
+Vertical asymptote vs hole	A bottom factor that stays after canceling gives a vertical asymptote. One that cancels gives a hole.	math::301::rational-functions
+Horizontal asymptote when top degree < bottom degree	\( y = 0 \)	math::301::rational-functions
+Horizontal asymptote when degrees are equal	y = (leading coefficient of top) / (leading coefficient of bottom).	math::301::rational-functions
+What happens when the top degree is one more than the bottom?	No horizontal asymptote; there is a slant asymptote found by polynomial division.	math::301::rational-functions
+Where are the zeros of a rational function?	Where the top is zero and the bottom is not.	math::301::rational-functions
+Shape of \( y = \frac{1}{x-h} + k \)	The \( \frac{1}{x} \) shape shifted right h and up k; asymptotes \( x = h \) and \( y = k \).	math::301::rational-functions
+Can a graph cross its horizontal asymptote? Its vertical asymptote?	Horizontal: yes, in the middle. Vertical: never.	math::301::rational-functions
+Combining work rates	Add rates, not times: \( \frac{1}{t} = \frac{1}{a} + \frac{1}{b} \).	math::301::rational-functions
+What is an extraneous solution?	A candidate answer from clearing fractions that makes a denominator zero. Discard it.	math::301::rational-functions
+Only what can cancel in a fraction?	Whole factors, never individual terms.	math::301::rational-functions

@@ -1,0 +1,14 @@
+How does the sine graph come from the unit circle?	It plots the height of the point as the angle sweeps around.	math::301::trig-graphs-identities
+Period and range of \( \sin x \) and \( \cos x \)	Period \( 2\pi \), range \( [-1, 1] \).	math::301::trig-graphs-identities
+In \( y = A\sin(B(x - C)) + D \): amplitude, period, phase shift, midline	\( |A| \), \( \frac{2\pi}{B} \), right by C, \( y = D \).	math::301::trig-graphs-identities
+Relation between the cosine and sine graphs	\( \cos x = \sin\left(x + \frac{\pi}{2}\right) \): cosine is sine shifted left a quarter turn.	math::301::trig-graphs-identities
+Period and asymptotes of \( \tan x \)	Period \( \pi \); asymptotes where \( \cos x = 0 \), at odd multiples of \( \frac{\pi}{2} \).	math::301::trig-graphs-identities
+Pythagorean identity	\( \sin^2\theta + \cos^2\theta = 1 \)	math::301::trig-graphs-identities
+Pythagorean identity divided by \( \cos^2\theta \)	\( \tan^2\theta + 1 = \sec^2\theta \)	math::301::trig-graphs-identities
+Even/odd: \( \cos(-\theta) \) and \( \sin(-\theta) \)	\( \cos\theta \) (even) and \( -\sin\theta \) (odd).	math::301::trig-graphs-identities
+\( \sin(a + b) \)	\( \sin a\cos b + \cos a\sin b \)	math::301::trig-graphs-identities
+\( \cos(a + b) \)	\( \cos a\cos b - \sin a\sin b \)	math::301::trig-graphs-identities
+\( \sin 2a \) and \( \cos 2a \)	\( 2\sin a\cos a \) and \( \cos^2 a - \sin^2 a \)	math::301::trig-graphs-identities
+Midline and amplitude from max M and min m	Midline \( \frac{M + m}{2} \), amplitude \( \frac{M - m}{2} \).	math::301::trig-graphs-identities
+All solutions of \( \sin x = \frac{1}{2} \)	\( x = \frac{\pi}{6} + 2\pi k \) or \( x = \frac{5\pi}{6} + 2\pi k \), k any integer.	math::301::trig-graphs-identities
+Phase shift of \( \sin(2x - \pi) \)	Factor: \( \sin(2(x - \frac{\pi}{2})) \), so right \( \frac{\pi}{2} \).	math::301::trig-graphs-identities

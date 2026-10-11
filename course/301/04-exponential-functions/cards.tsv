@@ -1,0 +1,14 @@
+\( b^m \cdot b^n = ? \)	\( b^{m+n} \) (count the factors)	math::301::exponentials
+\( \frac{b^m}{b^n} = ? \)	\( b^{m-n} \)	math::301::exponentials
+\( (b^m)^n = ? \)	\( b^{mn} \)	math::301::exponentials
+\( b^0 = ? \) and why	1, because dividing \( b^1 \) by b once more gives 1.	math::301::exponentials
+\( b^{-n} = ? \)	\( \frac{1}{b^n} \). Negative exponent means reciprocal.	math::301::exponentials
+\( b^{m/n} = ? \)	\( \left(\sqrt[n]{b}\right)^m \)	math::301::exponentials
+In \( f(x) = a \cdot b^x \), what are a and b?	a is the starting value f(0); b is the growth factor per step.	math::301::exponentials
+Growth factor for r percent growth per step	\( b = 1 + r \), for example 5% gives 1.05.	math::301::exponentials
+Linear vs exponential growth	Linear adds the same amount each step; exponential multiplies by the same factor.	math::301::exponentials
+Doubling-time formula	\( A(t) = A_0 \cdot 2^{t/T} \)	math::301::exponentials
+Half-life formula	\( A(t) = A_0 \cdot \left(\frac{1}{2}\right)^{t/T} \)	math::301::exponentials
+Definition of e by compounding	\( \left(1 + \frac{1}{n}\right)^n \to e \approx 2.71828 \) as n grows.	math::301::exponentials
+Continuous compounding formula	\( A = P e^{rt} \)	math::301::exponentials
+Total of backoff waits \( 1 + 2 + \dots + 2^{k-1} \)	\( 2^k - 1 \)	math::301::exponentials

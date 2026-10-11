@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 440" width="460" height="440" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Even and odd: the points at theta and minus theta share x, so cos is even, and have opposite y, so sin is odd</title><defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#222222"/></marker></defs>
+<rect x="0" y="0" width="460" height="440" fill="#ffffff"/>
+<line x1="30" y1="220" x2="420" y2="220" stroke="#222222" stroke-width="1.4" marker-end="url(#arr)"/>
+<line x1="220" y1="410" x2="220" y2="30" stroke="#222222" stroke-width="1.4" marker-end="url(#arr)"/>
+<circle cx="220" cy="220" r="160" fill="none" stroke="#222222" stroke-width="2"/>
+<line x1="220" y1="220" x2="342.57" y2="117.15" stroke="#d9480f" stroke-width="2"/>
+<circle cx="342.57" cy="117.15" r="6" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="352.57" y="109.15" font-size="14" fill="#d9480f" text-anchor="start" font-weight="bold">(cos θ, sin θ)</text>
+<line x1="220" y1="220" x2="342.57" y2="322.85" stroke="#1c4e80" stroke-width="2"/>
+<circle cx="342.57" cy="322.85" r="6" fill="#1c4e80" stroke="#1c4e80" stroke-width="1.5"/>
+<text x="352.57" y="342.85" font-size="14" fill="#1c4e80" text-anchor="start" font-weight="bold">(cos θ, −sin θ)</text>
+<line x1="342.57" y1="117.15" x2="342.57" y2="322.85" stroke="#868e96" stroke-width="1.2" stroke-dasharray="4 3"/>
+<path d="M 264 220 L 264 219.49 L 263.99 218.98 L 263.97 218.46 L 263.95 217.95 L 263.93 217.44 L 263.89 216.93 L 263.85 216.42 L 263.81 215.91 L 263.76 215.4 L 263.7 214.89 L 263.64 214.38 L 263.57 213.88 L 263.5 213.37 L 263.42 212.86 L 263.33 212.36 L 263.24 211.86 L 263.14 211.35 L 263.04 210.85 L 262.93 210.35 L 262.81 209.85 L 262.69 209.36 L 262.57 208.86 L 262.43 208.36 L 262.3 207.87 L 262.15 207.38 L 262 206.89 L 261.85 206.4 L 261.69 205.92 L 261.52 205.43 L 261.35 204.95 L 261.17 204.47 L 260.99 203.99 L 260.8 203.52 L 260.6 203.04 L 260.4 202.57 L 260.2 202.1 L 259.99 201.64 L 259.77 201.17 L 259.55 200.71 L 259.32 200.25 L 259.09 199.8 L 258.85 199.34 L 258.61 198.89 L 258.36 198.44 L 258.11 198 L 257.85 197.56 L 257.58 197.12 L 257.31 196.68 L 257.04 196.25 L 256.76 195.82 L 256.48 195.4 L 256.19 194.97 L 255.9 194.55 L 255.6 194.14 L 255.29 193.73 L 254.99 193.32 L 254.67 192.91 L 254.35 192.51 L 254.03 192.11 L 253.71 191.72" fill="none" stroke="#d9480f" stroke-width="1.6" stroke-linejoin="round"/>
+<text x="272" y="210" font-size="15" fill="#d9480f" text-anchor="start" font-weight="bold">θ</text>
+<path d="M 264 220 L 264 220.51 L 263.99 221.02 L 263.97 221.54 L 263.95 222.05 L 263.93 222.56 L 263.89 223.07 L 263.85 223.58 L 263.81 224.09 L 263.76 224.6 L 263.7 225.11 L 263.64 225.62 L 263.57 226.12 L 263.5 226.63 L 263.42 227.14 L 263.33 227.64 L 263.24 228.14 L 263.14 228.65 L 263.04 229.15 L 262.93 229.65 L 262.81 230.15 L 262.69 230.64 L 262.57 231.14 L 262.43 231.64 L 262.3 232.13 L 262.15 232.62 L 262 233.11 L 261.85 233.6 L 261.69 234.08 L 261.52 234.57 L 261.35 235.05 L 261.17 235.53 L 260.99 236.01 L 260.8 236.48 L 260.6 236.96 L 260.4 237.43 L 260.2 237.9 L 259.99 238.36 L 259.77 238.83 L 259.55 239.29 L 259.32 239.75 L 259.09 240.2 L 258.85 240.66 L 258.61 241.11 L 258.36 241.56 L 258.11 242 L 257.85 242.44 L 257.58 242.88 L 257.31 243.32 L 257.04 243.75 L 256.76 244.18 L 256.48 244.6 L 256.19 245.03 L 255.9 245.45 L 255.6 245.86 L 255.29 246.27 L 254.99 246.68 L 254.67 247.09 L 254.35 247.49 L 254.03 247.89 L 253.71 248.28" fill="none" stroke="#1c4e80" stroke-width="1.6" stroke-linejoin="round"/>
+<text x="272" y="242" font-size="15" fill="#1c4e80" text-anchor="start" font-weight="bold">−θ</text>
+<text x="230" y="425" font-size="14" fill="#222222" text-anchor="middle" font-weight="bold">cos(−θ) = cos θ (even).  sin(−θ) = −sin θ (odd).</text>
+</svg>

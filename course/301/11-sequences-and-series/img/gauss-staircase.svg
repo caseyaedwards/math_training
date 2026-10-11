@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 380" width="560" height="380" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Two staircases of 1 to 6 blocks fit together into a 6 by 7 rectangle, so 1 + 2 + ... + 6 = 6 times 7 over 2 = 21</title>
+<rect x="0" y="0" width="560" height="380" fill="#ffffff"/>
+<rect x="60" y="50" width="36" height="36" rx="0" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.2"/>
+<rect x="96" y="50" width="36" height="36" rx="0" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="132" y="50" width="36" height="36" rx="0" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="168" y="50" width="36" height="36" rx="0" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="204" y="50" width="36" height="36" rx="0" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="240" y="50" width="36" height="36" rx="0" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="276" y="50" width="36" height="36" rx="0" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="60" y="86" width="36" height="36" rx="0" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.2"/>
+<rect x="96" y="86" width="36" height="36" rx="0" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.2"/>
+<rect x="132" y="86" width="36" height="36" rx="0" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="168" y="86" width="36" height="36" rx="0" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="204" y="86" width="36" height="36" rx="0" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="240" y="86" width="36" height="36" rx="0" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="276" y="86" width="36" height="36" rx="0" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="60" y="122" width="36" height="36" rx="0" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.2"/>
+<rect x="96" y="122" width="36" height="36" rx="0" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.2"/>
+<rect x="132" y="122" width="36" height="36" rx="0" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.2"/>
+<rect x="168" y="122" width="36" height="36" rx="0" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="204" y="122" width="36" height="36" rx="0" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="240" y="122" width="36" height="36" rx="0" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="276" y="122" width="36" height="36" rx="0" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="60" y="158" width="36" height="36" rx="0" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.2"/>
+<rect x="96" y="158" width="36" height="36" rx="0" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.2"/>
+<rect x="132" y="158" width="36" height="36" rx="0" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.2"/>
+<rect x="168" y="158" width="36" height="36" rx="0" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.2"/>
+<rect x="204" y="158" width="36" height="36" rx="0" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="240" y="158" width="36" height="36" rx="0" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="276" y="158" width="36" height="36" rx="0" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="60" y="194" width="36" height="36" rx="0" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.2"/>
+<rect x="96" y="194" width="36" height="36" rx="0" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.2"/>
+<rect x="132" y="194" width="36" height="36" rx="0" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.2"/>
+<rect x="168" y="194" width="36" height="36" rx="0" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.2"/>
+<rect x="204" y="194" width="36" height="36" rx="0" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.2"/>
+<rect x="240" y="194" width="36" height="36" rx="0" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="276" y="194" width="36" height="36" rx="0" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="60" y="230" width="36" height="36" rx="0" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.2"/>
+<rect x="96" y="230" width="36" height="36" rx="0" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.2"/>
+<rect x="132" y="230" width="36" height="36" rx="0" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.2"/>
+<rect x="168" y="230" width="36" height="36" rx="0" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.2"/>
+<rect x="204" y="230" width="36" height="36" rx="0" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.2"/>
+<rect x="240" y="230" width="36" height="36" rx="0" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.2"/>
+<rect x="276" y="230" width="36" height="36" rx="0" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<text x="186" y="290" font-size="13" fill="#222222" text-anchor="middle" font-weight="normal">n + 1 = 7 wide</text>
+<text x="50" y="158" font-size="13" fill="#222222" text-anchor="end" font-weight="normal">n = 6</text>
+<text x="332" y="90" font-size="13" fill="#1c4e80" text-anchor="start" font-weight="bold">blue: 1 + 2 + ... + 6</text>
+<text x="332" y="112" font-size="13" fill="#d9480f" text-anchor="start" font-weight="bold">orange: the same,</text>
+<text x="332" y="130" font-size="13" fill="#d9480f" text-anchor="start" font-weight="bold">turned around</text>
+<text x="332" y="170" font-size="13" fill="#222222" text-anchor="start" font-weight="normal">together: 6 × 7 = 42</text>
+<text x="332" y="192" font-size="13" fill="#222222" text-anchor="start" font-weight="bold">one staircase: 42 / 2 = 21</text>
+<text x="280" y="365" font-size="12" fill="#868e96" text-anchor="middle" font-weight="normal">1 + 2 + ... + n = n(n + 1) / 2. Gauss, age about nine, reportedly found it to dodge busywork.</text>
+</svg>

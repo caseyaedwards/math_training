@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>The same triangle labeled from angle A and from angle B: opposite and adjacent swap, the hypotenuse stays</title>
+<rect x="0" y="0" width="760" height="300" fill="#ffffff"/>
+<path d="M 40 240 L 300 240 L 300 80 Z" fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 286 240 L 286 226 L 300 226" fill="none" stroke="#222222" stroke-width="1.2" stroke-linejoin="round"/>
+<path d="M 80 240 L 80 239.45 L 79.98 238.9 L 79.97 238.35 L 79.94 237.79 L 79.9 237.24 L 79.86 236.69 L 79.81 236.14 L 79.76 235.6 L 79.69 235.05 L 79.62 234.5 L 79.54 233.96 L 79.45 233.41 L 79.36 232.87 L 79.26 232.32 L 79.15 231.78 L 79.03 231.24 L 78.91 230.71 L 78.77 230.17 L 78.63 229.64 L 78.49 229.11 L 78.33 228.58 L 78.17 228.05 L 78 227.52 L 77.83 227 L 77.65 226.48 L 77.46 225.96 L 77.26 225.45 L 77.05 224.93 L 76.84 224.43 L 76.62 223.92 L 76.4 223.41 L 76.17 222.91 L 75.93 222.42 L 75.68 221.92 L 75.43 221.43 L 75.17 220.95 L 74.9 220.46 L 74.63 219.98 L 74.35 219.51 L 74.07 219.04" fill="none" stroke="#d9480f" stroke-width="2" stroke-linejoin="round"/>
+<text x="86" y="232" font-size="15" fill="#d9480f" text-anchor="start" font-weight="bold">A</text>
+<text x="170" y="262" font-size="13" fill="#222222" text-anchor="middle" font-weight="normal">adjacent to A</text>
+<text x="306" y="165" font-size="13" fill="#222222" text-anchor="start" font-weight="normal">opposite A</text>
+<text x="160" y="152" font-size="13" fill="#868e96" text-anchor="end" font-weight="normal">hypotenuse</text>
+<text x="170" y="40" font-size="15" fill="#d9480f" text-anchor="middle" font-weight="bold">seen from A</text>
+<path d="M 420 240 L 680 240 L 680 80 Z" fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 666 240 L 666 226 L 680 226" fill="none" stroke="#222222" stroke-width="1.2" stroke-linejoin="round"/>
+<path d="M 680 114 L 679.13 113.99 L 678.27 113.96 L 677.4 113.9 L 676.54 113.82 L 675.68 113.72 L 674.82 113.6 L 673.97 113.46 L 673.12 113.3 L 672.27 113.11 L 671.43 112.9 L 670.6 112.67 L 669.77 112.42 L 668.94 112.15 L 668.13 111.86 L 667.32 111.55 L 666.52 111.21 L 665.73 110.86 L 664.95 110.49 L 664.18 110.09 L 663.41 109.68 L 662.66 109.25 L 661.92 108.8 L 661.2 108.33 L 660.48 107.84 L 659.78 107.33 L 659.09 106.81 L 658.41 106.27 L 657.75 105.71 L 657.1 105.13 L 656.47 104.54 L 655.85 103.93 L 655.25 103.31 L 654.66 102.67 L 654.09 102.02 L 653.54 101.35 L 653.01 100.67 L 652.49 99.98 L 651.99 99.27 L 651.51 98.55 L 651.04 97.82" fill="none" stroke="#d9480f" stroke-width="2" stroke-linejoin="round"/>
+<text x="666" y="128" font-size="15" fill="#d9480f" text-anchor="end" font-weight="bold">B</text>
+<text x="550" y="262" font-size="13" fill="#222222" text-anchor="middle" font-weight="normal">opposite B</text>
+<text x="686" y="165" font-size="13" fill="#222222" text-anchor="start" font-weight="normal">adjacent to B</text>
+<text x="540" y="152" font-size="13" fill="#868e96" text-anchor="end" font-weight="normal">hypotenuse</text>
+<text x="550" y="40" font-size="15" fill="#d9480f" text-anchor="middle" font-weight="bold">seen from B</text>
+<text x="380" y="292" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">Opposite and adjacent depend on which angle you stand at. The hypotenuse never changes.</text>
+</svg>

@@ -1,0 +1,13 @@
+Meaning of \( \lim_{x \to a} f(x) = L \)	f(x) gets as close to L as you like when x is close enough to a, with \( x \ne a \).	math::301::limits-preview
+Does the limit depend on f(a)?	No. The value at a is ignored; it can be missing or different.	math::301::limits-preview
+When does a limit fail to exist at a jump?	When the left and right one-sided limits disagree.	math::301::limits-preview
+Continuous at a	\( \lim_{x \to a} f(x) = f(a) \): no break, so plugging in works.	math::301::limits-preview
+What does plugging in and getting \( \frac{0}{0} \) mean?	More work needed: factor and cancel, or use a table.	math::301::limits-preview
+\( \lim_{x \to 1} \frac{x^2 - 1}{x - 1} \)	2 (factor, cancel, plug in).	math::301::limits-preview
+\( \lim_{x \to 0} \frac{\sin x}{x} \)	1, with x in radians.	math::301::limits-preview
+\( \lim_{x \to \infty} \frac{1}{x} \)	0	math::301::limits-preview
+Limit at infinity of a rational function with equal degrees	Ratio of leading coefficients (the horizontal asymptote).	math::301::limits-preview
+Tangent slope as a limit	Limit of secant slopes \( \frac{f(a+h) - f(a)}{h} \) as \( h \to 0 \): the derivative.	math::301::limits-preview
+Area under a curve as a limit	Limit of sums of thinner and thinner rectangles: the integral.	math::301::limits-preview
+Tangent slope of \( y = x^2 \) at x = 1	2, since the secant slope is \( 2 + h \).	math::301::limits-preview
+An infinite series as a limit	The limit of its partial sums.	math::301::limits-preview

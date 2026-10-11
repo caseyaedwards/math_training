@@ -1,0 +1,14 @@
+SOH CAH TOA	\( \sin = \frac{opp}{hyp} \), \( \cos = \frac{adj}{hyp} \), \( \tan = \frac{opp}{adj} \)	math::301::right-triangle-trig
+Which side is the hypotenuse?	The longest side, across from the right angle.	math::301::right-triangle-trig
+Pythagorean theorem	\( a^2 + b^2 = c^2 \), c the hypotenuse.	math::301::right-triangle-trig
+Why do trig ratios depend only on the angle?	Triangles with the same angles are similar; scaling keeps side ratios fixed.	math::301::right-triangle-trig
+Angles of a triangle add to	\( 180^\circ \)	math::301::right-triangle-trig
+Sides of the 45-45-90 triangle	\( 1, 1, \sqrt{2} \)	math::301::right-triangle-trig
+Sides of the 30-60-90 triangle	\( 1, \sqrt{3}, 2 \) (short leg opposite 30°)	math::301::right-triangle-trig
+\( \sin 30^\circ, \cos 30^\circ, \tan 30^\circ \)	\( \frac{1}{2}, \frac{\sqrt{3}}{2}, \frac{\sqrt{3}}{3} \)	math::301::right-triangle-trig
+\( \sin 45^\circ, \cos 45^\circ, \tan 45^\circ \)	\( \frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2}, 1 \)	math::301::right-triangle-trig
+\( \sin 60^\circ, \cos 60^\circ, \tan 60^\circ \)	\( \frac{\sqrt{3}}{2}, \frac{1}{2}, \sqrt{3} \)	math::301::right-triangle-trig
+Cofunction identity	\( \sin\theta = \cos(90^\circ - \theta) \)	math::301::right-triangle-trig
+What does \( \sin^{-1} \) mean?	Inverse sine: turns a ratio back into an angle. Not \( \frac{1}{\sin} \).	math::301::right-triangle-trig
+\( \csc, \sec, \cot \)	Reciprocals: \( \frac{1}{\sin}, \frac{1}{\cos}, \frac{1}{\tan} \)	math::301::right-triangle-trig
+Classic code bug with math.Sin(30)	Go's math.Sin takes radians; convert degrees with \( d \cdot \pi / 180 \).	math::301::right-triangle-trig

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 340" width="640" height="340" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Completing the square with tiles: x squared plus 6x is a 3 by 3 corner short of the square (x + 3) squared</title>
+<rect x="0" y="0" width="640" height="340" fill="#ffffff"/>
+<rect x="40" y="60" width="130" height="130" rx="0" fill="#dbe4ee" stroke="#222222" stroke-width="1.5"/>
+<text x="105" y="130" font-size="13" fill="#222222" text-anchor="middle" font-weight="bold">x²</text>
+<rect x="170" y="60" width="78" height="130" rx="0" fill="#fbe3d6" stroke="#222222" stroke-width="1.5"/>
+<text x="209" y="130" font-size="13" fill="#222222" text-anchor="middle" font-weight="bold">3x</text>
+<rect x="40" y="190" width="130" height="78" rx="0" fill="#fbe3d6" stroke="#222222" stroke-width="1.5"/>
+<text x="105" y="234" font-size="13" fill="#222222" text-anchor="middle" font-weight="bold">3x</text>
+<rect x="170" y="190" width="78" height="78" rx="0" fill="none" stroke="#d9480f" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="209" y="234" font-size="15" fill="#d9480f" text-anchor="middle" font-weight="bold">9?</text>
+<text x="144" y="40" font-size="13" fill="#222222" text-anchor="middle" font-weight="normal">x² + 6x: split 6x into two strips of 3x</text>
+<rect x="360" y="60" width="130" height="130" rx="0" fill="#dbe4ee" stroke="#222222" stroke-width="1.5"/>
+<text x="425" y="130" font-size="13" fill="#222222" text-anchor="middle" font-weight="bold">x²</text>
+<rect x="490" y="60" width="78" height="130" rx="0" fill="#fbe3d6" stroke="#222222" stroke-width="1.5"/>
+<text x="529" y="130" font-size="13" fill="#222222" text-anchor="middle" font-weight="bold">3x</text>
+<rect x="360" y="190" width="130" height="78" rx="0" fill="#fbe3d6" stroke="#222222" stroke-width="1.5"/>
+<text x="425" y="234" font-size="13" fill="#222222" text-anchor="middle" font-weight="bold">3x</text>
+<rect x="490" y="190" width="78" height="78" rx="0" fill="#ffd8a8" stroke="#d9480f" stroke-width="1.5"/>
+<text x="529" y="234" font-size="13" fill="#d9480f" text-anchor="middle" font-weight="bold">9</text>
+<text x="464" y="40" font-size="13" fill="#222222" text-anchor="middle" font-weight="normal">add the 9 corner: a full square</text>
+<text x="464" y="290" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">side x + 3</text>
+<text x="320" y="325" font-size="14" fill="#d9480f" text-anchor="middle" font-weight="bold">x² + 6x = (x + 3)² − 9. Half the x-coefficient, squared, fills the corner.</text>
+</svg>

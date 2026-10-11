@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 260" width="620" height="260" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Anatomy of sigma notation: the sum from k = 1 to 5 of 2k - 1</title>
+<rect x="0" y="0" width="620" height="260" fill="#ffffff"/>
+<text x="250" y="150" font-size="90" fill="#222222" text-anchor="middle" font-weight="normal">Σ</text>
+<text x="250" y="70" font-size="22" fill="#d9480f" text-anchor="middle" font-weight="bold">5</text>
+<text x="250" y="192" font-size="20" fill="#1c4e80" text-anchor="middle" font-weight="bold">k = 1</text>
+<text x="300" y="140" font-size="30" fill="#222222" text-anchor="start" font-weight="normal">(2k − 1)</text>
+<line x1="270" y1="62" x2="400" y2="40" stroke="#d9480f" stroke-width="1.3"/>
+<text x="405" y="44" font-size="14" fill="#d9480f" text-anchor="start" font-weight="normal">stop at k = 5</text>
+<line x1="225" y1="188" x2="110" y2="215" stroke="#1c4e80" stroke-width="1.3"/>
+<text x="105" y="222" font-size="14" fill="#1c4e80" text-anchor="end" font-weight="normal">start at k = 1</text>
+<line x1="360" y1="152" x2="430" y2="190" stroke="#222222" stroke-width="1.3"/>
+<text x="435" y="196" font-size="14" fill="#222222" text-anchor="start" font-weight="normal">the term: plug in each k</text>
+<line x1="200" y1="110" x2="120" y2="80" stroke="#222222" stroke-width="1.3"/>
+<text x="115" y="78" font-size="14" fill="#222222" text-anchor="end" font-weight="normal">add them up</text>
+<text x="310" y="245" font-size="15" fill="#d9480f" text-anchor="middle" font-weight="bold">= 1 + 3 + 5 + 7 + 9 = 25.   A for loop in one symbol.</text>
+</svg>

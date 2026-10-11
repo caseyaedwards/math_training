@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 680" width="680" height="680" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>The unit circle with the special angles in degrees and radians and the first-quadrant coordinates</title><defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#222222"/></marker></defs>
+<rect x="0" y="0" width="680" height="680" fill="#ffffff"/>
+<line x1="60" y1="340" x2="620" y2="340" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="340" y1="620" x2="340" y2="60" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<text x="630" y="345" font-size="14" fill="#222222" text-anchor="start" font-weight="normal" font-style="italic">x</text>
+<text x="348" y="58" font-size="14" fill="#222222" text-anchor="start" font-weight="normal" font-style="italic">y</text>
+<circle cx="340" cy="340" r="230" fill="none" stroke="#222222" stroke-width="2.2"/>
+<line x1="340" y1="340" x2="570" y2="340" stroke="#dddddd" stroke-width="1"/>
+<circle cx="570" cy="340" r="5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="604" y="338" font-size="13" fill="#222222" text-anchor="start" font-weight="bold">0°</text>
+<text x="604" y="354" font-size="13" fill="#868e96" text-anchor="start" font-weight="normal">0</text>
+<text x="556" y="330" font-size="13" fill="#d9480f" text-anchor="end" font-weight="normal">(1, 0)</text>
+<line x1="340" y1="340" x2="539.19" y2="225" stroke="#dddddd" stroke-width="1"/>
+<circle cx="539.19" cy="225" r="5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="568.63" y="206" font-size="13" fill="#222222" text-anchor="start" font-weight="bold">30°</text>
+<text x="568.63" y="222" font-size="13" fill="#868e96" text-anchor="start" font-weight="normal">π/6</text>
+<text x="527.06" y="236" font-size="13" fill="#d9480f" text-anchor="end" font-weight="normal">(√3/2, 1/2)</text>
+<line x1="340" y1="340" x2="502.63" y2="177.37" stroke="#dddddd" stroke-width="1"/>
+<circle cx="502.63" cy="177.37" r="5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="526.68" y="151.32" font-size="13" fill="#222222" text-anchor="start" font-weight="bold">45°</text>
+<text x="526.68" y="167.32" font-size="13" fill="#868e96" text-anchor="start" font-weight="normal">π/4</text>
+<text x="492.74" y="191.26" font-size="13" fill="#d9480f" text-anchor="end" font-weight="normal">(√2/2, √2/2)</text>
+<line x1="340" y1="340" x2="455" y2="140.81" stroke="#dddddd" stroke-width="1"/>
+<circle cx="455" cy="140.81" r="5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="472" y="109.37" font-size="13" fill="#222222" text-anchor="start" font-weight="bold">60°</text>
+<text x="472" y="125.37" font-size="13" fill="#868e96" text-anchor="start" font-weight="normal">π/3</text>
+<text x="448" y="156.94" font-size="13" fill="#d9480f" text-anchor="end" font-weight="normal">(1/2, √3/2)</text>
+<line x1="340" y1="340" x2="340" y2="110" stroke="#dddddd" stroke-width="1"/>
+<circle cx="340" cy="110" r="5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="350" y="74" font-size="13" fill="#222222" text-anchor="start" font-weight="bold">90°</text>
+<text x="350" y="90" font-size="13" fill="#868e96" text-anchor="start" font-weight="normal">π/2</text>
+<text x="340" y="142" font-size="13" fill="#d9480f" text-anchor="middle" font-weight="normal">(0, 1)</text>
+<line x1="340" y1="340" x2="225" y2="140.81" stroke="#dddddd" stroke-width="1"/>
+<circle cx="225" cy="140.81" r="5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="208" y="109.37" font-size="13" fill="#222222" text-anchor="end" font-weight="bold">120°</text>
+<text x="208" y="125.37" font-size="13" fill="#868e96" text-anchor="end" font-weight="normal">2π/3</text>
+<line x1="340" y1="340" x2="177.37" y2="177.37" stroke="#dddddd" stroke-width="1"/>
+<circle cx="177.37" cy="177.37" r="5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="153.32" y="151.32" font-size="13" fill="#222222" text-anchor="end" font-weight="bold">135°</text>
+<text x="153.32" y="167.32" font-size="13" fill="#868e96" text-anchor="end" font-weight="normal">3π/4</text>
+<line x1="340" y1="340" x2="140.81" y2="225" stroke="#dddddd" stroke-width="1"/>
+<circle cx="140.81" cy="225" r="5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="111.37" y="206" font-size="13" fill="#222222" text-anchor="end" font-weight="bold">150°</text>
+<text x="111.37" y="222" font-size="13" fill="#868e96" text-anchor="end" font-weight="normal">5π/6</text>
+<line x1="340" y1="340" x2="110" y2="340" stroke="#dddddd" stroke-width="1"/>
+<circle cx="110" cy="340" r="5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="76" y="338" font-size="13" fill="#222222" text-anchor="end" font-weight="bold">180°</text>
+<text x="76" y="354" font-size="13" fill="#868e96" text-anchor="end" font-weight="normal">π</text>
+<text x="124" y="330" font-size="13" fill="#d9480f" text-anchor="start" font-weight="normal">(−1, 0)</text>
+<line x1="340" y1="340" x2="140.81" y2="455" stroke="#dddddd" stroke-width="1"/>
+<circle cx="140.81" cy="455" r="5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="111.37" y="470" font-size="13" fill="#222222" text-anchor="end" font-weight="bold">210°</text>
+<text x="111.37" y="486" font-size="13" fill="#868e96" text-anchor="end" font-weight="normal">7π/6</text>
+<line x1="340" y1="340" x2="177.37" y2="502.63" stroke="#dddddd" stroke-width="1"/>
+<circle cx="177.37" cy="502.63" r="5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="153.32" y="524.68" font-size="13" fill="#222222" text-anchor="end" font-weight="bold">225°</text>
+<text x="153.32" y="540.68" font-size="13" fill="#868e96" text-anchor="end" font-weight="normal">5π/4</text>
+<line x1="340" y1="340" x2="225" y2="539.19" stroke="#dddddd" stroke-width="1"/>
+<circle cx="225" cy="539.19" r="5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="208" y="566.63" font-size="13" fill="#222222" text-anchor="end" font-weight="bold">240°</text>
+<text x="208" y="582.63" font-size="13" fill="#868e96" text-anchor="end" font-weight="normal">4π/3</text>
+<line x1="340" y1="340" x2="340" y2="570" stroke="#dddddd" stroke-width="1"/>
+<circle cx="340" cy="570" r="5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="350" y="602" font-size="13" fill="#222222" text-anchor="start" font-weight="bold">270°</text>
+<text x="350" y="618" font-size="13" fill="#868e96" text-anchor="start" font-weight="normal">3π/2</text>
+<text x="340" y="548" font-size="13" fill="#d9480f" text-anchor="middle" font-weight="normal">(0, −1)</text>
+<line x1="340" y1="340" x2="455" y2="539.19" stroke="#dddddd" stroke-width="1"/>
+<circle cx="455" cy="539.19" r="5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="472" y="566.63" font-size="13" fill="#222222" text-anchor="start" font-weight="bold">300°</text>
+<text x="472" y="582.63" font-size="13" fill="#868e96" text-anchor="start" font-weight="normal">5π/3</text>
+<line x1="340" y1="340" x2="502.63" y2="502.63" stroke="#dddddd" stroke-width="1"/>
+<circle cx="502.63" cy="502.63" r="5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="526.68" y="524.68" font-size="13" fill="#222222" text-anchor="start" font-weight="bold">315°</text>
+<text x="526.68" y="540.68" font-size="13" fill="#868e96" text-anchor="start" font-weight="normal">7π/4</text>
+<line x1="340" y1="340" x2="539.19" y2="455" stroke="#dddddd" stroke-width="1"/>
+<circle cx="539.19" cy="455" r="5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="568.63" y="470" font-size="13" fill="#222222" text-anchor="start" font-weight="bold">330°</text>
+<text x="568.63" y="486" font-size="13" fill="#868e96" text-anchor="start" font-weight="normal">11π/6</text>
+<text x="220" y="270" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">x &lt; 0, y &gt; 0</text>
+<text x="220" y="420" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">x &lt; 0, y &lt; 0</text>
+<text x="460" y="420" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">x &gt; 0, y &lt; 0</text>
+<text x="340" y="30" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">Every point is (cos θ, sin θ). Other quadrants copy the first, with signs flipped.</text>
+</svg>

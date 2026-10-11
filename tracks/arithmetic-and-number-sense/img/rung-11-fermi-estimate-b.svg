@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" width="700" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Fermi estimate in scientific notation</title>
+<defs><marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="700" height="300" fill="#ffffff"/>
+<text x="350.0" y="28.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">Requests per day at 500 requests per second</text>
+<rect x="60.0" y="60.0" width="220.0" height="44.0" fill="#ffffff" stroke="#222222" stroke-width="1.5" rx="6"/>
+<text x="170.0" y="88.0" text-anchor="middle" font-size="15" fill="#222222"><tspan>500 = 5 × 10</tspan><tspan dy="-5.7" font-size="10.8">2</tspan></text>
+<text x="350.0" y="88.0" text-anchor="middle" font-size="20" fill="#222222">×</text>
+<rect x="420.0" y="60.0" width="230.0" height="44.0" fill="#ffffff" stroke="#222222" stroke-width="1.5" rx="6"/>
+<text x="535.0" y="88.0" text-anchor="middle" font-size="15" fill="#222222"><tspan>86,400 = 8.64 × 10</tspan><tspan dy="-5.7" font-size="10.8">4</tspan></text>
+<line x1="170.0" y1="106.0" x2="260.0" y2="146.0" stroke="#555555" stroke-width="1.5" marker-end="url(#ad)"/>
+<line x1="535.0" y1="106.0" x2="260.0" y2="146.0" stroke="#555555" stroke-width="1.5" marker-end="url(#ad)"/>
+<line x1="170.0" y1="106.0" x2="470.0" y2="146.0" stroke="#d9480f" stroke-width="1.5" marker-end="url(#aa)"/>
+<line x1="535.0" y1="106.0" x2="470.0" y2="146.0" stroke="#d9480f" stroke-width="1.5" marker-end="url(#aa)"/>
+<rect x="150.0" y="150.0" width="220.0" height="40.0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2" rx="6"/>
+<text x="260.0" y="176.0" text-anchor="middle" font-size="14" fill="#222222">fronts: 5 × 8.64 = 43.2</text>
+<rect x="380.0" y="150.0" width="200.0" height="40.0" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.2" rx="6"/>
+<text x="480.0" y="176.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">exponents: 2 + 4 = 6</text>
+<text x="350.0" y="228.0" text-anchor="middle" font-size="17" fill="#222222" font-weight="bold"><tspan>43.2 × 10</tspan><tspan dy="-6.5" font-size="12.2">6</tspan><tspan dy="6.5"> = 4.32 × 10</tspan><tspan dy="-6.5" font-size="12.2">7</tspan></text>
+<text x="350.0" y="256.0" text-anchor="middle" font-size="14" fill="#555555">about 43 million requests per day</text>
+</svg>

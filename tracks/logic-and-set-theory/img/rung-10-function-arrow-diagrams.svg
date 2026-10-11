@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 300" width="740" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Arrow Diagrams: Not a Function, Injective, Surjective, Bijective</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="740" height="300" fill="#ffffff"/>
+<text x="370" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Four arrow diagrams from A to B</text>
+<ellipse cx="52" cy="125" rx="30" ry="78" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<ellipse cx="142" cy="125" rx="30" ry="78" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<circle cx="52" cy="91" r="4" fill="#222222" stroke="none" stroke-width="0"/>
+<text x="43" y="96" text-anchor="end" fill="#222222" font-size="13">1</text>
+<circle cx="52" cy="125" r="4" fill="#222222" stroke="none" stroke-width="0"/>
+<text x="43" y="130" text-anchor="end" fill="#222222" font-size="13">2</text>
+<circle cx="52" cy="159" r="4" fill="#222222" stroke="none" stroke-width="0"/>
+<text x="43" y="164" text-anchor="end" fill="#222222" font-size="13">3</text>
+<circle cx="142" cy="91" r="4" fill="#222222" stroke="#222222" stroke-width="1.2"/>
+<text x="151" y="96" text-anchor="start" fill="#222222" font-size="13">x</text>
+<circle cx="142" cy="125" r="4" fill="#222222" stroke="#222222" stroke-width="1.2"/>
+<text x="151" y="130" text-anchor="start" fill="#222222" font-size="13">y</text>
+<circle cx="142" cy="159" r="4" fill="#222222" stroke="#222222" stroke-width="1.2"/>
+<text x="151" y="164" text-anchor="start" fill="#222222" font-size="13">z</text>
+<line x1="58" y1="91" x2="134" y2="91" stroke="#d9480f" stroke-width="1.6" marker-end="url(#arrA)"/>
+<line x1="58" y1="91" x2="134" y2="123.3" stroke="#d9480f" stroke-width="1.6" marker-end="url(#arrA)"/>
+<line x1="58" y1="125" x2="134" y2="157.3" stroke="#555555" stroke-width="1.6" marker-end="url(#arrD)"/>
+<text x="95" y="227" text-anchor="middle" fill="#222222" font-weight="bold">not a function</text>
+<text x="95" y="245" text-anchor="middle" fill="#555555" font-size="12">1 has two outputs,</text>
+<text x="95" y="261" text-anchor="middle" fill="#555555" font-size="12">3 has none</text>
+<ellipse cx="237" cy="125" rx="30" ry="78" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<ellipse cx="327" cy="125" rx="30" ry="78" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<circle cx="237" cy="91" r="4" fill="#222222" stroke="none" stroke-width="0"/>
+<text x="228" y="96" text-anchor="end" fill="#222222" font-size="13">1</text>
+<circle cx="237" cy="125" r="4" fill="#222222" stroke="none" stroke-width="0"/>
+<text x="228" y="130" text-anchor="end" fill="#222222" font-size="13">2</text>
+<circle cx="237" cy="159" r="4" fill="#222222" stroke="none" stroke-width="0"/>
+<text x="228" y="164" text-anchor="end" fill="#222222" font-size="13">3</text>
+<circle cx="327" cy="74" r="4" fill="#222222" stroke="#222222" stroke-width="1.2"/>
+<text x="336" y="79" text-anchor="start" fill="#222222" font-size="13">w</text>
+<circle cx="327" cy="108" r="4" fill="#222222" stroke="#222222" stroke-width="1.2"/>
+<text x="336" y="113" text-anchor="start" fill="#222222" font-size="13">x</text>
+<circle cx="327" cy="142" r="4" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="336" y="147" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">y</text>
+<circle cx="327" cy="176" r="4" fill="#222222" stroke="#222222" stroke-width="1.2"/>
+<text x="336" y="181" text-anchor="start" fill="#222222" font-size="13">z</text>
+<line x1="243" y1="91" x2="319" y2="74.85" stroke="#555555" stroke-width="1.6" marker-end="url(#arrD)"/>
+<line x1="243" y1="125" x2="319" y2="108.85" stroke="#555555" stroke-width="1.6" marker-end="url(#arrD)"/>
+<line x1="243" y1="159" x2="319" y2="175.15" stroke="#555555" stroke-width="1.6" marker-end="url(#arrD)"/>
+<text x="280" y="227" text-anchor="middle" fill="#222222" font-weight="bold">injective only</text>
+<text x="280" y="245" text-anchor="middle" fill="#555555" font-size="12">no shared outputs,</text>
+<text x="280" y="261" text-anchor="middle" fill="#555555" font-size="12">y is never hit</text>
+<ellipse cx="422" cy="125" rx="30" ry="78" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<ellipse cx="512" cy="125" rx="30" ry="78" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<circle cx="422" cy="74" r="4" fill="#222222" stroke="none" stroke-width="0"/>
+<text x="413" y="79" text-anchor="end" fill="#222222" font-size="13">1</text>
+<circle cx="422" cy="108" r="4" fill="#222222" stroke="none" stroke-width="0"/>
+<text x="413" y="113" text-anchor="end" fill="#222222" font-size="13">2</text>
+<circle cx="422" cy="142" r="4" fill="#222222" stroke="none" stroke-width="0"/>
+<text x="413" y="147" text-anchor="end" fill="#222222" font-size="13">3</text>
+<circle cx="422" cy="176" r="4" fill="#222222" stroke="none" stroke-width="0"/>
+<text x="413" y="181" text-anchor="end" fill="#222222" font-size="13">4</text>
+<circle cx="512" cy="91" r="4" fill="#222222" stroke="#222222" stroke-width="1.2"/>
+<text x="521" y="96" text-anchor="start" fill="#222222" font-size="13">x</text>
+<circle cx="512" cy="125" r="4" fill="#222222" stroke="#222222" stroke-width="1.2"/>
+<text x="521" y="130" text-anchor="start" fill="#222222" font-size="13">y</text>
+<circle cx="512" cy="159" r="4" fill="#222222" stroke="#222222" stroke-width="1.2"/>
+<text x="521" y="164" text-anchor="start" fill="#222222" font-size="13">z</text>
+<line x1="428" y1="74" x2="504" y2="90.15" stroke="#d9480f" stroke-width="1.6" marker-end="url(#arrA)"/>
+<line x1="428" y1="108" x2="504" y2="91.85" stroke="#d9480f" stroke-width="1.6" marker-end="url(#arrA)"/>
+<line x1="428" y1="142" x2="504" y2="125.85" stroke="#555555" stroke-width="1.6" marker-end="url(#arrD)"/>
+<line x1="428" y1="176" x2="504" y2="159.85" stroke="#555555" stroke-width="1.6" marker-end="url(#arrD)"/>
+<text x="465" y="227" text-anchor="middle" fill="#222222" font-weight="bold">surjective only</text>
+<text x="465" y="245" text-anchor="middle" fill="#555555" font-size="12">every output hit,</text>
+<text x="465" y="261" text-anchor="middle" fill="#555555" font-size="12">1 and 2 share x</text>
+<ellipse cx="607" cy="125" rx="30" ry="78" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<ellipse cx="697" cy="125" rx="30" ry="78" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<circle cx="607" cy="91" r="4" fill="#222222" stroke="none" stroke-width="0"/>
+<text x="598" y="96" text-anchor="end" fill="#222222" font-size="13">1</text>
+<circle cx="607" cy="125" r="4" fill="#222222" stroke="none" stroke-width="0"/>
+<text x="598" y="130" text-anchor="end" fill="#222222" font-size="13">2</text>
+<circle cx="607" cy="159" r="4" fill="#222222" stroke="none" stroke-width="0"/>
+<text x="598" y="164" text-anchor="end" fill="#222222" font-size="13">3</text>
+<circle cx="697" cy="91" r="4" fill="#222222" stroke="#222222" stroke-width="1.2"/>
+<text x="706" y="96" text-anchor="start" fill="#222222" font-size="13">x</text>
+<circle cx="697" cy="125" r="4" fill="#222222" stroke="#222222" stroke-width="1.2"/>
+<text x="706" y="130" text-anchor="start" fill="#222222" font-size="13">y</text>
+<circle cx="697" cy="159" r="4" fill="#222222" stroke="#222222" stroke-width="1.2"/>
+<text x="706" y="164" text-anchor="start" fill="#222222" font-size="13">z</text>
+<line x1="613" y1="91" x2="689" y2="123.3" stroke="#555555" stroke-width="1.6" marker-end="url(#arrD)"/>
+<line x1="613" y1="125" x2="689" y2="157.3" stroke="#555555" stroke-width="1.6" marker-end="url(#arrD)"/>
+<line x1="613" y1="159" x2="689" y2="94.4" stroke="#555555" stroke-width="1.6" marker-end="url(#arrD)"/>
+<text x="650" y="227" text-anchor="middle" fill="#222222" font-weight="bold">bijective</text>
+<text x="650" y="245" text-anchor="middle" fill="#555555" font-size="12">perfect pairing:</text>
+<text x="650" y="261" text-anchor="middle" fill="#555555" font-size="12">|A| = |B| = 3</text>
+</svg>

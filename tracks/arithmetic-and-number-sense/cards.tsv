@@ -1,0 +1,12 @@
+What does the 4 mean in 3,047?	Four tens, that is 40. Position sets the value.	math::tracks::arithmetic-and-number-sense math::tracks::arithmetic-and-number-sense::place-value
+Division algorithm for 17 and 5	\(17 = 3 \cdot 5 + 2\): quotient 3, remainder 2.	math::tracks::arithmetic-and-number-sense math::tracks::arithmetic-and-number-sense::division
+Why is \((-a)(-b) = ab\)?	Multiplying by a negative reverses direction. Reversing a reversal points forward again.	math::tracks::arithmetic-and-number-sense math::tracks::arithmetic-and-number-sense::negatives
+Order of operations	Parentheses, exponents, multiply and divide left to right, add and subtract left to right. \(2 + 3 \times 4 = 14\).	math::tracks::arithmetic-and-number-sense math::tracks::arithmetic-and-number-sense::order-of-operations
+How do you add \(\frac{a}{b} + \frac{c}{d}\)?	Use a common denominator: \(\frac{ad + bc}{bd}\).	math::tracks::arithmetic-and-number-sense math::tracks::arithmetic-and-number-sense::fractions
+Which fractions have decimals that stop?	Those whose denominator, in lowest terms, has no prime factors other than 2 and 5. All others repeat.	math::tracks::arithmetic-and-number-sense math::tracks::arithmetic-and-number-sense::decimals
+Fundamental theorem of arithmetic	Every whole number above 1 is a product of primes in exactly one way, up to order.	math::tracks::arithmetic-and-number-sense math::tracks::arithmetic-and-number-sense::primes
+Binary value of \(101101_2\)	\(32 + 8 + 4 + 1 = 45\).	math::tracks::arithmetic-and-number-sense math::tracks::arithmetic-and-number-sense::bases
+Rule of thumb: seconds in a year	About \(\pi \times 10^7\) (exactly 31,536,000 for 365 days).	math::tracks::arithmetic-and-number-sense math::tracks::arithmetic-and-number-sense::estimation
+Area model for \(23 \times 14\)	\(200 + 30 + 80 + 12 = 322\): split each factor by place value and add the four rectangles.	math::tracks::arithmetic-and-number-sense math::tracks::arithmetic-and-number-sense::multiplication
+Is \(\sqrt{2}\) a fraction?	No. It is irrational: no fraction squares to 2.	math::tracks::arithmetic-and-number-sense math::tracks::arithmetic-and-number-sense::real-line
+Does \(0.999\ldots\) equal 1?	Yes. No number fits between them, so they name the same point.	math::tracks::arithmetic-and-number-sense math::tracks::arithmetic-and-number-sense::real-line

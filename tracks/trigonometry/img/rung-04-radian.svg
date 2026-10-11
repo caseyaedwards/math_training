@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" width="600" height="360" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>One radian: the arc equals the radius</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="arrowD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker></defs>
+<rect x="0" y="0" width="600" height="360" fill="#ffffff"/>
+<circle cx="190.0" cy="200.0" r="130.0" fill="none" stroke="#999999" stroke-width="1.2"/>
+<line x1="190.0" y1="200.0" x2="320.0" y2="200.0" stroke="#222222" stroke-width="2"/>
+<line x1="190.0" y1="200.0" x2="260.2" y2="90.6" stroke="#222222" stroke-width="2"/>
+<path d="M320.0,200.0 A130.0,130.0 0 0 0 260.2,90.6" stroke="#d9480f" stroke-width="5" fill="none" stroke-linejoin="round"/>
+<path d="M220.0,200.0 A30.0,30.0 0 0 0 206.2,174.8" stroke="#222222" stroke-width="1.2" fill="none" stroke-linejoin="round"/>
+<text x="232.4" y="182.9" text-anchor="start" fill="#222222" font-size="13">1 rad</text>
+<text x="255.0" y="220.0" text-anchor="middle" fill="#222222">r</text>
+<text x="215.1" y="143.3" text-anchor="end" fill="#222222">r</text>
+<text x="318.1" y="135.0" text-anchor="start" fill="#d9480f" font-weight="bold">arc = r</text>
+<circle cx="190.0" cy="200.0" r="3" fill="#222222"/>
+<line x1="380.0" y1="80.0" x2="510.0" y2="80.0" stroke="#d9480f" stroke-width="5"/>
+<text x="445.0" y="70.0" text-anchor="middle" fill="#d9480f" font-size="13">length r</text>
+<text x="380.0" y="125.0" text-anchor="start" fill="#222222">1 rad = 180°/π ≈ 57.3°</text>
+<text x="380.0" y="155.0" text-anchor="start" fill="#222222">180° = π rad</text>
+<text x="380.0" y="185.0" text-anchor="start" fill="#222222" font-weight="bold">arc length s = r θ</text>
+<text x="380.0" y="220.0" text-anchor="start" fill="#555555" font-size="13">Bend the radius around</text>
+<text x="380.0" y="238.0" text-anchor="start" fill="#555555" font-size="13">the circle: the angle it</text>
+<text x="380.0" y="256.0" text-anchor="start" fill="#555555" font-size="13">covers is 1 radian.</text>
+<text x="300.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">One radian: the arc is as long as the radius</text>
+</svg>

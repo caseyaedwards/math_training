@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 290" width="720" height="290" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Implication, Contrapositive and Converse as 2 by 2 Grids</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="720" height="290" fill="#ffffff"/>
+<text x="360" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">One false cell each: the contrapositive matches, the converse does not</text>
+<text x="128" y="60" text-anchor="middle" fill="#222222" font-weight="bold" font-style="italic">q</text>
+<text x="34" y="149" text-anchor="middle" fill="#222222" font-weight="bold" font-style="italic">p</text>
+<text x="101" y="82" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">T</text>
+<text x="155" y="82" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">F</text>
+<text x="62" y="122" text-anchor="end" fill="#222222" font-size="13" font-weight="bold">T</text>
+<rect x="74" y="90" width="54" height="54" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<text x="101" y="123" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">T</text>
+<rect x="128" y="90" width="54" height="54" fill="#d9480f" stroke="#222222" stroke-width="1.2"/>
+<text x="155" y="123" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="bold">F</text>
+<text x="62" y="176" text-anchor="end" fill="#222222" font-size="13" font-weight="bold">F</text>
+<rect x="74" y="144" width="54" height="54" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<text x="101" y="177" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">T</text>
+<rect x="128" y="144" width="54" height="54" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<text x="155" y="177" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">T</text>
+<text x="128" y="224" text-anchor="middle" fill="#222222" font-weight="bold">p → q</text>
+<text x="128" y="243" text-anchor="middle" fill="#555555" font-size="12">false only at p = T, q = F</text>
+<text x="363" y="60" text-anchor="middle" fill="#222222" font-weight="bold" font-style="italic">q</text>
+<text x="269" y="149" text-anchor="middle" fill="#222222" font-weight="bold" font-style="italic">p</text>
+<text x="336" y="82" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">T</text>
+<text x="390" y="82" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">F</text>
+<text x="297" y="122" text-anchor="end" fill="#222222" font-size="13" font-weight="bold">T</text>
+<rect x="309" y="90" width="54" height="54" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<text x="336" y="123" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">T</text>
+<rect x="363" y="90" width="54" height="54" fill="#d9480f" stroke="#222222" stroke-width="1.2"/>
+<text x="390" y="123" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="bold">F</text>
+<text x="297" y="176" text-anchor="end" fill="#222222" font-size="13" font-weight="bold">F</text>
+<rect x="309" y="144" width="54" height="54" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<text x="336" y="177" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">T</text>
+<rect x="363" y="144" width="54" height="54" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<text x="390" y="177" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">T</text>
+<text x="363" y="224" text-anchor="middle" fill="#222222" font-weight="bold">¬q → ¬p</text>
+<text x="363" y="243" text-anchor="middle" fill="#555555" font-size="12">same false cell</text>
+<text x="598" y="60" text-anchor="middle" fill="#222222" font-weight="bold" font-style="italic">q</text>
+<text x="504" y="149" text-anchor="middle" fill="#222222" font-weight="bold" font-style="italic">p</text>
+<text x="571" y="82" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">T</text>
+<text x="625" y="82" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">F</text>
+<text x="532" y="122" text-anchor="end" fill="#222222" font-size="13" font-weight="bold">T</text>
+<rect x="544" y="90" width="54" height="54" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<text x="571" y="123" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">T</text>
+<rect x="598" y="90" width="54" height="54" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<text x="625" y="123" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">T</text>
+<text x="532" y="176" text-anchor="end" fill="#222222" font-size="13" font-weight="bold">F</text>
+<rect x="544" y="144" width="54" height="54" fill="#d9480f" stroke="#222222" stroke-width="1.2"/>
+<text x="571" y="177" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="bold">F</text>
+<rect x="598" y="144" width="54" height="54" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<text x="625" y="177" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">T</text>
+<text x="598" y="224" text-anchor="middle" fill="#222222" font-weight="bold">q → p (converse)</text>
+<text x="598" y="243" text-anchor="middle" fill="#555555" font-size="12">false at p = F, q = T</text>
+<text x="360" y="278" text-anchor="middle" fill="#222222" font-size="13">Rows give p, columns give q. The orange cell is the one broken promise.</text>
+</svg>

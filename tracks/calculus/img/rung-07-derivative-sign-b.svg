@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" width="600" height="320" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>The derivative A prime equals 20 minus 2w crosses zero at w = 10</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="arrowD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker></defs>
+<rect x="0" y="0" width="600" height="320" fill="#ffffff"/>
+<line x1="70.0" y1="155.0" x2="502.0" y2="155.0" stroke="#555555" stroke-width="1.3" marker-end="url(#arrow)"/>
+<line x1="70.0" y1="270.0" x2="70.0" y2="28.0" stroke="#555555" stroke-width="1.3" marker-end="url(#arrow)"/>
+<line x1="170.0" y1="151.0" x2="170.0" y2="159.0" stroke="#555555" stroke-width="1.2"/>
+<text x="170.0" y="174.0" text-anchor="middle" fill="#555555" font-size="13">5</text>
+<line x1="270.0" y1="151.0" x2="270.0" y2="159.0" stroke="#555555" stroke-width="1.2"/>
+<text x="270.0" y="174.0" text-anchor="middle" fill="#555555" font-size="13">10</text>
+<line x1="370.0" y1="151.0" x2="370.0" y2="159.0" stroke="#555555" stroke-width="1.2"/>
+<text x="370.0" y="174.0" text-anchor="middle" fill="#555555" font-size="13">15</text>
+<line x1="470.0" y1="151.0" x2="470.0" y2="159.0" stroke="#555555" stroke-width="1.2"/>
+<text x="470.0" y="174.0" text-anchor="middle" fill="#555555" font-size="13">20</text>
+<line x1="66.0" y1="259.5" x2="74.0" y2="259.5" stroke="#555555" stroke-width="1.2"/>
+<text x="62.0" y="264.0" text-anchor="end" fill="#555555" font-size="13">−20</text>
+<line x1="66.0" y1="207.3" x2="74.0" y2="207.3" stroke="#555555" stroke-width="1.2"/>
+<text x="62.0" y="211.8" text-anchor="end" fill="#555555" font-size="13">−10</text>
+<line x1="66.0" y1="102.7" x2="74.0" y2="102.7" stroke="#555555" stroke-width="1.2"/>
+<text x="62.0" y="107.2" text-anchor="end" fill="#555555" font-size="13">10</text>
+<line x1="66.0" y1="50.5" x2="74.0" y2="50.5" stroke="#555555" stroke-width="1.2"/>
+<text x="62.0" y="55.0" text-anchor="end" fill="#555555" font-size="13">20</text>
+<text x="508.0" y="160.0" text-anchor="start" fill="#555555" font-style="italic">w</text>
+<text x="70.0" y="22.0" text-anchor="middle" fill="#555555" font-style="italic">A′(w)</text>
+<path d="M70.0,50.5 L72.0,51.5 L74.0,52.5 L76.0,53.6 L78.0,54.6 L80.0,55.7 L82.0,56.7 L84.0,57.8 L86.0,58.8 L88.0,59.9 L90.0,60.9 L92.0,62.0 L94.0,63.0 L96.0,64.0 L98.0,65.1 L100.0,66.1 L102.0,67.2 L104.0,68.2 L106.0,69.3 L108.0,70.3 L110.0,71.4 L112.0,72.4 L114.0,73.5 L116.0,74.5 L118.0,75.5 L120.0,76.6 L122.0,77.6 L124.0,78.7 L126.0,79.7 L128.0,80.8 L130.0,81.8 L132.0,82.9 L134.0,83.9 L136.0,85.0 L138.0,86.0 L140.0,87.0 L142.0,88.1 L144.0,89.1 L146.0,90.2 L148.0,91.2 L150.0,92.3 L152.0,93.3 L154.0,94.4 L156.0,95.4 L158.0,96.5 L160.0,97.5 L162.0,98.5 L164.0,99.6 L166.0,100.6 L168.0,101.7 L170.0,102.7 L172.0,103.8 L174.0,104.8 L176.0,105.9 L178.0,106.9 L180.0,108.0 L182.0,109.0 L184.0,110.0 L186.0,111.1 L188.0,112.1 L190.0,113.2 L192.0,114.2 L194.0,115.3 L196.0,116.3 L198.0,117.4 L200.0,118.4 L202.0,119.5 L204.0,120.5 L206.0,121.5 L208.0,122.6 L210.0,123.6 L212.0,124.7 L214.0,125.7 L216.0,126.8 L218.0,127.8 L220.0,128.9 L222.0,129.9 L224.0,131.0 L226.0,132.0 L228.0,133.0 L230.0,134.1 L232.0,135.1 L234.0,136.2 L236.0,137.2 L238.0,138.3 L240.0,139.3 L242.0,140.4 L244.0,141.4 L246.0,142.5 L248.0,143.5 L250.0,144.5 L252.0,145.6 L254.0,146.6 L256.0,147.7 L258.0,148.7 L260.0,149.8 L262.0,150.8 L264.0,151.9 L266.0,152.9 L268.0,154.0 L270.0,155.0 L272.0,156.0 L274.0,157.1 L276.0,158.1 L278.0,159.2 L280.0,160.2 L282.0,161.3 L284.0,162.3 L286.0,163.4 L288.0,164.4 L290.0,165.5 L292.0,166.5 L294.0,167.5 L296.0,168.6 L298.0,169.6 L300.0,170.7 L302.0,171.7 L304.0,172.8 L306.0,173.8 L308.0,174.9 L310.0,175.9 L312.0,177.0 L314.0,178.0 L316.0,179.0 L318.0,180.1 L320.0,181.1 L322.0,182.2 L324.0,183.2 L326.0,184.3 L328.0,185.3 L330.0,186.4 L332.0,187.4 L334.0,188.5 L336.0,189.5 L338.0,190.5 L340.0,191.6 L342.0,192.6 L344.0,193.7 L346.0,194.7 L348.0,195.8 L350.0,196.8 L352.0,197.9 L354.0,198.9 L356.0,200.0 L358.0,201.0 L360.0,202.0 L362.0,203.1 L364.0,204.1 L366.0,205.2 L368.0,206.2 L370.0,207.3 L372.0,208.3 L374.0,209.4 L376.0,210.4 L378.0,211.5 L380.0,212.5 L382.0,213.5 L384.0,214.6 L386.0,215.6 L388.0,216.7 L390.0,217.7 L392.0,218.8 L394.0,219.8 L396.0,220.9 L398.0,221.9 L400.0,223.0 L402.0,224.0 L404.0,225.0 L406.0,226.1 L408.0,227.1 L410.0,228.2 L412.0,229.2 L414.0,230.3 L416.0,231.3 L418.0,232.4 L420.0,233.4 L422.0,234.5 L424.0,235.5 L426.0,236.5 L428.0,237.6 L430.0,238.6 L432.0,239.7 L434.0,240.7 L436.0,241.8 L438.0,242.8 L440.0,243.9 L442.0,244.9 L444.0,246.0 L446.0,247.0 L448.0,248.0 L450.0,249.1 L452.0,250.1 L454.0,251.2 L456.0,252.2 L458.0,253.3 L460.0,254.3 L462.0,255.4 L464.0,256.4 L466.0,257.5 L468.0,258.5 L470.0,259.5" stroke="#d9480f" stroke-width="2.5" fill="none" stroke-linejoin="round"/>
+<circle cx="270.0" cy="155.0" r="6" fill="#d9480f"/>
+<text x="280.0" y="143.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">A′(10) = 0</text>
+<text x="150.0" y="196.8" text-anchor="middle" fill="#222222" font-size="13">A′ &gt; 0: area rising</text>
+<text x="380.0" y="92.3" text-anchor="middle" fill="#222222" font-size="13">A′ &lt; 0: area falling</text>
+<text x="300.0" y="308.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">A′(w) = 20 − 2w. Set it to 0: w = 10.</text>
+</svg>

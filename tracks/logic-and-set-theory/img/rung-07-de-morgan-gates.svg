@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 240" width="700" height="240" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>A NAND Gate Equals an OR Gate with Inverted Inputs</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="700" height="240" fill="#ffffff"/>
+<text x="350" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Same circuit, two drawings: !(healthy &amp;&amp; ready) == !healthy || !ready</text>
+<polyline points="110,108 180,108" fill="none" stroke="#222222" stroke-width="1.6"/>
+<text x="104" y="113" text-anchor="end" fill="#222222" font-size="13">healthy</text>
+<polyline points="110,132 180,132" fill="none" stroke="#222222" stroke-width="1.6"/>
+<text x="104" y="137" text-anchor="end" fill="#222222" font-size="13">ready</text>
+<path d="M180,95 h30 a25,25 0 0 1 0,50 h-30 z" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<circle cx="240" cy="120" r="5" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<polyline points="245,120 275,120" fill="none" stroke="#d9480f" stroke-width="2"/>
+<text x="281" y="125" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">restart</text>
+<text x="200" y="185" text-anchor="middle" fill="#222222" font-size="13">NAND: NOT (healthy AND ready)</text>
+<text x="375" y="128" text-anchor="middle" fill="#d9480f" font-size="24" font-weight="bold">=</text>
+<polyline points="476,108 535.8,108" fill="none" stroke="#222222" stroke-width="1.6"/>
+<circle cx="540.8" cy="108" r="5" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="470" y="113" text-anchor="end" fill="#222222" font-size="13">healthy</text>
+<polyline points="476,132 535.8,132" fill="none" stroke="#222222" stroke-width="1.6"/>
+<circle cx="540.8" cy="132" r="5" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="470" y="137" text-anchor="end" fill="#222222" font-size="13">ready</text>
+<path d="M540,95 Q555,120 540,145 Q580,145 602,120 Q580,95 540,95 z" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<polyline points="602,120 632,120" fill="none" stroke="#d9480f" stroke-width="2"/>
+<text x="638" y="125" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">restart</text>
+<text x="540" y="185" text-anchor="middle" fill="#222222" font-size="13">OR of NOTs: !healthy || !ready</text>
+<text x="350" y="222" text-anchor="middle" fill="#555555" font-size="13">The bubbles move from the output to the inputs, and AND turns into OR.</text>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 420" width="560" height="420" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Clock Arithmetic: 8 Plus 9 Is 5 Mod 12</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="560" height="420" fill="#ffffff"/>
+<text x="280" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">8 + 9 = 17 ≡ 5 (mod 12): count 9 hours forward from 8</text>
+<circle cx="220" cy="225" r="130" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<line x1="220" y1="95" x2="220" y2="103" stroke="#222222" stroke-width="2"/>
+<text x="220" y="124" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">12</text>
+<line x1="285" y1="112.42" x2="281" y2="119.34" stroke="#222222" stroke-width="2"/>
+<text x="273" y="138.2" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">1</text>
+<line x1="332.58" y1="160" x2="325.66" y2="164" stroke="#222222" stroke-width="2"/>
+<text x="311.8" y="177" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">2</text>
+<line x1="350" y1="225" x2="342" y2="225" stroke="#222222" stroke-width="2"/>
+<text x="326" y="230" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">3</text>
+<line x1="332.58" y1="290" x2="325.66" y2="286" stroke="#222222" stroke-width="2"/>
+<text x="311.8" y="283" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">4</text>
+<line x1="285" y1="337.58" x2="281" y2="330.66" stroke="#222222" stroke-width="2"/>
+<circle cx="273" cy="316.8" r="15" fill="#d9480f" stroke="none" stroke-width="0"/>
+<text x="273" y="321.8" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="bold">5</text>
+<line x1="220" y1="355" x2="220" y2="347" stroke="#222222" stroke-width="2"/>
+<text x="220" y="336" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">6</text>
+<line x1="155" y1="337.58" x2="159" y2="330.66" stroke="#222222" stroke-width="2"/>
+<text x="167" y="321.8" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">7</text>
+<line x1="107.42" y1="290" x2="114.34" y2="286" stroke="#222222" stroke-width="2"/>
+<circle cx="128.2" cy="278" r="15" fill="#d9480f" stroke="none" stroke-width="0"/>
+<text x="128.2" y="283" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="bold">8</text>
+<line x1="90" y1="225" x2="98" y2="225" stroke="#222222" stroke-width="2"/>
+<text x="114" y="230" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">9</text>
+<line x1="107.42" y1="160" x2="114.34" y2="164" stroke="#222222" stroke-width="2"/>
+<text x="128.2" y="177" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">10</text>
+<line x1="155" y1="112.42" x2="159" y2="119.34" stroke="#222222" stroke-width="2"/>
+<text x="167" y="138.2" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">11</text>
+<path d="M85.3,295.4 A152,152 0 0 1 68.1,231.4" fill="none" stroke="#d9480f" stroke-width="2" marker-end="url(#arrA)"/>
+<text x="55.79" y="274" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">1</text>
+<path d="M68.1,218.6 A152,152 0 0 1 85.3,154.6" fill="none" stroke="#d9480f" stroke-width="2" marker-end="url(#arrA)"/>
+<text x="55.79" y="186" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">2</text>
+<path d="M91.7,143.6 A152,152 0 0 1 138.6,96.7" fill="none" stroke="#d9480f" stroke-width="2" marker-end="url(#arrA)"/>
+<text x="99.79" y="109.79" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">3</text>
+<path d="M149.6,90.3 A152,152 0 0 1 213.6,73.1" fill="none" stroke="#d9480f" stroke-width="2" marker-end="url(#arrA)"/>
+<text x="176" y="65.79" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">4</text>
+<path d="M226.4,73.1 A152,152 0 0 1 290.4,90.3" fill="none" stroke="#d9480f" stroke-width="2" marker-end="url(#arrA)"/>
+<text x="264" y="65.79" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">5</text>
+<path d="M301.4,96.7 A152,152 0 0 1 348.3,143.6" fill="none" stroke="#d9480f" stroke-width="2" marker-end="url(#arrA)"/>
+<text x="340.21" y="109.79" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">6</text>
+<path d="M354.7,154.6 A152,152 0 0 1 371.9,218.6" fill="none" stroke="#d9480f" stroke-width="2" marker-end="url(#arrA)"/>
+<text x="384.21" y="186" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">7</text>
+<path d="M371.9,231.4 A152,152 0 0 1 354.7,295.4" fill="none" stroke="#d9480f" stroke-width="2" marker-end="url(#arrA)"/>
+<text x="384.21" y="274" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">8</text>
+<path d="M348.3,306.4 A152,152 0 0 1 301.4,353.3" fill="none" stroke="#d9480f" stroke-width="2" marker-end="url(#arrA)"/>
+<text x="340.21" y="350.21" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">9</text>
+<text x="220" y="230" text-anchor="middle" fill="#555555" font-size="13">mod 12</text>
+<text x="410" y="120" text-anchor="start" fill="#222222" font-weight="bold">start at 8</text>
+<text x="410" y="145" text-anchor="start" fill="#d9480f" font-weight="bold">take 9 steps</text>
+<text x="410" y="170" text-anchor="start" fill="#222222">pass 12 once</text>
+<text x="410" y="195" text-anchor="start" fill="#222222" font-weight="bold">land on 5</text>
+<text x="410" y="240" text-anchor="start" fill="#555555">17 = 1 × 12 + 5</text>
+<text x="410" y="265" text-anchor="start" fill="#d9480f" font-weight="bold">17 ≡ 5 (mod 12)</text>
+</svg>

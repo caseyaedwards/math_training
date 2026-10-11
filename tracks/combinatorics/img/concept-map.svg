@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 594" width="880" height="594" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Combinatorics: Concept Map</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker></defs>
+<rect x="0" y="0" width="880" height="594" fill="#ffffff"/>
+<text x="440.0" y="28" text-anchor="middle" font-size="17" font-weight="bold" fill="#222222">Combinatorics: Concept Map</text>
+<rect x="10" y="50" width="860" height="168" fill="#f3f3f3" stroke="#dddddd"/>
+<text x="22" y="139" font-weight="bold" fill="#555555">Beginner</text>
+<rect x="10" y="218" width="860" height="168" fill="#ffffff" stroke="#dddddd"/>
+<text x="22" y="307" font-weight="bold" fill="#555555">Intermediate</text>
+<rect x="10" y="386" width="860" height="168" fill="#f3f3f3" stroke="#dddddd"/>
+<text x="22" y="475" font-weight="bold" fill="#555555">Advanced</text>
+<path d="M452.8,110.2 L348.8,155.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M552.4,110.2 L693.8,155.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M284.8,194.2 L247.5,239.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M510.7,110.2 L621.9,239.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M288.7,260.0 L380.3,260.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M223.5,278.2 L207.5,323.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M278.8,344.0 L297.7,344.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M640.0,278.2 L640.0,323.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M200.0,362.2 L200.0,397.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M395.6,362.2 L446.2,407.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M452.2,278.2 L467.5,407.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M760.0,194.9 L760.0,407.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M470.0,446.2 L470.0,481.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="403.2" y="75.0" width="183.6" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="495.0" y="97.0" text-anchor="middle" fill="#222222">Sum and Product Rules</text>
+<rect x="185.4" y="159.0" width="229.2" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="300.0" y="181.0" text-anchor="middle" fill="#222222">Permutations and Factorials</text>
+<rect x="672.0" y="159.0" width="176.0" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="760.0" y="181.0" text-anchor="middle" fill="#222222">Pigeonhole Principle</text>
+<rect x="172.4" y="243.0" width="115.2" height="34.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="230.0" y="265.0" text-anchor="middle" fill="#222222">Combinations</text>
+<rect x="384.8" y="243.0" width="130.4" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="450.0" y="265.0" text-anchor="middle" fill="#222222">Stars and Bars</text>
+<rect x="555.8" y="243.0" width="168.4" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="640.0" y="265.0" text-anchor="middle" fill="#222222">Inclusion-Exclusion</text>
+<rect x="123.4" y="327.0" width="153.2" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="200.0" y="349.0" text-anchor="middle" fill="#222222">Pascal's Triangle</text>
+<rect x="302.2" y="327.0" width="145.6" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="375.0" y="349.0" text-anchor="middle" fill="#222222">Binomial Theorem</text>
+<rect x="582.4" y="327.0" width="115.2" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="640.0" y="349.0" text-anchor="middle" fill="#222222">Derangements</text>
+<rect x="131.0" y="402.0" width="138.0" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="200.0" y="424.0" text-anchor="middle" fill="#222222">Recurrences and</text>
+<text x="200.0" y="442.0" text-anchor="middle" fill="#222222">Catalan Numbers</text>
+<rect x="382.0" y="411.0" width="176.0" height="34.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="470.0" y="433.0" text-anchor="middle" fill="#222222">Generating Functions</text>
+<rect x="698.6" y="411.0" width="122.8" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="760.0" y="433.0" text-anchor="middle" fill="#222222">Ramsey Theory</text>
+<rect x="374.4" y="486.0" width="191.2" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="470.0" y="508.0" text-anchor="middle" fill="#222222">Counting with Symmetry</text>
+<text x="470.0" y="526.0" text-anchor="middle" fill="#222222">(Burnside, Polya)</text>
+<text x="22" y="580" font-size="12" fill="#555555">Arrow A to B: learn A before B.</text>
+<rect x="630" y="568" width="16" height="14" rx="3" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="652" y="580" font-size="12" fill="#555555">milestone concept of the track</text>
+</svg>

@@ -1,0 +1,13 @@
+Product rule	\(m\) choices then \(n\) choices give \(mn\) outcomes.	math::tracks::combinatorics math::tracks::combinatorics::rules
+Permutations of \(k\) from \(n\)	\(P(n,k) = \frac{n!}{(n-k)!}\)	math::tracks::combinatorics math::tracks::combinatorics::permutations
+Combinations formula	\(\binom{n}{k} = \frac{n!}{k!(n-k)!}\)	math::tracks::combinatorics math::tracks::combinatorics::combinations
+Why divide by \(k!\) for combinations?	Each unordered group was counted once per ordering, and there are \(k!\) orderings.	math::tracks::combinatorics math::tracks::combinatorics::combinations
+Pascal's rule	\(\binom{n}{k} = \binom{n-1}{k-1} + \binom{n-1}{k}\)	math::tracks::combinatorics math::tracks::combinatorics::pascal
+Sum of row \(n\) of Pascal's triangle	\(2^n\)	math::tracks::combinatorics math::tracks::combinatorics::pascal
+Binomial theorem	\((a+b)^n = \sum_k \binom{n}{k}a^{n-k}b^k\)	math::tracks::combinatorics math::tracks::combinatorics::binomial
+Stars and bars	\(n\) identical items into \(k\) bins: \(\binom{n+k-1}{k-1}\).	math::tracks::combinatorics math::tracks::combinatorics::stars-bars
+Inclusion-exclusion for two sets	\(|A \cup B| = |A| + |B| - |A \cap B|\)	math::tracks::combinatorics math::tracks::combinatorics::inclusion-exclusion
+Fraction of shuffles that are derangements, for large \(n\)	About \(1/e \approx 0.368\). \(D_4 = 9\).	math::tracks::combinatorics math::tracks::combinatorics::derangements
+Catalan numbers	\(C_n = \frac{1}{n+1}\binom{2n}{n}\): 1, 1, 2, 5, 14, 42.	math::tracks::combinatorics math::tracks::combinatorics::catalan
+\(R(3,3)\)	6: among any 6 people, 3 mutual friends or 3 mutual strangers.	math::tracks::combinatorics math::tracks::combinatorics::ramsey
+Birthday problem threshold	23 people give about a 50.7% chance of a shared birthday.	math::tracks::combinatorics math::tracks::combinatorics::probability

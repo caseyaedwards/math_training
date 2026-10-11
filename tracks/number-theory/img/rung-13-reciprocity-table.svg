@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 390" width="620" height="390" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Legendre Symbol Table for Primes 3, 5, 7, 11 and 13</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="620" height="390" fill="#ffffff"/>
+<text x="310" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Is p a square mod q? Mirror cells flip only for primes ≡ 3 mod 4</text>
+<text x="264" y="70" text-anchor="middle" fill="#222222" font-weight="bold">q</text>
+<text x="100" y="239" text-anchor="middle" fill="#222222" font-weight="bold">p</text>
+<text x="132" y="151" text-anchor="middle" fill="#222222" font-weight="bold">3</text>
+<text x="176" y="107" text-anchor="middle" fill="#222222" font-weight="bold">3</text>
+<text x="132" y="195" text-anchor="middle" fill="#222222" font-weight="bold">5</text>
+<text x="220" y="107" text-anchor="middle" fill="#222222" font-weight="bold">5</text>
+<text x="132" y="239" text-anchor="middle" fill="#222222" font-weight="bold">7</text>
+<text x="264" y="107" text-anchor="middle" fill="#222222" font-weight="bold">7</text>
+<text x="132" y="283" text-anchor="middle" fill="#222222" font-weight="bold">11</text>
+<text x="308" y="107" text-anchor="middle" fill="#222222" font-weight="bold">11</text>
+<text x="132" y="327" text-anchor="middle" fill="#222222" font-weight="bold">13</text>
+<text x="352" y="107" text-anchor="middle" fill="#222222" font-weight="bold">13</text>
+<rect x="154" y="124" width="44" height="44" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="176" y="151" text-anchor="middle" fill="#555555">·</text>
+<rect x="198" y="124" width="44" height="44" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="220" y="152" text-anchor="middle" fill="#222222">−1</text>
+<rect x="242" y="124" width="44" height="44" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.6"/>
+<text x="264" y="152" text-anchor="middle" fill="#d9480f" font-weight="bold">−1</text>
+<rect x="286" y="124" width="44" height="44" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.6"/>
+<text x="308" y="152" text-anchor="middle" fill="#d9480f" font-weight="bold">+1</text>
+<rect x="330" y="124" width="44" height="44" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="352" y="152" text-anchor="middle" fill="#222222">+1</text>
+<rect x="154" y="168" width="44" height="44" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="176" y="196" text-anchor="middle" fill="#222222">−1</text>
+<rect x="198" y="168" width="44" height="44" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="220" y="195" text-anchor="middle" fill="#555555">·</text>
+<rect x="242" y="168" width="44" height="44" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="264" y="196" text-anchor="middle" fill="#222222">−1</text>
+<rect x="286" y="168" width="44" height="44" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="308" y="196" text-anchor="middle" fill="#222222">+1</text>
+<rect x="330" y="168" width="44" height="44" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="352" y="196" text-anchor="middle" fill="#222222">−1</text>
+<rect x="154" y="212" width="44" height="44" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.6"/>
+<text x="176" y="240" text-anchor="middle" fill="#d9480f" font-weight="bold">+1</text>
+<rect x="198" y="212" width="44" height="44" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="220" y="240" text-anchor="middle" fill="#222222">−1</text>
+<rect x="242" y="212" width="44" height="44" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="264" y="239" text-anchor="middle" fill="#555555">·</text>
+<rect x="286" y="212" width="44" height="44" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.6"/>
+<text x="308" y="240" text-anchor="middle" fill="#d9480f" font-weight="bold">−1</text>
+<rect x="330" y="212" width="44" height="44" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="352" y="240" text-anchor="middle" fill="#222222">−1</text>
+<rect x="154" y="256" width="44" height="44" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.6"/>
+<text x="176" y="284" text-anchor="middle" fill="#d9480f" font-weight="bold">−1</text>
+<rect x="198" y="256" width="44" height="44" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="220" y="284" text-anchor="middle" fill="#222222">+1</text>
+<rect x="242" y="256" width="44" height="44" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.6"/>
+<text x="264" y="284" text-anchor="middle" fill="#d9480f" font-weight="bold">+1</text>
+<rect x="286" y="256" width="44" height="44" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="308" y="283" text-anchor="middle" fill="#555555">·</text>
+<rect x="330" y="256" width="44" height="44" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="352" y="284" text-anchor="middle" fill="#222222">−1</text>
+<rect x="154" y="300" width="44" height="44" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="176" y="328" text-anchor="middle" fill="#222222">+1</text>
+<rect x="198" y="300" width="44" height="44" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="220" y="328" text-anchor="middle" fill="#222222">−1</text>
+<rect x="242" y="300" width="44" height="44" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="264" y="328" text-anchor="middle" fill="#222222">−1</text>
+<rect x="286" y="300" width="44" height="44" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="308" y="328" text-anchor="middle" fill="#222222">−1</text>
+<rect x="330" y="300" width="44" height="44" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="352" y="327" text-anchor="middle" fill="#555555">·</text>
+<text x="410" y="120" text-anchor="start" fill="#222222" font-size="13">+1: p is a square mod q</text>
+<text x="410" y="142" text-anchor="start" fill="#222222" font-size="13">−1: p is not</text>
+<text x="410" y="180" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">White cells: mirror</text>
+<text x="410" y="200" text-anchor="start" fill="#222222" font-size="13">cells match.</text>
+<text x="410" y="238" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">Shaded cells (3, 7, 11</text>
+<text x="410" y="258" text-anchor="start" fill="#d9480f" font-size="13">are 3 mod 4): mirror</text>
+<text x="410" y="278" text-anchor="start" fill="#d9480f" font-size="13">cells have opposite</text>
+<text x="410" y="298" text-anchor="start" fill="#d9480f" font-size="13">signs.</text>
+<text x="310" y="376" text-anchor="middle" fill="#222222" font-size="13">Example: 3 is not a square mod 7, but 7 ≡ 1 is a square mod 3.</text>
+</svg>

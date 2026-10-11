@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 280" width="620" height="280" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Taylor partial sums at x = 1 approaching e</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="arrowD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker></defs>
+<rect x="0" y="0" width="620" height="280" fill="#ffffff"/>
+<rect x="120.0" y="50.0" width="160.0" height="22.0" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.2"/>
+<text x="110.0" y="66.0" text-anchor="end" fill="#222222" font-size="13">1</text>
+<text x="272.0" y="66.0" text-anchor="end" fill="#222222" font-size="13">1.0000</text>
+<rect x="120.0" y="86.0" width="320.0" height="22.0" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.2"/>
+<text x="110.0" y="102.0" text-anchor="end" fill="#222222" font-size="13">1 + 1</text>
+<text x="432.0" y="102.0" text-anchor="end" fill="#222222" font-size="13">2.0000</text>
+<rect x="120.0" y="122.0" width="400.0" height="22.0" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.2"/>
+<text x="110.0" y="138.0" text-anchor="end" fill="#222222" font-size="13">+ 1/2</text>
+<text x="512.0" y="138.0" text-anchor="end" fill="#222222" font-size="13">2.5000</text>
+<rect x="120.0" y="158.0" width="426.7" height="22.0" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.2"/>
+<text x="110.0" y="174.0" text-anchor="end" fill="#222222" font-size="13">+ 1/6</text>
+<text x="538.7" y="174.0" text-anchor="end" fill="#222222" font-size="13">2.6667</text>
+<rect x="120.0" y="194.0" width="433.3" height="22.0" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.2"/>
+<text x="110.0" y="210.0" text-anchor="end" fill="#222222" font-size="13">+ 1/24</text>
+<text x="545.3" y="210.0" text-anchor="end" fill="#222222" font-size="13">2.7083</text>
+<line x1="554.9" y1="40.0" x2="554.9" y2="240.0" stroke="#222222" stroke-width="1.5" stroke-dasharray="5,4"/>
+<text x="554.9" y="258.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">e ≈ 2.7183</text>
+<text x="110.0" y="30.0" text-anchor="end" fill="#555555" font-size="12">terms added</text>
+<text x="564.9" y="70.0" text-anchor="start" fill="#555555" font-size="12">gap to e:</text>
+<text x="564.9" y="88.0" text-anchor="start" fill="#555555" font-size="12">0.0099</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 350" width="700" height="350" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Where Does R Go? Sets That Contain Themselves and Sets That Do Not</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="700" height="350" fill="#ffffff"/>
+<text x="350" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Sort every set into two bins. R cannot go in either.</text>
+<rect x="30" y="60" width="300" height="170" fill="#ffffff" stroke="#222222" stroke-width="1.6" rx="8"/>
+<text x="180" y="86" text-anchor="middle" fill="#222222" font-weight="bold">sets that contain themselves</text>
+<text x="180" y="130" text-anchor="middle" fill="#555555" font-size="13">a set of all sets</text>
+<text x="180" y="150" text-anchor="middle" fill="#555555" font-size="13">(if it existed)</text>
+<rect x="370" y="60" width="300" height="170" fill="#f6d5c4" stroke="#d9480f" stroke-width="2" rx="8"/>
+<text x="520" y="86" text-anchor="middle" fill="#d9480f" font-weight="bold">sets that do not contain themselves</text>
+<text x="520" y="118" text-anchor="middle" fill="#222222" font-size="13">∅</text>
+<text x="520" y="142" text-anchor="middle" fill="#222222" font-size="13">{1, 2}</text>
+<text x="520" y="166" text-anchor="middle" fill="#222222" font-size="13">the set of all hosts</text>
+<text x="520" y="190" text-anchor="middle" fill="#222222" font-size="13">ℕ</text>
+<text x="520" y="218" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">R = this whole bin</text>
+<circle cx="350" cy="285" r="22" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="350" y="291" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">R</text>
+<line x1="330" y1="274" x2="240" y2="236" stroke="#555555" stroke-width="1.5" marker-end="url(#arrD)"/>
+<line x1="370" y1="274" x2="460" y2="236" stroke="#555555" stroke-width="1.5" marker-end="url(#arrD)"/>
+<text x="195" y="280" text-anchor="middle" fill="#555555" font-size="12">in here? R fails its rule: wrong bin</text>
+<text x="510" y="280" text-anchor="middle" fill="#555555" font-size="12">in here? R contains itself: wrong bin</text>
+<text x="350" y="340" text-anchor="middle" fill="#222222" font-size="13">Fix in ZFC: build {x ∈ A | rule} only inside a set A that already exists.</text>
+</svg>

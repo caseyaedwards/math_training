@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Powers of 3 Mod 7 Form a Cycle of Length 6</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="600" height="400" fill="#ffffff"/>
+<text x="300" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Powers of 3 mod 7 visit every nonzero number, then repeat</text>
+<path d="M231.9,102.0 A120,120 0 0 1 301.2,142.1" fill="none" stroke="#555555" stroke-width="1.6" marker-end="url(#arrD)"/>
+<path d="M323.1,180.0 A120,120 0 0 1 323.1,260.0" fill="none" stroke="#555555" stroke-width="1.6" marker-end="url(#arrD)"/>
+<path d="M301.2,297.9 A120,120 0 0 1 231.9,338.0" fill="none" stroke="#555555" stroke-width="1.6" marker-end="url(#arrD)"/>
+<path d="M188.1,338.0 A120,120 0 0 1 118.8,297.9" fill="none" stroke="#555555" stroke-width="1.6" marker-end="url(#arrD)"/>
+<path d="M96.9,260.0 A120,120 0 0 1 96.9,180.0" fill="none" stroke="#555555" stroke-width="1.6" marker-end="url(#arrD)"/>
+<path d="M118.8,142.1 A120,120 0 0 1 188.1,102.0" fill="none" stroke="#555555" stroke-width="1.6" marker-end="url(#arrD)"/>
+<circle cx="210" cy="100" r="18" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="210" y="105" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">3</text>
+<text x="210" y="65" text-anchor="middle" fill="#555555" font-size="13">3¹</text>
+<circle cx="313.92" cy="160" r="18" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="313.92" y="165" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">2</text>
+<text x="348.56" y="145" text-anchor="middle" fill="#555555" font-size="13">3²</text>
+<circle cx="313.92" cy="280" r="18" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="313.92" y="285" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">6</text>
+<text x="348.56" y="305" text-anchor="middle" fill="#555555" font-size="13">3³</text>
+<circle cx="210" cy="340" r="18" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="210" y="345" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">4</text>
+<text x="210" y="385" text-anchor="middle" fill="#555555" font-size="13">3⁴</text>
+<circle cx="106.08" cy="280" r="18" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="106.08" y="285" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">5</text>
+<text x="71.44" y="305" text-anchor="middle" fill="#555555" font-size="13">3⁵</text>
+<circle cx="106.08" cy="160" r="18" fill="#d9480f" stroke="#d9480f" stroke-width="1.8"/>
+<text x="106.08" y="165" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="bold">1</text>
+<text x="71.44" y="145" text-anchor="middle" fill="#555555" font-size="13">3⁶</text>
+<text x="210" y="225" text-anchor="middle" fill="#555555" font-size="15" font-weight="bold">× 3</text>
+<text x="400" y="110" text-anchor="start" fill="#222222">3¹ = 3</text>
+<text x="400" y="138" text-anchor="start" fill="#222222">3² = 9 ≡ 2</text>
+<text x="400" y="166" text-anchor="start" fill="#222222">3³ ≡ 2 × 3 = 6</text>
+<text x="400" y="194" text-anchor="start" fill="#222222">3⁴ ≡ 6 × 3 = 18 ≡ 4</text>
+<text x="400" y="222" text-anchor="start" fill="#222222">3⁵ ≡ 4 × 3 = 12 ≡ 5</text>
+<text x="400" y="250" text-anchor="start" fill="#d9480f" font-weight="bold">3⁶ ≡ 5 × 3 = 15 ≡ 1</text>
+<text x="400" y="300" text-anchor="start" fill="#222222" font-weight="bold">Cycle length 6 = p − 1</text>
+<text x="400" y="322" text-anchor="start" fill="#d9480f" font-weight="bold">3⁶ ≡ 1 (mod 7)</text>
+</svg>

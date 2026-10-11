@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" width="600" height="360" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>T(n) Is One Less Than 2 to the n</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="600" height="360" fill="#ffffff"/>
+<text x="300.0" y="26.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">T(n) = 2<tspan dy="-7" font-size="12">n</tspan><tspan dy="7"> − 1 Moves</tspan></text>
+<line x1="80.0" y1="300.0" x2="540.0" y2="300.0" stroke="#222222" stroke-width="1.5"/>
+<rect x="90.0" y="286.0" width="60.0" height="14.0" rx="0" fill="none" stroke="#d9480f" stroke-width="1.5" stroke-dasharray="5,3"/>
+<rect x="90.0" y="293.0" width="60.0" height="7.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="120.0" y="278.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">T = 1</text>
+<text x="120.0" y="320.0" text-anchor="middle" fill="#222222">n = 1</text>
+<rect x="180.0" y="272.0" width="60.0" height="28.0" rx="0" fill="none" stroke="#d9480f" stroke-width="1.5" stroke-dasharray="5,3"/>
+<rect x="180.0" y="279.0" width="60.0" height="21.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="210.0" y="264.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">T = 3</text>
+<text x="210.0" y="320.0" text-anchor="middle" fill="#222222">n = 2</text>
+<rect x="270.0" y="244.0" width="60.0" height="56.0" rx="0" fill="none" stroke="#d9480f" stroke-width="1.5" stroke-dasharray="5,3"/>
+<rect x="270.0" y="251.0" width="60.0" height="49.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="300.0" y="236.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">T = 7</text>
+<text x="300.0" y="320.0" text-anchor="middle" fill="#222222">n = 3</text>
+<rect x="360.0" y="188.0" width="60.0" height="112.0" rx="0" fill="none" stroke="#d9480f" stroke-width="1.5" stroke-dasharray="5,3"/>
+<rect x="360.0" y="195.0" width="60.0" height="105.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="390.0" y="180.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">T = 15</text>
+<text x="390.0" y="320.0" text-anchor="middle" fill="#222222">n = 4</text>
+<rect x="450.0" y="76.0" width="60.0" height="224.0" rx="0" fill="none" stroke="#d9480f" stroke-width="1.5" stroke-dasharray="5,3"/>
+<rect x="450.0" y="83.0" width="60.0" height="217.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="480.0" y="68.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">T = 31</text>
+<text x="480.0" y="320.0" text-anchor="middle" fill="#222222">n = 5</text>
+<text x="80.0" y="70.0" text-anchor="start" fill="#d9480f" font-size="13">dashed orange: 2<tspan dy="-5" font-size="9">n</tspan></text>
+<text x="80.0" y="92.0" text-anchor="start" fill="#222222" font-size="13">solid: T(n) = 2T(n−1) + 1</text>
+<text x="300.0" y="348.0" text-anchor="middle" fill="#555555" font-size="13">each bar stops exactly one unit short of 2<tspan dy="-5" font-size="9">n</tspan></text>
+</svg>

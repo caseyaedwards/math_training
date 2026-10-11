@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 594" width="880" height="594" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Logic and Set Theory: Concept Map</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker></defs>
+<rect x="0" y="0" width="880" height="594" fill="#ffffff"/>
+<text x="440.0" y="28" text-anchor="middle" font-size="17" font-weight="bold" fill="#222222">Logic and Set Theory: Concept Map</text>
+<rect x="10" y="50" width="860" height="168" fill="#f3f3f3" stroke="#dddddd"/>
+<text x="22" y="139" font-weight="bold" fill="#555555">Beginner</text>
+<rect x="10" y="218" width="860" height="168" fill="#ffffff" stroke="#dddddd"/>
+<text x="22" y="307" font-weight="bold" fill="#555555">Intermediate</text>
+<rect x="10" y="386" width="860" height="168" fill="#f3f3f3" stroke="#dddddd"/>
+<text x="22" y="475" font-weight="bold" fill="#555555">Advanced</text>
+<path d="M300.0,110.2 L300.0,155.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M680.0,110.2 L680.0,155.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M289.5,194.2 L269.0,229.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M342.3,194.2 L446.2,239.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M639.9,194.2 L541.2,239.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M692.6,194.2 L717.4,229.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M267.4,287.3 L287.9,323.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M719.4,287.3 L694.6,323.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M289.5,362.2 L263.8,407.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M243.3,288.0 L243.0,289.4 L242.7,290.8 L242.4,292.2 L242.1,293.6 L241.8,295.0 L241.5,296.4 L241.2,297.8 L240.9,299.2 L240.7,300.6 L240.4,302.0 L240.2,303.4 L239.9,304.8 L239.7,306.2 L239.5,307.6 L239.3,309.0 L239.1,310.4 L238.9,311.8 L238.7,313.2 L238.5,314.6 L238.3,316.0 L238.2,317.4 L238.0,318.8 L237.9,320.2 L237.7,321.6 L237.6,323.0 L237.5,324.4 L237.4,325.8 L237.3,327.2 L237.2,328.6 L237.1,330.0 L237.0,331.4 L236.9,332.8 L236.9,334.2 L236.8,335.6 L236.8,337.0 L236.7,338.4 L236.7,339.8 L236.7,341.2 L236.7,342.6 L236.7,344.0 L236.7,345.4 L236.7,346.8 L236.7,348.2 L236.7,349.6 L236.8,351.0 L236.8,352.4 L236.9,353.8 L236.9,355.2 L237.0,356.6 L237.1,358.0 L237.2,359.4 L237.3,360.8 L237.4,362.2 L237.5,363.6 L237.6,365.0 L237.7,366.4 L237.9,367.8 L238.0,369.2 L238.2,370.6 L238.3,372.0 L238.5,373.4 L238.7,374.8 L238.9,376.2 L239.1,377.6 L239.3,379.0 L239.5,380.4 L239.7,381.8 L239.9,383.2 L240.2,384.6 L240.4,386.0 L240.7,387.4 L240.9,388.8 L241.2,390.2 L241.5,391.6 L241.8,393.0 L242.1,394.4 L242.4,395.8 L242.7,397.2 L243.0,398.6 L243.3,400.0 L243.7,401.4 L244.0,402.8 L244.4,404.2 L244.7,405.6 L245.1,407.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M639.9,362.2 L561.3,397.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M681.0,268.0 L678.4,268.6 L675.9,269.3 L673.3,269.9 L670.8,270.6 L668.3,271.3 L665.8,272.0 L663.3,272.7 L660.8,273.5 L658.3,274.2 L655.9,275.0 L653.4,275.8 L651.0,276.7 L648.6,277.5 L646.2,278.4 L643.9,279.3 L641.5,280.2 L639.1,281.1 L636.8,282.1 L634.5,283.1 L632.2,284.1 L629.9,285.1 L627.6,286.1 L625.4,287.2 L623.1,288.3 L620.9,289.4 L618.7,290.5 L616.5,291.6 L614.3,292.8 L612.1,294.0 L609.9,295.2 L607.8,296.4 L605.6,297.7 L603.5,298.9 L601.4,300.2 L599.3,301.5 L597.2,302.9 L595.2,304.2 L593.1,305.6 L591.1,307.0 L589.1,308.4 L587.1,309.8 L585.1,311.3 L583.1,312.7 L581.1,314.2 L579.2,315.7 L577.3,317.3 L575.3,318.8 L573.4,320.4 L571.5,322.0 L569.7,323.6 L567.8,325.2 L565.9,326.9 L564.1,328.6 L562.3,330.3 L560.5,332.0 L558.7,333.7 L556.9,335.5 L555.1,337.3 L553.4,339.1 L551.6,340.9 L549.9,342.7 L548.2,344.6 L546.5,346.5 L544.8,348.4 L543.2,350.3 L541.5,352.3 L539.9,354.2 L538.3,356.2 L536.7,358.2 L535.1,360.3 L533.5,362.3 L531.9,364.4 L530.4,366.5 L528.8,368.6 L527.3,370.7 L525.8,372.9 L524.3,375.0 L522.8,377.2 L521.4,379.4 L519.9,381.7 L518.5,383.9 L517.0,386.2 L515.6,388.5 L514.2,390.8 L512.8,393.1 L511.5,395.5 L510.1,397.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M504.9,280.4 L506.2,282.9 L507.5,285.3 L508.8,287.7 L510.1,290.1 L511.5,292.5 L512.8,294.9 L514.2,297.2 L515.6,299.5 L517.0,301.8 L518.5,304.1 L519.9,306.3 L521.4,308.6 L522.8,310.8 L524.3,313.0 L525.8,315.1 L527.3,317.3 L528.8,319.4 L530.4,321.5 L531.9,323.6 L533.5,325.7 L535.1,327.7 L536.7,329.8 L538.3,331.8 L539.9,333.8 L541.5,335.7 L543.2,337.7 L544.8,339.6 L546.5,341.5 L548.2,343.4 L549.9,345.3 L551.6,347.1 L553.4,348.9 L555.1,350.7 L556.9,352.5 L558.7,354.3 L560.5,356.0 L562.3,357.7 L564.1,359.4 L565.9,361.1 L567.8,362.8 L569.7,364.4 L571.5,366.0 L573.4,367.6 L575.3,369.2 L577.3,370.7 L579.2,372.3 L581.1,373.8 L583.1,375.3 L585.1,376.7 L587.1,378.2 L589.1,379.6 L591.1,381.0 L593.1,382.4 L595.2,383.8 L597.2,385.1 L599.3,386.5 L601.4,387.8 L603.5,389.1 L605.6,390.3 L607.8,391.6 L609.9,392.8 L612.1,394.0 L614.3,395.2 L616.5,396.4 L618.7,397.5 L620.9,398.6 L623.1,399.7 L625.4,400.8 L627.6,401.9 L629.9,402.9 L632.2,403.9 L634.5,404.9 L636.8,405.9 L639.1,406.9 L641.5,407.8 L643.9,408.7 L646.2,409.6 L648.6,410.5 L651.0,411.3 L653.4,412.2 L655.9,413.0 L658.3,413.8 L660.8,414.5 L663.3,415.3" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M566.5,452.5 L678.8,491.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M247.0,446.2 L237.8,481.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M299.0,446.2 L415.4,491.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="185.4" y="75.0" width="229.2" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="300.0" y="97.0" text-anchor="middle" fill="#222222">Statements and Truth Values</text>
+<rect x="595.8" y="75.0" width="168.4" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="680.0" y="97.0" text-anchor="middle" fill="#222222">Sets and Membership</text>
+<rect x="181.6" y="159.0" width="236.8" height="34.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="300.0" y="181.0" text-anchor="middle" fill="#222222">Connectives and Truth Tables</text>
+<rect x="618.6" y="159.0" width="122.8" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="680.0" y="181.0" text-anchor="middle" fill="#222222">Venn Diagrams</text>
+<rect x="182.7" y="234.0" width="138.0" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="251.7" y="256.0" text-anchor="middle" fill="#222222">Implication and</text>
+<text x="251.7" y="274.0" text-anchor="middle" fill="#222222">Contrapositive</text>
+<rect x="422.2" y="243.0" width="145.6" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="495.0" y="265.0" text-anchor="middle" fill="#222222">De Morgan's Laws</text>
+<rect x="684.5" y="234.0" width="107.6" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="738.3" y="256.0" text-anchor="middle" fill="#222222">Subsets and</text>
+<text x="738.3" y="274.0" text-anchor="middle" fill="#222222">Power Sets</text>
+<rect x="246.2" y="327.0" width="107.6" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="300.0" y="349.0" text-anchor="middle" fill="#222222">Quantifiers</text>
+<rect x="580.6" y="327.0" width="198.8" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="680.0" y="349.0" text-anchor="middle" fill="#222222">Relations and Functions</text>
+<rect x="178.9" y="411.0" width="145.6" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="251.7" y="433.0" text-anchor="middle" fill="#222222">Proof Techniques</text>
+<rect x="426.0" y="402.0" width="138.0" height="52.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="495.0" y="424.0" text-anchor="middle" fill="#222222">Cardinality and</text>
+<text x="495.0" y="442.0" text-anchor="middle" fill="#222222">Countability</text>
+<rect x="669.3" y="411.0" width="138.0" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="738.3" y="433.0" text-anchor="middle" fill="#222222">Boolean Algebra</text>
+<rect x="153.4" y="486.0" width="153.2" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="230.0" y="508.0" text-anchor="middle" fill="#222222">Russell's Paradox</text>
+<text x="230.0" y="526.0" text-anchor="middle" fill="#222222">and ZFC</text>
+<rect x="374.4" y="495.0" width="191.2" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="470.0" y="517.0" text-anchor="middle" fill="#222222">Gödel's Incompleteness</text>
+<rect x="663.4" y="495.0" width="153.2" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="740.0" y="517.0" text-anchor="middle" fill="#222222">Cantor's Diagonal</text>
+<text x="22" y="580" font-size="12" fill="#555555">Arrow A to B: learn A before B.</text>
+<rect x="630" y="568" width="16" height="14" rx="3" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="652" y="580" font-size="12" fill="#555555">milestone concept of the track</text>
+</svg>

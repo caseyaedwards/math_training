@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" width="640" height="320" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>The Pythagorean identity from the unit circle</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="arrowD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker></defs>
+<rect x="0" y="0" width="640" height="320" fill="#ffffff"/>
+<path d="M269.7,281.5 A220.0,220.0 0 0 0 38.5,50.3" stroke="#999999" stroke-width="1.2" fill="none" stroke-linejoin="round"/>
+<path d="M50.0,270.0 L218.5,270.0 L218.5,128.6 Z" stroke="#222222" stroke-width="2" fill="#f6d5c4" stroke-linejoin="round"/>
+<path d="M206.5,270.0 L206.5,258.0 L218.5,258.0" stroke="#222222" stroke-width="1.2" fill="none" stroke-linejoin="round"/>
+<line x1="50.0" y1="270.0" x2="218.5" y2="128.6" stroke="#d9480f" stroke-width="3"/>
+<circle cx="218.5" cy="128.6" r="4.5" fill="#d9480f"/>
+<path d="M84.0,270.0 A34.0,34.0 0 0 0 76.0,248.1" stroke="#222222" stroke-width="1.2" fill="none" stroke-linejoin="round"/>
+<text x="97.1" y="258.6" text-anchor="start" fill="#222222" font-weight="bold">θ</text>
+<text x="134.3" y="292.0" text-anchor="middle" fill="#222222">cos θ ≈ 0.766</text>
+<text x="228.5" y="204.3" text-anchor="start" fill="#222222">sin θ ≈ 0.643</text>
+<text x="124.3" y="189.3" text-anchor="end" fill="#d9480f" font-weight="bold">1</text>
+<text x="360.0" y="70.0" text-anchor="start" fill="#222222" font-weight="bold">θ = 40°</text>
+<text x="360.0" y="102.0" text-anchor="start" fill="#222222">Pythagoras on this triangle:</text>
+<text x="360.0" y="132.0" text-anchor="start" fill="#d9480f" font-weight="bold">cos²θ + sin²θ = 1²</text>
+<text x="360.0" y="166.0" text-anchor="start" fill="#222222">0.766² + 0.643²</text>
+<text x="360.0" y="190.0" text-anchor="start" fill="#222222">= 0.587 + 0.413 = 1</text>
+<text x="360.0" y="230.0" text-anchor="start" fill="#555555" font-size="13">Divide by cos²θ:</text>
+<text x="360.0" y="250.0" text-anchor="start" fill="#555555" font-size="13">1 + tan²θ = sec²θ</text>
+</svg>

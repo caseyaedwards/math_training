@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 280" width="620" height="280" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Similar cubes scale volume by k cubed</title>
+<defs><marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="620" height="280" fill="#ffffff"/>
+<text x="310.0" y="28.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold"><tspan>Scale lengths by k and the volume scales by k</tspan><tspan dy="-6.1" font-size="11.5">3</tspan></text>
+<polygon points="60.0,170.0 90.0,170.0 103.5,160.4 73.5,160.4" fill="#fbe9df" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="90.0,170.0 103.5,160.4 103.5,190.4 90.0,200.0" fill="#ead0c0" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="60.0" y="170.0" width="30.0" height="30.0" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="81.6" y="226.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">k = 1</text>
+<text x="81.6" y="248.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold"><tspan>volume 1</tspan><tspan dy="-5.3" font-size="10.1">3</tspan><tspan dy="5.3"> = 1</tspan></text>
+<polygon points="170.0,140.0 230.0,140.0 257.0,120.8 197.0,120.8" fill="#fbe9df" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="230.0,140.0 257.0,120.8 257.0,180.8 230.0,200.0" fill="#ead0c0" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="170.0" y="140.0" width="60.0" height="60.0" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<line x1="200.0" y1="140.0" x2="200.0" y2="200.0" stroke="#555555" stroke-width="0.8"/>
+<line x1="170.0" y1="170.0" x2="230.0" y2="170.0" stroke="#555555" stroke-width="0.8"/>
+<line x1="200.0" y1="140.0" x2="227.0" y2="120.8" stroke="#555555" stroke-width="0.8"/>
+<line x1="183.5" y1="130.4" x2="243.5" y2="130.4" stroke="#555555" stroke-width="0.8"/>
+<line x1="243.5" y1="130.4" x2="243.5" y2="190.4" stroke="#555555" stroke-width="0.8"/>
+<line x1="230.0" y1="170.0" x2="257.0" y2="150.8" stroke="#555555" stroke-width="0.8"/>
+<text x="213.2" y="226.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">k = 2</text>
+<text x="213.2" y="248.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold"><tspan>volume 2</tspan><tspan dy="-5.3" font-size="10.1">3</tspan><tspan dy="5.3"> = 8</tspan></text>
+<polygon points="350.0,110.0 440.0,110.0 480.5,81.2 390.5,81.2" fill="#fbe9df" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="440.0,110.0 480.5,81.2 480.5,171.2 440.0,200.0" fill="#ead0c0" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="350.0" y="110.0" width="90.0" height="90.0" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<line x1="380.0" y1="110.0" x2="380.0" y2="200.0" stroke="#555555" stroke-width="0.8"/>
+<line x1="350.0" y1="140.0" x2="440.0" y2="140.0" stroke="#555555" stroke-width="0.8"/>
+<line x1="380.0" y1="110.0" x2="420.5" y2="81.2" stroke="#555555" stroke-width="0.8"/>
+<line x1="363.5" y1="100.4" x2="453.5" y2="100.4" stroke="#555555" stroke-width="0.8"/>
+<line x1="453.5" y1="100.4" x2="453.5" y2="190.4" stroke="#555555" stroke-width="0.8"/>
+<line x1="440.0" y1="140.0" x2="480.5" y2="111.2" stroke="#555555" stroke-width="0.8"/>
+<line x1="410.0" y1="110.0" x2="410.0" y2="200.0" stroke="#555555" stroke-width="0.8"/>
+<line x1="350.0" y1="170.0" x2="440.0" y2="170.0" stroke="#555555" stroke-width="0.8"/>
+<line x1="410.0" y1="110.0" x2="450.5" y2="81.2" stroke="#555555" stroke-width="0.8"/>
+<line x1="377.0" y1="90.8" x2="467.0" y2="90.8" stroke="#555555" stroke-width="0.8"/>
+<line x1="467.0" y1="90.8" x2="467.0" y2="180.8" stroke="#555555" stroke-width="0.8"/>
+<line x1="440.0" y1="170.0" x2="480.5" y2="141.2" stroke="#555555" stroke-width="0.8"/>
+<text x="414.8" y="226.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">k = 3</text>
+<text x="414.8" y="248.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold"><tspan>volume 3</tspan><tspan dy="-5.3" font-size="10.1">3</tspan><tspan dy="5.3"> = 27</tspan></text>
+<text x="530.0" y="120.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">1, 8, 27</text>
+<text x="530.0" y="142.0" text-anchor="middle" font-size="13" fill="#555555">unit cubes</text>
+</svg>

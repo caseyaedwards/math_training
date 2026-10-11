@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 420" width="740" height="420" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>De Morgan's Laws as Venn Diagrams</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><clipPath id="clip1"><circle cx="80.0" cy="120" r="38"/></clipPath><clipPath id="clip2"><circle cx="120.0" cy="120" r="38"/></clipPath><clipPath id="clip3"><circle cx="280.0" cy="120" r="38"/></clipPath><clipPath id="clip4"><circle cx="320.0" cy="120" r="38"/></clipPath><clipPath id="clip5"><circle cx="450.0" cy="120" r="38"/></clipPath><clipPath id="clip6"><circle cx="490.0" cy="120" r="38"/></clipPath><clipPath id="clip7"><circle cx="620.0" cy="120" r="38"/></clipPath><clipPath id="clip8"><circle cx="660.0" cy="120" r="38"/></clipPath><clipPath id="clip9"><circle cx="80.0" cy="305" r="38"/></clipPath><clipPath id="clip10"><circle cx="120.0" cy="305" r="38"/></clipPath><clipPath id="clip11"><circle cx="280.0" cy="305" r="38"/></clipPath><clipPath id="clip12"><circle cx="320.0" cy="305" r="38"/></clipPath><clipPath id="clip13"><circle cx="450.0" cy="305" r="38"/></clipPath><clipPath id="clip14"><circle cx="490.0" cy="305" r="38"/></clipPath><clipPath id="clip15"><circle cx="620.0" cy="305" r="38"/></clipPath><clipPath id="clip16"><circle cx="660.0" cy="305" r="38"/></clipPath></defs>
+<rect x="0" y="0" width="740" height="420" fill="#ffffff"/>
+<text x="370" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">De Morgan: the shading on the left equals the shading on the right</text>
+<rect x="30" y="70" width="140" height="100" fill="#f6d5c4" stroke="#222222" stroke-width="1.4"/>
+<circle cx="80" cy="120" r="38" fill="#f6d5c4" stroke="none" stroke-width="0"/>
+<circle cx="120" cy="120" r="38" fill="#f6d5c4" stroke="none" stroke-width="0"/>
+<circle cx="120" cy="120" r="38" fill="#ffffff" stroke="none" stroke-width="0" clip-path="url(#clip1)"/>
+<circle cx="80" cy="120" r="38" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="120" cy="120" r="38" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="62.9" y="125" text-anchor="middle" fill="#222222" font-weight="bold">A</text>
+<text x="137.1" y="125" text-anchor="middle" fill="#222222" font-weight="bold">B</text>
+<text x="100" y="192" text-anchor="middle" fill="#222222" font-weight="bold">¬(A ∩ B)</text>
+<rect x="230" y="70" width="140" height="100" fill="#f6d5c4" stroke="#222222" stroke-width="1.4"/>
+<circle cx="280" cy="120" r="38" fill="#ffffff" stroke="none" stroke-width="0"/>
+<circle cx="320" cy="120" r="38" fill="#f6d5c4" stroke="none" stroke-width="0"/>
+<circle cx="320" cy="120" r="38" fill="#ffffff" stroke="none" stroke-width="0" clip-path="url(#clip3)"/>
+<circle cx="280" cy="120" r="38" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="320" cy="120" r="38" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="262.9" y="125" text-anchor="middle" fill="#222222" font-weight="bold">A</text>
+<text x="337.1" y="125" text-anchor="middle" fill="#222222" font-weight="bold">B</text>
+<text x="300" y="192" text-anchor="middle" fill="#222222" font-weight="bold">Aᶜ</text>
+<rect x="400" y="70" width="140" height="100" fill="#f6d5c4" stroke="#222222" stroke-width="1.4"/>
+<circle cx="450" cy="120" r="38" fill="#f6d5c4" stroke="none" stroke-width="0"/>
+<circle cx="490" cy="120" r="38" fill="#ffffff" stroke="none" stroke-width="0"/>
+<circle cx="490" cy="120" r="38" fill="#ffffff" stroke="none" stroke-width="0" clip-path="url(#clip5)"/>
+<circle cx="450" cy="120" r="38" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="490" cy="120" r="38" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="432.9" y="125" text-anchor="middle" fill="#222222" font-weight="bold">A</text>
+<text x="507.1" y="125" text-anchor="middle" fill="#222222" font-weight="bold">B</text>
+<text x="470" y="192" text-anchor="middle" fill="#222222" font-weight="bold">Bᶜ</text>
+<rect x="570" y="70" width="140" height="100" fill="#f6d5c4" stroke="#222222" stroke-width="1.4"/>
+<circle cx="620" cy="120" r="38" fill="#f6d5c4" stroke="none" stroke-width="0"/>
+<circle cx="660" cy="120" r="38" fill="#f6d5c4" stroke="none" stroke-width="0"/>
+<circle cx="660" cy="120" r="38" fill="#ffffff" stroke="none" stroke-width="0" clip-path="url(#clip7)"/>
+<circle cx="620" cy="120" r="38" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="660" cy="120" r="38" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="602.9" y="125" text-anchor="middle" fill="#222222" font-weight="bold">A</text>
+<text x="677.1" y="125" text-anchor="middle" fill="#222222" font-weight="bold">B</text>
+<text x="640" y="192" text-anchor="middle" fill="#222222" font-weight="bold">Aᶜ ∪ Bᶜ</text>
+<text x="200" y="126" text-anchor="middle" fill="#d9480f" font-size="22" font-weight="bold">=</text>
+<text x="385" y="126" text-anchor="middle" fill="#222222" font-size="20" font-weight="bold">∪</text>
+<text x="555" y="126" text-anchor="middle" fill="#555555" font-size="20" font-weight="bold">→</text>
+<rect x="30" y="255" width="140" height="100" fill="#f6d5c4" stroke="#222222" stroke-width="1.4"/>
+<circle cx="80" cy="305" r="38" fill="#ffffff" stroke="none" stroke-width="0"/>
+<circle cx="120" cy="305" r="38" fill="#ffffff" stroke="none" stroke-width="0"/>
+<circle cx="120" cy="305" r="38" fill="#ffffff" stroke="none" stroke-width="0" clip-path="url(#clip9)"/>
+<circle cx="80" cy="305" r="38" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="120" cy="305" r="38" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="62.9" y="310" text-anchor="middle" fill="#222222" font-weight="bold">A</text>
+<text x="137.1" y="310" text-anchor="middle" fill="#222222" font-weight="bold">B</text>
+<text x="100" y="377" text-anchor="middle" fill="#222222" font-weight="bold">¬(A ∪ B)</text>
+<rect x="230" y="255" width="140" height="100" fill="#f6d5c4" stroke="#222222" stroke-width="1.4"/>
+<circle cx="280" cy="305" r="38" fill="#ffffff" stroke="none" stroke-width="0"/>
+<circle cx="320" cy="305" r="38" fill="#f6d5c4" stroke="none" stroke-width="0"/>
+<circle cx="320" cy="305" r="38" fill="#ffffff" stroke="none" stroke-width="0" clip-path="url(#clip11)"/>
+<circle cx="280" cy="305" r="38" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="320" cy="305" r="38" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="262.9" y="310" text-anchor="middle" fill="#222222" font-weight="bold">A</text>
+<text x="337.1" y="310" text-anchor="middle" fill="#222222" font-weight="bold">B</text>
+<text x="300" y="377" text-anchor="middle" fill="#222222" font-weight="bold">Aᶜ</text>
+<rect x="400" y="255" width="140" height="100" fill="#f6d5c4" stroke="#222222" stroke-width="1.4"/>
+<circle cx="450" cy="305" r="38" fill="#f6d5c4" stroke="none" stroke-width="0"/>
+<circle cx="490" cy="305" r="38" fill="#ffffff" stroke="none" stroke-width="0"/>
+<circle cx="490" cy="305" r="38" fill="#ffffff" stroke="none" stroke-width="0" clip-path="url(#clip13)"/>
+<circle cx="450" cy="305" r="38" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="490" cy="305" r="38" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="432.9" y="310" text-anchor="middle" fill="#222222" font-weight="bold">A</text>
+<text x="507.1" y="310" text-anchor="middle" fill="#222222" font-weight="bold">B</text>
+<text x="470" y="377" text-anchor="middle" fill="#222222" font-weight="bold">Bᶜ</text>
+<rect x="570" y="255" width="140" height="100" fill="#f6d5c4" stroke="#222222" stroke-width="1.4"/>
+<circle cx="620" cy="305" r="38" fill="#ffffff" stroke="none" stroke-width="0"/>
+<circle cx="660" cy="305" r="38" fill="#ffffff" stroke="none" stroke-width="0"/>
+<circle cx="660" cy="305" r="38" fill="#ffffff" stroke="none" stroke-width="0" clip-path="url(#clip15)"/>
+<circle cx="620" cy="305" r="38" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="660" cy="305" r="38" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="602.9" y="310" text-anchor="middle" fill="#222222" font-weight="bold">A</text>
+<text x="677.1" y="310" text-anchor="middle" fill="#222222" font-weight="bold">B</text>
+<text x="640" y="377" text-anchor="middle" fill="#222222" font-weight="bold">Aᶜ ∩ Bᶜ</text>
+<text x="200" y="311" text-anchor="middle" fill="#d9480f" font-size="22" font-weight="bold">=</text>
+<text x="385" y="311" text-anchor="middle" fill="#222222" font-size="20" font-weight="bold">∩</text>
+<text x="555" y="311" text-anchor="middle" fill="#555555" font-size="20" font-weight="bold">→</text>
+<text x="370" y="405" text-anchor="middle" fill="#222222" font-size="13">NOT over AND becomes OR of NOTs. NOT over OR becomes AND of NOTs.</text>
+</svg>

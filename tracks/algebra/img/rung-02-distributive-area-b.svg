@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 280" width="600" height="280" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Area model for 2(x + 3)</title>
+<defs><marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="600" height="280" fill="#ffffff"/>
+<text x="300.0" y="28.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">2(x + 3) = 2x + 6 as the area of a rectangle</text>
+<rect x="120.0" y="90.0" width="220.0" height="72.0" fill="#f6d5c4" stroke="#222222" stroke-width="2"/>
+<rect x="340.0" y="90.0" width="108.0" height="72.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<line x1="376.0" y1="90.0" x2="376.0" y2="162.0" stroke="#bbbbbb" stroke-width="1"/>
+<line x1="412.0" y1="90.0" x2="412.0" y2="162.0" stroke="#bbbbbb" stroke-width="1"/>
+<line x1="340.0" y1="126.0" x2="448.0" y2="126.0" stroke="#bbbbbb" stroke-width="1"/>
+<line x1="120.0" y1="76.0" x2="340.0" y2="76.0" stroke="#222222" stroke-width="1.2" marker-end="url(#ad)" marker-start="url(#ad)"/>
+<text x="230.0" y="68.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold" font-style="italic">x</text>
+<line x1="340.0" y1="76.0" x2="448.0" y2="76.0" stroke="#222222" stroke-width="1.2" marker-end="url(#ad)" marker-start="url(#ad)"/>
+<text x="394.0" y="68.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">3</text>
+<line x1="106.0" y1="90.0" x2="106.0" y2="162.0" stroke="#222222" stroke-width="1.2" marker-end="url(#ad)" marker-start="url(#ad)"/>
+<text x="96.0" y="131.0" text-anchor="end" font-size="15" fill="#222222" font-weight="bold">2</text>
+<text x="230.0" y="132.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">2 · x = 2x</text>
+<text x="394.0" y="184.0" text-anchor="middle" font-size="13" fill="#555555">2 · 3 = 6 unit squares</text>
+<text x="300.0" y="230.0" text-anchor="middle" font-size="15" fill="#222222">width (x + 3) times height 2 = 2x + 6</text>
+<text x="300.0" y="256.0" text-anchor="middle" font-size="15" fill="#d9480f" font-weight="bold">then 2x + 6 − x = x + 6</text>
+</svg>

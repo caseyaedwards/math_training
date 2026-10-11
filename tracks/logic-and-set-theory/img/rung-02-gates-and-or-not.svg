@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 250" width="700" height="250" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Logic Gates for AND, OR and NOT</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="700" height="250" fill="#ffffff"/>
+<text x="350" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">The three connectives as gates</text>
+<text x="100" y="70" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">AND</text>
+<path d="M70,95 h30 a25,25 0 0 1 0,50 h-30 z" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<polyline points="30,108 70,108" fill="none" stroke="#222222" stroke-width="1.6"/>
+<polyline points="30,132 70,132" fill="none" stroke="#222222" stroke-width="1.6"/>
+<text x="24" y="113" text-anchor="end" fill="#222222" font-style="italic">p</text>
+<text x="24" y="137" text-anchor="end" fill="#222222" font-style="italic">q</text>
+<polyline points="125,120 155,120" fill="none" stroke="#d9480f" stroke-width="2"/>
+<text x="161" y="125" text-anchor="start" fill="#d9480f" font-weight="bold">p ∧ q</text>
+<text x="100" y="185" text-anchor="middle" fill="#222222" font-size="13">Go: p &amp;&amp; q</text>
+<text x="320" y="70" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">OR</text>
+<path d="M290,95 Q305,120 290,145 Q330,145 352,120 Q330,95 290,95 z" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<polyline points="250,108 296,108" fill="none" stroke="#222222" stroke-width="1.6"/>
+<polyline points="250,132 296,132" fill="none" stroke="#222222" stroke-width="1.6"/>
+<text x="244" y="113" text-anchor="end" fill="#222222" font-style="italic">p</text>
+<text x="244" y="137" text-anchor="end" fill="#222222" font-style="italic">q</text>
+<polyline points="352,120 382,120" fill="none" stroke="#d9480f" stroke-width="2"/>
+<text x="388" y="125" text-anchor="start" fill="#d9480f" font-weight="bold">p ∨ q</text>
+<text x="320" y="185" text-anchor="middle" fill="#222222" font-size="13">Go: p || q</text>
+<text x="540" y="70" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">NOT</text>
+<polygon points="510,100 510,140 548,120" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<circle cx="553" cy="120" r="5" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<polyline points="470,120 510,120" fill="none" stroke="#222222" stroke-width="1.6"/>
+<text x="464" y="125" text-anchor="end" fill="#222222" font-style="italic">p</text>
+<polyline points="558,120 588,120" fill="none" stroke="#d9480f" stroke-width="2"/>
+<text x="594" y="125" text-anchor="start" fill="#d9480f" font-weight="bold">¬p</text>
+<text x="540" y="185" text-anchor="middle" fill="#222222" font-size="13">Go: !p</text>
+<text x="100" y="210" text-anchor="middle" fill="#555555" font-size="13">1 only if both are 1</text>
+<text x="320" y="210" text-anchor="middle" fill="#555555" font-size="13">1 if at least one is 1</text>
+<text x="540" y="210" text-anchor="middle" fill="#555555" font-size="13">flips the value</text>
+</svg>

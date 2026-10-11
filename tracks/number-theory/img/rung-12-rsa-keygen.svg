@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" width="720" height="380" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>RSA Key Generation with p = 61 and q = 53</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="720" height="380" fill="#ffffff"/>
+<text x="360" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">RSA key generation with toy primes</text>
+<rect x="40" y="60" width="120" height="54" fill="#f6d5c4" stroke="#d9480f" stroke-width="2" rx="6"/>
+<text x="100" y="82" text-anchor="middle" fill="#d9480f" font-weight="bold">p = 61</text>
+<text x="100" y="102" text-anchor="middle" fill="#222222" font-size="13">secret prime</text>
+<rect x="40" y="160" width="120" height="54" fill="#f6d5c4" stroke="#d9480f" stroke-width="2" rx="6"/>
+<text x="100" y="182" text-anchor="middle" fill="#d9480f" font-weight="bold">q = 53</text>
+<text x="100" y="202" text-anchor="middle" fill="#222222" font-size="13">secret prime</text>
+<rect x="260" y="50" width="180" height="54" fill="#ffffff" stroke="#222222" stroke-width="1.6" rx="6"/>
+<text x="350" y="72" text-anchor="middle" fill="#222222" font-weight="bold">n = 61 × 53 = 3,233</text>
+<text x="350" y="92" text-anchor="middle" fill="#222222" font-size="13">public modulus</text>
+<rect x="260" y="170" width="180" height="54" fill="#f6d5c4" stroke="#d9480f" stroke-width="2" rx="6"/>
+<text x="350" y="192" text-anchor="middle" fill="#d9480f" font-weight="bold">φ(n) = 60 × 52 = 3,120</text>
+<text x="350" y="212" text-anchor="middle" fill="#222222" font-size="13">secret</text>
+<rect x="520" y="50" width="170" height="54" fill="#ffffff" stroke="#222222" stroke-width="1.6" rx="6"/>
+<text x="605" y="72" text-anchor="middle" fill="#222222" font-weight="bold">e = 17</text>
+<text x="605" y="92" text-anchor="middle" fill="#222222" font-size="13">public exponent</text>
+<rect x="520" y="170" width="170" height="54" fill="#f6d5c4" stroke="#d9480f" stroke-width="2" rx="6"/>
+<text x="605" y="192" text-anchor="middle" fill="#d9480f" font-weight="bold">d = 2,753</text>
+<text x="605" y="212" text-anchor="middle" fill="#222222" font-size="13">private exponent</text>
+<line x1="162" y1="87" x2="256" y2="77" stroke="#555555" stroke-width="1.5" marker-end="url(#arrD)"/>
+<line x1="162" y1="187" x2="256" y2="77" stroke="#555555" stroke-width="1.5" marker-end="url(#arrD)"/>
+<line x1="162" y1="87" x2="256" y2="197" stroke="#555555" stroke-width="1.5" marker-end="url(#arrD)"/>
+<line x1="162" y1="187" x2="256" y2="197" stroke="#555555" stroke-width="1.5" marker-end="url(#arrD)"/>
+<line x1="442" y1="197" x2="516" y2="197" stroke="#d9480f" stroke-width="1.5" marker-end="url(#arrA)"/>
+<line x1="605" y1="106" x2="605" y2="166" stroke="#d9480f" stroke-width="1.5" marker-end="url(#arrA)"/>
+<text x="612" y="140" text-anchor="start" fill="#d9480f" font-size="12">invert mod 3,120</text>
+<text x="480" y="252" text-anchor="middle" fill="#222222" font-size="13">17 × 2,753 = 46,801 = 15 × 3,120 + 1</text>
+<rect x="80" y="290" width="270" height="60" fill="#ffffff" stroke="#222222" stroke-width="1.6" rx="6"/>
+<text x="215" y="315" text-anchor="middle" fill="#222222" font-weight="bold">Public key: (n, e) = (3,233, 17)</text>
+<text x="215" y="337" text-anchor="middle" fill="#555555" font-size="13">anyone can see it</text>
+<rect x="380" y="290" width="270" height="60" fill="#f6d5c4" stroke="#d9480f" stroke-width="2" rx="6"/>
+<text x="515" y="315" text-anchor="middle" fill="#d9480f" font-weight="bold">Private key: d = 2,753</text>
+<text x="515" y="337" text-anchor="middle" fill="#222222" font-size="13">keep p, q, φ(n) and d secret</text>
+</svg>

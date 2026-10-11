@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 440" width="680" height="440" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Squares on the sides of the unit-circle triangle</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="arrowD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker></defs>
+<rect x="0" y="0" width="680" height="440" fill="#ffffff"/>
+<path d="M150.0,270.0 L272.6,270.0 L272.6,392.6 L150.0,392.6 Z" stroke="#222222" stroke-width="1.5" fill="#e6e6e6" stroke-linejoin="round"/>
+<path d="M272.6,270.0 L272.6,167.2 L375.4,167.2 L375.4,270.0 Z" stroke="#222222" stroke-width="1.5" fill="#e6e6e6" stroke-linejoin="round"/>
+<path d="M150.0,270.0 L272.6,167.2 L169.7,44.6 L47.2,147.4 Z" stroke="#d9480f" stroke-width="2" fill="#f6d5c4" stroke-linejoin="round"/>
+<path d="M150.0,270.0 L272.6,270.0 L272.6,167.2 Z" stroke="#222222" stroke-width="2" fill="#ffffff" stroke-linejoin="round"/>
+<path d="M262.6,270.0 L262.6,260.0 L272.6,260.0" stroke="#222222" stroke-width="1.2" fill="none" stroke-linejoin="round"/>
+<text x="211.3" y="331.3" text-anchor="middle" fill="#222222" font-size="13">cos²θ</text>
+<text x="211.3" y="349.3" text-anchor="middle" fill="#222222" font-size="13">≈ 0.587</text>
+<text x="324.0" y="218.6" text-anchor="middle" fill="#222222" font-size="13">sin²θ</text>
+<text x="324.0" y="236.6" text-anchor="middle" fill="#222222" font-size="13">≈ 0.413</text>
+<text x="159.9" y="162.3" text-anchor="middle" fill="#d9480f" font-weight="bold">area 1</text>
+<text x="180.0" y="262.0" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">θ</text>
+<text x="420.0" y="160.0" text-anchor="start" fill="#222222">Small square + small square</text>
+<text x="420.0" y="182.0" text-anchor="start" fill="#222222">= big square:</text>
+<text x="420.0" y="214.0" text-anchor="start" fill="#d9480f" font-weight="bold">0.587 + 0.413 = 1</text>
+<text x="420.0" y="250.0" text-anchor="start" fill="#555555" font-size="13">Legs: cos θ and sin θ</text>
+<text x="420.0" y="270.0" text-anchor="start" fill="#555555" font-size="13">Hypotenuse: 1 (radius)</text>
+<text x="420.0" y="290.0" text-anchor="start" fill="#555555" font-size="13">θ = 40°</text>
+</svg>

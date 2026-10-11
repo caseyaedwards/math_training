@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 400" width="560" height="400" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Second factor tree for 360</title>
+<defs><marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="560" height="400" fill="#ffffff"/>
+<text x="280.0" y="28.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">A different first split, the same primes</text>
+<line x1="265.3" y1="87.0" x2="285.9" y2="103.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="232.3" y1="87.0" x2="196.4" y2="103.0" stroke="#222222" stroke-width="1.5"/>
+<circle cx="180.0" cy="122.0" r="19.0" fill="#f6d5c4" stroke="#d9480f" stroke-width="2"/>
+<text x="180.0" y="128.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">2</text>
+<line x1="315.3" y1="139.0" x2="335.9" y2="155.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="282.3" y1="139.0" x2="246.4" y2="155.0" stroke="#222222" stroke-width="1.5"/>
+<circle cx="230.0" cy="174.0" r="19.0" fill="#f6d5c4" stroke="#d9480f" stroke-width="2"/>
+<text x="230.0" y="180.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">2</text>
+<line x1="365.3" y1="191.0" x2="385.9" y2="207.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="332.3" y1="191.0" x2="296.4" y2="207.0" stroke="#222222" stroke-width="1.5"/>
+<circle cx="280.0" cy="226.0" r="19.0" fill="#f6d5c4" stroke="#d9480f" stroke-width="2"/>
+<text x="280.0" y="232.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">2</text>
+<line x1="415.3" y1="243.0" x2="435.9" y2="259.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="382.3" y1="243.0" x2="346.4" y2="259.0" stroke="#222222" stroke-width="1.5"/>
+<circle cx="330.0" cy="278.0" r="19.0" fill="#f6d5c4" stroke="#d9480f" stroke-width="2"/>
+<text x="330.0" y="284.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">3</text>
+<line x1="465.3" y1="295.0" x2="485.9" y2="311.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="432.3" y1="295.0" x2="396.4" y2="311.0" stroke="#222222" stroke-width="1.5"/>
+<circle cx="380.0" cy="330.0" r="19.0" fill="#f6d5c4" stroke="#d9480f" stroke-width="2"/>
+<text x="380.0" y="336.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">3</text>
+<rect x="226.7" y="53.0" width="46.7" height="34.0" fill="#ffffff" stroke="#222222" stroke-width="1.5" rx="6"/>
+<text x="250.0" y="76.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">360</text>
+<rect x="276.7" y="105.0" width="46.7" height="34.0" fill="#ffffff" stroke="#222222" stroke-width="1.5" rx="6"/>
+<text x="300.0" y="128.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">180</text>
+<rect x="327.0" y="157.0" width="46.0" height="34.0" fill="#ffffff" stroke="#222222" stroke-width="1.5" rx="6"/>
+<text x="350.0" y="180.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">90</text>
+<rect x="377.0" y="209.0" width="46.0" height="34.0" fill="#ffffff" stroke="#222222" stroke-width="1.5" rx="6"/>
+<text x="400.0" y="232.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">45</text>
+<rect x="427.0" y="261.0" width="46.0" height="34.0" fill="#ffffff" stroke="#222222" stroke-width="1.5" rx="6"/>
+<text x="450.0" y="284.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">15</text>
+<circle cx="500.0" cy="330.0" r="19.0" fill="#f6d5c4" stroke="#d9480f" stroke-width="2"/>
+<text x="500.0" y="336.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">5</text>
+<text x="280.0" y="386.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold"><tspan>360 = 2</tspan><tspan dy="-6.1" font-size="11.5">3</tspan><tspan dy="6.1"> × 3</tspan><tspan dy="-6.1" font-size="11.5">2</tspan><tspan dy="6.1"> × 5 again</tspan></text>
+</svg>

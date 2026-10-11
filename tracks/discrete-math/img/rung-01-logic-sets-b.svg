@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 290" width="720" height="290" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>AND, OR and NOT as Shaded Regions</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="720" height="290" fill="#ffffff"/>
+<text x="360.0" y="26.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">AND, OR and NOT as Shaded Regions</text>
+<rect x="30.0" y="50.0" width="200.0" height="140.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<clipPath id="clipA0"><circle cx="102.0" cy="120.0" r="50"/></clipPath>
+<circle cx="158.0" cy="120.0" r="50.0" fill="#f6d5c4" stroke="none" stroke-width="0" clip-path="url(#clipA0)"/>
+<circle cx="102.0" cy="120.0" r="50.0" fill="none" stroke="#d9480f" stroke-width="2"/>
+<circle cx="158.0" cy="120.0" r="50.0" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="76.0" y="125.0" text-anchor="middle" fill="#222222" font-weight="bold">A</text>
+<text x="184.0" y="125.0" text-anchor="middle" fill="#222222" font-weight="bold">B</text>
+<text x="42.0" y="68.0" text-anchor="start" fill="#555555" font-size="13">U</text>
+<text x="130.0" y="216.0" text-anchor="middle" fill="#222222" font-weight="bold">A ∩ B</text>
+<text x="130.0" y="238.0" text-anchor="middle" fill="#555555">in A AND in B</text>
+<rect x="260.0" y="50.0" width="200.0" height="140.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="332.0" cy="120.0" r="50.0" fill="#f6d5c4" stroke="none" stroke-width="0"/>
+<circle cx="388.0" cy="120.0" r="50.0" fill="#f6d5c4" stroke="none" stroke-width="0"/>
+<circle cx="332.0" cy="120.0" r="50.0" fill="none" stroke="#d9480f" stroke-width="2"/>
+<circle cx="388.0" cy="120.0" r="50.0" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="306.0" y="125.0" text-anchor="middle" fill="#222222" font-weight="bold">A</text>
+<text x="414.0" y="125.0" text-anchor="middle" fill="#222222" font-weight="bold">B</text>
+<text x="272.0" y="68.0" text-anchor="start" fill="#555555" font-size="13">U</text>
+<text x="360.0" y="216.0" text-anchor="middle" fill="#222222" font-weight="bold">A ∪ B</text>
+<text x="360.0" y="238.0" text-anchor="middle" fill="#555555">in A OR in B</text>
+<rect x="490.0" y="50.0" width="200.0" height="140.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<circle cx="562.0" cy="120.0" r="50.0" fill="#ffffff" stroke="none" stroke-width="0"/>
+<circle cx="562.0" cy="120.0" r="50.0" fill="none" stroke="#d9480f" stroke-width="2"/>
+<circle cx="618.0" cy="120.0" r="50.0" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="536.0" y="125.0" text-anchor="middle" fill="#222222" font-weight="bold">A</text>
+<text x="644.0" y="125.0" text-anchor="middle" fill="#222222" font-weight="bold">B</text>
+<text x="502.0" y="68.0" text-anchor="start" fill="#555555" font-size="13">U</text>
+<text x="590.0" y="216.0" text-anchor="middle" fill="#222222" font-weight="bold">complement of A</text>
+<text x="590.0" y="238.0" text-anchor="middle" fill="#555555">NOT in A</text>
+<text x="360.0" y="278.0" text-anchor="middle" fill="#555555" font-size="13">U is the universe: everything under discussion. Shaded means included.</text>
+</svg>

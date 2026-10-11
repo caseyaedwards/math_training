@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 350" width="680" height="350" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Product Rule Tree: 2 Regions Times 3 Sizes</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="680" height="350" fill="#ffffff"/>
+<text x="340.0" y="26.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">Product Rule: 2 Regions × 3 Sizes = 6</text>
+<circle cx="70.0" cy="200.0" r="8.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<text x="70.0" y="230.0" text-anchor="middle" fill="#555555" font-size="13">start</text>
+<line x1="78.9" y1="195.5" x2="190.3" y2="139.8" stroke="#555555" stroke-width="1.5"/>
+<rect x="188.0" y="116.0" width="44.0" height="28.0" rx="4" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="210.0" y="135.0" text-anchor="middle" fill="#222222" font-weight="bold">us</text>
+<line x1="233.3" y1="124.2" x2="341.2" y2="97.6" stroke="#555555" stroke-width="1.5"/>
+<rect x="342.0" y="75.0" width="76.0" height="26.0" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="380.0" y="93.0" text-anchor="middle" fill="#222222" font-size="13">small</text>
+<text x="440.0" y="93.0" text-anchor="start" fill="#d9480f" font-size="13">1. us-small</text>
+<line x1="234.0" y1="130.0" x2="340.0" y2="130.0" stroke="#555555" stroke-width="1.5"/>
+<rect x="342.0" y="117.0" width="76.0" height="26.0" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="380.0" y="135.0" text-anchor="middle" fill="#222222" font-size="13">medium</text>
+<text x="440.0" y="135.0" text-anchor="start" fill="#d9480f" font-size="13">2. us-medium</text>
+<line x1="233.3" y1="135.8" x2="341.2" y2="162.4" stroke="#555555" stroke-width="1.5"/>
+<rect x="342.0" y="159.0" width="76.0" height="26.0" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="380.0" y="177.0" text-anchor="middle" fill="#222222" font-size="13">large</text>
+<text x="440.0" y="177.0" text-anchor="start" fill="#d9480f" font-size="13">3. us-large</text>
+<line x1="78.9" y1="204.5" x2="190.3" y2="260.2" stroke="#555555" stroke-width="1.5"/>
+<rect x="188.0" y="256.0" width="44.0" height="28.0" rx="4" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="210.0" y="275.0" text-anchor="middle" fill="#222222" font-weight="bold">eu</text>
+<line x1="233.3" y1="264.2" x2="341.2" y2="237.6" stroke="#555555" stroke-width="1.5"/>
+<rect x="342.0" y="215.0" width="76.0" height="26.0" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="380.0" y="233.0" text-anchor="middle" fill="#222222" font-size="13">small</text>
+<text x="440.0" y="233.0" text-anchor="start" fill="#d9480f" font-size="13">4. eu-small</text>
+<line x1="234.0" y1="270.0" x2="340.0" y2="270.0" stroke="#555555" stroke-width="1.5"/>
+<rect x="342.0" y="257.0" width="76.0" height="26.0" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="380.0" y="275.0" text-anchor="middle" fill="#222222" font-size="13">medium</text>
+<text x="440.0" y="275.0" text-anchor="start" fill="#d9480f" font-size="13">5. eu-medium</text>
+<line x1="233.3" y1="275.8" x2="341.2" y2="302.4" stroke="#555555" stroke-width="1.5"/>
+<rect x="342.0" y="299.0" width="76.0" height="26.0" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="380.0" y="317.0" text-anchor="middle" fill="#222222" font-size="13">large</text>
+<text x="440.0" y="317.0" text-anchor="start" fill="#d9480f" font-size="13">6. eu-large</text>
+<text x="210.0" y="66.0" text-anchor="middle" fill="#555555" font-size="13">2 choices</text>
+<text x="380.0" y="66.0" text-anchor="middle" fill="#555555" font-size="13">3 choices each</text>
+<text x="520.0" y="66.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">6 leaves</text>
+<text x="340.0" y="338.0" text-anchor="middle" fill="#555555" font-size="13">sum rule instead: pick ONE thing, a region or a size, gives 2 + 3 = 5</text>
+</svg>

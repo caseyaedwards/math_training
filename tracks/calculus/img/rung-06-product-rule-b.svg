@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" width="600" height="360" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Product rule as a growing rectangle</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="arrowD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker></defs>
+<rect x="0" y="0" width="600" height="360" fill="#ffffff"/>
+<rect x="90.0" y="120.0" width="240.0" height="180.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<rect x="330.0" y="120.0" width="30.0" height="180.0" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.5"/>
+<rect x="90.0" y="90.0" width="240.0" height="30.0" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.5"/>
+<rect x="330.0" y="90.0" width="30.0" height="30.0" fill="#e6e6e6" stroke="#555555" stroke-width="1.2"/>
+<text x="210.0" y="215.0" text-anchor="middle" fill="#222222" font-weight="bold">f × g = 4 × 3 = 12</text>
+<text x="210.0" y="322.0" text-anchor="middle" fill="#222222">f = 4</text>
+<text x="345.0" y="322.0" text-anchor="middle" fill="#d9480f">df</text>
+<text x="80.0" y="215.0" text-anchor="end" fill="#222222">g = 3</text>
+<text x="80.0" y="110.0" text-anchor="end" fill="#d9480f">dg</text>
+<text x="210.0" y="110.0" text-anchor="middle" fill="#d9480f" font-weight="bold">f · dg</text>
+<text x="368.0" y="215.0" text-anchor="start" fill="#d9480f" font-weight="bold">g · df</text>
+<text x="368.0" y="110.0" text-anchor="start" fill="#555555" font-size="12">df · dg: tiny</text>
+<text x="300.0" y="30.0" text-anchor="middle" fill="#222222" font-size="13">Grow f by df and g by dg. New area:</text>
+<text x="300.0" y="50.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">d(fg) = f · dg + g · df + df · dg ≈ f · dg + g · df</text>
+</svg>

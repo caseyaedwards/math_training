@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 340" width="640" height="340" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>K5 Colored with No One-Color Triangle</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="640" height="340" fill="#ffffff"/>
+<text x="320.0" y="26.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">5 People, No 3 Mutual Friends or Strangers</text>
+<line x1="180.0" y1="70.0" x2="294.1" y2="152.9" stroke="#d9480f" stroke-width="3"/>
+<line x1="180.0" y1="70.0" x2="250.5" y2="287.1" stroke="#222222" stroke-width="1.6" stroke-dasharray="7,5"/>
+<line x1="180.0" y1="70.0" x2="109.5" y2="287.1" stroke="#222222" stroke-width="1.6" stroke-dasharray="7,5"/>
+<line x1="180.0" y1="70.0" x2="65.9" y2="152.9" stroke="#d9480f" stroke-width="3"/>
+<line x1="294.1" y1="152.9" x2="250.5" y2="287.1" stroke="#d9480f" stroke-width="3"/>
+<line x1="294.1" y1="152.9" x2="109.5" y2="287.1" stroke="#222222" stroke-width="1.6" stroke-dasharray="7,5"/>
+<line x1="294.1" y1="152.9" x2="65.9" y2="152.9" stroke="#222222" stroke-width="1.6" stroke-dasharray="7,5"/>
+<line x1="250.5" y1="287.1" x2="109.5" y2="287.1" stroke="#d9480f" stroke-width="3"/>
+<line x1="250.5" y1="287.1" x2="65.9" y2="152.9" stroke="#222222" stroke-width="1.6" stroke-dasharray="7,5"/>
+<line x1="109.5" y1="287.1" x2="65.9" y2="152.9" stroke="#d9480f" stroke-width="3"/>
+<circle cx="180.0" cy="70.0" r="16.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="180.0" y="75.0" text-anchor="middle" fill="#222222" font-weight="bold">1</text>
+<circle cx="294.1" cy="152.9" r="16.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="294.1" y="157.9" text-anchor="middle" fill="#222222" font-weight="bold">2</text>
+<circle cx="250.5" cy="287.1" r="16.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="250.5" y="292.1" text-anchor="middle" fill="#222222" font-weight="bold">3</text>
+<circle cx="109.5" cy="287.1" r="16.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="109.5" y="292.1" text-anchor="middle" fill="#222222" font-weight="bold">4</text>
+<circle cx="65.9" cy="152.9" r="16.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="65.9" y="157.9" text-anchor="middle" fill="#222222" font-weight="bold">5</text>
+<line x1="350.0" y1="100.0" x2="390.0" y2="100.0" stroke="#d9480f" stroke-width="3"/>
+<text x="400.0" y="105.0" text-anchor="start" fill="#222222" font-size="13">know each other</text>
+<line x1="350.0" y1="130.0" x2="390.0" y2="130.0" stroke="#222222" stroke-width="1.6" stroke-dasharray="7,5"/>
+<text x="400.0" y="135.0" text-anchor="start" fill="#222222" font-size="13">strangers</text>
+<text x="350.0" y="180.0" text-anchor="start" fill="#222222" font-size="13">outer pentagon: friends</text>
+<text x="350.0" y="200.0" text-anchor="start" fill="#222222" font-size="13">inner star: strangers</text>
+<text x="350.0" y="240.0" text-anchor="start" fill="#d9480f" font-size="13">every triangle mixes both kinds,</text>
+<text x="350.0" y="260.0" text-anchor="start" fill="#d9480f" font-size="13">so 5 people are not enough:</text>
+<text x="350.0" y="290.0" text-anchor="start" fill="#222222" font-weight="bold">R(3, 3) &gt; 5</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 370" width="600" height="370" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Extended Euclidean Algorithm Table for 240 and 46</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="600" height="370" fill="#ffffff"/>
+<text x="300" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Extended Euclid: write each remainder as 240x + 46y</text>
+<rect x="20" y="54" width="560" height="40" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="70" y="79" text-anchor="middle" fill="#222222" font-weight="bold">remainder</text>
+<text x="175" y="79" text-anchor="middle" fill="#222222" font-weight="bold">x</text>
+<text x="270" y="79" text-anchor="middle" fill="#222222" font-weight="bold">y</text>
+<text x="445" y="79" text-anchor="middle" fill="#222222" font-weight="bold">comes from</text>
+<rect x="20" y="94" width="560" height="40" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="70" y="119" text-anchor="middle" fill="#222222">240</text>
+<text x="175" y="119" text-anchor="middle" fill="#222222">1</text>
+<text x="270" y="119" text-anchor="middle" fill="#222222">0</text>
+<text x="445" y="119" text-anchor="middle" fill="#222222"></text>
+<rect x="20" y="134" width="560" height="40" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="70" y="159" text-anchor="middle" fill="#222222">46</text>
+<text x="175" y="159" text-anchor="middle" fill="#222222">0</text>
+<text x="270" y="159" text-anchor="middle" fill="#222222">1</text>
+<text x="445" y="159" text-anchor="middle" fill="#222222"></text>
+<rect x="20" y="174" width="560" height="40" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="70" y="199" text-anchor="middle" fill="#222222">10</text>
+<text x="175" y="199" text-anchor="middle" fill="#222222">1</text>
+<text x="270" y="199" text-anchor="middle" fill="#222222">−5</text>
+<text x="445" y="199" text-anchor="middle" fill="#222222">240 − 5 × 46</text>
+<rect x="20" y="214" width="560" height="40" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="70" y="239" text-anchor="middle" fill="#222222">6</text>
+<text x="175" y="239" text-anchor="middle" fill="#222222">−4</text>
+<text x="270" y="239" text-anchor="middle" fill="#222222">21</text>
+<text x="445" y="239" text-anchor="middle" fill="#222222">46 − 4 × 10</text>
+<rect x="20" y="254" width="560" height="40" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="70" y="279" text-anchor="middle" fill="#222222">4</text>
+<text x="175" y="279" text-anchor="middle" fill="#222222">5</text>
+<text x="270" y="279" text-anchor="middle" fill="#222222">−26</text>
+<text x="445" y="279" text-anchor="middle" fill="#222222">10 − 1 × 6</text>
+<rect x="20" y="294" width="560" height="40" fill="#f6d5c4" stroke="#d9480f" stroke-width="2"/>
+<text x="70" y="319" text-anchor="middle" fill="#d9480f" font-weight="bold">2</text>
+<text x="175" y="319" text-anchor="middle" fill="#d9480f" font-weight="bold">−9</text>
+<text x="270" y="319" text-anchor="middle" fill="#d9480f" font-weight="bold">47</text>
+<text x="445" y="319" text-anchor="middle" fill="#222222">6 − 1 × 4</text>
+<line x1="120" y1="54" x2="120" y2="334" stroke="#222222" stroke-width="1"/>
+<line x1="230" y1="54" x2="230" y2="334" stroke="#222222" stroke-width="1"/>
+<line x1="310" y1="54" x2="310" y2="334" stroke="#222222" stroke-width="1"/>
+<text x="300" y="362" text-anchor="middle" fill="#d9480f" font-weight="bold">Last row: 240 × (−9) + 46 × 47 = −2,160 + 2,162 = 2</text>
+</svg>

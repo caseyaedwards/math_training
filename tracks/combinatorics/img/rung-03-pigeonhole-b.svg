@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>9 Keys in 4 Buckets</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="600" height="300" fill="#ffffff"/>
+<text x="300.0" y="26.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">9 Keys, 4 Buckets: Some Bucket Holds 3</text>
+<path d="M30,70 L30,240 L110,240 L110,70" fill="none" stroke="#d9480f" stroke-width="2.2"/>
+<circle cx="70.0" cy="222.0" r="14.0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<circle cx="70.0" cy="186.0" r="14.0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<circle cx="70.0" cy="150.0" r="14.0" fill="#d9480f" stroke="#222222" stroke-width="1.2"/>
+<text x="70.0" y="264.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">3 keys</text>
+<path d="M130,70 L130,240 L210,240 L210,70" fill="none" stroke="#222222" stroke-width="1.6"/>
+<circle cx="170.0" cy="222.0" r="14.0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<circle cx="170.0" cy="186.0" r="14.0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<text x="170.0" y="264.0" text-anchor="middle" fill="#222222" font-size="13">2 keys</text>
+<path d="M230,70 L230,240 L310,240 L310,70" fill="none" stroke="#222222" stroke-width="1.6"/>
+<circle cx="270.0" cy="222.0" r="14.0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<circle cx="270.0" cy="186.0" r="14.0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<text x="270.0" y="264.0" text-anchor="middle" fill="#222222" font-size="13">2 keys</text>
+<path d="M330,70 L330,240 L410,240 L410,70" fill="none" stroke="#222222" stroke-width="1.6"/>
+<circle cx="370.0" cy="222.0" r="14.0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<circle cx="370.0" cy="186.0" r="14.0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<text x="370.0" y="264.0" text-anchor="middle" fill="#222222" font-size="13">2 keys</text>
+<text x="510.0" y="110.0" text-anchor="middle" fill="#222222" font-size="13">spread as evenly</text>
+<text x="510.0" y="130.0" text-anchor="middle" fill="#222222" font-size="13">as possible:</text>
+<text x="510.0" y="150.0" text-anchor="middle" fill="#222222" font-size="13">2 + 2 + 2 + 2 = 8</text>
+<text x="510.0" y="190.0" text-anchor="middle" fill="#222222" font-size="13">key 9 makes 3</text>
+<text x="510.0" y="230.0" text-anchor="middle" fill="#d9480f" font-weight="bold">⌈9/4⌉ = 3</text>
+</svg>

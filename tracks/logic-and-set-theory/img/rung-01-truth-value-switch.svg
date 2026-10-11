@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 260" width="620" height="260" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>A Statement Is a Two-Position Switch: T or F</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="620" height="260" fill="#ffffff"/>
+<text x="310" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">A statement is a switch with exactly two positions</text>
+<text x="30" y="80" text-anchor="start" fill="#222222" font-size="16" font-weight="bold" font-style="italic">p</text>
+<rect x="55" y="57" width="200" height="36" fill="#ffffff" stroke="#555555" stroke-width="1" rx="4"/>
+<text x="65" y="80" text-anchor="start" fill="#222222">The disk is full.</text>
+<line x1="262" y1="75" x2="300" y2="75" stroke="#555555" stroke-width="1.5" marker-end="url(#arrD)"/>
+<rect x="308" y="59" width="110" height="32" fill="#ffffff" stroke="#222222" stroke-width="1.6" rx="16"/>
+<text x="390" y="80" text-anchor="middle" fill="#555555" font-weight="bold">F</text>
+<circle cx="336" cy="75" r="13" fill="#d9480f" stroke="none" stroke-width="0"/>
+<text x="336" y="80" text-anchor="middle" fill="#ffffff" font-weight="bold">T</text>
+<text x="436" y="80" text-anchor="start" fill="#555555" font-size="13">true right now</text>
+<text x="30" y="140" text-anchor="start" fill="#222222" font-size="16" font-weight="bold" font-style="italic">q</text>
+<rect x="55" y="117" width="200" height="36" fill="#ffffff" stroke="#555555" stroke-width="1" rx="4"/>
+<text x="65" y="140" text-anchor="start" fill="#222222">2 + 2 = 5</text>
+<line x1="262" y1="135" x2="300" y2="135" stroke="#555555" stroke-width="1.5" marker-end="url(#arrD)"/>
+<rect x="308" y="119" width="110" height="32" fill="#ffffff" stroke="#222222" stroke-width="1.6" rx="16"/>
+<text x="336" y="140" text-anchor="middle" fill="#555555" font-weight="bold">T</text>
+<circle cx="390" cy="135" r="13" fill="#222222" stroke="none" stroke-width="0"/>
+<text x="390" y="140" text-anchor="middle" fill="#ffffff" font-weight="bold">F</text>
+<text x="436" y="140" text-anchor="start" fill="#555555" font-size="13">false, and still a statement</text>
+<text x="30" y="200" text-anchor="start" fill="#222222" font-size="16" font-weight="bold" font-style="italic">r</text>
+<rect x="55" y="177" width="200" height="36" fill="#ffffff" stroke="#555555" stroke-width="1" rx="4"/>
+<text x="65" y="200" text-anchor="start" fill="#222222">Port 22 is open.</text>
+<line x1="262" y1="195" x2="300" y2="195" stroke="#555555" stroke-width="1.5" marker-end="url(#arrD)"/>
+<rect x="308" y="179" width="110" height="32" fill="#ffffff" stroke="#222222" stroke-width="1.6" rx="16"/>
+<text x="390" y="200" text-anchor="middle" fill="#555555" font-weight="bold">F</text>
+<circle cx="336" cy="195" r="13" fill="#d9480f" stroke="none" stroke-width="0"/>
+<text x="336" y="200" text-anchor="middle" fill="#ffffff" font-weight="bold">T</text>
+<text x="436" y="200" text-anchor="start" fill="#555555" font-size="13">true right now</text>
+<text x="310" y="245" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">Never both, never neither, never halfway.</text>
+</svg>

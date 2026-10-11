@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 260" width="640" height="260" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Cross multiplication check</title>
+<defs><marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="640" height="260" fill="#ffffff"/>
+<text x="320.0" y="28.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">3/1,000 = 30/10,000 because the cross products match</text>
+<text x="110.0" y="96.0" text-anchor="middle" font-size="22" fill="#222222" font-weight="bold">3</text>
+<text x="290.0" y="96.0" text-anchor="middle" font-size="22" fill="#222222" font-weight="bold">30</text>
+<line x1="60.0" y1="140.0" x2="160.0" y2="140.0" stroke="#222222" stroke-width="2"/>
+<line x1="240.0" y1="140.0" x2="340.0" y2="140.0" stroke="#222222" stroke-width="2"/>
+<text x="110.0" y="196.0" text-anchor="middle" font-size="22" fill="#222222" font-weight="bold">1,000</text>
+<text x="290.0" y="196.0" text-anchor="middle" font-size="22" fill="#222222" font-weight="bold">10,000</text>
+<line x1="132.0" y1="102.0" x2="222.0" y2="170.0" stroke="#d9480f" stroke-width="2" marker-end="url(#aa)" marker-start="url(#aa)"/>
+<line x1="255.0" y1="98.0" x2="172.0" y2="172.0" stroke="#555555" stroke-width="2" stroke-dasharray="5 3" marker-end="url(#ad)" marker-start="url(#ad)"/>
+<text x="390.0" y="120.0" text-anchor="start" font-size="15" fill="#d9480f" font-weight="bold">3 × 10,000 = 30,000</text>
+<text x="390.0" y="168.0" text-anchor="start" font-size="15" fill="#555555" font-weight="bold">1,000 × 30 = 30,000</text>
+<text x="320.0" y="240.0" text-anchor="middle" font-size="14" fill="#222222">Equal cross products mean equal ratios: a/b = c/d exactly when ad = bc.</text>
+</svg>

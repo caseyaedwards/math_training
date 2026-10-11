@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 300" width="560" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Subsets of {a, b} as 2-Bit Masks</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="560" height="300" fill="#ffffff"/>
+<text x="280" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Each subset of {a, b} is a 2-bit mask: in = 1, out = 0</text>
+<rect x="110" y="60" width="46" height="38" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="133" y="85" text-anchor="middle" fill="#222222" font-weight="bold">a</text>
+<rect x="156" y="60" width="46" height="38" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="179" y="85" text-anchor="middle" fill="#222222" font-weight="bold">b</text>
+<rect x="202" y="60" width="80" height="38" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="242" y="85" text-anchor="middle" fill="#222222" font-weight="bold">mask</text>
+<rect x="282" y="60" width="120" height="38" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="342" y="85" text-anchor="middle" fill="#222222" font-weight="bold">subset</text>
+<rect x="110" y="98" width="46" height="38" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="133" y="123" text-anchor="middle" fill="#222222" font-weight="bold">0</text>
+<rect x="156" y="98" width="46" height="38" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="179" y="123" text-anchor="middle" fill="#222222" font-weight="bold">0</text>
+<rect x="202" y="98" width="80" height="38" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="242" y="123" text-anchor="middle" fill="#222222">00</text>
+<rect x="282" y="98" width="120" height="38" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="342" y="123" text-anchor="middle" fill="#222222" font-weight="bold">∅</text>
+<rect x="110" y="136" width="46" height="38" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="133" y="161" text-anchor="middle" fill="#222222" font-weight="bold">0</text>
+<rect x="156" y="136" width="46" height="38" fill="#d9480f" stroke="#555555" stroke-width="0.8"/>
+<text x="179" y="161" text-anchor="middle" fill="#ffffff" font-weight="bold">1</text>
+<rect x="202" y="136" width="80" height="38" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="242" y="161" text-anchor="middle" fill="#222222">01</text>
+<rect x="282" y="136" width="120" height="38" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="342" y="161" text-anchor="middle" fill="#222222" font-weight="bold">{b}</text>
+<rect x="110" y="174" width="46" height="38" fill="#d9480f" stroke="#555555" stroke-width="0.8"/>
+<text x="133" y="199" text-anchor="middle" fill="#ffffff" font-weight="bold">1</text>
+<rect x="156" y="174" width="46" height="38" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="179" y="199" text-anchor="middle" fill="#222222" font-weight="bold">0</text>
+<rect x="202" y="174" width="80" height="38" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="242" y="199" text-anchor="middle" fill="#222222">10</text>
+<rect x="282" y="174" width="120" height="38" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="342" y="199" text-anchor="middle" fill="#222222" font-weight="bold">{a}</text>
+<rect x="110" y="212" width="46" height="38" fill="#d9480f" stroke="#555555" stroke-width="0.8"/>
+<text x="133" y="237" text-anchor="middle" fill="#ffffff" font-weight="bold">1</text>
+<rect x="156" y="212" width="46" height="38" fill="#d9480f" stroke="#555555" stroke-width="0.8"/>
+<text x="179" y="237" text-anchor="middle" fill="#ffffff" font-weight="bold">1</text>
+<rect x="202" y="212" width="80" height="38" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="242" y="237" text-anchor="middle" fill="#222222">11</text>
+<rect x="282" y="212" width="120" height="38" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="342" y="237" text-anchor="middle" fill="#222222" font-weight="bold">{a, b}</text>
+<text x="280" y="270" text-anchor="middle" fill="#222222" font-size="13">2 elements, 2 choices each: 2 × 2 = 2² = 4 subsets</text>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" width="720" height="340" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Cylinder and cone volumes</title>
+<defs><marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="720" height="340" fill="#ffffff"/>
+<text x="360.0" y="28.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">Same base, same height: a cone holds one third of the cylinder</text>
+<rect x="50.0" y="80.0" width="120.0" height="150.0" fill="#f6d5c4"/>
+<ellipse cx="110.0" cy="230.0" rx="60.0" ry="16.0" fill="#f6d5c4" stroke="#222222" stroke-width="0"/>
+<path d="M50.0,230.0 A60.0,16.0 0 0 0 170.0,230.0" fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<path d="M50.0,230.0 A60.0,16.0 0 0 1 170.0,230.0" fill="none" stroke="#222222" stroke-width="1.2" stroke-linejoin="round" stroke-dasharray="4 3"/>
+<line x1="50.0" y1="80.0" x2="50.0" y2="230.0" stroke="#222222" stroke-width="2"/>
+<line x1="170.0" y1="80.0" x2="170.0" y2="230.0" stroke="#222222" stroke-width="2"/>
+<ellipse cx="110.0" cy="80.0" rx="60.0" ry="16.0" fill="#fbe9df" stroke="#222222" stroke-width="2"/>
+<line x1="110.0" y1="80.0" x2="170.0" y2="80.0" stroke="#d9480f" stroke-width="2"/>
+<text x="140.0" y="56.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold" font-style="italic">r</text>
+<line x1="140.0" y1="60.0" x2="140.0" y2="78.0" stroke="#d9480f" stroke-width="1"/>
+<line x1="185.0" y1="80.0" x2="185.0" y2="230.0" stroke="#555555" stroke-width="1.2" marker-end="url(#ad)" marker-start="url(#ad)"/>
+<text x="193.0" y="160.0" text-anchor="start" font-size="14" fill="#222222" font-weight="bold" font-style="italic">h</text>
+<text x="110.0" y="292.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">cylinder</text>
+<text x="110.0" y="316.0" text-anchor="middle" font-size="15" fill="#d9480f" font-weight="bold"><tspan>V = πr</tspan><tspan dy="-5.7" font-size="10.8">2</tspan><tspan dy="5.7">h</tspan></text>
+<polygon points="300.0,80.0 240.0,230.0 360.0,230.0" fill="#ffffff"/>
+<ellipse cx="300.0" cy="230.0" rx="60.0" ry="16.0" fill="#ffffff" stroke="#222222" stroke-width="0"/>
+<path d="M240.0,230.0 A60.0,16.0 0 0 0 360.0,230.0" fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<path d="M240.0,230.0 A60.0,16.0 0 0 1 360.0,230.0" fill="none" stroke="#222222" stroke-width="1.2" stroke-linejoin="round" stroke-dasharray="4 3"/>
+<line x1="300.0" y1="80.0" x2="240.0" y2="230.0" stroke="#222222" stroke-width="2"/>
+<line x1="300.0" y1="80.0" x2="360.0" y2="230.0" stroke="#222222" stroke-width="2"/>
+<line x1="300.0" y1="230.0" x2="360.0" y2="230.0" stroke="#d9480f" stroke-width="2"/>
+<text x="330.0" y="268.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold" font-style="italic">r</text>
+<line x1="330.0" y1="256.0" x2="330.0" y2="234.0" stroke="#d9480f" stroke-width="1"/>
+<line x1="375.0" y1="80.0" x2="375.0" y2="230.0" stroke="#555555" stroke-width="1.2" marker-end="url(#ad)" marker-start="url(#ad)"/>
+<text x="383.0" y="160.0" text-anchor="start" font-size="14" fill="#222222" font-weight="bold" font-style="italic">h</text>
+<text x="300.0" y="292.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">cone</text>
+<text x="300.0" y="316.0" text-anchor="middle" font-size="15" fill="#d9480f" font-weight="bold"><tspan>V = ⅓πr</tspan><tspan dy="-5.7" font-size="10.8">2</tspan><tspan dy="5.7">h</tspan></text>
+<polygon points="455.0,130.0 438.0,176.0 472.0,176.0" fill="#f6d5c4"/>
+<ellipse cx="455.0" cy="176.0" rx="17.0" ry="5.0" fill="#f6d5c4" stroke="#222222" stroke-width="0"/>
+<path d="M438.0,176.0 A17.0,5.0 0 0 0 472.0,176.0" fill="none" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M438.0,176.0 A17.0,5.0 0 0 1 472.0,176.0" fill="none" stroke="#222222" stroke-width="1.2" stroke-linejoin="round" stroke-dasharray="4 3"/>
+<line x1="455.0" y1="130.0" x2="438.0" y2="176.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="455.0" y1="130.0" x2="472.0" y2="176.0" stroke="#222222" stroke-width="1.5"/>
+<polygon points="493.0,130.0 476.0,176.0 510.0,176.0" fill="#f6d5c4"/>
+<ellipse cx="493.0" cy="176.0" rx="17.0" ry="5.0" fill="#f6d5c4" stroke="#222222" stroke-width="0"/>
+<path d="M476.0,176.0 A17.0,5.0 0 0 0 510.0,176.0" fill="none" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M476.0,176.0 A17.0,5.0 0 0 1 510.0,176.0" fill="none" stroke="#222222" stroke-width="1.2" stroke-linejoin="round" stroke-dasharray="4 3"/>
+<line x1="493.0" y1="130.0" x2="476.0" y2="176.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="493.0" y1="130.0" x2="510.0" y2="176.0" stroke="#222222" stroke-width="1.5"/>
+<polygon points="531.0,130.0 514.0,176.0 548.0,176.0" fill="#f6d5c4"/>
+<ellipse cx="531.0" cy="176.0" rx="17.0" ry="5.0" fill="#f6d5c4" stroke="#222222" stroke-width="0"/>
+<path d="M514.0,176.0 A17.0,5.0 0 0 0 548.0,176.0" fill="none" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M514.0,176.0 A17.0,5.0 0 0 1 548.0,176.0" fill="none" stroke="#222222" stroke-width="1.2" stroke-linejoin="round" stroke-dasharray="4 3"/>
+<line x1="531.0" y1="130.0" x2="514.0" y2="176.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="531.0" y1="130.0" x2="548.0" y2="176.0" stroke="#222222" stroke-width="1.5"/>
+<text x="572.0" y="168.0" text-anchor="middle" font-size="20" fill="#222222">=</text>
+<rect x="603.0" y="130.0" width="34.0" height="46.0" fill="#f6d5c4"/>
+<ellipse cx="620.0" cy="176.0" rx="17.0" ry="5.0" fill="#f6d5c4" stroke="#222222" stroke-width="0"/>
+<path d="M603.0,176.0 A17.0,5.0 0 0 0 637.0,176.0" fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<path d="M603.0,176.0 A17.0,5.0 0 0 1 637.0,176.0" fill="none" stroke="#222222" stroke-width="1.2" stroke-linejoin="round" stroke-dasharray="4 3"/>
+<line x1="603.0" y1="130.0" x2="603.0" y2="176.0" stroke="#222222" stroke-width="2"/>
+<line x1="637.0" y1="130.0" x2="637.0" y2="176.0" stroke="#222222" stroke-width="2"/>
+<ellipse cx="620.0" cy="130.0" rx="17.0" ry="5.0" fill="#fbe9df" stroke="#222222" stroke-width="2"/>
+<text x="560.0" y="222.0" text-anchor="middle" font-size="13" fill="#555555">3 cones of water</text>
+<text x="560.0" y="240.0" text-anchor="middle" font-size="13" fill="#555555">fill 1 cylinder</text>
+</svg>

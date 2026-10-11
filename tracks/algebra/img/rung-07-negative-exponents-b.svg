@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 250" width="740" height="250" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Powers of 2 stepping down to negative exponents</title>
+<defs><marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="740" height="250" fill="#ffffff"/>
+<text x="370.0" y="28.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold"><tspan>Keep dividing by 2: the pattern defines 2</tspan><tspan dy="-6.1" font-size="11.5">0</tspan><tspan dy="6.1"> and 2</tspan><tspan dy="-6.1" font-size="11.5">−n</tspan></text>
+<rect x="30.0" y="80.0" width="80.0" height="80.0" fill="#ffffff" stroke="#222222" stroke-width="2" rx="8"/>
+<text x="70.0" y="112.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold"><tspan>2</tspan><tspan dy="-6.8" font-size="13.0">3</tspan></text>
+<text x="70.0" y="142.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">8</text>
+<line x1="112.0" y1="120.0" x2="128.0" y2="120.0" stroke="#555555" stroke-width="1.5" marker-end="url(#ad)"/>
+<text x="120.0" y="186.0" text-anchor="middle" font-size="13" fill="#555555">÷ 2</text>
+<rect x="130.0" y="80.0" width="80.0" height="80.0" fill="#ffffff" stroke="#222222" stroke-width="2" rx="8"/>
+<text x="170.0" y="112.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold"><tspan>2</tspan><tspan dy="-6.8" font-size="13.0">2</tspan></text>
+<text x="170.0" y="142.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">4</text>
+<line x1="212.0" y1="120.0" x2="228.0" y2="120.0" stroke="#555555" stroke-width="1.5" marker-end="url(#ad)"/>
+<text x="220.0" y="186.0" text-anchor="middle" font-size="13" fill="#555555">÷ 2</text>
+<rect x="230.0" y="80.0" width="80.0" height="80.0" fill="#ffffff" stroke="#222222" stroke-width="2" rx="8"/>
+<text x="270.0" y="112.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold"><tspan>2</tspan><tspan dy="-6.8" font-size="13.0">1</tspan></text>
+<text x="270.0" y="142.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">2</text>
+<line x1="312.0" y1="120.0" x2="328.0" y2="120.0" stroke="#555555" stroke-width="1.5" marker-end="url(#ad)"/>
+<text x="320.0" y="186.0" text-anchor="middle" font-size="13" fill="#555555">÷ 2</text>
+<rect x="330.0" y="80.0" width="80.0" height="80.0" fill="#f6d5c4" stroke="#d9480f" stroke-width="2" rx="8"/>
+<text x="370.0" y="112.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold"><tspan>2</tspan><tspan dy="-6.8" font-size="13.0">0</tspan></text>
+<text x="370.0" y="142.0" text-anchor="middle" font-size="18" fill="#d9480f" font-weight="bold">1</text>
+<line x1="412.0" y1="120.0" x2="428.0" y2="120.0" stroke="#555555" stroke-width="1.5" marker-end="url(#ad)"/>
+<text x="420.0" y="186.0" text-anchor="middle" font-size="13" fill="#555555">÷ 2</text>
+<rect x="430.0" y="80.0" width="80.0" height="80.0" fill="#f6d5c4" stroke="#d9480f" stroke-width="2" rx="8"/>
+<text x="470.0" y="112.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold"><tspan>2</tspan><tspan dy="-6.8" font-size="13.0">−1</tspan></text>
+<text x="470.0" y="142.0" text-anchor="middle" font-size="18" fill="#d9480f" font-weight="bold">1/2</text>
+<line x1="512.0" y1="120.0" x2="528.0" y2="120.0" stroke="#555555" stroke-width="1.5" marker-end="url(#ad)"/>
+<text x="520.0" y="186.0" text-anchor="middle" font-size="13" fill="#555555">÷ 2</text>
+<rect x="530.0" y="80.0" width="80.0" height="80.0" fill="#f6d5c4" stroke="#d9480f" stroke-width="2" rx="8"/>
+<text x="570.0" y="112.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold"><tspan>2</tspan><tspan dy="-6.8" font-size="13.0">−2</tspan></text>
+<text x="570.0" y="142.0" text-anchor="middle" font-size="18" fill="#d9480f" font-weight="bold">1/4</text>
+<line x1="612.0" y1="120.0" x2="628.0" y2="120.0" stroke="#555555" stroke-width="1.5" marker-end="url(#ad)"/>
+<text x="620.0" y="186.0" text-anchor="middle" font-size="13" fill="#555555">÷ 2</text>
+<rect x="630.0" y="80.0" width="80.0" height="80.0" fill="#f6d5c4" stroke="#d9480f" stroke-width="2" rx="8"/>
+<text x="670.0" y="112.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold"><tspan>2</tspan><tspan dy="-6.8" font-size="13.0">−3</tspan></text>
+<text x="670.0" y="142.0" text-anchor="middle" font-size="18" fill="#d9480f" font-weight="bold">1/8</text>
+<text x="370.0" y="226.0" text-anchor="middle" font-size="14" fill="#222222"><tspan>So a</tspan><tspan dy="-5.3" font-size="10.1">0</tspan><tspan dy="5.3"> = 1 and a</tspan><tspan dy="-5.3" font-size="10.1">−n</tspan><tspan dy="5.3"> = 1/a</tspan><tspan dy="-5.3" font-size="10.1">n</tspan><tspan dy="5.3">: one step left of a</tspan><tspan dy="-5.3" font-size="10.1">1</tspan><tspan dy="5.3"> is 1, and the steps keep going.</tspan></text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" width="680" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Cantor's Theorem: A Set Cannot Map onto Its Power Set</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="680" height="300" fill="#ffffff"/>
+<text x="340" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">No map from A = {1, 2, 3} to its subsets hits every subset</text>
+<rect x="60" y="50" width="70" height="36" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="95" y="73" text-anchor="middle" fill="#222222" font-weight="bold">x</text>
+<rect x="130" y="50" width="140" height="36" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="200" y="73" text-anchor="middle" fill="#222222" font-weight="bold">f(x)</text>
+<rect x="270" y="50" width="150" height="36" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="345" y="73" text-anchor="middle" fill="#222222" font-weight="bold">x ∈ f(x)?</text>
+<rect x="420" y="50" width="140" height="36" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="490" y="73" text-anchor="middle" fill="#222222" font-weight="bold">x in D?</text>
+<rect x="60" y="86" width="70" height="36" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="95" y="109" text-anchor="middle" fill="#222222">1</text>
+<rect x="130" y="86" width="140" height="36" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="200" y="109" text-anchor="middle" fill="#222222">{1, 2}</text>
+<rect x="270" y="86" width="150" height="36" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="345" y="109" text-anchor="middle" fill="#222222">yes</text>
+<rect x="420" y="86" width="140" height="36" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="490" y="109" text-anchor="middle" fill="#222222">no</text>
+<rect x="60" y="122" width="70" height="36" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="95" y="145" text-anchor="middle" fill="#222222">2</text>
+<rect x="130" y="122" width="140" height="36" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="200" y="145" text-anchor="middle" fill="#222222">{3}</text>
+<rect x="270" y="122" width="150" height="36" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="345" y="145" text-anchor="middle" fill="#222222">no</text>
+<rect x="420" y="122" width="140" height="36" fill="#d9480f" stroke="#555555" stroke-width="0.8"/>
+<text x="490" y="145" text-anchor="middle" fill="#ffffff" font-weight="bold">yes</text>
+<rect x="60" y="158" width="70" height="36" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="95" y="181" text-anchor="middle" fill="#222222">3</text>
+<rect x="130" y="158" width="140" height="36" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="200" y="181" text-anchor="middle" fill="#222222">{1, 3}</text>
+<rect x="270" y="158" width="150" height="36" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="345" y="181" text-anchor="middle" fill="#222222">yes</text>
+<rect x="420" y="158" width="140" height="36" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="490" y="181" text-anchor="middle" fill="#222222">no</text>
+<text x="340" y="220" text-anchor="middle" fill="#d9480f" font-size="15" font-weight="bold">D = {x | x ∉ f(x)} = {2}</text>
+<text x="340" y="248" text-anchor="middle" fill="#222222" font-size="13">D differs from f(1) at 1, from f(2) at 2, and from f(3) at 3.</text>
+<text x="340" y="272" text-anchor="middle" fill="#555555" font-size="13">No x has f(x) = D: the same diagonal trick works for every set.</text>
+</svg>

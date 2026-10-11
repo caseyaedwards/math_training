@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 330" width="560" height="330" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>CRT Grid: Each Number 0 to 14 Has Its Own Pair of Remainders Mod 3 and Mod 5</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="560" height="330" fill="#ffffff"/>
+<text x="280" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Every number 0 to 14 lands in its own cell (mod 3, mod 5)</text>
+<text x="138" y="125" text-anchor="end" fill="#222222" font-size="13" font-weight="bold">≡ 0 (mod 3)</text>
+<text x="138" y="185" text-anchor="end" fill="#222222" font-size="13" font-weight="bold">≡ 1 (mod 3)</text>
+<text x="138" y="245" text-anchor="end" fill="#222222" font-size="13" font-weight="bold">≡ 2 (mod 3)</text>
+<text x="180" y="78" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">≡ 0</text>
+<text x="240" y="78" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">≡ 1</text>
+<text x="300" y="78" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">≡ 2</text>
+<text x="360" y="78" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">≡ 3</text>
+<text x="420" y="78" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">≡ 4</text>
+<text x="300" y="58" text-anchor="middle" fill="#555555" font-size="13">remainder mod 5</text>
+<rect x="150" y="90" width="60" height="60" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="180" y="125" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">0</text>
+<rect x="210" y="150" width="60" height="60" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="240" y="185" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">1</text>
+<rect x="270" y="210" width="60" height="60" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="300" y="245" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">2</text>
+<rect x="330" y="90" width="60" height="60" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="360" y="125" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">3</text>
+<rect x="390" y="150" width="60" height="60" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="420" y="185" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">4</text>
+<rect x="150" y="210" width="60" height="60" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="180" y="245" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">5</text>
+<rect x="210" y="90" width="60" height="60" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="240" y="125" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">6</text>
+<rect x="270" y="150" width="60" height="60" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="300" y="185" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">7</text>
+<rect x="330" y="210" width="60" height="60" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<text x="360" y="245" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="bold">8</text>
+<rect x="390" y="90" width="60" height="60" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="420" y="125" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">9</text>
+<rect x="150" y="150" width="60" height="60" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="180" y="185" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">10</text>
+<rect x="210" y="210" width="60" height="60" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="240" y="245" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">11</text>
+<rect x="270" y="90" width="60" height="60" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="300" y="125" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">12</text>
+<rect x="330" y="150" width="60" height="60" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="360" y="185" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">13</text>
+<rect x="390" y="210" width="60" height="60" fill="#ffffff" stroke="#222222" stroke-width="1"/>
+<text x="420" y="245" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">14</text>
+<rect x="330" y="210" width="60" height="60" fill="none" stroke="#222222" stroke-width="3"/>
+<text x="280" y="300" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">x ≡ 2 (mod 3) and x ≡ 3 (mod 5) point to one cell: x ≡ 8 (mod 15)</text>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 240" width="700" height="240" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Orders of magnitude of time in seconds</title>
+<defs><marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="700" height="240" fill="#ffffff"/>
+<text x="350.0" y="26.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">Seconds on a log scale: each tick is 10 times the last</text>
+<line x1="50.0" y1="180.0" x2="640.0" y2="180.0" stroke="#222222" stroke-width="1.5" marker-end="url(#ad)"/>
+<line x1="60.0" y1="174.0" x2="60.0" y2="186.0" stroke="#222222" stroke-width="1.5"/>
+<text x="60.0" y="204.0" text-anchor="middle" font-size="13" fill="#222222"><tspan>10</tspan><tspan dy="-4.9" font-size="9.4">0</tspan></text>
+<line x1="130.0" y1="174.0" x2="130.0" y2="186.0" stroke="#222222" stroke-width="1.5"/>
+<text x="130.0" y="204.0" text-anchor="middle" font-size="13" fill="#222222"><tspan>10</tspan><tspan dy="-4.9" font-size="9.4">1</tspan></text>
+<line x1="200.0" y1="174.0" x2="200.0" y2="186.0" stroke="#222222" stroke-width="1.5"/>
+<text x="200.0" y="204.0" text-anchor="middle" font-size="13" fill="#222222"><tspan>10</tspan><tspan dy="-4.9" font-size="9.4">2</tspan></text>
+<line x1="270.0" y1="174.0" x2="270.0" y2="186.0" stroke="#222222" stroke-width="1.5"/>
+<text x="270.0" y="204.0" text-anchor="middle" font-size="13" fill="#222222"><tspan>10</tspan><tspan dy="-4.9" font-size="9.4">3</tspan></text>
+<line x1="340.0" y1="174.0" x2="340.0" y2="186.0" stroke="#222222" stroke-width="1.5"/>
+<text x="340.0" y="204.0" text-anchor="middle" font-size="13" fill="#222222"><tspan>10</tspan><tspan dy="-4.9" font-size="9.4">4</tspan></text>
+<line x1="410.0" y1="174.0" x2="410.0" y2="186.0" stroke="#222222" stroke-width="1.5"/>
+<text x="410.0" y="204.0" text-anchor="middle" font-size="13" fill="#222222"><tspan>10</tspan><tspan dy="-4.9" font-size="9.4">5</tspan></text>
+<line x1="480.0" y1="174.0" x2="480.0" y2="186.0" stroke="#222222" stroke-width="1.5"/>
+<text x="480.0" y="204.0" text-anchor="middle" font-size="13" fill="#222222"><tspan>10</tspan><tspan dy="-4.9" font-size="9.4">6</tspan></text>
+<line x1="550.0" y1="174.0" x2="550.0" y2="186.0" stroke="#222222" stroke-width="1.5"/>
+<text x="550.0" y="204.0" text-anchor="middle" font-size="13" fill="#222222"><tspan>10</tspan><tspan dy="-4.9" font-size="9.4">7</tspan></text>
+<line x1="620.0" y1="174.0" x2="620.0" y2="186.0" stroke="#222222" stroke-width="1.5"/>
+<text x="620.0" y="204.0" text-anchor="middle" font-size="13" fill="#222222"><tspan>10</tspan><tspan dy="-4.9" font-size="9.4">8</tspan></text>
+<line x1="60.0" y1="136.0" x2="60.0" y2="172.0" stroke="#555555" stroke-width="1.2"/>
+<circle cx="60.0" cy="180.0" r="5.0" fill="#222222"/>
+<text x="60.0" y="110.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="bold">1 second</text>
+<text x="60.0" y="126.0" text-anchor="middle" font-size="12" fill="#555555">1 s</text>
+<line x1="184.5" y1="82.0" x2="184.5" y2="172.0" stroke="#555555" stroke-width="1.2"/>
+<circle cx="184.5" cy="180.0" r="5.0" fill="#222222"/>
+<text x="184.5" y="56.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="bold">1 minute</text>
+<text x="184.5" y="72.0" text-anchor="middle" font-size="12" fill="#555555">60 s</text>
+<line x1="308.9" y1="136.0" x2="308.9" y2="172.0" stroke="#555555" stroke-width="1.2"/>
+<circle cx="308.9" cy="180.0" r="5.0" fill="#222222"/>
+<text x="308.9" y="110.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="bold">1 hour</text>
+<text x="308.9" y="126.0" text-anchor="middle" font-size="12" fill="#555555">3,600 s</text>
+<line x1="405.6" y1="82.0" x2="405.6" y2="172.0" stroke="#d9480f" stroke-width="1.2"/>
+<circle cx="405.6" cy="180.0" r="5.0" fill="#d9480f"/>
+<text x="405.6" y="56.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">1 day</text>
+<text x="405.6" y="72.0" text-anchor="middle" font-size="12" fill="#d9480f"><tspan>8.64 × 10</tspan><tspan dy="-4.6" font-size="8.6">4</tspan><tspan dy="4.6"> s</tspan></text>
+<line x1="464.7" y1="136.0" x2="464.7" y2="172.0" stroke="#555555" stroke-width="1.2"/>
+<circle cx="464.7" cy="180.0" r="5.0" fill="#222222"/>
+<text x="464.7" y="110.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="bold">1 week</text>
+<text x="464.7" y="126.0" text-anchor="middle" font-size="12" fill="#555555">604,800 s</text>
+<line x1="584.9" y1="82.0" x2="584.9" y2="172.0" stroke="#555555" stroke-width="1.2"/>
+<circle cx="584.9" cy="180.0" r="5.0" fill="#222222"/>
+<text x="584.9" y="56.0" text-anchor="middle" font-size="13" fill="#222222" font-weight="bold">1 year</text>
+<text x="584.9" y="72.0" text-anchor="middle" font-size="12" fill="#555555"><tspan>3.16 × 10</tspan><tspan dy="-4.6" font-size="8.6">7</tspan><tspan dy="4.6"> s</tspan></text>
+</svg>

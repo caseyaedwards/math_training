@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 290" width="720" height="290" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>If 3 Divides 12 and 9, Then 3 Divides 21 and 3</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="720" height="290" fill="#ffffff"/>
+<text x="360" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">If d divides a and b, it divides a + b and a − b (d = 3)</text>
+<text x="136" y="82" text-anchor="end" fill="#222222" font-weight="bold">a = 12</text>
+<rect x="150" y="60" width="66" height="32" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<line x1="172" y1="66" x2="172" y2="86" stroke="#555555" stroke-width="0.8"/>
+<line x1="194" y1="66" x2="194" y2="86" stroke="#555555" stroke-width="0.8"/>
+<rect x="216" y="60" width="66" height="32" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<line x1="238" y1="66" x2="238" y2="86" stroke="#555555" stroke-width="0.8"/>
+<line x1="260" y1="66" x2="260" y2="86" stroke="#555555" stroke-width="0.8"/>
+<rect x="282" y="60" width="66" height="32" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<line x1="304" y1="66" x2="304" y2="86" stroke="#555555" stroke-width="0.8"/>
+<line x1="326" y1="66" x2="326" y2="86" stroke="#555555" stroke-width="0.8"/>
+<rect x="348" y="60" width="66" height="32" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<line x1="370" y1="66" x2="370" y2="86" stroke="#555555" stroke-width="0.8"/>
+<line x1="392" y1="66" x2="392" y2="86" stroke="#555555" stroke-width="0.8"/>
+<text x="426" y="82" text-anchor="start" fill="#555555" font-size="13">4 blocks of 3</text>
+<text x="136" y="134" text-anchor="end" fill="#222222" font-weight="bold">b = 9</text>
+<rect x="150" y="112" width="66" height="32" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<line x1="172" y1="118" x2="172" y2="138" stroke="#555555" stroke-width="0.8"/>
+<line x1="194" y1="118" x2="194" y2="138" stroke="#555555" stroke-width="0.8"/>
+<rect x="216" y="112" width="66" height="32" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<line x1="238" y1="118" x2="238" y2="138" stroke="#555555" stroke-width="0.8"/>
+<line x1="260" y1="118" x2="260" y2="138" stroke="#555555" stroke-width="0.8"/>
+<rect x="282" y="112" width="66" height="32" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<line x1="304" y1="118" x2="304" y2="138" stroke="#555555" stroke-width="0.8"/>
+<line x1="326" y1="118" x2="326" y2="138" stroke="#555555" stroke-width="0.8"/>
+<text x="360" y="134" text-anchor="start" fill="#555555" font-size="13">3 blocks of 3</text>
+<text x="136" y="186" text-anchor="end" fill="#222222" font-weight="bold">a + b = 21</text>
+<rect x="150" y="164" width="66" height="32" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<line x1="172" y1="170" x2="172" y2="190" stroke="#555555" stroke-width="0.8"/>
+<line x1="194" y1="170" x2="194" y2="190" stroke="#555555" stroke-width="0.8"/>
+<rect x="216" y="164" width="66" height="32" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<line x1="238" y1="170" x2="238" y2="190" stroke="#555555" stroke-width="0.8"/>
+<line x1="260" y1="170" x2="260" y2="190" stroke="#555555" stroke-width="0.8"/>
+<rect x="282" y="164" width="66" height="32" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<line x1="304" y1="170" x2="304" y2="190" stroke="#555555" stroke-width="0.8"/>
+<line x1="326" y1="170" x2="326" y2="190" stroke="#555555" stroke-width="0.8"/>
+<rect x="348" y="164" width="66" height="32" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<line x1="370" y1="170" x2="370" y2="190" stroke="#555555" stroke-width="0.8"/>
+<line x1="392" y1="170" x2="392" y2="190" stroke="#555555" stroke-width="0.8"/>
+<rect x="414" y="164" width="66" height="32" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<line x1="436" y1="170" x2="436" y2="190" stroke="#555555" stroke-width="0.8"/>
+<line x1="458" y1="170" x2="458" y2="190" stroke="#555555" stroke-width="0.8"/>
+<rect x="480" y="164" width="66" height="32" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<line x1="502" y1="170" x2="502" y2="190" stroke="#555555" stroke-width="0.8"/>
+<line x1="524" y1="170" x2="524" y2="190" stroke="#555555" stroke-width="0.8"/>
+<rect x="546" y="164" width="66" height="32" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<line x1="568" y1="170" x2="568" y2="190" stroke="#555555" stroke-width="0.8"/>
+<line x1="590" y1="170" x2="590" y2="190" stroke="#555555" stroke-width="0.8"/>
+<text x="624" y="186" text-anchor="start" fill="#555555" font-size="13">7 blocks of 3</text>
+<text x="136" y="238" text-anchor="end" fill="#222222" font-weight="bold">a − b = 3</text>
+<rect x="150" y="216" width="66" height="32" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<line x1="172" y1="222" x2="172" y2="242" stroke="#555555" stroke-width="0.8"/>
+<line x1="194" y1="222" x2="194" y2="242" stroke="#555555" stroke-width="0.8"/>
+<text x="228" y="238" text-anchor="start" fill="#555555" font-size="13">1 block of 3</text>
+<text x="360" y="276" text-anchor="middle" fill="#222222" font-size="13">Whole blocks plus whole blocks give whole blocks. Nothing is left over.</text>
+</svg>

@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 430" width="640" height="430" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Carrying in 27 + 15</title>
+<defs><marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="640" height="430" fill="#ffffff"/>
+<text x="320.0" y="28.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">Carrying in 27 + 15 = 42</text>
+<text x="230.0" y="58.0" text-anchor="middle" font-size="14" fill="#555555">tens</text>
+<text x="400.0" y="58.0" text-anchor="middle" font-size="14" fill="#555555">ones</text>
+<text x="40.0" y="88.0" text-anchor="start" font-size="16" fill="#222222" font-weight="bold">27</text>
+<rect x="170.0" y="76.0" width="120.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<line x1="182.0" y1="76.0" x2="182.0" y2="88.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="194.0" y1="76.0" x2="194.0" y2="88.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="206.0" y1="76.0" x2="206.0" y2="88.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="218.0" y1="76.0" x2="218.0" y2="88.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="230.0" y1="76.0" x2="230.0" y2="88.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="242.0" y1="76.0" x2="242.0" y2="88.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="254.0" y1="76.0" x2="254.0" y2="88.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="266.0" y1="76.0" x2="266.0" y2="88.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="278.0" y1="76.0" x2="278.0" y2="88.0" stroke="#555555" stroke-width="0.4"/>
+<rect x="170.0" y="94.0" width="120.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<line x1="182.0" y1="94.0" x2="182.0" y2="106.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="194.0" y1="94.0" x2="194.0" y2="106.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="206.0" y1="94.0" x2="206.0" y2="106.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="218.0" y1="94.0" x2="218.0" y2="106.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="230.0" y1="94.0" x2="230.0" y2="106.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="242.0" y1="94.0" x2="242.0" y2="106.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="254.0" y1="94.0" x2="254.0" y2="106.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="266.0" y1="94.0" x2="266.0" y2="106.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="278.0" y1="94.0" x2="278.0" y2="106.0" stroke="#555555" stroke-width="0.4"/>
+<rect x="330.0" y="76.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="346.0" y="76.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="362.0" y="76.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="378.0" y="76.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="394.0" y="76.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="410.0" y="76.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="426.0" y="76.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<text x="40.0" y="158.0" text-anchor="start" font-size="16" fill="#222222" font-weight="bold">+ 15</text>
+<rect x="170.0" y="146.0" width="120.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<line x1="182.0" y1="146.0" x2="182.0" y2="158.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="194.0" y1="146.0" x2="194.0" y2="158.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="206.0" y1="146.0" x2="206.0" y2="158.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="218.0" y1="146.0" x2="218.0" y2="158.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="230.0" y1="146.0" x2="230.0" y2="158.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="242.0" y1="146.0" x2="242.0" y2="158.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="254.0" y1="146.0" x2="254.0" y2="158.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="266.0" y1="146.0" x2="266.0" y2="158.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="278.0" y1="146.0" x2="278.0" y2="158.0" stroke="#555555" stroke-width="0.4"/>
+<rect x="330.0" y="146.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="346.0" y="146.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="362.0" y="146.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="378.0" y="146.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="394.0" y="146.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<line x1="30.0" y1="186.0" x2="610.0" y2="186.0" stroke="#555555" stroke-width="1"/>
+<text x="40.0" y="220.0" text-anchor="start" font-size="14" fill="#222222">together</text>
+<rect x="170.0" y="208.0" width="120.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<line x1="182.0" y1="208.0" x2="182.0" y2="220.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="194.0" y1="208.0" x2="194.0" y2="220.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="206.0" y1="208.0" x2="206.0" y2="220.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="218.0" y1="208.0" x2="218.0" y2="220.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="230.0" y1="208.0" x2="230.0" y2="220.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="242.0" y1="208.0" x2="242.0" y2="220.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="254.0" y1="208.0" x2="254.0" y2="220.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="266.0" y1="208.0" x2="266.0" y2="220.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="278.0" y1="208.0" x2="278.0" y2="220.0" stroke="#555555" stroke-width="0.4"/>
+<rect x="170.0" y="226.0" width="120.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<line x1="182.0" y1="226.0" x2="182.0" y2="238.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="194.0" y1="226.0" x2="194.0" y2="238.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="206.0" y1="226.0" x2="206.0" y2="238.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="218.0" y1="226.0" x2="218.0" y2="238.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="230.0" y1="226.0" x2="230.0" y2="238.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="242.0" y1="226.0" x2="242.0" y2="238.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="254.0" y1="226.0" x2="254.0" y2="238.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="266.0" y1="226.0" x2="266.0" y2="238.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="278.0" y1="226.0" x2="278.0" y2="238.0" stroke="#555555" stroke-width="0.4"/>
+<rect x="170.0" y="244.0" width="120.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<line x1="182.0" y1="244.0" x2="182.0" y2="256.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="194.0" y1="244.0" x2="194.0" y2="256.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="206.0" y1="244.0" x2="206.0" y2="256.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="218.0" y1="244.0" x2="218.0" y2="256.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="230.0" y1="244.0" x2="230.0" y2="256.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="242.0" y1="244.0" x2="242.0" y2="256.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="254.0" y1="244.0" x2="254.0" y2="256.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="266.0" y1="244.0" x2="266.0" y2="256.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="278.0" y1="244.0" x2="278.0" y2="256.0" stroke="#555555" stroke-width="0.4"/>
+<rect x="330.0" y="208.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="346.0" y="208.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="362.0" y="208.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="378.0" y="208.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="394.0" y="208.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="410.0" y="208.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="426.0" y="208.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="442.0" y="208.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="458.0" y="208.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="474.0" y="208.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="502.0" y="208.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="518.0" y="208.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="325.0" y="203.0" width="162.0" height="22.0" fill="none" stroke="#d9480f" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="410.0" y="280.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">ten ones make one ten</text>
+<line x1="410.0" y1="290.0" x2="260.0" y2="312.0" stroke="#d9480f" stroke-width="2" marker-end="url(#aa)"/>
+<text x="40.0" y="336.0" text-anchor="start" font-size="16" fill="#222222" font-weight="bold">= 42</text>
+<rect x="170.0" y="324.0" width="120.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<line x1="182.0" y1="324.0" x2="182.0" y2="336.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="194.0" y1="324.0" x2="194.0" y2="336.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="206.0" y1="324.0" x2="206.0" y2="336.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="218.0" y1="324.0" x2="218.0" y2="336.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="230.0" y1="324.0" x2="230.0" y2="336.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="242.0" y1="324.0" x2="242.0" y2="336.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="254.0" y1="324.0" x2="254.0" y2="336.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="266.0" y1="324.0" x2="266.0" y2="336.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="278.0" y1="324.0" x2="278.0" y2="336.0" stroke="#555555" stroke-width="0.4"/>
+<rect x="170.0" y="342.0" width="120.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<line x1="182.0" y1="342.0" x2="182.0" y2="354.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="194.0" y1="342.0" x2="194.0" y2="354.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="206.0" y1="342.0" x2="206.0" y2="354.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="218.0" y1="342.0" x2="218.0" y2="354.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="230.0" y1="342.0" x2="230.0" y2="354.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="242.0" y1="342.0" x2="242.0" y2="354.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="254.0" y1="342.0" x2="254.0" y2="354.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="266.0" y1="342.0" x2="266.0" y2="354.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="278.0" y1="342.0" x2="278.0" y2="354.0" stroke="#555555" stroke-width="0.4"/>
+<rect x="170.0" y="360.0" width="120.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<line x1="182.0" y1="360.0" x2="182.0" y2="372.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="194.0" y1="360.0" x2="194.0" y2="372.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="206.0" y1="360.0" x2="206.0" y2="372.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="218.0" y1="360.0" x2="218.0" y2="372.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="230.0" y1="360.0" x2="230.0" y2="372.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="242.0" y1="360.0" x2="242.0" y2="372.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="254.0" y1="360.0" x2="254.0" y2="372.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="266.0" y1="360.0" x2="266.0" y2="372.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="278.0" y1="360.0" x2="278.0" y2="372.0" stroke="#555555" stroke-width="0.4"/>
+<rect x="170.0" y="378.0" width="120.0" height="12.0" fill="#d9480f" stroke="#222222" stroke-width="1"/>
+<line x1="182.0" y1="378.0" x2="182.0" y2="390.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="194.0" y1="378.0" x2="194.0" y2="390.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="206.0" y1="378.0" x2="206.0" y2="390.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="218.0" y1="378.0" x2="218.0" y2="390.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="230.0" y1="378.0" x2="230.0" y2="390.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="242.0" y1="378.0" x2="242.0" y2="390.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="254.0" y1="378.0" x2="254.0" y2="390.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="266.0" y1="378.0" x2="266.0" y2="390.0" stroke="#555555" stroke-width="0.4"/>
+<line x1="278.0" y1="378.0" x2="278.0" y2="390.0" stroke="#555555" stroke-width="0.4"/>
+<rect x="330.0" y="324.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<rect x="346.0" y="324.0" width="12.0" height="12.0" fill="#f6d5c4" stroke="#222222" stroke-width="1"/>
+<text x="320.0" y="412.0" text-anchor="middle" font-size="14" fill="#555555">The new orange rod is the carried 1 in the tens column.</text>
+</svg>

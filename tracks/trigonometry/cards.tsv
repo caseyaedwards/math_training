@@ -1,0 +1,12 @@
+SOH CAH TOA	\(\sin = \frac{O}{H}\), \(\cos = \frac{A}{H}\), \(\tan = \frac{O}{A}\)	math::tracks::trigonometry math::tracks::trigonometry::ratios
+Sides of a 30-60-90 triangle	\(1, \sqrt{3}, 2\) (short leg, long leg, hypotenuse).	math::tracks::trigonometry math::tracks::trigonometry::special-triangles
+Sides of a 45-45-90 triangle	\(1, 1, \sqrt{2}\)	math::tracks::trigonometry math::tracks::trigonometry::special-triangles
+\(180^\circ\) in radians	\(\pi\). One radian is about \(57.3^\circ\).	math::tracks::trigonometry math::tracks::trigonometry::radians
+Point on the unit circle at angle \(\theta\)	\((\cos\theta, \sin\theta)\)	math::tracks::trigonometry math::tracks::trigonometry::unit-circle
+\(\sin 30^\circ, \sin 45^\circ, \sin 60^\circ\)	\(\frac{1}{2}, \frac{\sqrt{2}}{2}, \frac{\sqrt{3}}{2}\)	math::tracks::trigonometry math::tracks::trigonometry::unit-circle
+Pythagorean identity	\(\sin^2\theta + \cos^2\theta = 1\)	math::tracks::trigonometry math::tracks::trigonometry::identities
+Law of cosines	\(c^2 = a^2 + b^2 - 2ab\cos C\)	math::tracks::trigonometry math::tracks::trigonometry::laws
+Law of sines	\(\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}\)	math::tracks::trigonometry math::tracks::trigonometry::laws
+Amplitude and period of \(y = A\sin(Bx)\)	Amplitude \(|A|\), period \(\frac{2\pi}{|B|}\).	math::tracks::trigonometry math::tracks::trigonometry::graphs
+\(\sin(a + b)\)	\(\sin a\cos b + \cos a\sin b\)	math::tracks::trigonometry math::tracks::trigonometry::addition
+Euler's formula	\(e^{i\theta} = \cos\theta + i\sin\theta\), so \(e^{i\pi} + 1 = 0\).	math::tracks::trigonometry math::tracks::trigonometry::euler

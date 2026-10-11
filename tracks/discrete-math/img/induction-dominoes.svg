@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" width="760" height="330" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Proof by Induction: The Domino Picture</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="760" height="330" fill="#ffffff"/>
+<text x="380.0" y="28" text-anchor="middle" font-size="17" font-weight="bold" fill="#222222">Proof by Induction: The Domino Picture</text>
+<g transform="rotate(28 110 220)"><rect x="90" y="120" width="20" height="100" fill="#d9480f" stroke="#222222" stroke-width="1.5"/></g>
+<text x="100.0" y="244.0" text-anchor="middle" fill="#d9480f" font-weight="bold">P(1)</text>
+<path d="M116,112 Q139.0,82 162,112" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="168" y="120" width="20" height="100" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="178.0" y="244.0" text-anchor="middle" fill="#222222">P(2)</text>
+<path d="M194,112 Q217.0,82 240,112" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="246" y="120" width="20" height="100" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="256.0" y="244.0" text-anchor="middle" fill="#222222">P(3)</text>
+<path d="M272,112 Q295.0,82 318,112" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="324" y="120" width="20" height="100" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="334.0" y="244.0" text-anchor="middle" fill="#222222">P(4)</text>
+<path d="M350,112 Q373.0,82 396,112" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="402" y="120" width="20" height="100" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="412.0" y="244.0" text-anchor="middle" fill="#222222">P(5)</text>
+<path d="M428,112 Q451.0,82 474,112" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="480" y="120" width="20" height="100" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="490.0" y="244.0" text-anchor="middle" fill="#222222">P(6)</text>
+<path d="M506,112 Q529.0,82 552,112" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="558" y="120" width="20" height="100" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="568.0" y="244.0" text-anchor="middle" fill="#222222">P(7)</text>
+<text x="646.0" y="180.0" text-anchor="start" fill="#222222" font-size="24">…</text>
+<line x1="40" y1="220" x2="720" y2="220" stroke="#222222" stroke-width="2"/>
+<text x="363.0" y="74.0" text-anchor="middle" fill="#555555" font-size="13">inductive step: if P(k) falls, P(k + 1) falls</text>
+<text x="100.0" y="276.0" text-anchor="start" fill="#d9480f" font-weight="bold">Base case: knock over P(1).</text>
+<text x="100.0" y="300.0" text-anchor="start" fill="#222222">Inductive step: each domino knocks over the next. Conclusion: every P(n) is true.</text>
+</svg>

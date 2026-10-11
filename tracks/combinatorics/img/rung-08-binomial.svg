@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Area Model for (a + b) Squared</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="640" height="360" fill="#ffffff"/>
+<text x="320.0" y="26.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">(a + b)<tspan dy="-7" font-size="12">2</tspan><tspan dy="7"> as an Area</tspan></text>
+<rect x="70.0" y="70.0" width="150.0" height="150.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<rect x="220.0" y="70.0" width="100.0" height="150.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<rect x="70.0" y="220.0" width="150.0" height="100.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<rect x="220.0" y="220.0" width="100.0" height="100.0" rx="0" fill="#d9480f" stroke="#222222" stroke-width="1.5"/>
+<text x="145.0" y="151.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">a<tspan dy="-6" font-size="12">2</tspan></text>
+<text x="270.0" y="151.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">ab</text>
+<text x="145.0" y="276.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">ab</text>
+<text x="270.0" y="276.0" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="bold">b<tspan dy="-6" font-size="12">2</tspan></text>
+<text x="145.0" y="60.0" text-anchor="middle" fill="#222222">a</text>
+<text x="270.0" y="60.0" text-anchor="middle" fill="#222222">b</text>
+<text x="58.0" y="150.0" text-anchor="end" fill="#222222">a</text>
+<text x="58.0" y="275.0" text-anchor="end" fill="#222222">b</text>
+<text x="360.0" y="110.0" text-anchor="start" fill="#222222">side = a + b</text>
+<text x="360.0" y="150.0" text-anchor="start" fill="#222222" font-weight="bold">4 pieces:</text>
+<text x="360.0" y="175.0" text-anchor="start" fill="#222222">a<tspan dy="-6" font-size="10">2</tspan><tspan dy="6"> + ab + ab + b</tspan><tspan dy="-6" font-size="10">2</tspan></text>
+<text x="360.0" y="215.0" text-anchor="start" fill="#d9480f" font-weight="bold">= a<tspan dy="-6" font-size="10">2</tspan><tspan dy="6"> + 2ab + b</tspan><tspan dy="-6" font-size="10">2</tspan></text>
+<text x="360.0" y="255.0" text-anchor="start" fill="#555555" font-size="13">coefficients 1, 2, 1:</text>
+<text x="360.0" y="275.0" text-anchor="start" fill="#555555" font-size="13">row 2 of Pascal</text>
+</svg>

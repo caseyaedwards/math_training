@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 380" width="700" height="380" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Primes per Block of 10 up to 100 Against 10 over ln x</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="700" height="380" fill="#ffffff"/>
+<text x="350" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Primes in each block of 10 thin out, roughly like 10 / ln x</text>
+<line x1="70" y1="320" x2="650" y2="320" stroke="#222222" stroke-width="1.5"/>
+<line x1="70" y1="320" x2="70" y2="70" stroke="#222222" stroke-width="1.5"/>
+<line x1="65" y1="320" x2="70" y2="320" stroke="#222222" stroke-width="1.5"/>
+<text x="61" y="324" text-anchor="end" fill="#222222" font-size="12">0</text>
+<line x1="65" y1="285.71" x2="70" y2="285.71" stroke="#222222" stroke-width="1.5"/>
+<text x="61" y="289.71" text-anchor="end" fill="#222222" font-size="12">1</text>
+<line x1="65" y1="251.43" x2="70" y2="251.43" stroke="#222222" stroke-width="1.5"/>
+<text x="61" y="255.43" text-anchor="end" fill="#222222" font-size="12">2</text>
+<line x1="65" y1="217.14" x2="70" y2="217.14" stroke="#222222" stroke-width="1.5"/>
+<text x="61" y="221.14" text-anchor="end" fill="#222222" font-size="12">3</text>
+<line x1="65" y1="182.86" x2="70" y2="182.86" stroke="#222222" stroke-width="1.5"/>
+<text x="61" y="186.86" text-anchor="end" fill="#222222" font-size="12">4</text>
+<line x1="65" y1="148.57" x2="70" y2="148.57" stroke="#222222" stroke-width="1.5"/>
+<text x="61" y="152.57" text-anchor="end" fill="#222222" font-size="12">5</text>
+<line x1="65" y1="114.29" x2="70" y2="114.29" stroke="#222222" stroke-width="1.5"/>
+<text x="61" y="118.29" text-anchor="end" fill="#222222" font-size="12">6</text>
+<line x1="65" y1="80" x2="70" y2="80" stroke="#222222" stroke-width="1.5"/>
+<text x="61" y="84" text-anchor="end" fill="#222222" font-size="12">7</text>
+<rect x="78" y="182.86" width="42" height="137.14" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.5"/>
+<text x="99" y="202.86" text-anchor="middle" fill="#d9480f" font-weight="bold">4</text>
+<text x="99" y="340" text-anchor="middle" fill="#222222" font-size="12">1–10</text>
+<rect x="136" y="182.86" width="42" height="137.14" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.5"/>
+<text x="157" y="202.86" text-anchor="middle" fill="#d9480f" font-weight="bold">4</text>
+<text x="157" y="340" text-anchor="middle" fill="#222222" font-size="12">11–20</text>
+<rect x="194" y="251.43" width="42" height="68.57" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.5"/>
+<text x="215" y="271.43" text-anchor="middle" fill="#d9480f" font-weight="bold">2</text>
+<text x="215" y="340" text-anchor="middle" fill="#222222" font-size="12">21–30</text>
+<rect x="252" y="251.43" width="42" height="68.57" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.5"/>
+<text x="273" y="271.43" text-anchor="middle" fill="#d9480f" font-weight="bold">2</text>
+<text x="273" y="340" text-anchor="middle" fill="#222222" font-size="12">31–40</text>
+<rect x="310" y="217.14" width="42" height="102.86" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.5"/>
+<text x="331" y="237.14" text-anchor="middle" fill="#d9480f" font-weight="bold">3</text>
+<text x="331" y="340" text-anchor="middle" fill="#222222" font-size="12">41–50</text>
+<rect x="368" y="251.43" width="42" height="68.57" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.5"/>
+<text x="389" y="271.43" text-anchor="middle" fill="#d9480f" font-weight="bold">2</text>
+<text x="389" y="340" text-anchor="middle" fill="#222222" font-size="12">51–60</text>
+<rect x="426" y="251.43" width="42" height="68.57" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.5"/>
+<text x="447" y="271.43" text-anchor="middle" fill="#d9480f" font-weight="bold">2</text>
+<text x="447" y="340" text-anchor="middle" fill="#222222" font-size="12">61–70</text>
+<rect x="484" y="217.14" width="42" height="102.86" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.5"/>
+<text x="505" y="237.14" text-anchor="middle" fill="#d9480f" font-weight="bold">3</text>
+<text x="505" y="340" text-anchor="middle" fill="#222222" font-size="12">71–80</text>
+<rect x="542" y="251.43" width="42" height="68.57" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.5"/>
+<text x="563" y="271.43" text-anchor="middle" fill="#d9480f" font-weight="bold">2</text>
+<text x="563" y="340" text-anchor="middle" fill="#222222" font-size="12">81–90</text>
+<rect x="600" y="285.71" width="42" height="34.29" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.5"/>
+<text x="621" y="305.71" text-anchor="middle" fill="#d9480f" font-weight="bold">1</text>
+<text x="621" y="340" text-anchor="middle" fill="#222222" font-size="12">91–100</text>
+<polyline points="99,106.97 157,193.39 215,213.49 273,223.57 331,229.93 389,234.44 447,237.87 505,240.59 563,242.83 621,244.71" fill="none" stroke="#222222" stroke-width="1.8" stroke-dasharray="6,4"/>
+<circle cx="99" cy="106.97" r="3.5" fill="#222222" stroke="none" stroke-width="0"/>
+<circle cx="157" cy="193.39" r="3.5" fill="#222222" stroke="none" stroke-width="0"/>
+<circle cx="215" cy="213.49" r="3.5" fill="#222222" stroke="none" stroke-width="0"/>
+<circle cx="273" cy="223.57" r="3.5" fill="#222222" stroke="none" stroke-width="0"/>
+<circle cx="331" cy="229.93" r="3.5" fill="#222222" stroke="none" stroke-width="0"/>
+<circle cx="389" cy="234.44" r="3.5" fill="#222222" stroke="none" stroke-width="0"/>
+<circle cx="447" cy="237.87" r="3.5" fill="#222222" stroke="none" stroke-width="0"/>
+<circle cx="505" cy="240.59" r="3.5" fill="#222222" stroke="none" stroke-width="0"/>
+<circle cx="563" cy="242.83" r="3.5" fill="#222222" stroke="none" stroke-width="0"/>
+<circle cx="621" cy="244.71" r="3.5" fill="#222222" stroke="none" stroke-width="0"/>
+<text x="244" y="100.57" text-anchor="start" fill="#222222" font-size="13">dashed: 10 / ln x at the middle of each block</text>
+<text x="360" y="366" text-anchor="middle" fill="#222222" font-size="13">25 primes in all, 4 in the first block and 1 in the last</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 330" width="620" height="330" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Triangle as half a rectangle</title>
+<defs><marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="620" height="330" fill="#ffffff"/>
+<text x="310.0" y="28.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">A triangle is half of its surrounding rectangle</text>
+<rect x="80.0" y="80.0" width="300.0" height="180.0" fill="#f1f1f1" stroke="#222222" stroke-width="2" stroke-dasharray="6 4"/>
+<polygon points="80.0,260.0 380.0,260.0 190.0,80.0" fill="#f6d5c4" stroke="#d9480f" stroke-width="2.5" stroke-linejoin="round"/>
+<line x1="190.0" y1="80.0" x2="190.0" y2="260.0" stroke="#222222" stroke-width="1.5" stroke-dasharray="4 3"/>
+<polyline points="202.0,260.0 202.0,248.0 190.0,248.0" fill="none" stroke="#222222" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="110.0" y="120.0" text-anchor="middle" font-size="16" fill="#555555" font-weight="bold">1</text>
+<text x="216.0" y="120.0" text-anchor="middle" font-size="16" fill="#222222"></text>
+<text x="340.0" y="130.0" text-anchor="middle" font-size="16" fill="#555555" font-weight="bold">2</text>
+<text x="150.0" y="230.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">1</text>
+<text x="260.0" y="220.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">2</text>
+<line x1="80.0" y1="276.0" x2="380.0" y2="276.0" stroke="#222222" stroke-width="1.2" marker-end="url(#ad)" marker-start="url(#ad)"/>
+<text x="230.0" y="294.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">base b</text>
+<text x="198.0" y="175.0" text-anchor="start" font-size="16" fill="#222222" font-weight="bold" font-style="italic">h</text>
+<text x="420.0" y="130.0" text-anchor="start" font-size="14" fill="#222222">The height splits the</text>
+<text x="420.0" y="150.0" text-anchor="start" font-size="14" fill="#222222">rectangle into halves 1, 2.</text>
+<text x="420.0" y="180.0" text-anchor="start" font-size="14" fill="#222222">Each half is cut in two by</text>
+<text x="420.0" y="200.0" text-anchor="start" font-size="14" fill="#222222">a side of the triangle.</text>
+<text x="420.0" y="240.0" text-anchor="start" font-size="18" fill="#d9480f" font-weight="bold">A = ½ b h</text>
+</svg>

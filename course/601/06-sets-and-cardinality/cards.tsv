@@ -1,0 +1,11 @@
+Injective	Different inputs give different outputs. No collisions.	math::601::sets
+Surjective	Every element of the target is hit. No unused slots.	math::601::sets
+Bijective	Injective and surjective: a perfect pairing.	math::601::sets
+When do two sets have the same size?	When a bijection between them exists.	math::601::sets
+Countable set	Finite, or the same size as \(\mathbb{N}\). You can list it such that every element appears at a finite position.	math::601::sets
+Bijection \(\mathbb{N} \to \mathbb{Z}\)	Even n goes to n/2, odd n goes to \(-(n+1)/2\): 0, -1, 1, -2, 2, ...	math::601::sets
+Why is \(\mathbb{Q}\) countable?	List fractions p/q by diagonals p + q = 2, 3, 4, ... and skip repeats.	math::601::sets
+Cantor diagonal argument	Given any list of reals in (0,1), change the n-th digit of the n-th number. The new number differs from every listed number.	math::601::sets
+Cantor theorem	No surjection \(A \to \mathcal{P}(A)\). The set D = {x : x not in f(x)} is missed. Hence \(|A| < |\mathcal{P}(A)|\).	math::601::sets
+Size of the power set of an n-element set	\(2^n\).	math::601::sets
+Hilbert hotel	A full hotel with rooms 1, 2, 3, ... fits one more guest: move everyone from room n to n + 1.	math::601::sets

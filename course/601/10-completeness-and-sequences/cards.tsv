@@ -1,0 +1,10 @@
+\(a_n \to L\) means	For every \(\varepsilon > 0\) there exists N with \(|a_n - L| < \varepsilon\) for all n > N.	math::601::sequences
+Archimedean property	For every real x some integer n is bigger than x. Hence 1/n gets below any \(\varepsilon\).	math::601::sequences
+Why is a limit unique?	Two limits L, M with \(\varepsilon = |L - M|/2\) give tubes that do not overlap, and late terms must sit in both.	math::601::sequences
+Supremum	The least upper bound of a set.	math::601::sequences
+Completeness axiom	Every nonempty set of reals with an upper bound has a least upper bound in \(\mathbb{R}\).	math::601::sequences
+Why is \(\mathbb{Q}\) not complete?	{x in Q : x ≥ 0, x² < 2} has no least upper bound in Q. The answer \(\sqrt{2}\) is missing.	math::601::sequences
+Monotone convergence theorem	An increasing sequence that is bounded above converges to its supremum.	math::601::sequences
+Limit of \(a_1 = \sqrt{2}, a_{n+1} = \sqrt{2 + a_n}\)	2. Induction shows a_n < 2 and increasing. Then L² = 2 + L gives L = 2.	math::601::sequences
+Is every bounded sequence convergent?	No. \((-1)^n\) is bounded and diverges.	math::601::sequences
+Approximation lemma for sup	For every \(\varepsilon > 0\) some element of S exceeds \(\sup S - \varepsilon\).	math::601::sequences

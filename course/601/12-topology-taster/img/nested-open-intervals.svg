@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 230" width="640" height="230" font-family="sans-serif" font-size="14">
+<title>Open intervals shrinking to one point</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="640" height="230" fill="#fff"/>
+<line x1="60.0" y1="40.0" x2="580.0" y2="40.0" stroke="#222" stroke-width="5"/>
+<circle cx="60.0" cy="40.0" r="6.0" fill="#fff" stroke="#222" stroke-width="2"/>
+<circle cx="580.0" cy="40.0" r="6.0" fill="#fff" stroke="#222" stroke-width="2"/>
+<text x="594.0" y="45.0" text-anchor="start" font-size="13" fill="#222" font-weight="normal">(−1, 1)</text>
+<line x1="190.0" y1="80.0" x2="450.0" y2="80.0" stroke="#222" stroke-width="5"/>
+<circle cx="190.0" cy="80.0" r="6.0" fill="#fff" stroke="#222" stroke-width="2"/>
+<circle cx="450.0" cy="80.0" r="6.0" fill="#fff" stroke="#222" stroke-width="2"/>
+<text x="464.0" y="85.0" text-anchor="start" font-size="13" fill="#222" font-weight="normal">(−1/2, 1/2)</text>
+<line x1="233.3" y1="120.0" x2="406.7" y2="120.0" stroke="#222" stroke-width="5"/>
+<circle cx="233.3" cy="120.0" r="6.0" fill="#fff" stroke="#222" stroke-width="2"/>
+<circle cx="406.7" cy="120.0" r="6.0" fill="#fff" stroke="#222" stroke-width="2"/>
+<text x="420.7" y="125.0" text-anchor="start" font-size="13" fill="#222" font-weight="normal">(−1/3, 1/3)</text>
+<line x1="255.0" y1="160.0" x2="385.0" y2="160.0" stroke="#d9480f" stroke-width="5"/>
+<circle cx="255.0" cy="160.0" r="6.0" fill="#fff" stroke="#222" stroke-width="2"/>
+<circle cx="385.0" cy="160.0" r="6.0" fill="#fff" stroke="#222" stroke-width="2"/>
+<text x="399.0" y="165.0" text-anchor="start" font-size="13" fill="#222" font-weight="normal">(−1/4, 1/4)</text>
+<line x1="320.0" y1="20.0" x2="320.0" y2="200.0" stroke="#888" stroke-width="1.5" stroke-dasharray="4,4"/>
+<circle cx="320.0" cy="200.0" r="6.0" fill="#d9480f" stroke="#d9480f" stroke-width="1"/>
+<text x="332.0" y="205.0" text-anchor="start" font-size="13" fill="#d9480f" font-weight="normal">0: the only point in every interval</text>
+<text x="64.0" y="205.0" text-anchor="start" font-size="13" fill="#555" font-weight="normal">…and so on forever</text>
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 200" width="760" height="200" font-family="sans-serif" font-size="14">
+<title>Integers sorted into three rows by remainder mod 3</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="760" height="200" fill="#fff"/>
+<text x="110.0" y="50.0" text-anchor="end" font-size="13" fill="#222" font-weight="bold">remainder 0</text>
+<rect x="126.0" y="29.0" width="48.0" height="30.0" fill="#f1f3f5" stroke="#222" stroke-width="1.5" rx="6"/>
+<text x="150.0" y="50.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">-6</text>
+<rect x="218.0" y="29.0" width="48.0" height="30.0" fill="#f1f3f5" stroke="#222" stroke-width="1.5" rx="6"/>
+<text x="242.0" y="50.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">-3</text>
+<rect x="310.0" y="29.0" width="48.0" height="30.0" fill="#f1f3f5" stroke="#222" stroke-width="1.5" rx="6"/>
+<text x="334.0" y="50.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">0</text>
+<rect x="402.0" y="29.0" width="48.0" height="30.0" fill="#f1f3f5" stroke="#222" stroke-width="1.5" rx="6"/>
+<text x="426.0" y="50.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">3</text>
+<rect x="494.0" y="29.0" width="48.0" height="30.0" fill="#f1f3f5" stroke="#222" stroke-width="1.5" rx="6"/>
+<text x="518.0" y="50.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">6</text>
+<rect x="586.0" y="29.0" width="48.0" height="30.0" fill="#f1f3f5" stroke="#222" stroke-width="1.5" rx="6"/>
+<text x="610.0" y="50.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">9</text>
+<text x="110.0" y="100.0" text-anchor="end" font-size="13" fill="#222" font-weight="bold">remainder 1</text>
+<rect x="156.0" y="79.0" width="48.0" height="30.0" fill="#ffe8dc" stroke="#d9480f" stroke-width="1.5" rx="6"/>
+<text x="180.0" y="100.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">-5</text>
+<rect x="248.0" y="79.0" width="48.0" height="30.0" fill="#ffe8dc" stroke="#d9480f" stroke-width="1.5" rx="6"/>
+<text x="272.0" y="100.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">-2</text>
+<rect x="340.0" y="79.0" width="48.0" height="30.0" fill="#ffe8dc" stroke="#d9480f" stroke-width="1.5" rx="6"/>
+<text x="364.0" y="100.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">1</text>
+<rect x="432.0" y="79.0" width="48.0" height="30.0" fill="#ffe8dc" stroke="#d9480f" stroke-width="1.5" rx="6"/>
+<text x="456.0" y="100.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">4</text>
+<rect x="524.0" y="79.0" width="48.0" height="30.0" fill="#ffe8dc" stroke="#d9480f" stroke-width="1.5" rx="6"/>
+<text x="548.0" y="100.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">7</text>
+<rect x="616.0" y="79.0" width="48.0" height="30.0" fill="#ffe8dc" stroke="#d9480f" stroke-width="1.5" rx="6"/>
+<text x="640.0" y="100.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">10</text>
+<text x="110.0" y="150.0" text-anchor="end" font-size="13" fill="#222" font-weight="bold">remainder 2</text>
+<rect x="186.0" y="129.0" width="48.0" height="30.0" fill="#dee2e6" stroke="#222" stroke-width="1.5" rx="6"/>
+<text x="210.0" y="150.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">-4</text>
+<rect x="278.0" y="129.0" width="48.0" height="30.0" fill="#dee2e6" stroke="#222" stroke-width="1.5" rx="6"/>
+<text x="302.0" y="150.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">-1</text>
+<rect x="370.0" y="129.0" width="48.0" height="30.0" fill="#dee2e6" stroke="#222" stroke-width="1.5" rx="6"/>
+<text x="394.0" y="150.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">2</text>
+<rect x="462.0" y="129.0" width="48.0" height="30.0" fill="#dee2e6" stroke="#222" stroke-width="1.5" rx="6"/>
+<text x="486.0" y="150.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">5</text>
+<rect x="554.0" y="129.0" width="48.0" height="30.0" fill="#dee2e6" stroke="#222" stroke-width="1.5" rx="6"/>
+<text x="578.0" y="150.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">8</text>
+<rect x="646.0" y="129.0" width="48.0" height="30.0" fill="#dee2e6" stroke="#222" stroke-width="1.5" rx="6"/>
+<text x="670.0" y="150.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">11</text>
+<text x="380.0" y="192.0" text-anchor="middle" font-size="13" fill="#555" font-weight="normal">Mod 3, every integer falls into exactly one of three rows. Same row means congruent.</text>
+</svg>

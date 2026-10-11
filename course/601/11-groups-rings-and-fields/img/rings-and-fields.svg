@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 280" width="620" height="280" font-family="sans-serif" font-size="14">
+<title>Rings and fields among familiar number systems</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="620" height="280" fill="#fff"/>
+<rect x="20.0" y="20.0" width="580.0" height="240.0" fill="#fff" stroke="#222" stroke-width="2" rx="10"/>
+<text x="40.0" y="48.0" text-anchor="start" font-size="14" fill="#222" font-weight="bold">rings: add, subtract, multiply</text>
+<text x="60.0" y="90.0" text-anchor="start" font-size="14" fill="#222" font-weight="normal">ℤ (integers)</text>
+<text x="60.0" y="120.0" text-anchor="start" font-size="14" fill="#222" font-weight="normal">ℤₙ for composite n, such as ℤ₆</text>
+<text x="60.0" y="150.0" text-anchor="start" font-size="14" fill="#222" font-weight="normal">polynomials with integer coefficients</text>
+<rect x="330.0" y="70.0" width="250.0" height="170.0" fill="#ffe8dc" stroke="#d9480f" stroke-width="2.5" rx="10"/>
+<text x="350.0" y="98.0" text-anchor="start" font-size="14" fill="#d9480f" font-weight="bold">fields: also divide</text>
+<text x="350.0" y="130.0" text-anchor="start" font-size="16" fill="#222" font-weight="normal">ℚ  ℝ  ℂ</text>
+<text x="350.0" y="162.0" text-anchor="start" font-size="14" fill="#222" font-weight="normal">ℤₚ for prime p, such as ℤ₇</text>
+<text x="350.0" y="194.0" text-anchor="start" font-size="13" fill="#555" font-weight="normal">every nonzero x has 1/x</text>
+<text x="60.0" y="220.0" text-anchor="start" font-size="13" fill="#555" font-weight="normal">2 has no inverse in ℤ: 1/2 is not an integer</text>
+</svg>

@@ -1,0 +1,10 @@
+Two parts of an induction proof	Base case P(1). Inductive step: P(k) implies P(k+1) for every k.	math::601::induction
+Domino picture of induction	Push the first domino (base case). Each domino knocks over the next (step). All fall.	math::601::induction
+\(1 + 2 + \dots + n\)	\(\frac{n(n+1)}{2}\). Two staircases make an n by n+1 rectangle.	math::601::induction
+\(1 + 3 + 5 + \dots + (2n-1)\)	\(n^2\). Each odd number is an L-shaped layer of a square.	math::601::induction
+Key move in an inductive step for sums	Peel off the last term to find P(k) inside P(k+1), then use the hypothesis.	math::601::induction
+Strong induction	Assume P(1), ..., P(k) all hold, then prove P(k+1). Used for prime factorizations.	math::601::induction
+Where does the all-horses-same-color proof break?	From k = 1 to k = 2: the two groups of k horses do not overlap.	math::601::induction
+For which n is \(2^n < n!\)?	For every \(n \geq 4\). The base case is n = 4: 16 < 24.	math::601::induction
+How is a loop invariant like induction?	True before the first pass (base case), preserved by every pass (step), hence true at exit.	math::601::induction
+Why does induction work?	If some P(n) failed, take the smallest failure. It is not 1, and P(n-1) holds, and the step gives P(n). Contradiction.	math::601::induction

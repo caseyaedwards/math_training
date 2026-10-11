@@ -1,0 +1,9 @@
+Definition of \(\lim_{x \to a} f(x) = L\)	For every \(\varepsilon > 0\) there exists \(\delta > 0\) such that \(0 < |x - a| < \delta\) implies \(|f(x) - L| < \varepsilon\).	math::601::limits
+Meaning of \(|x - a|\)	The distance between x and a on the number line.	math::601::limits
+Why \(0 < |x - a|\) in the definition?	The limit ignores the value at a itself. f need not be defined there.	math::601::limits
+\(\delta\) for \(\lim_{x \to 3}(2x + 1) = 7\)	\(\delta = \varepsilon/2\). The slope 2 doubles input error.	math::601::limits
+\(\delta\) for \(\lim_{x \to 2} x^2 = 4\)	\(\delta = \min(1, \varepsilon/5)\). Capping at 1 keeps \(|x + 2| < 5\).	math::601::limits
+What can \(\delta\) depend on?	\(\varepsilon\) and a. Never x.	math::601::limits
+Continuity at a	\(\lim_{x \to a} f(x) = f(a)\).	math::601::limits
+Why does sgn x have no limit at 0?	With \(\varepsilon = 1\), any window around 0 holds values 1 and -1, which cannot both be within 1 of one L.	math::601::limits
+Two stages of an epsilon-delta proof	Scratch work backward to find \(\delta\), then a clean forward proof.	math::601::limits

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 230" width="680" height="230" font-family="sans-serif" font-size="14">
+<title>Where the all horses are the same color argument breaks</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="680" height="230" fill="#fff"/>
+<text x="20.0" y="58.0" text-anchor="start" font-size="13" fill="#222" font-weight="bold">k + 1 = 3: groups overlap at H2</text>
+<circle cx="50.0" cy="110.0" r="20.0" fill="#f1f3f5" stroke="#222" stroke-width="1.5"/>
+<text x="50.0" y="115.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">H1</text>
+<circle cx="110.0" cy="110.0" r="20.0" fill="#f1f3f5" stroke="#222" stroke-width="1.5"/>
+<text x="110.0" y="115.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">H2</text>
+<circle cx="170.0" cy="110.0" r="20.0" fill="#f1f3f5" stroke="#222" stroke-width="1.5"/>
+<text x="170.0" y="115.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">H3</text>
+<path d="M 26 84 L 26 76 L 134 76 L 134 84" fill="none" stroke="#222" stroke-width="2"/>
+<path d="M 86 136 L 86 144 L 194 144 L 194 136" fill="none" stroke="#d9480f" stroke-width="2"/>
+<text x="110.0" y="175.0" text-anchor="middle" font-size="12" fill="#555" font-weight="normal">first k (black), last k (orange)</text>
+<text x="380.0" y="58.0" text-anchor="start" font-size="13" fill="#222" font-weight="bold">k + 1 = 2: no overlap</text>
+<circle cx="410.0" cy="110.0" r="20.0" fill="#f1f3f5" stroke="#222" stroke-width="1.5"/>
+<text x="410.0" y="115.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">H1</text>
+<circle cx="470.0" cy="110.0" r="20.0" fill="#f1f3f5" stroke="#222" stroke-width="1.5"/>
+<text x="470.0" y="115.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">H2</text>
+<path d="M 386 84 L 386 76 L 434 76 L 434 84" fill="none" stroke="#222" stroke-width="2"/>
+<path d="M 446 136 L 446 144 L 494 144 L 494 136" fill="none" stroke="#d9480f" stroke-width="2"/>
+<text x="460.0" y="175.0" text-anchor="middle" font-size="12" fill="#d9480f" font-weight="normal">nothing links H1 to H2</text>
+<text x="340.0" y="215.0" text-anchor="middle" font-size="13" fill="#555" font-weight="normal">The step works from 2 to 3 and up. It fails from 1 to 2, and the chain never starts.</text>
+</svg>

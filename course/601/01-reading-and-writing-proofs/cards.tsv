@@ -1,0 +1,10 @@
+When is \(P \Rightarrow Q\) false?	Only when P is true and Q is false. A false hypothesis makes the implication true.	math::601::proofs
+What is a proof?	A chain of statements from the hypotheses to the conclusion, each step justified by a definition, a known fact or a rule of logic.	math::601::proofs
+Negate: for every x, claim(x).	There exists an x with not claim(x). One counterexample is enough.	math::601::proofs
+Negate: there exists x with claim(x).	For every x, not claim(x).	math::601::proofs
+What is the negation of \(P \Rightarrow Q\)?	P and not Q.	math::601::proofs
+Is \(\forall x\ \exists y,\ y > x\) the same as \(\exists y\ \forall x,\ y > x\)?	No. The first is true (take y = x + 1). The second claims one number beats every number, which is false. Quantifier order matters.	math::601::proofs
+Read a multi-quantifier statement as a game. Who picks what?	The challenger picks every object behind a for every. You pick every object behind a there exists. Your pick can depend only on choices to its left.	math::601::proofs
+Where is the error in the fake proof that 2 = 1?	It divides both sides by \(a - b\), which equals 0 because a = b.	math::601::proofs
+Does checking 39 cases prove a for-every claim?	No. \(n^2 + n + 41\) is prime for n = 1 to 39 and fails at n = 40: \(1681 = 41^2\).	math::601::proofs
+Five steps to read a proof	Name hypothesis and conclusion. Write every definition. Try small examples. Justify each line. Find the line where the hypothesis does real work.	math::601::proofs

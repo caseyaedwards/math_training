@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 410" width="420" height="410" font-family="sans-serif" font-size="14">
+<title>Multiplication table mod 7 with inverses highlighted</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="420" height="410" fill="#fff"/>
+<text x="48.0" y="40.0" text-anchor="middle" font-size="18" fill="#222" font-weight="bold">×</text>
+<text x="95.0" y="46.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">1</text>
+<text x="56.0" y="90.0" text-anchor="end" font-size="14" fill="#222" font-weight="bold">1</text>
+<text x="145.0" y="46.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">2</text>
+<text x="56.0" y="140.0" text-anchor="end" font-size="14" fill="#222" font-weight="bold">2</text>
+<text x="195.0" y="46.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">3</text>
+<text x="56.0" y="190.0" text-anchor="end" font-size="14" fill="#222" font-weight="bold">3</text>
+<text x="245.0" y="46.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">4</text>
+<text x="56.0" y="240.0" text-anchor="end" font-size="14" fill="#222" font-weight="bold">4</text>
+<text x="295.0" y="46.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">5</text>
+<text x="56.0" y="290.0" text-anchor="end" font-size="14" fill="#222" font-weight="bold">5</text>
+<text x="345.0" y="46.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">6</text>
+<text x="56.0" y="340.0" text-anchor="end" font-size="14" fill="#222" font-weight="bold">6</text>
+<rect x="70.0" y="60.0" width="50.0" height="50.0" fill="#d9480f" stroke="#888" stroke-width="1" rx="0"/>
+<text x="95.0" y="90.0" text-anchor="middle" font-size="14" fill="#fff" font-weight="bold">1</text>
+<rect x="120.0" y="60.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="145.0" y="90.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">2</text>
+<rect x="170.0" y="60.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="195.0" y="90.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">3</text>
+<rect x="220.0" y="60.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="245.0" y="90.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">4</text>
+<rect x="270.0" y="60.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="295.0" y="90.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">5</text>
+<rect x="320.0" y="60.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="345.0" y="90.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">6</text>
+<rect x="70.0" y="110.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="95.0" y="140.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">2</text>
+<rect x="120.0" y="110.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="145.0" y="140.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">4</text>
+<rect x="170.0" y="110.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="195.0" y="140.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">6</text>
+<rect x="220.0" y="110.0" width="50.0" height="50.0" fill="#d9480f" stroke="#888" stroke-width="1" rx="0"/>
+<text x="245.0" y="140.0" text-anchor="middle" font-size="14" fill="#fff" font-weight="bold">1</text>
+<rect x="270.0" y="110.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="295.0" y="140.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">3</text>
+<rect x="320.0" y="110.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="345.0" y="140.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">5</text>
+<rect x="70.0" y="160.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="95.0" y="190.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">3</text>
+<rect x="120.0" y="160.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="145.0" y="190.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">6</text>
+<rect x="170.0" y="160.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="195.0" y="190.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">2</text>
+<rect x="220.0" y="160.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="245.0" y="190.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">5</text>
+<rect x="270.0" y="160.0" width="50.0" height="50.0" fill="#d9480f" stroke="#888" stroke-width="1" rx="0"/>
+<text x="295.0" y="190.0" text-anchor="middle" font-size="14" fill="#fff" font-weight="bold">1</text>
+<rect x="320.0" y="160.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="345.0" y="190.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">4</text>
+<rect x="70.0" y="210.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="95.0" y="240.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">4</text>
+<rect x="120.0" y="210.0" width="50.0" height="50.0" fill="#d9480f" stroke="#888" stroke-width="1" rx="0"/>
+<text x="145.0" y="240.0" text-anchor="middle" font-size="14" fill="#fff" font-weight="bold">1</text>
+<rect x="170.0" y="210.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="195.0" y="240.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">5</text>
+<rect x="220.0" y="210.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="245.0" y="240.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">2</text>
+<rect x="270.0" y="210.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="295.0" y="240.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">6</text>
+<rect x="320.0" y="210.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="345.0" y="240.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">3</text>
+<rect x="70.0" y="260.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="95.0" y="290.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">5</text>
+<rect x="120.0" y="260.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="145.0" y="290.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">3</text>
+<rect x="170.0" y="260.0" width="50.0" height="50.0" fill="#d9480f" stroke="#888" stroke-width="1" rx="0"/>
+<text x="195.0" y="290.0" text-anchor="middle" font-size="14" fill="#fff" font-weight="bold">1</text>
+<rect x="220.0" y="260.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="245.0" y="290.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">6</text>
+<rect x="270.0" y="260.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="295.0" y="290.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">4</text>
+<rect x="320.0" y="260.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="345.0" y="290.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">2</text>
+<rect x="70.0" y="310.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="95.0" y="340.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">6</text>
+<rect x="120.0" y="310.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="145.0" y="340.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">5</text>
+<rect x="170.0" y="310.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="195.0" y="340.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">4</text>
+<rect x="220.0" y="310.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="245.0" y="340.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">3</text>
+<rect x="270.0" y="310.0" width="50.0" height="50.0" fill="#fff" stroke="#888" stroke-width="1" rx="0"/>
+<text x="295.0" y="340.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">2</text>
+<rect x="320.0" y="310.0" width="50.0" height="50.0" fill="#d9480f" stroke="#888" stroke-width="1" rx="0"/>
+<text x="345.0" y="340.0" text-anchor="middle" font-size="14" fill="#fff" font-weight="bold">1</text>
+<text x="210.0" y="390.0" text-anchor="middle" font-size="13" fill="#555" font-weight="normal">one 1 in every row: each a has an inverse mod 7</text>
+<text x="210.0" y="410.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="normal">1↔1, 2↔4, 3↔5, 6↔6</text>
+</svg>

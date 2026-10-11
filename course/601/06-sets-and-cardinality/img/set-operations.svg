@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 230" width="760" height="230" font-family="sans-serif" font-size="14">
+<title>Union, intersection and difference of two sets</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="760" height="230" fill="#fff"/>
+<circle cx="95.0" cy="110.0" r="62.0" fill="#ffe8dc" stroke="none" stroke-width="0"/>
+<circle cx="165.0" cy="110.0" r="62.0" fill="#ffe8dc" stroke="none" stroke-width="0"/>
+<circle cx="95.0" cy="110.0" r="62.0" fill="none" stroke="#222" stroke-width="2"/>
+<circle cx="165.0" cy="110.0" r="62.0" fill="none" stroke="#222" stroke-width="2"/>
+<text x="65.0" y="115.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">A</text>
+<text x="195.0" y="115.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">B</text>
+<text x="130.0" y="205.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">A ∪ B (or)</text>
+<clipPath id="c1"><circle cx="345" cy="110" r="62"/></clipPath>
+<circle cx="415" cy="110" r="62" fill="#ffe8dc" clip-path="url(#c1)"/>
+<circle cx="345.0" cy="110.0" r="62.0" fill="none" stroke="#222" stroke-width="2"/>
+<circle cx="415.0" cy="110.0" r="62.0" fill="none" stroke="#222" stroke-width="2"/>
+<text x="315.0" y="115.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">A</text>
+<text x="445.0" y="115.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">B</text>
+<text x="380.0" y="205.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">A ∩ B (and)</text>
+<circle cx="595.0" cy="110.0" r="62.0" fill="#ffe8dc" stroke="none" stroke-width="0"/>
+<circle cx="665.0" cy="110.0" r="62.0" fill="#fff" stroke="none" stroke-width="0"/>
+<circle cx="595.0" cy="110.0" r="62.0" fill="none" stroke="#222" stroke-width="2"/>
+<circle cx="665.0" cy="110.0" r="62.0" fill="none" stroke="#222" stroke-width="2"/>
+<text x="565.0" y="115.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">A</text>
+<text x="695.0" y="115.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">B</text>
+<text x="630.0" y="205.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">A \ B (A, not B)</text>
+<text x="380.0" y="28.0" text-anchor="middle" font-size="13" fill="#555" font-weight="normal">Shaded region = the result</text>
+</svg>

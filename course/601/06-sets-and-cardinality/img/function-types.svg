@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 270" width="780" height="270" font-family="sans-serif" font-size="14">
+<title>Injective, surjective and bijective functions</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="780" height="270" fill="#fff"/>
+<ellipse cx="70" cy="140" rx="34" ry="90" fill="#f1f3f5" stroke="#222" stroke-width="1.5"/>
+<ellipse cx="210" cy="140" rx="34" ry="90" fill="#f1f3f5" stroke="#222" stroke-width="1.5"/>
+<circle cx="210.0" cy="65.0" r="7.0" fill="#222" stroke="#222" stroke-width="2"/>
+<circle cx="210.0" cy="115.0" r="7.0" fill="#fff" stroke="#d9480f" stroke-width="2"/>
+<circle cx="210.0" cy="165.0" r="7.0" fill="#222" stroke="#222" stroke-width="2"/>
+<circle cx="210.0" cy="215.0" r="7.0" fill="#222" stroke="#222" stroke-width="2"/>
+<circle cx="70.0" cy="90.0" r="7.0" fill="#222" stroke="#222" stroke-width="1"/>
+<line x1="79.0" y1="90.0" x2="199.0" y2="65.0" stroke="#222" stroke-width="1.8" marker-end="url(#arr)"/>
+<circle cx="70.0" cy="140.0" r="7.0" fill="#222" stroke="#222" stroke-width="1"/>
+<line x1="79.0" y1="140.0" x2="199.0" y2="165.0" stroke="#222" stroke-width="1.8" marker-end="url(#arr)"/>
+<circle cx="70.0" cy="190.0" r="7.0" fill="#222" stroke="#222" stroke-width="1"/>
+<line x1="79.0" y1="190.0" x2="199.0" y2="215.0" stroke="#222" stroke-width="1.8" marker-end="url(#arr)"/>
+<text x="140.0" y="254.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">injective, not onto</text>
+<ellipse cx="330" cy="140" rx="34" ry="90" fill="#f1f3f5" stroke="#222" stroke-width="1.5"/>
+<ellipse cx="470" cy="140" rx="34" ry="90" fill="#f1f3f5" stroke="#222" stroke-width="1.5"/>
+<circle cx="470.0" cy="90.0" r="7.0" fill="#222" stroke="#222" stroke-width="2"/>
+<circle cx="470.0" cy="140.0" r="7.0" fill="#222" stroke="#222" stroke-width="2"/>
+<circle cx="470.0" cy="190.0" r="7.0" fill="#222" stroke="#222" stroke-width="2"/>
+<circle cx="330.0" cy="65.0" r="7.0" fill="#222" stroke="#222" stroke-width="1"/>
+<line x1="339.0" y1="65.0" x2="459.0" y2="90.0" stroke="#222" stroke-width="1.8" marker-end="url(#arr)"/>
+<circle cx="330.0" cy="115.0" r="7.0" fill="#222" stroke="#222" stroke-width="1"/>
+<line x1="339.0" y1="115.0" x2="459.0" y2="140.0" stroke="#d9480f" stroke-width="1.8" marker-end="url(#arra)"/>
+<circle cx="330.0" cy="165.0" r="7.0" fill="#222" stroke="#222" stroke-width="1"/>
+<line x1="339.0" y1="165.0" x2="459.0" y2="140.0" stroke="#d9480f" stroke-width="1.8" marker-end="url(#arra)"/>
+<circle cx="330.0" cy="215.0" r="7.0" fill="#222" stroke="#222" stroke-width="1"/>
+<line x1="339.0" y1="215.0" x2="459.0" y2="190.0" stroke="#222" stroke-width="1.8" marker-end="url(#arr)"/>
+<text x="400.0" y="254.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">onto, not injective</text>
+<ellipse cx="590" cy="140" rx="34" ry="90" fill="#f1f3f5" stroke="#222" stroke-width="1.5"/>
+<ellipse cx="730" cy="140" rx="34" ry="90" fill="#f1f3f5" stroke="#222" stroke-width="1.5"/>
+<circle cx="730.0" cy="90.0" r="7.0" fill="#222" stroke="#222" stroke-width="2"/>
+<circle cx="730.0" cy="140.0" r="7.0" fill="#222" stroke="#222" stroke-width="2"/>
+<circle cx="730.0" cy="190.0" r="7.0" fill="#222" stroke="#222" stroke-width="2"/>
+<circle cx="590.0" cy="90.0" r="7.0" fill="#222" stroke="#222" stroke-width="1"/>
+<line x1="599.0" y1="90.0" x2="719.0" y2="140.0" stroke="#222" stroke-width="1.8" marker-end="url(#arr)"/>
+<circle cx="590.0" cy="140.0" r="7.0" fill="#222" stroke="#222" stroke-width="1"/>
+<line x1="599.0" y1="140.0" x2="719.0" y2="190.0" stroke="#222" stroke-width="1.8" marker-end="url(#arr)"/>
+<circle cx="590.0" cy="190.0" r="7.0" fill="#222" stroke="#222" stroke-width="1"/>
+<line x1="599.0" y1="190.0" x2="719.0" y2="90.0" stroke="#222" stroke-width="1.8" marker-end="url(#arr)"/>
+<text x="660.0" y="254.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">bijective</text>
+<text x="390.0" y="26.0" text-anchor="middle" font-size="13" fill="#555" font-weight="normal">orange arrows: a collision. hollow dot: an unused slot.</text>
+</svg>

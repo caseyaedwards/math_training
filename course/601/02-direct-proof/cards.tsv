@@ -1,0 +1,10 @@
+Definition: n is even	\(n = 2k\) for some integer k.	math::601::direct-proof
+Definition: n is odd	\(n = 2k + 1\) for some integer k.	math::601::direct-proof
+Definition: \(a \mid b\)	\(b = ak\) for some integer k.	math::601::direct-proof
+Recipe for a direct proof	Assume the hypothesis, unpack definitions into algebra, rearrange, repack into the definition the conclusion needs, check the inside is an integer.	math::601::direct-proof
+Prove: odd + odd is even.	\((2k+1) + (2m+1) = 2(k + m + 1)\), and \(k + m + 1\) is an integer.	math::601::direct-proof
+Prove: the square of an odd number is odd.	\((2k+1)^2 = 4k^2 + 4k + 1 = 2(2k^2 + 2k) + 1\).	math::601::direct-proof
+Prove: if \(a \mid b\) and \(b \mid c\) then \(a \mid c\).	\(b = ak\), \(c = bm\), hence \(c = a(km)\).	math::601::direct-proof
+If \(d \mid a\) and \(d \mid b\), what else does d divide?	Every combination \(ax + by\) with integers x, y.	math::601::direct-proof
+Why is \(7 = 2 \cdot 3.5\) not a proof that 7 is even?	The definition requires an integer k. 3.5 is not an integer.	math::601::direct-proof
+Common mistake: \(a = 2k+1\) and \(b = 2k+1\)	Reusing k forces a = b. Use a new letter for each unknown.	math::601::direct-proof

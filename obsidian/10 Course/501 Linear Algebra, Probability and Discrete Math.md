@@ -5,23 +5,33 @@ confidence: 0
 started:
 finished:
 next_review:
-material: https://github.com/caseyaedwards/math_training/tree/main/course/501
+material: https://caseyaedwards.github.io/math_training/course/501/
 tags: [course]
 ---
 # 501 Linear Algebra, Probability and Discrete Math
 
-**Material:** [course/501 on GitHub](https://github.com/caseyaedwards/math_training/tree/main/course/501)
-**Scope:** Vectors, matrices, eigenvalues, probability, combinatorics, graph theory, logic
+**Read it:** [501 Linear Algebra, Probability and Discrete Math on the website](https://caseyaedwards.github.io/math_training/course/501/) · [source on GitHub](https://github.com/caseyaedwards/math_training/tree/main/course/501)
+**Covers:** Logic, counting, probability, distributions, graphs, vectors, matrices, eigenvalues
 
-## Units
-<!-- Add one line per unit as the course content lands. Check it when done and add a confidence score. -->
-- [ ] Unit one:
-- [ ] Unit two:
-- [ ] Unit three:
+## Lessons
+<!-- Check a lesson when you finish its Try It exercises. Put the confidence score at the end of the line. -->
+- [ ] 01 [Logic and Truth Tables](https://caseyaedwards.github.io/math_training/course/501/01-logic-and-truth-tables/)
+- [ ] 02 [Sets and Functions](https://caseyaedwards.github.io/math_training/course/501/02-sets-and-functions/)
+- [ ] 03 [Counting: Permutations, Combinations and the Pigeonhole Principle](https://caseyaedwards.github.io/math_training/course/501/03-counting/)
+- [ ] 04 [Probability Basics](https://caseyaedwards.github.io/math_training/course/501/04-probability-basics/)
+- [ ] 05 [Conditional Probability and Bayes](https://caseyaedwards.github.io/math_training/course/501/05-conditional-probability-and-bayes/)
+- [ ] 06 [Random Variables, Expectation and Variance](https://caseyaedwards.github.io/math_training/course/501/06-random-variables-expectation-variance/)
+- [ ] 07 [Common Distributions: Binomial, Poisson, Normal, Exponential](https://caseyaedwards.github.io/math_training/course/501/07-common-distributions/)
+- [ ] 08 [Graph Theory Basics: Paths, Trees, BFS, DFS and Shortest Paths](https://caseyaedwards.github.io/math_training/course/501/08-graph-theory-basics/)
+- [ ] 09 [Vectors and the Dot Product](https://caseyaedwards.github.io/math_training/course/501/09-vectors-and-dot-product/)
+- [ ] 10 [Matrices as Transformations](https://caseyaedwards.github.io/math_training/course/501/10-matrices-as-transformations/)
+- [ ] 11 [Solving Systems With Gaussian Elimination](https://caseyaedwards.github.io/math_training/course/501/11-solving-systems-gaussian-elimination/)
+- [ ] 12 [Determinants as Area Scaling](https://caseyaedwards.github.io/math_training/course/501/12-determinants-as-area-scaling/)
+- [ ] 13 [Eigenvalues and Eigenvectors](https://caseyaedwards.github.io/math_training/course/501/13-eigenvalues-and-eigenvectors/)
 
 ## Checkpoint
-- [ ] Finished the quiz and problem set for the level
-- [ ] Can explain the key idea of every unit out loud, with a diagram
+- [ ] Passed the [501 checkpoint](https://caseyaedwards.github.io/math_training/course/501/checkpoint/) with 80% or better
+- [ ] Can explain the key idea of every lesson out loud, with a diagram
 - [ ] Wrote concept cards for the big ideas in `60 Concepts/`
 
 ## Session Log

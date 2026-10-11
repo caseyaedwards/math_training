@@ -3,12 +3,12 @@ workshop: Statistics for Monitoring and Anomaly Detection
 status: not-started
 started:
 finished:
-material: https://github.com/caseyaedwards/math_training/tree/main/workshops/statistics-for-monitoring-and-anomaly-detection
+material: https://caseyaedwards.github.io/math_training/workshops/statistics-for-monitoring-and-anomaly-detection/
 tags: [workshop]
 ---
 # Statistics for Monitoring and Anomaly Detection
 
-**Material:** [workshops/statistics-for-monitoring-and-anomaly-detection on GitHub](https://github.com/caseyaedwards/math_training/tree/main/workshops/statistics-for-monitoring-and-anomaly-detection)
+**Read it:** [Statistics for Monitoring and Anomaly Detection on the website](https://caseyaedwards.github.io/math_training/workshops/statistics-for-monitoring-and-anomaly-detection/) · [source and code on GitHub](https://github.com/caseyaedwards/math_training/tree/main/workshops/statistics-for-monitoring-and-anomaly-detection)
 
 ## Math It Uses
 -

@@ -3,14 +3,18 @@ tags: [workshop, dashboard]
 ---
 # Workshops Overview
 
-Real-world applications. The list is provisional, and several workshops lean toward SRE work.
+10 real-world applications. Each workshop page lists the course level it needs.
+Do one workshop per level. Read them on the [website](https://caseyaedwards.github.io/math_training/workshops/).
 
-- [[Exponential Growth in Interest, Epidemics and Load]]
-- [[Probability for On-Call Error Budgets and SLOs]]
-- [[Linear Algebra for Graphics and ML]]
-- [[Graph Theory for Networks and Dependencies]]
-- [[Number Theory for Cryptography]]
 - [[Calculus of Rates in Physics and Queues]]
+- [[Exponential Growth in Interest, Epidemics, and Load]]
+- [[Games and Probability]]
+- [[Graph Theory for Networks and Dependencies]]
+- [[Linear Algebra for Graphics and ML]]
+- [[Maps and Projections]]
+- [[Music and Frequencies]]
+- [[Number Theory for Cryptography]]
+- [[Probability for On-Call Error Budgets and SLOs]]
 - [[Statistics for Monitoring and Anomaly Detection]]
 
 ```dataview

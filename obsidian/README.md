@@ -2,7 +2,7 @@
 
 This folder is an [Obsidian](https://obsidian.md) vault for tracking my own progress.
 The learning material lives in the rest of this repository: course, tracks, workshops, SVG diagrams, history and resources.
-Notes here link to that material on GitHub.
+Notes here link to that material on the [course website](https://caseyaedwards.github.io/math_training/).
 
 ## Open the Vault
 

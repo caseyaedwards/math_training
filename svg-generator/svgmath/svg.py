@@ -76,6 +76,11 @@ class Element:
         if not self.children:
             body = self.text if self.raw else esc(self.text)
             return f"{pad}<{self.tag}{attrs}>{body}</{self.tag}>"
+        if self.tag in ("text", "tspan"):
+            # whitespace between tspans renders as a visible space, so keep them on one line
+            inner = "".join(c.render(0) for c in self.children)
+            head = (self.text if self.raw else esc(self.text)) if self.text else ""
+            return f"{pad}<{self.tag}{attrs}>{head}{inner}</{self.tag}>"
         inner = "\n".join(c.render(indent + 1) for c in self.children)
         head = (self.text if self.raw else esc(self.text)) if self.text else ""
         return f"{pad}<{self.tag}{attrs}>{head}\n{inner}\n{pad}</{self.tag}>"
@@ -108,12 +113,17 @@ SYMBOLS = {
     r"\triangle": "△", r"\sqrt": "√", r"\equiv": "≡", r"\prime": "′",
     r"\mathbb{R}": "ℝ", r"\mathbb{Z}": "ℤ", r"\mathbb{N}": "ℕ",
     r"\mathbb{Q}": "ℚ", r"\mathbb{C}": "ℂ", r"\ldots": "…",
+    r"\leftrightarrow": "↔", r"\Rightarrow": "⇒", r"\circ": "∘", r"\varphi": "φ", r"\rho": "ρ",
+    r"\tau": "τ", r"\psi": "ψ", r"\chi": "χ", r"\eta": "η", r"\zeta": "ζ", r"\kappa": "κ",
 }
 
 _SYMBOL_RE = re.compile("|".join(re.escape(k) for k in sorted(SYMBOLS, key=len, reverse=True)))
 
 
 def replace_symbols(s: str) -> str:
+    s = re.sub(r"\\bar\{(.)\}", "\\1\u0305", s)
+    s = re.sub(r"\\hat\{(.)\}", "\\1\u0302", s)
+    s = s.replace("\\%", "%")
     s = _SYMBOL_RE.sub(lambda m: SYMBOLS[m.group(0)], s)
     return s.replace("sqrt(", "√(")
 
@@ -122,7 +132,7 @@ def _parse_math(s: str):
     """Splits math markup into (text, mode) runs. mode is '', 'sup', or 'sub'."""
     s = replace_symbols(s)
     # a hyphen between spaces, at the start, or before a digit, letter, or bracket is a minus sign
-    s = re.sub(r"(^|[\s(=+\-−,\[{^_])-(?=[\s\dA-Za-z(√πθ.])", lambda m: m.group(1) + "−", s)
+    s = re.sub(r"(^|[\s(=+\-−,\[{^_])-(?=[\s\dA-Za-z(√.∞\u0370-\u03ff])", lambda m: m.group(1) + "−", s)
     s = re.sub(r"(?<=[A-Za-z0-9)])-(?=[\d(])", "−", s)
     runs = []
     buf = ""
@@ -157,9 +167,9 @@ def _parse_math(s: str):
 def _italicize(run: str):
     """Splits a run into (text, italic) pieces: lone latin letters are italic."""
     out = []
-    for m in re.finditer(r"(?<![A-Za-z])[A-Za-z](?![A-Za-z])|[^A-Za-z]+|[A-Za-z]+", run):
+    for m in re.finditer(r"(?<![A-Za-z])[A-Za-z][\u0300-\u036f]*(?![A-Za-z])|[^A-Za-z]+|[A-Za-z]+", run):
         tok = m.group(0)
-        italic = len(tok) == 1 and tok.isalpha()
+        italic = len(tok.rstrip("\u0300\u0301\u0302\u0303\u0304\u0305")) == 1 and tok[0].isalpha()
         out.append((tok, italic))
     return out
 
@@ -186,9 +196,6 @@ def math_tspans(el: Element, s: str, italic_vars: bool = True) -> Element:
             if italic:
                 ts.set(font_style="italic")
             el.add(ts)
-    if abs(shift) > 1e-9:
-        # zero-width tspan to restore the baseline for anything after
-        el.add(Element("tspan", "​", dy=f"{-shift:.2f}em"))
     return el
 
 
@@ -435,7 +442,7 @@ class Canvas:
     def label_box(self, x, y, s, size=theme.LABEL_SIZE, color=theme.INK, fill=theme.PAPER,
                   border=None, math=False, pad=6, anchor="middle"):
         """Draws text inside a rounded box centered at (x, y)."""
-        w = text_width(s, size, "serif" if math else "sans") + 2 * pad
+        w = text_width(s, size, "serif" if math else "sans") * (1.12 if math else 1.0) + 2 * pad
         h = size + 2 * pad - 2
         left = {"middle": x - w / 2, "start": x, "end": x - w}[anchor]
         self.rect(left, y - h / 2, w, h, color=border or "none", fill=fill, width=1.5, rx=5)

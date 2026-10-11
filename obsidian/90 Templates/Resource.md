@@ -10,11 +10,11 @@ tags: [resource]
 ---
 # {{title}}
 
-## Why I picked it
+## Why I Picked It
 
 
-## Key takeaways
+## Key Takeaways
 -
 
-## Quotes / figures worth keeping
+## Quotes and Figures Worth Keeping
 -

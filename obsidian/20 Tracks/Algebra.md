@@ -12,16 +12,16 @@ tags: [track]
 **Material:** [tracks/algebra on GitHub](https://github.com/caseyaedwards/math_training/tree/main/tracks/algebra)
 
 ## Concepts
-<!-- Link concept cards as you make them: [[Concept name]] -->
+<!-- Link concept cards as you write them, for example [[Pythagorean Theorem]]. -->
 - [ ]
 
 ## Milestones
 - [ ] Can state the core definitions
-- [ ] Solved 10 standard problems
+- [ ] Solved ten standard problems
 - [ ] Worked through one real-world application
 - [ ] Can sketch the key diagram from memory
 
-## Concept cards
+## Concept Cards
 ```dataview
 TABLE confidence, next_review
 FROM "60 Concepts"

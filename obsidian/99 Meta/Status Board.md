@@ -1,12 +1,12 @@
 ---
 tags: [meta, dashboard]
 ---
-# 📋 Status Board
+# Status Board
 
-Kanban-style overview. If you install the **Kanban** community plugin you can convert
-this note; otherwise the Dataview tables below do the job.
+Overview of every progress note. The Dataview tables below build the board.
+To use a card layout, install the **Kanban** community plugin and convert this note.
 
-## Course levels
+## Course Levels
 ```dataview
 TABLE status, confidence, started, finished
 FROM "10 Course"

@@ -14,11 +14,11 @@ tags: [daily]
 - Worked on: [[ ]]
 -
 
-## Aha moments #aha
+## Aha Moments #aha
 -
 
-## Stuck on #stuck
+## Stuck On #stuck
 -
 
-## Next time
+## Next Time
 -

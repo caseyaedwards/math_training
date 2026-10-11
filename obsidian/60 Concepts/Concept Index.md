@@ -1,9 +1,9 @@
 ---
 tags: [concepts, dashboard]
 ---
-# 💡 Concept Index
+# Concept Index
 
-One card per concept, written in my own words (template: Concept).
+Write one card per concept in my own words, from the Concept template.
 
 ```dataview
 TABLE confidence, tracks, next_review

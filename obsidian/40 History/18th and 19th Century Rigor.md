@@ -6,15 +6,15 @@ tags: [history]
 ---
 # 18th and 19th Century Rigor
 
-## Key people
+## Key People
 -
 
-## Key ideas and why they mattered
+## Key Ideas and Why They Mattered
 -
 
-## What it unlocked next
+## What It Unlocked Next
 -
 
-## Connects to
-<!-- Link the course levels / tracks this era laid groundwork for -->
+## Connects To
+<!-- Link the course levels and tracks that this era laid groundwork for. -->
 -

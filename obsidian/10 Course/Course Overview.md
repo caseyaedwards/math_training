@@ -1,9 +1,9 @@
 ---
 tags: [course, dashboard]
 ---
-# 📘 Course Overview
+# Course Overview
 
-Levels are provisional and will be aligned with the course content in the repo.
+The levels are provisional. They follow the course content in the repository once it exists.
 
 | Level | Scope |
 |---|---|

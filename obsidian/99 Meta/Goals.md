@@ -1,21 +1,21 @@
 ---
 tags: [meta]
 ---
-# 🎯 Goals
+# Goals
 
-## Why I'm doing this
+## Why I Am Doing This
 -
 
-## This quarter
+## This Quarter
 - [ ]
 - [ ]
 
-## This year
+## This Year
 - [ ]
 
 ## Someday
 - [ ]
 
-## Habit target
+## Habit Target
 - Study days per week:
 - Minutes per session:

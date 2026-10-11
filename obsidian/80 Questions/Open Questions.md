@@ -1,7 +1,7 @@
 ---
 tags: [questions, dashboard]
 ---
-# ❓ Open Questions
+# Open Questions
 
 ```dataview
 TABLE asked, status

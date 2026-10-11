@@ -1,22 +1,22 @@
 ---
 tags: [dashboard]
 ---
-# 🏠 Home
+# Home
 
-> Material lives in the repo; this vault tracks **me**.
+The material lives in the repository. This vault tracks my progress.
 
 ## Today
-- Open today's note: `Ctrl/Cmd+P` → *Daily notes: Open today's daily note*
+- Open the note for today: press `Cmd+P` and run **Daily notes: Open today's daily note**.
 - [[Status Board]] · [[Goals]] · [[Conventions]]
 
-## Where I am
+## Where I Am
 - **Course:** [[Course Overview]]
 - **Tracks:** [[Tracks Overview]]
 - **Workshops:** [[Workshops Overview]]
 - **History:** [[History Overview]]
 - **Reading:** [[Reading Log]]
 
-## In progress
+## In Progress
 ```dataview
 TABLE status, confidence, next_review
 FROM "10 Course" OR "20 Tracks" OR "30 Workshops"
@@ -24,7 +24,7 @@ WHERE status = "in-progress" OR status = "review"
 SORT file.mtime DESC
 ```
 
-## Due for review
+## Due for Review
 ```dataview
 TABLE confidence, next_review
 FROM "60 Concepts" OR "10 Course" OR "20 Tracks"
@@ -32,7 +32,7 @@ WHERE next_review AND next_review <= date(today)
 SORT next_review ASC
 ```
 
-## Low-confidence concepts
+## Low-Confidence Concepts
 ```dataview
 LIST "confidence " + confidence
 FROM "60 Concepts"
@@ -41,7 +41,7 @@ SORT confidence ASC
 LIMIT 15
 ```
 
-## Recent study days
+## Recent Study Days
 ```dataview
 TABLE minutes, focus
 FROM "01 Daily"
@@ -49,7 +49,7 @@ SORT file.name DESC
 LIMIT 7
 ```
 
-## Open questions
+## Open Questions
 ```dataview
 LIST
 FROM "80 Questions"

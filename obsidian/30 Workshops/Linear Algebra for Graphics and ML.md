@@ -10,13 +10,13 @@ tags: [workshop]
 
 **Material:** [workshops/linear-algebra-for-graphics-and-ml on GitHub](https://github.com/caseyaedwards/math_training/tree/main/workshops/linear-algebra-for-graphics-and-ml)
 
-## Math it uses
+## Math It Uses
 -
 
-## What I built / ran
+## What I Built and Ran
 -
 
-## Where this shows up in my work
+## Where This Shows Up in My Work
 -
 
 ## Takeaways

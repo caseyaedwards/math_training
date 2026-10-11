@@ -1,9 +1,9 @@
 ---
 tags: [resources, dashboard]
 ---
-# 📚 Reading Log
+# Reading Log
 
-One note per resource (template: Resource). Old-school university pages welcome.
+Write one note per resource from the Resource template. Old-school university pages are welcome.
 
 ```dataview
 TABLE kind, status, rating, finished

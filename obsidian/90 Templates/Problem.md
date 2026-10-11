@@ -10,13 +10,13 @@ tags: [problem]
 ## Problem
 
 
-## My attempt
+## My Attempt
 
 
-## Where it went wrong
+## Where It Went Wrong
 
 
-## Correct approach
+## Correct Approach
 
 
 ## Lesson

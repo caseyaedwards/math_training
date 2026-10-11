@@ -11,15 +11,15 @@ tags: [weekly]
 ## Progress
 - Course:
 - Tracks:
-- Concepts that moved up in confidence:
+- Concepts that gained confidence:
 
-## What didn't stick
+## What Did Not Stick
 -
 
-## Inbox sorted?
+## Inbox Sorted
 - [ ] Emptied [[Inbox]]
 - [ ] Updated statuses on in-progress notes
 - [ ] Set `next_review` on anything reviewed
 
-## Next week's focus
+## Focus for Next Week
 -

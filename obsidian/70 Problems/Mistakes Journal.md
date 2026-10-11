@@ -1,9 +1,9 @@
 ---
 tags: [problems, dashboard]
 ---
-# ❌ Mistakes Journal
+# Mistakes Journal
 
-Every wrong answer is data. Log it with the Problem template, tag the mistake type.
+Every wrong answer is data. Log it with the Problem template and tag the mistake type.
 
 Mistake types: `#arithmetic-slip`, `#misread`, `#concept-gap`, `#wrong-method`, `#notation`.
 

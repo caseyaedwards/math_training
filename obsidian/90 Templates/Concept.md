@@ -7,22 +7,22 @@ tags: [concept]
 ---
 # {{title}}
 
-## In one sentence
+## In One Sentence
 -
 
-## Picture it
-<!-- Embed or sketch the diagram. ![[diagram.svg]] -->
+## Picture It
+<!-- Embed or sketch the diagram, for example ![[diagram.svg]]. -->
 
-## Worked example
+## Worked Example
 $$
 
 $$
 
-## Why it works
+## Why It Works
 -
 
-## Common traps
+## Common Traps
 -
 
-## Connects to
+## Connects To
 - [[ ]]

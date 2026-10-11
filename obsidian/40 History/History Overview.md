@@ -1,9 +1,9 @@
 ---
 tags: [history, dashboard]
 ---
-# 📜 History of Math
+# History of Math
 
-Read alongside the course: when a level introduces an idea, read the era that produced it.
+Read alongside the course. When a level introduces an idea, read about the era that produced it.
 
 1. [[Prehistory and Counting]]
 2. [[Mesopotamia and Egypt]]
@@ -16,7 +16,7 @@ Read alongside the course: when a level introduces an idea, read the era that pr
 9. [[20th Century Foundations and Computing]]
 10. [[Modern Mathematics]]
 
-## Timeline scratchpad
+## Timeline Scratchpad
 | Year | Who | What |
 |---|---|---|
 | | | |

@@ -1,9 +1,9 @@
 ---
 tags: [track, dashboard]
 ---
-# 🧭 Tracks Overview
+# Tracks Overview
 
-Topic tracks cut across the course levels. List is provisional.
+Topic tracks cut across the course levels. The list is provisional.
 
 - [[Arithmetic and Number Sense]]
 - [[Algebra]]

@@ -1,5 +1,5 @@
-# 📥 Inbox
+# Inbox
 
-Dump anything here. Sort it during the weekly review.
+Capture anything here. Sort it during the weekly review.
 
 -

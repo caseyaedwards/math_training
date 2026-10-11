@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 400" width="660" height="400" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Prisoner's dilemma with best-response arrows</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="660" height="400" fill="#ffffff"/>
+<text x="330.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Prisoner's Dilemma: Every Arrow Leads to Defect</text>
+<text x="320.0" y="66.0" text-anchor="middle" fill="#222222" font-weight="bold">Player 2</text>
+<text x="78.0" y="205.0" text-anchor="middle" fill="#222222" font-weight="bold" transform="rotate(-90 78.0 205.0)">Player 1</text>
+<text x="245.0" y="90.0" text-anchor="middle" fill="#666666">Cooperate</text>
+<text x="395.0" y="90.0" text-anchor="middle" fill="#666666">Defect</text>
+<text x="160.0" y="155.0" text-anchor="end" fill="#666666">Cooperate</text>
+<text x="160.0" y="255.0" text-anchor="end" fill="#666666">Defect</text>
+<rect x="170.0" y="100.0" width="150.0" height="100.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<rect x="320.0" y="100.0" width="150.0" height="100.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<rect x="170.0" y="200.0" width="150.0" height="100.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<rect x="320.0" y="200.0" width="150.0" height="100.0" rx="0" fill="#fde4d6" stroke="#222222" stroke-width="1.5"/>
+<text x="245.0" y="156.0" text-anchor="middle" font-size="18"><tspan fill="#222222" font-weight="bold">3</tspan><tspan fill="#666666">,  </tspan><tspan fill="#222222">3</tspan></text>
+<rect x="174.0" y="104.0" width="142.0" height="92.0" rx="0" fill="none" stroke="#222222" stroke-width="1.5" stroke-dasharray="5,4"/>
+<text x="395.0" y="156.0" text-anchor="middle" font-size="18"><tspan fill="#222222" font-weight="bold">0</tspan><tspan fill="#666666">,  </tspan><tspan fill="#222222">5</tspan></text>
+<text x="245.0" y="256.0" text-anchor="middle" font-size="18"><tspan fill="#222222" font-weight="bold">5</tspan><tspan fill="#666666">,  </tspan><tspan fill="#222222">0</tspan></text>
+<text x="395.0" y="256.0" text-anchor="middle" font-size="18"><tspan fill="#222222" font-weight="bold">1</tspan><tspan fill="#666666">,  </tspan><tspan fill="#222222">1</tspan></text>
+<rect x="323.0" y="203.0" width="144.0" height="94.0" rx="0" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<polygon points="454.0,207.0 456.4,212.7 462.6,213.2 457.9,217.3 459.3,223.3 454.0,220.1 448.7,223.3 450.1,217.3 445.4,213.2 451.6,212.7" fill="#d9480f" stroke="none"/>
+<line x1="200.0" y1="170.0" x2="200.0" y2="230.0" stroke="#d9480f" stroke-width="2" marker-end="url(#aha)"/>
+<line x1="350.0" y1="170.0" x2="350.0" y2="230.0" stroke="#d9480f" stroke-width="2" marker-end="url(#aha)"/>
+<line x1="275.0" y1="120.0" x2="365.0" y2="120.0" stroke="#d9480f" stroke-width="2" marker-end="url(#aha)"/>
+<line x1="275.0" y1="280.0" x2="365.0" y2="280.0" stroke="#d9480f" stroke-width="2" marker-end="url(#aha)"/>
+<text x="490.0" y="120.0" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">Vertical arrows:</text>
+<text x="490.0" y="138.0" text-anchor="start" fill="#222222" font-size="13">player 1 switches</text>
+<text x="490.0" y="156.0" text-anchor="start" fill="#222222" font-size="13">to a better row</text>
+<text x="490.0" y="186.0" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">Horizontal arrows:</text>
+<text x="490.0" y="204.0" text-anchor="start" fill="#222222" font-size="13">player 2 switches</text>
+<text x="490.0" y="222.0" text-anchor="start" fill="#222222" font-size="13">to a better column</text>
+<polygon points="498.0,243.0 500.4,248.7 506.6,249.2 501.9,253.3 503.3,259.3 498.0,256.1 492.7,259.3 494.1,253.3 489.4,249.2 495.6,248.7" fill="#d9480f" stroke="none"/>
+<text x="512.0" y="257.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">Nash equilibrium</text>
+<rect x="490.0" y="272.0" width="16.0" height="14.0" rx="0" fill="none" stroke="#222222" stroke-width="1.5" stroke-dasharray="4,3"/>
+<text x="512.0" y="284.0" text-anchor="start" fill="#222222" font-size="13">better for both</text>
+<text x="330.0" y="345.0" text-anchor="middle" fill="#222222" font-size="13">No arrow leaves (Defect, Defect). Each player alone only loses by moving.</text>
+<text x="330.0" y="367.0" text-anchor="middle" fill="#666666" font-size="13">Yet (Cooperate, Cooperate) pays both players 3 instead of 1.</text>
+</svg>

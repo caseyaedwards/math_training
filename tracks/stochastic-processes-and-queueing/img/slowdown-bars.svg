@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" width="720" height="400" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Slowdown factor 1 over 1 minus rho at six utilizations</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#666666"/></marker></defs>
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+<text x="360.0" y="32.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">Slowdown Factor 1 / (1 - ρ): The Last Few Percent Cost the Most</text>
+<rect x="150.0" y="70.0" width="9.8" height="30.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="138.0" y="91.0" text-anchor="end" fill="#222222" font-size="14">50% busy</text>
+<text x="167.8" y="91.0" text-anchor="start" fill="#222222" font-size="14" font-weight="bold">2.0x</text>
+<rect x="150.0" y="118.0" width="16.3" height="30.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="138.0" y="139.0" text-anchor="end" fill="#222222" font-size="14">70% busy</text>
+<text x="174.3" y="139.0" text-anchor="start" fill="#222222" font-size="14" font-weight="bold">3.3x</text>
+<rect x="150.0" y="166.0" width="24.5" height="30.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="138.0" y="187.0" text-anchor="end" fill="#222222" font-size="14">80% busy</text>
+<text x="182.5" y="187.0" text-anchor="start" fill="#222222" font-size="14" font-weight="bold">5.0x</text>
+<rect x="150.0" y="214.0" width="49.0" height="30.0" rx="0" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="138.0" y="235.0" text-anchor="end" fill="#222222" font-size="14">90% busy</text>
+<text x="207.0" y="235.0" text-anchor="start" fill="#222222" font-size="14" font-weight="bold">10x</text>
+<rect x="150.0" y="262.0" width="98.0" height="30.0" rx="0" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="138.0" y="283.0" text-anchor="end" fill="#222222" font-size="14">95% busy</text>
+<text x="256.0" y="283.0" text-anchor="start" fill="#222222" font-size="14" font-weight="bold">20x</text>
+<rect x="150.0" y="310.0" width="490.0" height="30.0" rx="0" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="138.0" y="331.0" text-anchor="end" fill="#222222" font-size="14">99% busy</text>
+<text x="648.0" y="331.0" text-anchor="start" fill="#222222" font-size="14" font-weight="bold">100x</text>
+<line x1="150.0" y1="64.0" x2="150.0" y2="360.0" stroke="#222222" stroke-width="1.5"/>
+<text x="360.0" y="385.0" text-anchor="middle" fill="#666666" font-size="13">mean response time in units of service time (M/M/1)</text>
+</svg>

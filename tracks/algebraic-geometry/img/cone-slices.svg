@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Conics Are Slices of a Cone</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="760" height="420" fill="#ffffff"/>
+<text x="380.0" y="28.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">Conics Are Slices of a Cone</text>
+<line x1="300.0" y1="232.0" x2="176.2" y2="67.0" stroke="#222222" stroke-width="2"/>
+<line x1="300.0" y1="232.0" x2="176.2" y2="397.0" stroke="#222222" stroke-width="2"/>
+<line x1="300.0" y1="232.0" x2="423.8" y2="67.0" stroke="#222222" stroke-width="2"/>
+<line x1="300.0" y1="232.0" x2="423.8" y2="397.0" stroke="#222222" stroke-width="2"/>
+<ellipse cx="300.0" cy="67.0" rx="123.8" ry="16.0" fill="none" stroke="#222222" stroke-width="1.6"/>
+<ellipse cx="300.0" cy="397.0" rx="123.8" ry="16.0" fill="none" stroke="#222222" stroke-width="1.6" stroke-dasharray="5,4"/>
+<circle cx="300.0" cy="232.0" r="4" fill="#222222"/>
+<line x1="177.5" y1="122.0" x2="422.5" y2="122.0" stroke="#d9480f" stroke-width="2.4"/>
+<text x="430.5" y="127.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">circle</text>
+<line x1="238.1" y1="214.5" x2="429.4" y2="79.5" stroke="#d9480f" stroke-width="2.4"/>
+<text x="437.4" y="84.5" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">ellipse</text>
+<line x1="258.8" y1="227.0" x2="378.8" y2="67.0" stroke="#d9480f" stroke-width="2.4"/>
+<text x="252.8" y="232.0" text-anchor="end" fill="#d9480f" font-size="13" font-weight="bold">parabola</text>
+<line x1="340.0" y1="57.0" x2="340.0" y2="407.0" stroke="#d9480f" stroke-width="2.4"/>
+<text x="348.0" y="405.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">hyperbola</text>
+<text x="540.0" y="90.0" text-anchor="start" fill="#555555" font-size="13">Side view of a double cone.</text>
+<text x="540.0" y="112.0" text-anchor="start" fill="#555555" font-size="13">Each orange line is a flat</text>
+<text x="540.0" y="130.0" text-anchor="start" fill="#555555" font-size="13">plane seen edge-on.</text>
+<text x="540.0" y="170.0" text-anchor="start" fill="#222222" font-size="13">flat: circle</text>
+<text x="540.0" y="192.0" text-anchor="start" fill="#222222" font-size="13">tilted a little: ellipse</text>
+<text x="540.0" y="214.0" text-anchor="start" fill="#222222" font-size="13">parallel to the side: parabola</text>
+<text x="540.0" y="236.0" text-anchor="start" fill="#222222" font-size="13">steep, cuts both halves:</text>
+<text x="540.0" y="254.0" text-anchor="start" fill="#222222" font-size="13">hyperbola (two pieces)</text>
+<text x="540.0" y="294.0" text-anchor="start" fill="#555555" font-size="13">Apollonius named all four</text>
+<text x="540.0" y="312.0" text-anchor="start" fill="#555555" font-size="13">around 200 BC.</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 380" width="820" height="380" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Tall thin bumps with area 1 that converge to zero pointwise</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="820" height="380" fill="#ffffff"/>
+<text x="410.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Escaping Mass: Every Bump Has Area 1, the Limit Has Area 0</text>
+<line x1="80.0" y1="330.0" x2="520.0" y2="330.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="80.0" y1="330.0" x2="80.0" y2="60.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="80.0" y1="330.0" x2="80.0" y2="334.0" stroke="#222222" stroke-width="1.5"/>
+<text x="80.0" y="348.0" text-anchor="middle" fill="#666666" font-size="12">0</text>
+<line x1="132.4" y1="330.0" x2="132.4" y2="334.0" stroke="#222222" stroke-width="1.5"/>
+<text x="132.4" y="348.0" text-anchor="middle" fill="#666666" font-size="12">1/8</text>
+<line x1="184.8" y1="330.0" x2="184.8" y2="334.0" stroke="#222222" stroke-width="1.5"/>
+<text x="184.8" y="348.0" text-anchor="middle" fill="#666666" font-size="12">1/4</text>
+<line x1="289.5" y1="330.0" x2="289.5" y2="334.0" stroke="#222222" stroke-width="1.5"/>
+<text x="289.5" y="348.0" text-anchor="middle" fill="#666666" font-size="12">1/2</text>
+<line x1="499.0" y1="330.0" x2="499.0" y2="334.0" stroke="#222222" stroke-width="1.5"/>
+<text x="499.0" y="348.0" text-anchor="middle" fill="#666666" font-size="12">1</text>
+<line x1="76.0" y1="330.0" x2="80.0" y2="330.0" stroke="#222222" stroke-width="1.5"/>
+<text x="73.0" y="334.0" text-anchor="end" fill="#666666" font-size="12">0</text>
+<line x1="76.0" y1="298.2" x2="80.0" y2="298.2" stroke="#222222" stroke-width="1.5"/>
+<text x="73.0" y="302.2" text-anchor="end" fill="#666666" font-size="12">1</text>
+<line x1="76.0" y1="266.5" x2="80.0" y2="266.5" stroke="#222222" stroke-width="1.5"/>
+<text x="73.0" y="270.5" text-anchor="end" fill="#666666" font-size="12">2</text>
+<line x1="76.0" y1="202.9" x2="80.0" y2="202.9" stroke="#222222" stroke-width="1.5"/>
+<text x="73.0" y="206.9" text-anchor="end" fill="#666666" font-size="12">4</text>
+<line x1="76.0" y1="75.9" x2="80.0" y2="75.9" stroke="#222222" stroke-width="1.5"/>
+<text x="73.0" y="79.9" text-anchor="end" fill="#666666" font-size="12">8</text>
+<text x="42.0" y="195.0" text-anchor="middle" fill="#666666" font-size="13" transform="rotate(-90 42.0 195.0)">f_n(x)</text>
+<rect x="80.0" y="298.2" width="419.0" height="31.8" rx="0" fill="none" stroke="#222222" stroke-width="2"/>
+<text x="505.0" y="314.2" text-anchor="start" fill="#222222" font-size="12">f_1: height 1, width 1/1</text>
+<rect x="80.0" y="266.5" width="209.5" height="63.5" rx="0" fill="none" stroke="#495057" stroke-width="2"/>
+<text x="295.5" y="282.5" text-anchor="start" fill="#495057" font-size="12">f_2: height 2, width 1/2</text>
+<rect x="80.0" y="202.9" width="104.8" height="127.1" rx="0" fill="none" stroke="#868e96" stroke-width="2"/>
+<text x="190.8" y="218.9" text-anchor="start" fill="#868e96" font-size="12">f_4: height 4, width 1/4</text>
+<rect x="80.0" y="75.9" width="52.4" height="254.1" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="#d9480f" stroke-width="2"/>
+<text x="138.4" y="91.9" text-anchor="start" fill="#d9480f" font-size="12">f_8: height 8, width 1/8</text>
+<rect x="560.0" y="80.0" width="240.0" height="210.0" rx="6" fill="#f1f3f5" stroke="#222222" stroke-width="1.5"/>
+<text x="680.0" y="108.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">area of every f_n = 1</text>
+<text x="680.0" y="140.0" text-anchor="middle" fill="#222222" font-size="12">at any fixed x &gt; 0, the</text>
+<text x="680.0" y="158.0" text-anchor="middle" fill="#222222" font-size="12">bump is gone once 1/n &lt; x,</text>
+<text x="680.0" y="176.0" text-anchor="middle" fill="#222222" font-size="12">so f_n(x) → 0</text>
+<text x="680.0" y="210.0" text-anchor="middle" fill="#222222" font-size="13">limit of areas = 1</text>
+<text x="680.0" y="232.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">area of limit = 0</text>
+<text x="680.0" y="268.0" text-anchor="middle" fill="#666666" font-size="12">no single g ≥ all f_n</text>
+<text x="680.0" y="284.0" text-anchor="middle" fill="#666666" font-size="12">has finite area</text>
+<text x="410.0" y="368.0" text-anchor="middle" fill="#666666" font-size="12">Limits and integrals swap only with a guarantee: monotone growth, or a dominating g with finite area.</text>
+</svg>

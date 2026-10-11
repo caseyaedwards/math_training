@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 320" width="780" height="320" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Identity arrows and associativity</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="780" height="320" fill="#ffffff"/>
+<text x="390.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Identity arrows and associativity</text>
+<text x="190.0" y="56.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold" xml:space="preserve">Identity: the do-nothing arrow</text>
+<text x="590.0" y="56.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold" xml:space="preserve">Associativity: brackets do not matter</text>
+<line x1="380" y1="44" x2="380" y2="300" stroke="#dee2e6" stroke-width="1.5"/>
+<circle cx="100.0" cy="175.0" r="22.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="100.0" y="180.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">A</text>
+<circle cx="280.0" cy="175.0" r="22.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="280.0" y="180.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">B</text>
+<path d="M88.0,151.0 C66.0,91.0 134.0,91.0 112.0,152.0" fill="none" stroke="#d9480f" stroke-width="1.8" marker-end="url(#aha)"/>
+<text x="100.0" y="100.0" text-anchor="middle" fill="#d9480f" font-size="14" xml:space="preserve">id_A</text>
+<path d="M268.0,151.0 C246.0,91.0 314.0,91.0 292.0,152.0" fill="none" stroke="#d9480f" stroke-width="1.8" marker-end="url(#aha)"/>
+<text x="280.0" y="100.0" text-anchor="middle" fill="#d9480f" font-size="14" xml:space="preserve">id_B</text>
+<line x1="125.0" y1="175.0" x2="255.0" y2="175.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="190.0" y="192.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">f</text>
+<text x="190.0" y="245.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold" xml:space="preserve">f ∘ id_A = f = id_B ∘ f</text>
+<text x="190.0" y="270.0" text-anchor="middle" fill="#555555" font-size="13" xml:space="preserve">Go: func(x A) A { return x }</text>
+<text x="190.0" y="290.0" text-anchor="middle" fill="#555555" font-size="13" xml:space="preserve">like adding 0, or piping through cat</text>
+<circle cx="440.0" cy="175.0" r="20.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="440.0" y="180.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">A</text>
+<circle cx="540.0" cy="175.0" r="20.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="540.0" y="180.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">B</text>
+<circle cx="640.0" cy="175.0" r="20.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="640.0" y="180.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">C</text>
+<circle cx="740.0" cy="175.0" r="20.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="740.0" y="180.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">D</text>
+<line x1="463.0" y1="175.0" x2="517.0" y2="175.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="490.0" y="192.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">f</text>
+<line x1="563.0" y1="175.0" x2="617.0" y2="175.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="590.0" y="192.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">g</text>
+<line x1="663.0" y1="175.0" x2="717.0" y2="175.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="690.0" y="192.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">h</text>
+<path d="M440.0,197.0 Q540.0,265.0 640.0,197.0" fill="none" stroke="#d9480f" stroke-width="1.8" marker-end="url(#aha)"/>
+<text x="540.0" y="248.0" text-anchor="middle" fill="#d9480f" font-size="14" xml:space="preserve">g ∘ f</text>
+<path d="M540.0,153.0 Q640.0,85.0 740.0,153.0" fill="none" stroke="#d9480f" stroke-width="1.8" marker-end="url(#aha)"/>
+<text x="640.0" y="112.0" text-anchor="middle" fill="#d9480f" font-size="14" xml:space="preserve">h ∘ g</text>
+<text x="590.0" y="275.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold" xml:space="preserve">h ∘ (g ∘ f) = (h ∘ g) ∘ f</text>
+<text x="590.0" y="298.0" text-anchor="middle" fill="#555555" font-size="13" xml:space="preserve">one arrow A to D, however you group it</text>
+</svg>

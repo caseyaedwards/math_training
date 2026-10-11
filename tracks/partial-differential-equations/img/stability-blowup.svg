@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" height="360" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Finite differences with r = 0.4 stay smooth and with r = 0.6 blow up</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="900" height="360" fill="#ffffff"/>
+<text x="450.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Stability: Too Big a Time Step Explodes</text>
+<line x1="60.0" y1="185.0" x2="400.0" y2="185.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="60.0" y1="300.0" x2="60.0" y2="70.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="60.0" y1="185.0" x2="60.0" y2="189.0" stroke="#222222" stroke-width="1.5"/>
+<text x="60.0" y="203.0" text-anchor="middle" fill="#666666" font-size="12">0</text>
+<line x1="230.0" y1="185.0" x2="230.0" y2="189.0" stroke="#222222" stroke-width="1.5"/>
+<text x="230.0" y="203.0" text-anchor="middle" fill="#666666" font-size="12">0.5</text>
+<line x1="400.0" y1="185.0" x2="400.0" y2="189.0" stroke="#222222" stroke-width="1.5"/>
+<text x="400.0" y="203.0" text-anchor="middle" fill="#666666" font-size="12">1</text>
+<line x1="56.0" y1="300.0" x2="60.0" y2="300.0" stroke="#222222" stroke-width="1.5"/>
+<text x="53.0" y="304.0" text-anchor="end" fill="#666666" font-size="12">-1</text>
+<line x1="56.0" y1="70.0" x2="60.0" y2="70.0" stroke="#222222" stroke-width="1.5"/>
+<text x="53.0" y="74.0" text-anchor="end" fill="#666666" font-size="12">1</text>
+<polyline points="60.0,185.0 77.0,185.0 94.0,185.0 111.0,185.0 128.0,185.0 145.0,185.0 162.0,185.0 179.0,185.0 196.0,185.0 213.0,185.0 230.0,70.0 247.0,185.0 264.0,185.0 281.0,185.0 298.0,185.0 315.0,185.0 332.0,185.0 349.0,185.0 366.0,185.0 383.0,185.0 400.0,185.0" fill="none" stroke="#cccccc" stroke-width="1.2" stroke-linejoin="round"/>
+<polyline points="60.0,185.0 77.0,184.9 94.0,184.7 111.0,184.3 128.0,183.2 145.0,181.5 162.0,178.8 179.0,175.7 196.0,172.3 213.0,170.1 230.0,169.1 247.0,170.1 264.0,172.3 281.0,175.7 298.0,178.8 315.0,181.5 332.0,183.2 349.0,184.3 366.0,184.7 383.0,184.9 400.0,185.0" fill="none" stroke="#868e96" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="60.0,185.0 77.0,184.3 94.0,183.5 111.0,182.5 128.0,181.2 145.0,179.7 162.0,178.0 179.0,176.3 196.0,174.9 213.0,174.0 230.0,173.7 247.0,174.0 264.0,174.9 281.0,176.3 298.0,178.0 315.0,179.7 332.0,181.2 349.0,182.5 366.0,183.5 383.0,184.3 400.0,185.0" fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="60.0,185.0 77.0,184.0 94.0,183.0 111.0,181.9 128.0,180.7 145.0,179.5 162.0,178.3 179.0,177.3 196.0,176.4 213.0,175.9 230.0,175.7 247.0,175.9 264.0,176.4 281.0,177.3 298.0,178.3 315.0,179.5 332.0,180.7 349.0,181.9 366.0,183.0 383.0,184.0 400.0,185.0" fill="none" stroke="#d9480f" stroke-width="2" stroke-linejoin="round"/>
+<text x="230.0" y="58.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">r = 0.4: smooth decay</text>
+<line x1="500.0" y1="185.0" x2="840.0" y2="185.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="500.0" y1="300.0" x2="500.0" y2="70.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="500.0" y1="185.0" x2="500.0" y2="189.0" stroke="#222222" stroke-width="1.5"/>
+<text x="500.0" y="203.0" text-anchor="middle" fill="#666666" font-size="12">0</text>
+<line x1="670.0" y1="185.0" x2="670.0" y2="189.0" stroke="#222222" stroke-width="1.5"/>
+<text x="670.0" y="203.0" text-anchor="middle" fill="#666666" font-size="12">0.5</text>
+<line x1="840.0" y1="185.0" x2="840.0" y2="189.0" stroke="#222222" stroke-width="1.5"/>
+<text x="840.0" y="203.0" text-anchor="middle" fill="#666666" font-size="12">1</text>
+<line x1="496.0" y1="300.0" x2="500.0" y2="300.0" stroke="#222222" stroke-width="1.5"/>
+<text x="493.0" y="304.0" text-anchor="end" fill="#666666" font-size="12">-4</text>
+<line x1="496.0" y1="70.0" x2="500.0" y2="70.0" stroke="#222222" stroke-width="1.5"/>
+<text x="493.0" y="74.0" text-anchor="end" fill="#666666" font-size="12">4</text>
+<polyline points="500.0,185.0 517.0,185.0 534.0,185.0 551.0,185.0 568.0,185.0 585.0,185.0 602.0,185.0 619.0,185.0 636.0,185.0 653.0,185.0 670.0,156.2 687.0,185.0 704.0,185.0 721.0,185.0 738.0,185.0 755.0,185.0 772.0,185.0 789.0,185.0 806.0,185.0 823.0,185.0 840.0,185.0" fill="none" stroke="#cccccc" stroke-width="1.2" stroke-linejoin="round"/>
+<polyline points="500.0,185.0 517.0,185.6 534.0,182.4 551.0,191.0 568.0,169.8 585.0,211.4 602.0,137.0 619.0,250.8 636.0,92.9 653.0,286.9 670.0,71.0 687.0,286.9 704.0,92.9 721.0,250.8 738.0,137.0 755.0,211.4 772.0,169.8 789.0,191.0 806.0,182.4 823.0,185.6 840.0,185.0" fill="none" stroke="#868e96" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="500.0,185.0 517.0,300.0 534.0,70.0 551.0,300.0 568.0,70.0 585.0,300.0 602.0,70.0 619.0,300.0 636.0,70.0 653.0,300.0 670.0,70.0 687.0,300.0 704.0,70.0 721.0,300.0 738.0,70.0 755.0,300.0 772.0,70.0 789.0,300.0 806.0,70.0 823.0,300.0 840.0,185.0" fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="500.0,185.0 517.0,300.0 534.0,70.0 551.0,300.0 568.0,70.0 585.0,300.0 602.0,70.0 619.0,300.0 636.0,70.0 653.0,300.0 670.0,70.0 687.0,300.0 704.0,70.0 721.0,300.0 738.0,70.0 755.0,300.0 772.0,70.0 789.0,300.0 806.0,70.0 823.0,300.0 840.0,185.0" fill="none" stroke="#d9480f" stroke-width="2" stroke-linejoin="round"/>
+<text x="670.0" y="58.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">r = 0.6: zigzag explosion</text>
+<text x="450.0" y="335.0" text-anchor="middle" fill="#666666" font-size="12">Same start, a spike. Gray, dark, orange: after 10, 20, 30 steps. With r = 0.6 the largest value is 1888.5 after 30 steps and still growing.</text>
+</svg>

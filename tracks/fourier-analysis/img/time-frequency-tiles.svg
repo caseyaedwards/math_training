@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>How Fourier, short-time Fourier and wavelets split time and frequency</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="900" height="340" fill="#ffffff"/>
+<text x="450.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Time-Frequency Tiles: Fourier, Windowed Fourier, Wavelets</text>
+<rect x="50.0" y="70.0" width="240.0" height="220.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<rect x="50.0" y="70.0" width="240.0" height="27.5" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="50.0" y="97.5" width="240.0" height="27.5" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="50.0" y="125.0" width="240.0" height="27.5" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="50.0" y="152.5" width="240.0" height="27.5" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="50.0" y="180.0" width="240.0" height="27.5" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="50.0" y="207.5" width="240.0" height="27.5" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="50.0" y="235.0" width="240.0" height="27.5" rx="0" fill="#d9480f" fill-opacity="0.3" stroke="#868e96" stroke-width="1"/>
+<rect x="50.0" y="262.5" width="240.0" height="27.5" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="170.0" y="58.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">Fourier: frequency only</text>
+<text x="170.0" y="310.0" text-anchor="middle" fill="#666666" font-size="12">time →</text>
+<text x="40.0" y="180.0" text-anchor="middle" fill="#666666" font-size="12" transform="rotate(-90 40.0 180.0)">frequency →</text>
+<rect x="340.0" y="70.0" width="240.0" height="220.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<rect x="340.0" y="70.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="340.0" y="125.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="340.0" y="180.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="340.0" y="235.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="380.0" y="70.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="380.0" y="125.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="380.0" y="180.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="380.0" y="235.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="420.0" y="70.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="420.0" y="125.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="420.0" y="180.0" width="40.0" height="55.0" rx="0" fill="#d9480f" fill-opacity="0.3" stroke="#868e96" stroke-width="1"/>
+<rect x="420.0" y="235.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="460.0" y="70.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="460.0" y="125.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="460.0" y="180.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="460.0" y="235.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="500.0" y="70.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="500.0" y="125.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="500.0" y="180.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="500.0" y="235.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="540.0" y="70.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="540.0" y="125.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="540.0" y="180.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="540.0" y="235.0" width="40.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="460.0" y="58.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">windowed Fourier: fixed tiles</text>
+<text x="460.0" y="310.0" text-anchor="middle" fill="#666666" font-size="12">time →</text>
+<text x="330.0" y="180.0" text-anchor="middle" fill="#666666" font-size="12" transform="rotate(-90 330.0 180.0)">frequency →</text>
+<rect x="630.0" y="70.0" width="240.0" height="220.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<rect x="630.0" y="262.5" width="120.0" height="27.5" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="750.0" y="262.5" width="120.0" height="27.5" rx="0" fill="#d9480f" fill-opacity="0.3" stroke="#868e96" stroke-width="1"/>
+<rect x="630.0" y="235.0" width="60.0" height="27.5" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="690.0" y="235.0" width="60.0" height="27.5" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="750.0" y="235.0" width="60.0" height="27.5" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="810.0" y="235.0" width="60.0" height="27.5" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="630.0" y="180.0" width="30.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="660.0" y="180.0" width="30.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="690.0" y="180.0" width="30.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="720.0" y="180.0" width="30.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="750.0" y="180.0" width="30.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="780.0" y="180.0" width="30.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="810.0" y="180.0" width="30.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="840.0" y="180.0" width="30.0" height="55.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="630.0" y="70.0" width="15.0" height="110.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="645.0" y="70.0" width="15.0" height="110.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="660.0" y="70.0" width="15.0" height="110.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="675.0" y="70.0" width="15.0" height="110.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="690.0" y="70.0" width="15.0" height="110.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="705.0" y="70.0" width="15.0" height="110.0" rx="0" fill="#d9480f" fill-opacity="0.3" stroke="#868e96" stroke-width="1"/>
+<rect x="720.0" y="70.0" width="15.0" height="110.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="735.0" y="70.0" width="15.0" height="110.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="750.0" y="70.0" width="15.0" height="110.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="765.0" y="70.0" width="15.0" height="110.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="780.0" y="70.0" width="15.0" height="110.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="795.0" y="70.0" width="15.0" height="110.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="810.0" y="70.0" width="15.0" height="110.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="825.0" y="70.0" width="15.0" height="110.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="840.0" y="70.0" width="15.0" height="110.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<rect x="855.0" y="70.0" width="15.0" height="110.0" rx="0" fill="#ffffff" stroke="#868e96" stroke-width="1"/>
+<text x="750.0" y="58.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">wavelets: tiles that adapt</text>
+<text x="750.0" y="310.0" text-anchor="middle" fill="#666666" font-size="12">time →</text>
+<text x="620.0" y="180.0" text-anchor="middle" fill="#666666" font-size="12" transform="rotate(-90 620.0 180.0)">frequency →</text>
+<text x="450.0" y="330.0" text-anchor="middle" fill="#666666" font-size="12">Wavelets use short tiles for high frequencies (sharp clicks) and long tiles for low frequencies (slow trends).</text>
+</svg>

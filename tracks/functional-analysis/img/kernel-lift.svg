@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" height="360" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Points on a line that one cut cannot separate become separable after lifting to x and x squared</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="900" height="360" fill="#ffffff"/>
+<text x="450.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Kernel Trick: Lift the Data, Then a Straight Line Works</text>
+<line x1="50.0" y1="200.0" x2="400.0" y2="200.0" stroke="#222222" stroke-width="1.5"/>
+<circle cx="171.2" cy="200.0" r="7.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="191.3" cy="200.0" r="7.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="211.5" cy="200.0" r="7.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="231.7" cy="200.0" r="7.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="251.9" cy="200.0" r="7.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="272.1" cy="200.0" r="7.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="76.9" cy="200.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="103.8" cy="200.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="124.0" cy="200.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="326.0" cy="200.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="352.9" cy="200.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="379.8" cy="200.0" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="225.0" y="140.0" text-anchor="middle" fill="#222222" font-size="13">1D: orange in the middle,</text>
+<text x="225.0" y="160.0" text-anchor="middle" fill="#666666" font-size="13">white on both sides: no single cut works</text>
+<text x="225.0" y="62.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">before: x</text>
+<line x1="480.0" y1="310.0" x2="870.0" y2="310.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="675.0" y1="310.0" x2="675.0" y2="70.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="525.0" y1="310.0" x2="525.0" y2="314.0" stroke="#222222" stroke-width="1.5"/>
+<text x="525.0" y="328.0" text-anchor="middle" fill="#666666" font-size="12">-2</text>
+<line x1="825.0" y1="310.0" x2="825.0" y2="314.0" stroke="#222222" stroke-width="1.5"/>
+<text x="825.0" y="328.0" text-anchor="middle" fill="#666666" font-size="12">2</text>
+<line x1="671.0" y1="267.1" x2="675.0" y2="267.1" stroke="#222222" stroke-width="1.5"/>
+<text x="668.0" y="271.1" text-anchor="end" fill="#666666" font-size="12">1</text>
+<line x1="671.0" y1="224.3" x2="675.0" y2="224.3" stroke="#222222" stroke-width="1.5"/>
+<text x="668.0" y="228.3" text-anchor="end" fill="#666666" font-size="12">2</text>
+<line x1="671.0" y1="138.6" x2="675.0" y2="138.6" stroke="#222222" stroke-width="1.5"/>
+<text x="668.0" y="142.6" text-anchor="end" fill="#666666" font-size="12">4</text>
+<polyline points="498.2,71.8 499.5,75.3 500.8,78.8 502.1,82.2 503.4,85.6 504.7,89.0 506.0,92.4 507.3,95.7 508.6,99.0 509.9,102.3 511.2,105.6 512.5,108.8 513.8,112.0 515.1,115.2 516.4,118.4 517.7,121.5 519.0,124.6 520.3,127.7 521.6,130.7 522.9,133.7 524.2,136.7 525.5,139.7 526.8,142.7 528.1,145.6 529.4,148.5 530.7,151.4 532.0,154.2 533.3,157.0 534.6,159.8 535.9,162.6 537.2,165.3 538.5,168.0 539.8,170.7 541.1,173.4 542.4,176.0 543.7,178.6 545.0,181.2 546.3,183.8 547.6,186.3 548.9,188.8 550.2,191.3 551.5,193.8 552.8,196.2 554.1,198.6 555.4,201.0 556.7,203.4 558.0,205.7 559.3,208.0 560.6,210.3 561.9,212.5 563.2,214.8 564.5,217.0 565.8,219.1 567.1,221.3 568.4,223.4 569.7,225.5 571.0,227.6 572.3,229.6 573.6,231.7 574.9,233.7 576.2,235.6 577.5,237.6 578.8,239.5 580.1,241.4 581.4,243.2 582.7,245.1 584.0,246.9 585.3,248.7 586.6,250.5 587.9,252.2 589.2,253.9 590.5,255.6 591.8,257.3 593.1,258.9 594.4,260.5 595.7,262.1 597.0,263.6 598.3,265.2 599.6,266.7 600.9,268.2 602.2,269.6 603.5,271.0 604.8,272.5 606.1,273.8 607.4,275.2 608.7,276.5 610.0,277.8 611.3,279.1 612.6,280.3 613.9,281.6 615.2,282.8 616.5,283.9 617.8,285.1 619.1,286.2 620.4,287.3 621.7,288.4 623.0,289.4 624.3,290.4 625.6,291.4 626.9,292.4 628.2,293.3 629.5,294.2 630.8,295.1 632.1,296.0 633.4,296.8 634.7,297.6 636.0,298.4 637.3,299.2 638.6,299.9 639.9,300.6 641.2,301.3 642.5,302.0 643.8,302.6 645.1,303.2 646.4,303.8 647.7,304.3 649.0,304.8 650.3,305.4 651.6,305.8 652.9,306.3 654.2,306.7 655.5,307.1 656.8,307.5 658.1,307.8 659.4,308.1 660.7,308.4 662.0,308.7 663.3,309.0 664.6,309.2 665.9,309.4 667.2,309.5 668.5,309.7 669.8,309.8 671.1,309.9 672.4,309.9 673.7,310.0 675.0,310.0 676.3,310.0 677.6,309.9 678.9,309.9 680.2,309.8 681.5,309.7 682.8,309.5 684.1,309.4 685.4,309.2 686.7,309.0 688.0,308.7 689.3,308.4 690.6,308.1 691.9,307.8 693.2,307.5 694.5,307.1 695.8,306.7 697.1,306.3 698.4,305.8 699.7,305.4 701.0,304.8 702.3,304.3 703.6,303.8 704.9,303.2 706.2,302.6 707.5,302.0 708.8,301.3 710.1,300.6 711.4,299.9 712.7,299.2 714.0,298.4 715.3,297.6 716.6,296.8 717.9,296.0 719.2,295.1 720.5,294.2 721.8,293.3 723.1,292.4 724.4,291.4 725.7,290.4 727.0,289.4 728.3,288.4 729.6,287.3 730.9,286.2 732.2,285.1 733.5,283.9 734.8,282.8 736.1,281.6 737.4,280.3 738.7,279.1 740.0,277.8 741.3,276.5 742.6,275.2 743.9,273.8 745.2,272.5 746.5,271.0 747.8,269.6 749.1,268.2 750.4,266.7 751.7,265.2 753.0,263.6 754.3,262.1 755.6,260.5 756.9,258.9 758.2,257.3 759.5,255.6 760.8,253.9 762.1,252.2 763.4,250.5 764.7,248.7 766.0,246.9 767.3,245.1 768.6,243.2 769.9,241.4 771.2,239.5 772.5,237.6 773.8,235.6 775.1,233.7 776.4,231.7 777.7,229.6 779.0,227.6 780.3,225.5 781.6,223.4 782.9,221.3 784.2,219.1 785.5,217.0 786.8,214.8 788.1,212.5 789.4,210.3 790.7,208.0 792.0,205.7 793.3,203.4 794.6,201.0 795.9,198.6 797.2,196.2 798.5,193.8 799.8,191.3 801.1,188.8 802.4,186.3 803.7,183.8 805.0,181.2 806.3,178.6 807.6,176.0 808.9,173.4 810.2,170.7 811.5,168.0 812.8,165.3 814.1,162.6 815.4,159.8 816.7,157.0 818.0,154.2 819.3,151.4 820.6,148.5 821.9,145.6 823.2,142.7 824.5,139.7 825.8,136.7 827.1,133.7 828.4,130.7 829.7,127.7 831.0,124.6 832.3,121.5 833.6,118.4 834.9,115.2 836.2,112.0 837.5,108.8 838.8,105.6 840.1,102.3 841.4,99.0 842.7,95.7 844.0,92.4 845.3,89.0 846.6,85.6 847.9,82.2 849.2,78.8 850.5,75.3 851.8,71.8" fill="none" stroke="#cccccc" stroke-width="1.5" stroke-linejoin="round"/>
+<circle cx="615.0" cy="282.6" r="7.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="637.5" cy="299.3" r="7.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="660.0" cy="308.3" r="7.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="682.5" cy="309.6" r="7.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="705.0" cy="303.1" r="7.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="727.5" cy="289.0" r="7.0" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="510.0" cy="102.6" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="540.0" cy="171.1" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="562.5" cy="213.6" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="787.5" cy="213.6" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="817.5" cy="155.3" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="847.5" cy="83.3" r="7.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<line x1="480.0" y1="254.3" x2="870.0" y2="254.3" stroke="#d9480f" stroke-width="2.5" stroke-dasharray="7 4"/>
+<text x="862.5" y="246.3" text-anchor="end" fill="#d9480f" font-size="12" font-weight="bold">straight line splits them</text>
+<text x="675.0" y="62.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">after: φ(x) = (x, x²)</text>
+<text x="450.0" y="345.0" text-anchor="middle" fill="#666666" font-size="13">A kernel k(x, y) = &lt;φ(x), φ(y)&gt; computes inner products in the lifted space without building it.</text>
+</svg>

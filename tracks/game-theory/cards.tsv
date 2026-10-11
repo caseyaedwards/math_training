@@ -1,0 +1,15 @@
+What are the three parts of a game?	Players (who decides), strategies (the choices), and payoffs (a number for each player for each combination of choices).	math::tracks::game-theory
+In a payoff grid cell \( (a, b) \), whose payoff is which?	\( a \) goes to the row player, \( b \) to the column player.	math::tracks::game-theory
+What is a dominant strategy?	A strategy that beats every other strategy of yours no matter what the other players do.	math::tracks::game-theory
+What is a Nash equilibrium?	A set of choices where every player plays a best response to the others. Nobody gains by switching alone.	math::tracks::game-theory
+How do you find pure Nash equilibria in a 2x2 grid by hand?	Draw best-response arrows: down each column for the row player, across each row for the column player. A cell no arrow leaves is an equilibrium.	math::tracks::game-theory
+What makes a game a prisoner's dilemma?	\( T > R > P > S \): defecting is dominant, yet mutual defection pays both less than mutual cooperation.	math::tracks::game-theory
+How do you find a 2x2 mixed equilibrium?	Choose your probabilities to make the other player indifferent between their two moves: set their two expected payoffs equal and solve.	math::tracks::game-theory
+What does the Nash existence theorem (1950) guarantee?	Every finite game has at least one Nash equilibrium in mixed strategies.	math::tracks::game-theory
+State the minimax theorem.	In a finite two-player zero-sum game, \( \max_p \min_q p^T M q = \min_q \max_p p^T M q = v \), the value of the game.	math::tracks::game-theory
+What is tit-for-tat?	Cooperate in round 1, then copy the last move of the opponent. Nice, retaliating, forgiving and clear.	math::tracks::game-theory
+What is Braess paradox?	Adding a free road to a network can make every selfish driver slower at equilibrium (65 to 80 minutes in the classic example).	math::tracks::game-theory
+What is the price of anarchy?	Total cost at the worst equilibrium divided by the best possible total cost. At most \( 4/3 \) for linear delays.	math::tracks::game-theory
+Why bid your true value in a second-price auction?	Your bid only decides whether you win. The price is the second bid. Truthful bidding wins exactly when winning is profitable.	math::tracks::game-theory
+What is revenue equivalence?	With independent private values, first-price and second-price auctions earn the same expected revenue: \( 100(n-1)/(n+1) \) for values uniform on 0 to 100.	math::tracks::game-theory
+How do you win at Nim?	XOR the heap sizes (the nim-sum). If it is not 0, shrink a heap \( h \) to \( h \oplus s \) to leave a nim-sum of 0. A nim-sum of 0 loses for the player to move.	math::tracks::game-theory

@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 400" width="860" height="400" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Rotated copies of a Vitali set fill the circle</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="860" height="400" fill="#ffffff"/>
+<text x="430.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Why Some Sets Have No Length (Vitali)</text>
+<circle cx="210.0" cy="210.0" r="140.0" fill="none" stroke="#222222" stroke-width="2"/>
+<circle cx="211.4" cy="70.0" r="4.5" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="217.2" cy="70.2" r="4.5" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="236.0" cy="72.4" r="4.5" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="250.1" cy="75.9" r="4.5" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="268.0" cy="82.6" r="4.5" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="273.9" cy="85.5" r="4.5" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="276.1" cy="86.6" r="4.5" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<circle cx="310.0" cy="112.0" r="3.2" fill="#495057" stroke="none" stroke-width="1.5"/>
+<circle cx="314.0" cy="116.2" r="3.2" fill="#495057" stroke="none" stroke-width="1.5"/>
+<circle cx="325.7" cy="131.1" r="3.2" fill="#495057" stroke="none" stroke-width="1.5"/>
+<circle cx="333.2" cy="143.5" r="3.2" fill="#495057" stroke="none" stroke-width="1.5"/>
+<circle cx="341.1" cy="160.9" r="3.2" fill="#495057" stroke="none" stroke-width="1.5"/>
+<circle cx="343.3" cy="167.1" r="3.2" fill="#495057" stroke="none" stroke-width="1.5"/>
+<circle cx="344.0" cy="169.4" r="3.2" fill="#495057" stroke="none" stroke-width="1.5"/>
+<circle cx="350.0" cy="211.4" r="3.2" fill="#868e96" stroke="none" stroke-width="1.5"/>
+<circle cx="349.8" cy="217.2" r="3.2" fill="#868e96" stroke="none" stroke-width="1.5"/>
+<circle cx="347.6" cy="236.0" r="3.2" fill="#868e96" stroke="none" stroke-width="1.5"/>
+<circle cx="344.1" cy="250.1" r="3.2" fill="#868e96" stroke="none" stroke-width="1.5"/>
+<circle cx="337.4" cy="268.0" r="3.2" fill="#868e96" stroke="none" stroke-width="1.5"/>
+<circle cx="334.5" cy="273.9" r="3.2" fill="#868e96" stroke="none" stroke-width="1.5"/>
+<circle cx="333.4" cy="276.1" r="3.2" fill="#868e96" stroke="none" stroke-width="1.5"/>
+<circle cx="308.0" cy="310.0" r="3.2" fill="#adb5bd" stroke="none" stroke-width="1.5"/>
+<circle cx="303.8" cy="314.0" r="3.2" fill="#adb5bd" stroke="none" stroke-width="1.5"/>
+<circle cx="288.9" cy="325.7" r="3.2" fill="#adb5bd" stroke="none" stroke-width="1.5"/>
+<circle cx="276.5" cy="333.2" r="3.2" fill="#adb5bd" stroke="none" stroke-width="1.5"/>
+<circle cx="259.1" cy="341.1" r="3.2" fill="#adb5bd" stroke="none" stroke-width="1.5"/>
+<circle cx="252.9" cy="343.3" r="3.2" fill="#adb5bd" stroke="none" stroke-width="1.5"/>
+<circle cx="250.6" cy="344.0" r="3.2" fill="#adb5bd" stroke="none" stroke-width="1.5"/>
+<circle cx="208.6" cy="350.0" r="3.2" fill="#495057" stroke="none" stroke-width="1.5"/>
+<circle cx="202.8" cy="349.8" r="3.2" fill="#495057" stroke="none" stroke-width="1.5"/>
+<circle cx="184.0" cy="347.6" r="3.2" fill="#495057" stroke="none" stroke-width="1.5"/>
+<circle cx="169.9" cy="344.1" r="3.2" fill="#495057" stroke="none" stroke-width="1.5"/>
+<circle cx="152.0" cy="337.4" r="3.2" fill="#495057" stroke="none" stroke-width="1.5"/>
+<circle cx="146.1" cy="334.5" r="3.2" fill="#495057" stroke="none" stroke-width="1.5"/>
+<circle cx="143.9" cy="333.4" r="3.2" fill="#495057" stroke="none" stroke-width="1.5"/>
+<circle cx="110.0" cy="308.0" r="3.2" fill="#868e96" stroke="none" stroke-width="1.5"/>
+<circle cx="106.0" cy="303.8" r="3.2" fill="#868e96" stroke="none" stroke-width="1.5"/>
+<circle cx="94.3" cy="288.9" r="3.2" fill="#868e96" stroke="none" stroke-width="1.5"/>
+<circle cx="86.8" cy="276.5" r="3.2" fill="#868e96" stroke="none" stroke-width="1.5"/>
+<circle cx="78.9" cy="259.1" r="3.2" fill="#868e96" stroke="none" stroke-width="1.5"/>
+<circle cx="76.7" cy="252.9" r="3.2" fill="#868e96" stroke="none" stroke-width="1.5"/>
+<circle cx="76.0" cy="250.6" r="3.2" fill="#868e96" stroke="none" stroke-width="1.5"/>
+<circle cx="70.0" cy="208.6" r="3.2" fill="#adb5bd" stroke="none" stroke-width="1.5"/>
+<circle cx="70.2" cy="202.8" r="3.2" fill="#adb5bd" stroke="none" stroke-width="1.5"/>
+<circle cx="72.4" cy="184.0" r="3.2" fill="#adb5bd" stroke="none" stroke-width="1.5"/>
+<circle cx="75.9" cy="169.9" r="3.2" fill="#adb5bd" stroke="none" stroke-width="1.5"/>
+<circle cx="82.6" cy="152.0" r="3.2" fill="#adb5bd" stroke="none" stroke-width="1.5"/>
+<circle cx="85.5" cy="146.1" r="3.2" fill="#adb5bd" stroke="none" stroke-width="1.5"/>
+<circle cx="86.6" cy="143.9" r="3.2" fill="#adb5bd" stroke="none" stroke-width="1.5"/>
+<circle cx="112.0" cy="110.0" r="3.2" fill="#495057" stroke="none" stroke-width="1.5"/>
+<circle cx="116.2" cy="106.0" r="3.2" fill="#495057" stroke="none" stroke-width="1.5"/>
+<circle cx="131.1" cy="94.3" r="3.2" fill="#495057" stroke="none" stroke-width="1.5"/>
+<circle cx="143.5" cy="86.8" r="3.2" fill="#495057" stroke="none" stroke-width="1.5"/>
+<circle cx="160.9" cy="78.9" r="3.2" fill="#495057" stroke="none" stroke-width="1.5"/>
+<circle cx="167.1" cy="76.7" r="3.2" fill="#495057" stroke="none" stroke-width="1.5"/>
+<circle cx="169.4" cy="76.0" r="3.2" fill="#495057" stroke="none" stroke-width="1.5"/>
+<text x="274.3" y="59.8" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">V</text>
+<text x="365.2" y="150.7" text-anchor="middle" fill="#666666" font-size="12">V+1/8</text>
+<text x="365.2" y="279.3" text-anchor="middle" fill="#666666" font-size="12">V+2/8</text>
+<text x="274.3" y="370.2" text-anchor="middle" fill="#666666" font-size="12">V+3/8</text>
+<text x="145.7" y="370.2" text-anchor="middle" fill="#666666" font-size="12">V+4/8</text>
+<text x="54.8" y="279.3" text-anchor="middle" fill="#666666" font-size="12">V+5/8</text>
+<text x="54.8" y="150.7" text-anchor="middle" fill="#666666" font-size="12">V+6/8</text>
+<text x="145.7" y="59.8" text-anchor="middle" fill="#666666" font-size="12">V+7/8</text>
+<text x="210.0" y="205.0" text-anchor="middle" fill="#666666" font-size="13">circle of</text>
+<text x="210.0" y="223.0" text-anchor="middle" fill="#666666" font-size="13">length 1</text>
+<text x="420.0" y="78.0" text-anchor="start" fill="#222222" font-size="13">Pick one point from each family of points that</text>
+<text x="420.0" y="102.0" text-anchor="start" fill="#222222" font-size="13">differ by a rational turn. Call the pick V.</text>
+<text x="420.0" y="126.0" text-anchor="start" fill="#222222" font-size="13"></text>
+<text x="420.0" y="150.0" text-anchor="start" fill="#222222" font-size="13">Turn V by every rational amount r. The copies</text>
+<text x="420.0" y="174.0" text-anchor="start" fill="#222222" font-size="13">V + r do not overlap and fill the whole circle.</text>
+<text x="420.0" y="198.0" text-anchor="start" fill="#222222" font-size="13"></text>
+<text x="420.0" y="222.0" text-anchor="start" fill="#222222" font-size="13">Turning does not change length. So every copy</text>
+<text x="420.0" y="246.0" text-anchor="start" fill="#222222" font-size="13">has the same length L, and there are</text>
+<text x="420.0" y="270.0" text-anchor="start" fill="#222222" font-size="13">countably many copies:</text>
+<text x="420.0" y="294.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">1 = L + L + L + ...</text>
+<text x="420.0" y="318.0" text-anchor="start" fill="#d9480f" font-size="13">L = 0 gives 0. L &gt; 0 gives infinity. Neither is 1.</text>
+<text x="420.0" y="342.0" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">V has no length at all.</text>
+<text x="430.0" y="392.0" text-anchor="middle" fill="#666666" font-size="12">The drawing shows 8 turns by 1/8. The real proof needs every rational turn and the axiom of choice.</text>
+</svg>

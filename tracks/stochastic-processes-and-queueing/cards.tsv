@@ -1,0 +1,15 @@
+What is a stochastic process?	A quantity that changes over time by chance, such as queue length or a random walk position.	math::tracks::stochastic-processes-and-queueing
+Typical distance of a fair random walk after \( n \) steps?	\( \sqrt{n} \). The average position stays 0.	math::tracks::stochastic-processes-and-queueing
+What makes a process a Markov chain?	The next state depends only on the current state, not on the history. It is memoryless.	math::tracks::stochastic-processes-and-queueing
+Steady state of a two-state chain with fail rate \( f \) and repair rate \( r \)?	\( \pi_{\text{Up}} = r / (f + r) \). For 0.1 and 0.6, 6/7 = 0.857.	math::tracks::stochastic-processes-and-queueing
+Poisson process: distribution of the gaps between arrivals?	Exponential with mean \( 1/\lambda \): \( P(\text{gap} > s) = e^{-\lambda s} \). Memoryless.	math::tracks::stochastic-processes-and-queueing
+Define utilization \( \rho \) for \( c \) servers.	\( \rho = \lambda / (c\mu) \): the fraction of time servers are busy. Stable only when \( \rho < 1 \).	math::tracks::stochastic-processes-and-queueing
+What does Kendall notation M/M/c mean?	Random (Poisson) arrivals, random (exponential) service, \( c \) servers sharing one line.	math::tracks::stochastic-processes-and-queueing
+State Little's law.	\( L = \lambda W \): mean number inside equals arrival rate times mean time inside. Holds for any stable system.	math::tracks::stochastic-processes-and-queueing
+M/M/1 mean response time?	\( W = 1/(\mu - \lambda) = S/(1-\rho) \). At 80% busy, 5 service times. At 90%, 10.	math::tracks::stochastic-processes-and-queueing
+Why does latency explode near 100% utilization?	Waiting scales with \( 1/(1-\rho) \). Halving the idle share doubles the wait.	math::tracks::stochastic-processes-and-queueing
+What does Erlang C give?	The probability that an arrival waits in an M/M/c queue. Then \( W_q = C/(c\mu - \lambda) \).	math::tracks::stochastic-processes-and-queueing
+Why does pooling help?	One shared line never leaves a server idle while another has a queue, which cuts the wait at the same utilization.	math::tracks::stochastic-processes-and-queueing
+State Kingman's formula.	\( W_q \approx \frac{\rho}{1-\rho} \cdot \frac{c_a^2 + c_s^2}{2} \cdot S \): utilization times variability times service time.	math::tracks::stochastic-processes-and-queueing
+M/M/1 p99 response time?	\( \ln(100)/(\mu - \lambda) \), about 4.6 times the mean.	math::tracks::stochastic-processes-and-queueing
+Fan-out to \( n \) backends each slow 1% of the time: chance of a slow request?	\( 1 - 0.99^n \). For \( n = 100 \), about 63%.	math::tracks::stochastic-processes-and-queueing

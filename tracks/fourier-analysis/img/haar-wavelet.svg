@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 360" width="880" height="360" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Haar wavelet transform of eight numbers into averages and details</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="880" height="360" fill="#ffffff"/>
+<text x="440.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Haar Wavelet: Pairwise Averages and Differences</text>
+<rect x="60.0" y="60.0" width="50.0" height="34.0" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="85.0" y="82.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">4</text>
+<rect x="116.0" y="60.0" width="50.0" height="34.0" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="141.0" y="82.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">6</text>
+<rect x="172.0" y="60.0" width="50.0" height="34.0" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="197.0" y="82.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">10</text>
+<rect x="228.0" y="60.0" width="50.0" height="34.0" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="253.0" y="82.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">12</text>
+<rect x="284.0" y="60.0" width="50.0" height="34.0" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="309.0" y="82.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">8</text>
+<rect x="340.0" y="60.0" width="50.0" height="34.0" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="365.0" y="82.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">6</text>
+<rect x="396.0" y="60.0" width="50.0" height="34.0" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="421.0" y="82.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">5</text>
+<rect x="452.0" y="60.0" width="50.0" height="34.0" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="477.0" y="82.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">5</text>
+<text x="520.0" y="82.0" text-anchor="start" fill="#222222" font-size="14" font-weight="bold">signal</text>
+<rect x="60.0" y="130.0" width="106.0" height="34.0" rx="4" fill="#f1f3f5" stroke="#222222" stroke-width="1.5"/>
+<text x="113.0" y="152.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">5</text>
+<rect x="172.0" y="130.0" width="106.0" height="34.0" rx="4" fill="#f1f3f5" stroke="#222222" stroke-width="1.5"/>
+<text x="225.0" y="152.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">11</text>
+<rect x="284.0" y="130.0" width="106.0" height="34.0" rx="4" fill="#f1f3f5" stroke="#222222" stroke-width="1.5"/>
+<text x="337.0" y="152.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">7</text>
+<rect x="396.0" y="130.0" width="106.0" height="34.0" rx="4" fill="#f1f3f5" stroke="#222222" stroke-width="1.5"/>
+<text x="449.0" y="152.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">5</text>
+<rect x="560.0" y="130.0" width="50.0" height="34.0" rx="4" fill="#fff4ee" stroke="#d9480f" stroke-width="1.5"/>
+<text x="585.0" y="152.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">-1</text>
+<rect x="616.0" y="130.0" width="50.0" height="34.0" rx="4" fill="#fff4ee" stroke="#d9480f" stroke-width="1.5"/>
+<text x="641.0" y="152.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">-1</text>
+<rect x="672.0" y="130.0" width="50.0" height="34.0" rx="4" fill="#fff4ee" stroke="#d9480f" stroke-width="1.5"/>
+<text x="697.0" y="152.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">1</text>
+<rect x="728.0" y="130.0" width="50.0" height="34.0" rx="4" fill="#fff4ee" stroke="#d9480f" stroke-width="1.5"/>
+<text x="753.0" y="152.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">0</text>
+<rect x="60.0" y="200.0" width="218.0" height="34.0" rx="4" fill="#f1f3f5" stroke="#222222" stroke-width="1.5"/>
+<text x="169.0" y="222.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">8</text>
+<rect x="284.0" y="200.0" width="218.0" height="34.0" rx="4" fill="#f1f3f5" stroke="#222222" stroke-width="1.5"/>
+<text x="393.0" y="222.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">6</text>
+<rect x="560.0" y="200.0" width="50.0" height="34.0" rx="4" fill="#fff4ee" stroke="#d9480f" stroke-width="1.5"/>
+<text x="585.0" y="222.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">-3</text>
+<rect x="616.0" y="200.0" width="50.0" height="34.0" rx="4" fill="#fff4ee" stroke="#d9480f" stroke-width="1.5"/>
+<text x="641.0" y="222.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">1</text>
+<rect x="60.0" y="270.0" width="442.0" height="34.0" rx="4" fill="#f1f3f5" stroke="#222222" stroke-width="1.5"/>
+<text x="281.0" y="292.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">7</text>
+<rect x="560.0" y="270.0" width="50.0" height="34.0" rx="4" fill="#fff4ee" stroke="#d9480f" stroke-width="1.5"/>
+<text x="585.0" y="292.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">1</text>
+<text x="330.0" y="352.0" text-anchor="middle" fill="#222222" font-size="13">averages: (a + b)/2</text>
+<text x="700.0" y="352.0" text-anchor="middle" fill="#d9480f" font-size="13">details: (a − b)/2</text>
+<text x="560.0" y="120.0" text-anchor="start" fill="#666666" font-size="12">details per level</text>
+</svg>

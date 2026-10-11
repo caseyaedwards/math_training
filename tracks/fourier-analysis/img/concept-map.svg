@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 568" width="960" height="568" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Fourier Analysis Concept Map</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#444444"/></marker></defs>
+<rect x="0" y="0" width="960" height="568" fill="#ffffff"/>
+<text x="480.0" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#222222">Fourier Analysis Concept Map</text>
+<rect x="10" y="70" width="940" height="112" fill="#f8f9fa" stroke="#dee2e6"/>
+<text x="40" y="126.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#555555" transform="rotate(-90 40 126.0)">Beginner</text>
+<rect x="10" y="182" width="940" height="224" fill="#f1f3f5" stroke="#dee2e6"/>
+<text x="40" y="294.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#555555" transform="rotate(-90 40 294.0)">Intermediate</text>
+<rect x="10" y="406" width="940" height="112" fill="#f8f9fa" stroke="#dee2e6"/>
+<text x="40" y="462.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#555555" transform="rotate(-90 40 462.0)">Advanced</text>
+<line x1="271.0" y1="126.0" x2="313.0" y2="126.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="433.0" y1="126.0" x2="475.0" y2="126.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="595.0" y1="126.0" x2="637.0" y2="126.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="757.0" y1="126.0" x2="799.0" y2="126.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M859.0,152.0 C859.0,182.0 227.2,182.0 227.2,212.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="287.2" y1="238.0" x2="369.7" y2="238.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="489.7" y1="238.0" x2="572.2" y2="238.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="692.2" y1="238.0" x2="774.7" y2="238.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M834.7,255.0 C834.7,294.0 737.5,294.0 737.5,333.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M632.2,264.0 C632.2,350.0 494.5,350.0 494.5,436.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M737.5,367.0 C737.5,406.0 778.0,406.0 778.0,445.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="554.5" y1="462.0" x2="718.0" y2="462.0" stroke="#444444" stroke-width="1.5" marker-end="url(#arr)"/>
+<rect x="151.0" y="100.0" width="120.0" height="52" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="211.0" y="122.0" text-anchor="middle" fill="#222222">Waves and</text>
+<text x="211.0" y="140.0" text-anchor="middle" fill="#222222">Frequencies</text>
+<rect x="313.0" y="100.0" width="120.0" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="373.0" y="122.0" text-anchor="middle" fill="#222222">Adding</text>
+<text x="373.0" y="140.0" text-anchor="middle" fill="#222222">Waves</text>
+<rect x="475.0" y="100.0" width="120.0" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="535.0" y="122.0" text-anchor="middle" fill="#222222">Fourier</text>
+<text x="535.0" y="140.0" text-anchor="middle" fill="#222222">Series</text>
+<rect x="637.0" y="100.0" width="120.0" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="697.0" y="122.0" text-anchor="middle" fill="#222222">Finding</text>
+<text x="697.0" y="140.0" text-anchor="middle" fill="#222222">Coefficients</text>
+<rect x="799.0" y="100.0" width="120.0" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="859.0" y="122.0" text-anchor="middle" fill="#222222">Frequency</text>
+<text x="859.0" y="140.0" text-anchor="middle" fill="#222222">Domain</text>
+<rect x="167.2" y="212.0" width="120.0" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="227.2" y="234.0" text-anchor="middle" fill="#222222">Complex</text>
+<text x="227.2" y="252.0" text-anchor="middle" fill="#222222">Exponentials</text>
+<rect x="369.7" y="212.0" width="120.0" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="429.7" y="234.0" text-anchor="middle" fill="#222222">Fourier</text>
+<text x="429.7" y="252.0" text-anchor="middle" fill="#222222">Transform</text>
+<rect x="572.2" y="212.0" width="120.0" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="632.2" y="234.0" text-anchor="middle" fill="#222222">DFT and</text>
+<text x="632.2" y="252.0" text-anchor="middle" fill="#222222">FFT</text>
+<rect x="774.7" y="221.0" width="120.0" height="34" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="834.7" y="243.0" text-anchor="middle" fill="#222222">Convolution</text>
+<rect x="677.5" y="333.0" width="120.0" height="34" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="737.5" y="355.0" text-anchor="middle" fill="#222222">Filtering</text>
+<rect x="434.5" y="436.0" width="120.0" height="52" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="494.5" y="458.0" text-anchor="middle" fill="#222222">Sampling and</text>
+<text x="494.5" y="476.0" text-anchor="middle" fill="#222222">Aliasing</text>
+<rect x="718.0" y="445.0" width="120.0" height="34" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="778.0" y="467.0" text-anchor="middle" fill="#222222">Wavelets</text>
+<text x="20" y="550" fill="#555555" font-size="13">Arrow A to B: learn A before B. Orange box: start here.</text>
+</svg>

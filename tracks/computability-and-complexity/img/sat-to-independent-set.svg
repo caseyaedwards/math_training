@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 560" width="820" height="560" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Reduction from 3-SAT to independent set</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="820" height="560" fill="#ffffff"/>
+<text x="410.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">3-SAT Becomes Independent Set</text>
+<text x="410.0" y="56.0" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">(x1 ∨ x2 ∨ ¬x3) ∧ (¬x1 ∨ ¬x2 ∨ x3) ∧ (x1 ∨ ¬x2 ∨ x3)</text>
+<path d="M178.5,198.1 Q285.0,130.0 391.5,198.1" fill="none" stroke="#868e96" stroke-width="1.6" stroke-dasharray="6,4"/>
+<path d="M178.2,197.6 Q410.0,40.0 641.8,197.6" fill="none" stroke="#868e96" stroke-width="1.6" stroke-dasharray="6,4"/>
+<path d="M244.0,310.0 Q285.0,310.0 326.0,310.0" fill="none" stroke="#868e96" stroke-width="1.6" stroke-dasharray="6,4"/>
+<path d="M241.8,319.5 Q410.0,400.0 578.2,319.5" fill="none" stroke="#868e96" stroke-width="1.6" stroke-dasharray="6,4"/>
+<path d="M113.4,325.7 Q285.0,500.0 456.6,325.7" fill="none" stroke="#868e96" stroke-width="1.6" stroke-dasharray="6,4"/>
+<path d="M489.2,323.7 Q597.0,410.0 704.8,323.7" fill="none" stroke="#868e96" stroke-width="1.6" stroke-dasharray="6,4"/>
+<line x1="109.6" y1="291.3" x2="148.4" y2="228.7" stroke="#222222" stroke-width="2"/>
+<line x1="120.0" y1="310.0" x2="200.0" y2="310.0" stroke="#222222" stroke-width="2"/>
+<line x1="171.6" y1="228.7" x2="210.4" y2="291.3" stroke="#222222" stroke-width="2"/>
+<line x1="398.4" y1="228.7" x2="359.6" y2="291.3" stroke="#222222" stroke-width="2"/>
+<line x1="421.6" y1="228.7" x2="460.4" y2="291.3" stroke="#222222" stroke-width="2"/>
+<line x1="370.0" y1="310.0" x2="450.0" y2="310.0" stroke="#222222" stroke-width="2"/>
+<line x1="648.4" y1="228.7" x2="609.6" y2="291.3" stroke="#222222" stroke-width="2"/>
+<line x1="671.6" y1="228.7" x2="710.4" y2="291.3" stroke="#222222" stroke-width="2"/>
+<line x1="620.0" y1="310.0" x2="700.0" y2="310.0" stroke="#222222" stroke-width="2"/>
+<circle cx="98.0" cy="310.0" r="22.0" fill="#d9480f" stroke="#d9480f" stroke-width="2"/>
+<text x="98.0" y="315.0" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="bold">x1</text>
+<circle cx="160.0" cy="210.0" r="22.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="160.0" y="215.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">x2</text>
+<circle cx="222.0" cy="310.0" r="22.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="222.0" y="315.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">¬x3</text>
+<circle cx="410.0" cy="210.0" r="22.0" fill="#d9480f" stroke="#d9480f" stroke-width="2"/>
+<text x="410.0" y="215.0" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="bold">¬x2</text>
+<circle cx="348.0" cy="310.0" r="22.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="348.0" y="315.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">x3</text>
+<circle cx="472.0" cy="310.0" r="22.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="472.0" y="315.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">¬x1</text>
+<circle cx="660.0" cy="210.0" r="22.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="660.0" y="215.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">¬x2</text>
+<circle cx="598.0" cy="310.0" r="22.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="598.0" y="315.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">x3</text>
+<circle cx="722.0" cy="310.0" r="22.0" fill="#d9480f" stroke="#d9480f" stroke-width="2"/>
+<text x="722.0" y="315.0" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="bold">x1</text>
+<text x="160.0" y="268.0" text-anchor="middle" fill="#666666" font-size="13" font-weight="bold">C1</text>
+<text x="410.0" y="268.0" text-anchor="middle" fill="#666666" font-size="13" font-weight="bold">C2</text>
+<text x="660.0" y="268.0" text-anchor="middle" fill="#666666" font-size="13" font-weight="bold">C3</text>
+<text x="410.0" y="480.0" text-anchor="middle" fill="#222222" font-size="13">Solid: triangle inside each clause, so an independent set takes at most one literal per clause.</text>
+<text x="410.0" y="500.0" text-anchor="middle" fill="#222222" font-size="13">Dashed: a literal and its opposite clash, so the set never holds both x and ¬x.</text>
+<text x="410.0" y="524.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">Independent set of size 3 (orange) = one true literal per clause = x1 true, x2 false.</text>
+<text x="410.0" y="548.0" text-anchor="middle" fill="#666666" font-size="12">Formula satisfiable exactly when this graph has an independent set as big as the number of clauses.</text>
+</svg>

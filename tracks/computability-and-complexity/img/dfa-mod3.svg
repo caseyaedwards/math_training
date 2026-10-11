@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 430" width="760" height="430" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>DFA that reads binary and tracks the remainder mod 3</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="760" height="430" fill="#ffffff"/>
+<text x="380.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">DFA: Is a Binary Number Divisible by 3?</text>
+<circle cx="190.0" cy="160.0" r="24.0" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<circle cx="190.0" cy="160.0" r="19.0" fill="none" stroke="#d9480f" stroke-width="1.5"/>
+<text x="190.0" y="165.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">r0</text>
+<line x1="126.0" y1="160.0" x2="164.0" y2="160.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="122.0" y="152.0" text-anchor="end" fill="#666666" font-size="12">start</text>
+<circle cx="380.0" cy="160.0" r="24.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="380.0" y="165.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">r1</text>
+<circle cx="570.0" cy="160.0" r="24.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="570.0" y="165.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">r2</text>
+<path d="M210.7,147.8 Q285.0,104.0 357.6,146.8" fill="none" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="285.0" y="123.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<path d="M359.3,172.2 Q285.0,216.0 212.4,173.2" fill="none" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="285.0" y="207.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<path d="M400.7,147.8 Q475.0,104.0 547.6,146.8" fill="none" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="475.0" y="123.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">0</text>
+<path d="M549.3,172.2 Q475.0,216.0 402.4,173.2" fill="none" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="475.0" y="207.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">0</text>
+<path d="M178.0,180.0 C150.0,230.0 230.0,230.0 202.0,182.0" fill="none" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="190.0" y="240.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">0</text>
+<path d="M558.0,180.0 C530.0,230.0 610.0,230.0 582.0,182.0" fill="none" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<text x="570.0" y="240.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<text x="380.0" y="66.0" text-anchor="middle" fill="#666666" font-size="13">state r = value read so far, mod 3.  Read bit b: r becomes (2r + b) mod 3</text>
+<text x="190.0" y="120.0" text-anchor="middle" fill="#d9480f" font-size="12">accept</text>
+<text x="60.0" y="312.0" text-anchor="start" fill="#222222" font-size="14" font-weight="bold">Trace on 1101 (=13):</text>
+<circle cx="250.0" cy="360.0" r="20.0" fill="#fde4d6" stroke="#222222" stroke-width="2"/>
+<text x="250.0" y="365.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">r0</text>
+<line x1="272.0" y1="360.0" x2="336.0" y2="360.0" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<text x="305.0" y="350.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">1</text>
+<circle cx="360.0" cy="360.0" r="20.0" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="360.0" y="365.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">r1</text>
+<line x1="382.0" y1="360.0" x2="446.0" y2="360.0" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<text x="415.0" y="350.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">1</text>
+<circle cx="470.0" cy="360.0" r="20.0" fill="#fde4d6" stroke="#222222" stroke-width="2"/>
+<text x="470.0" y="365.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">r0</text>
+<line x1="492.0" y1="360.0" x2="556.0" y2="360.0" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<text x="525.0" y="350.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">0</text>
+<circle cx="580.0" cy="360.0" r="20.0" fill="#fde4d6" stroke="#222222" stroke-width="2"/>
+<text x="580.0" y="365.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">r0</text>
+<line x1="602.0" y1="360.0" x2="666.0" y2="360.0" stroke="#222222" stroke-width="1.6" marker-end="url(#ah)"/>
+<text x="635.0" y="350.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">1</text>
+<circle cx="690.0" cy="360.0" r="20.0" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="690.0" y="365.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">r1</text>
+<text x="690.0" y="400.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">ends in r1: reject</text>
+<text x="250.0" y="400.0" text-anchor="middle" fill="#666666" font-size="12">start</text>
+<text x="380.0" y="422.0" text-anchor="middle" fill="#666666" font-size="12">13 = 3 x 4 + 1, remainder 1. Three states remember everything the machine needs.</text>
+</svg>

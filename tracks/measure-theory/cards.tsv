@@ -1,0 +1,15 @@
+What is a measure, in one line?	A rule that gives sets a size from 0 to infinity, with size 0 for the empty set and sizes adding over countably many disjoint sets.	math::tracks::measure-theory
+What is the counting measure?	Each point weighs 1. The size of a set is the number of its points.	math::tracks::measure-theory
+What is a null set?	A set of measure 0, such as any countable set of points on the line.	math::tracks::measure-theory
+Why do the rationals in \( [0,1] \) have length 0?	Cover the k-th rational with an interval of length \( \varepsilon/2^k \). The total is at most \( \varepsilon \), for any \( \varepsilon > 0 \).	math::tracks::measure-theory
+Define Lebesgue outer measure \( m^*(E) \).	The infimum of the total length of countable interval covers of \( E \).	math::tracks::measure-theory
+What does the Vitali set show?	With the axiom of choice, some sets have no length that is both additive and unchanged by sliding.	math::tracks::measure-theory
+Three rules of a sigma-algebra?	Contains the whole space, closed under complements, closed under countable unions.	math::tracks::measure-theory
+What is Lebesgue measure on the line?	The measure that gives every interval its length and does not change when a set slides.	math::tracks::measure-theory
+Cantor set: measure and size?	Measure 0, yet uncountably many points.	math::tracks::measure-theory
+When is a function measurable?	When every set \( \{x : f(x) > t\} \) is measurable.	math::tracks::measure-theory
+Integral of a simple function \( \sum c_k \mathbf{1}_{A_k} \)?	\( \sum c_k \mu(A_k) \): value times measure, added up.	math::tracks::measure-theory
+Riemann versus Lebesgue in the coin picture?	Riemann adds coins one by one in order. Lebesgue sorts by value, counts each pile, multiplies and adds.	math::tracks::measure-theory
+Lebesgue integral of the Dirichlet function on \( [0,1] \)?	0. Value 1 sits on the rationals, a set of measure 0. Riemann fails on this function.	math::tracks::measure-theory
+Dominated convergence theorem?	If \( f_n \to f \) pointwise and \( |f_n| \le g \) with \( \int g < \infty \), then \( \int f_n \to \int f \).	math::tracks::measure-theory
+Probability space in measure terms?	A measure space \( (\Omega, \mathcal{F}, P) \) with \( P(\Omega) = 1 \). Expected value is the integral of a random variable.	math::tracks::measure-theory

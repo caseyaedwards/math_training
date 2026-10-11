@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 594" width="880" height="594" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Optimization Concept Map</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker></defs>
+<rect x="0" y="0" width="880" height="594" fill="#ffffff"/>
+<text x="440.0" y="28" text-anchor="middle" font-size="17" font-weight="bold" fill="#222222">Optimization Concept Map</text>
+<rect x="10" y="50" width="860" height="168" fill="#f3f3f3" stroke="#dddddd"/>
+<text x="22" y="139" font-weight="bold" fill="#555555">Beginner</text>
+<rect x="10" y="218" width="860" height="168" fill="#ffffff" stroke="#dddddd"/>
+<text x="22" y="307" font-weight="bold" fill="#555555">Intermediate</text>
+<rect x="10" y="386" width="860" height="168" fill="#f3f3f3" stroke="#dddddd"/>
+<text x="22" y="475" font-weight="bold" fill="#555555">Advanced</text>
+<path d="M424.5,117.2 L318.8,155.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M495.0,119.3 L495.0,155.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M469.5,119.3 L289.4,312.5" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M314.8,176.0 L444.1,176.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M544.0,176.0 L683.0,176.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M685.7,202.6 L640.2,229.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M653.3,260.0 L731.7,260.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M469.5,194.2 L303.1,313.2" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M316.0,344.0 L426.2,344.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M510.2,344.0 L632.9,344.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M760.8,287.3 L732.2,313.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M292.5,371.3 L324.2,397.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M416.3,428.0 L550.7,428.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M402.3,455.3 L443.4,481.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M577.8,455.3 L536.6,481.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="426.0" y="66.0" width="138.0" height="52.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="495.0" y="88.0" text-anchor="middle" fill="#222222">What Optimizing</text>
+<text x="495.0" y="106.0" text-anchor="middle" fill="#222222">Means</text>
+<rect x="206.2" y="150.0" width="107.6" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="260.0" y="172.0" text-anchor="middle" fill="#222222">Extrema and</text>
+<text x="260.0" y="190.0" text-anchor="middle" fill="#222222">Flat Tops</text>
+<rect x="448.8" y="159.0" width="92.4" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="495.0" y="181.0" text-anchor="middle" fill="#222222">Convexity</text>
+<rect x="687.6" y="150.0" width="84.8" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="730.0" y="172.0" text-anchor="middle" fill="#222222">Gradient</text>
+<text x="730.0" y="190.0" text-anchor="middle" fill="#222222">Descent</text>
+<rect x="528.6" y="234.0" width="122.8" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="590.0" y="256.0" text-anchor="middle" fill="#222222">Gradients and</text>
+<text x="590.0" y="274.0" text-anchor="middle" fill="#222222">Contour Maps</text>
+<rect x="736.2" y="234.0" width="107.6" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="790.0" y="256.0" text-anchor="middle" fill="#222222">Lagrange</text>
+<text x="790.0" y="274.0" text-anchor="middle" fill="#222222">Multipliers</text>
+<rect x="206.2" y="318.0" width="107.6" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="260.0" y="340.0" text-anchor="middle" fill="#222222">Linear</text>
+<text x="260.0" y="358.0" text-anchor="middle" fill="#222222">Programming</text>
+<rect x="431.4" y="318.0" width="77.2" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="470.0" y="340.0" text-anchor="middle" fill="#222222">Simplex</text>
+<text x="470.0" y="358.0" text-anchor="middle" fill="#222222">Method</text>
+<rect x="638.6" y="318.0" width="122.8" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="700.0" y="340.0" text-anchor="middle" fill="#222222">Duality and</text>
+<text x="700.0" y="358.0" text-anchor="middle" fill="#222222">Shadow Prices</text>
+<rect x="306.2" y="402.0" width="107.6" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="360.0" y="424.0" text-anchor="middle" fill="#222222">Integer</text>
+<text x="360.0" y="442.0" text-anchor="middle" fill="#222222">Programming</text>
+<rect x="554.8" y="402.0" width="130.4" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="620.0" y="424.0" text-anchor="middle" fill="#222222">Bin Packing</text>
+<text x="620.0" y="442.0" text-anchor="middle" fill="#222222">and Scheduling</text>
+<rect x="440.0" y="486.0" width="100.0" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="490.0" y="508.0" text-anchor="middle" fill="#222222">Constraint</text>
+<text x="490.0" y="526.0" text-anchor="middle" fill="#222222">Solvers</text>
+<text x="22" y="580" font-size="12" fill="#555555">Arrow A to B: learn A before B.</text>
+<rect x="630" y="568" width="16" height="14" rx="3" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="652" y="580" font-size="12" fill="#555555">milestone concept of the track</text>
+</svg>

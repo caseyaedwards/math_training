@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 500" width="960" height="500" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Field lattice of the splitting field of x^3 - 2 and the upside-down subgroup lattice of S3</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#444444"/></marker></defs>
+<rect x="0" y="0" width="960" height="500" fill="#ffffff"/>
+<text x="480.0" y="30.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">Splitting Field of x³ - 2: Six Symmetries</text>
+<line x1="270.0" y1="400.0" x2="70.0" y2="230.0" stroke="#222222" stroke-width="1.5"/>
+<text x="160.0" y="320.0" text-anchor="end" fill="#555555" font-size="12">3</text>
+<line x1="270.0" y1="400.0" x2="170.0" y2="230.0" stroke="#222222" stroke-width="1.5"/>
+<text x="210.0" y="320.0" text-anchor="end" fill="#555555" font-size="12">3</text>
+<line x1="270.0" y1="400.0" x2="270.0" y2="230.0" stroke="#222222" stroke-width="1.5"/>
+<text x="280.0" y="320.0" text-anchor="start" fill="#555555" font-size="12">3</text>
+<line x1="270.0" y1="400.0" x2="430.0" y2="320.0" stroke="#222222" stroke-width="1.5"/>
+<text x="360.0" y="365.0" text-anchor="start" fill="#555555" font-size="12">2</text>
+<line x1="70.0" y1="230.0" x2="270.0" y2="100.0" stroke="#222222" stroke-width="1.5"/>
+<text x="160.0" y="170.0" text-anchor="end" fill="#555555" font-size="12">2</text>
+<line x1="170.0" y1="230.0" x2="270.0" y2="100.0" stroke="#222222" stroke-width="1.5"/>
+<text x="210.0" y="170.0" text-anchor="end" fill="#555555" font-size="12">2</text>
+<line x1="270.0" y1="230.0" x2="270.0" y2="100.0" stroke="#222222" stroke-width="1.5"/>
+<text x="280.0" y="170.0" text-anchor="start" fill="#555555" font-size="12">2</text>
+<line x1="430.0" y1="320.0" x2="270.0" y2="100.0" stroke="#222222" stroke-width="1.5"/>
+<text x="360.0" y="215.0" text-anchor="start" fill="#555555" font-size="12">3</text>
+<line x1="780.0" y1="400.0" x2="560.0" y2="230.0" stroke="#222222" stroke-width="1.5"/>
+<text x="660.0" y="320.0" text-anchor="end" fill="#555555" font-size="12">3</text>
+<line x1="780.0" y1="400.0" x2="670.0" y2="230.0" stroke="#222222" stroke-width="1.5"/>
+<text x="715.0" y="320.0" text-anchor="end" fill="#555555" font-size="12">3</text>
+<line x1="780.0" y1="400.0" x2="780.0" y2="230.0" stroke="#222222" stroke-width="1.5"/>
+<text x="790.0" y="320.0" text-anchor="start" fill="#555555" font-size="12">3</text>
+<line x1="780.0" y1="400.0" x2="910.0" y2="320.0" stroke="#222222" stroke-width="1.5"/>
+<text x="855.0" y="365.0" text-anchor="start" fill="#555555" font-size="12">2</text>
+<line x1="560.0" y1="230.0" x2="780.0" y2="100.0" stroke="#222222" stroke-width="1.5"/>
+<text x="660.0" y="170.0" text-anchor="end" fill="#555555" font-size="12">2</text>
+<line x1="670.0" y1="230.0" x2="780.0" y2="100.0" stroke="#222222" stroke-width="1.5"/>
+<text x="715.0" y="170.0" text-anchor="end" fill="#555555" font-size="12">2</text>
+<line x1="780.0" y1="230.0" x2="780.0" y2="100.0" stroke="#222222" stroke-width="1.5"/>
+<text x="790.0" y="170.0" text-anchor="start" fill="#555555" font-size="12">2</text>
+<line x1="910.0" y1="320.0" x2="780.0" y2="100.0" stroke="#222222" stroke-width="1.5"/>
+<text x="855.0" y="215.0" text-anchor="start" fill="#555555" font-size="12">3</text>
+<rect x="227.6" y="85.0" width="84.7" height="30.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="270.0" y="105.0" text-anchor="middle" fill="#222222" font-size="14">ℚ(∛2, ω)</text>
+<rect x="39.4" y="215.0" width="61.2" height="30.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="70.0" y="235.0" text-anchor="middle" fill="#222222" font-size="14">ℚ(∛2)</text>
+<rect x="135.5" y="215.0" width="69.0" height="30.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="170.0" y="235.0" text-anchor="middle" fill="#222222" font-size="14">ℚ(ω∛2)</text>
+<rect x="231.6" y="215.0" width="76.9" height="30.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="270.0" y="235.0" text-anchor="middle" fill="#222222" font-size="14">ℚ(ω²∛2)</text>
+<rect x="403.3" y="305.0" width="53.4" height="30.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="430.0" y="325.0" text-anchor="middle" fill="#222222" font-size="14">ℚ(ω)</text>
+<rect x="255.1" y="385.0" width="29.8" height="30.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="270.0" y="405.0" text-anchor="middle" fill="#222222" font-size="14">ℚ</text>
+<rect x="757.2" y="85.0" width="45.5" height="30.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="780.0" y="105.0" text-anchor="middle" fill="#222222" font-size="14">{e}</text>
+<rect x="513.7" y="215.0" width="92.6" height="30.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="560.0" y="235.0" text-anchor="middle" fill="#222222" font-size="14">{e, (23)}</text>
+<rect x="623.7" y="215.0" width="92.6" height="30.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="670.0" y="235.0" text-anchor="middle" fill="#222222" font-size="14">{e, (13)}</text>
+<rect x="733.7" y="215.0" width="92.6" height="30.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="780.0" y="235.0" text-anchor="middle" fill="#222222" font-size="14">{e, (12)}</text>
+<rect x="891.2" y="305.0" width="37.7" height="30.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="910.0" y="325.0" text-anchor="middle" fill="#222222" font-size="14">A3</text>
+<rect x="761.2" y="385.0" width="37.7" height="30.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="780.0" y="405.0" text-anchor="middle" fill="#222222" font-size="14">S3</text>
+<text x="480.0" y="462.0" text-anchor="middle" fill="#555555" font-size="13">Roots: r1 = ∛2, r2 = ω∛2, r3 = ω²∛2. The swap (23) trades r2 and r3 and fixes ℚ(∛2).</text>
+<text x="480.0" y="482.0" text-anchor="middle" fill="#555555" font-size="13">A3 is a normal subgroup. Its field ℚ(ω) is the only middle field that is Galois over ℚ.</text>
+<text x="270.0" y="60.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">intermediate fields</text>
+<text x="780.0" y="60.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">subgroups of S3</text>
+</svg>

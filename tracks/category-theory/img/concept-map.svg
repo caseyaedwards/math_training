@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" width="960" height="520" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Category Theory Concept Map</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="960" height="520" fill="#ffffff"/>
+<text x="480.0" y="32.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold" xml:space="preserve">Category Theory Concept Map</text>
+<rect x="10" y="60" width="940" height="180" fill="#f8f9fa" stroke="#dee2e6"/>
+<text x="40" y="150.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#555555" transform="rotate(-90 40 150.0)">Beginner</text>
+<rect x="10" y="240" width="940" height="120" fill="#f1f3f5" stroke="#dee2e6"/>
+<text x="40" y="300.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#555555" transform="rotate(-90 40 300.0)">Intermediate</text>
+<rect x="10" y="360" width="940" height="120" fill="#f8f9fa" stroke="#dee2e6"/>
+<text x="40" y="420.0" text-anchor="middle" font-size="14" font-weight="bold" fill="#555555" transform="rotate(-90 40 420.0)">Advanced</text>
+<path d="M510.0,117.0 C510.0,144.0 246.0,144.0 246.0,171.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<path d="M510.0,117.0 C510.0,144.0 510.0,144.0 510.0,171.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="580.0" y1="190.0" x2="687.0" y2="190.0" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<path d="M246.0,207.0 C246.0,244.0 158.0,244.0 158.0,281.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<path d="M246.0,207.0 C246.0,244.0 334.0,244.0 334.0,281.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="394.0" y1="300.0" x2="443.0" y2="300.0" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<path d="M774.0,207.0 C774.0,244.0 686.0,244.0 686.0,281.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="746.0" y1="300.0" x2="785.0" y2="300.0" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<path d="M334.0,317.0 C334.0,354.5 422.0,354.5 422.0,392.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<path d="M510.0,317.0 C510.0,354.5 422.0,354.5 422.0,392.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="492.0" y1="420.0" x2="531.0" y2="420.0" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="663.0" y1="420.0" x2="707.0" y2="420.0" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<path d="M686.0,317.0 C686.0,354.5 774.0,354.5 774.0,392.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<path d="M862.0,326.0 C862.0,359.0 774.0,359.0 774.0,392.0" fill="none" stroke="#444444" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="425.0" y="83.0" width="170.0" height="34.0" rx="6" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="510.0" y="105.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">Objects and Arrows</text>
+<rect x="161.0" y="173.0" width="170.0" height="34.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="246.0" y="195.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">Sets and Functions</text>
+<rect x="440.0" y="173.0" width="140.0" height="34.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="510.0" y="195.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">Composition</text>
+<rect x="689.0" y="173.0" width="170.0" height="34.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="774.0" y="195.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">Identity and Laws</text>
+<rect x="88.0" y="283.0" width="140.0" height="34.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="158.0" y="305.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">Isomorphisms</text>
+<rect x="274.0" y="283.0" width="120.0" height="34.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="334.0" y="305.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">Products</text>
+<rect x="445.0" y="283.0" width="130.0" height="34.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="510.0" y="305.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">Coproducts</text>
+<rect x="626.0" y="283.0" width="120.0" height="34.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="686.0" y="305.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">Functors</text>
+<rect x="787.0" y="274.0" width="150.0" height="52.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="862.0" y="296.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">Natural</text>
+<text x="862.0" y="314.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">Transformations</text>
+<rect x="352.0" y="394.0" width="140.0" height="52.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="422.0" y="416.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">Universal</text>
+<text x="422.0" y="434.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">Properties</text>
+<rect x="533.0" y="394.0" width="130.0" height="52.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="598.0" y="416.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">Currying and</text>
+<text x="598.0" y="434.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">Adjunctions</text>
+<rect x="709.0" y="394.0" width="130.0" height="52.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="774.0" y="416.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">Monads</text>
+<text x="774.0" y="434.0" text-anchor="middle" fill="#222222" font-size="14" xml:space="preserve">Taster</text>
+<text x="20.0" y="505.0" text-anchor="start" fill="#555555" font-size="13" xml:space="preserve">Arrow A to B: learn A before B. Orange box: start here.</text>
+</svg>

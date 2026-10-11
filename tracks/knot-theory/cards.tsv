@@ -1,0 +1,16 @@
+What is a knot?	A closed loop in 3D space that does not cross itself. Two knots are the same if one deforms into the other without cutting.	math::tracks::knot-theory
+Why must the ends of a knotted string be glued?	On an open string every tangle slides off the end. Gluing traps the knot.	math::tracks::knot-theory
+What does a knot diagram add to a shadow?	Over/under information at each crossing, drawn as a gap in the under-strand.	math::tracks::knot-theory
+Name the three Reidemeister moves.	R1: add or remove a twist. R2: slide a strand over another (two crossings). R3: slide a strand across a crossing.	math::tracks::knot-theory
+State Reidemeister's theorem.	Two diagrams show the same knot exactly when a sequence of R1, R2 and R3 moves connects them.	math::tracks::knot-theory
+What is a knot invariant?	A quantity unchanged by every Reidemeister move. Different values prove different knots. Equal values prove nothing.	math::tracks::knot-theory
+Rule for tricolorability?	Color arcs with 3 colors, at least 2 used. At each crossing the three ends are all one color or all different.	math::tracks::knot-theory
+Is the trefoil tricolorable? The unknot? The figure-eight?	Trefoil yes. Unknot no. Figure-eight no.	math::tracks::knot-theory
+What is the crossing number?	The fewest crossings over all diagrams of the knot. Trefoil 3, figure-eight 4.	math::tracks::knot-theory
+Sign of a crossing?	Orient both strands upward. Over-strand heading up-right: \( +1 \). Up-left: \( -1 \). Writhe is the sum of signs.	math::tracks::knot-theory
+Linking number of two loops?	Half the sum of the signs of the crossings between them. Hopf link: \( \pm 1 \).	math::tracks::knot-theory
+What is special about the Borromean rings?	No two rings are linked, yet the three together cannot be separated.	math::tracks::knot-theory
+What is a connected sum of knots?	Cut each knot open and join the loose ends with two parallel strands. Every knot is a sum of primes in exactly one way.	math::tracks::knot-theory
+What is the unknotting number?	The fewest crossing switches that turn the knot into the unknot. Trefoil: 1.	math::tracks::knot-theory
+Kauffman bracket skein rule?	\( \langle \times \rangle = A\langle \text{A-smoothing} \rangle + A^{-1}\langle \text{B-smoothing} \rangle \), each extra loop multiplies by \( -A^2 - A^{-2} \).	math::tracks::knot-theory
+Jones polynomial of the trefoil and its mirror?	Left-handed: \( -t^{-4} + t^{-3} + t^{-1} \). Right-handed: \( t + t^3 - t^4 \). They differ: the trefoil is not its own mirror image.	math::tracks::knot-theory

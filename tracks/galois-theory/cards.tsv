@@ -1,0 +1,14 @@
+What does it mean to solve a polynomial equation by radicals?	Write every root using only the coefficients, the four operations \( + - \times \div \), and roots such as \( \sqrt{\ } \), \( \sqrt[3]{\ } \), \( \sqrt[n]{\ } \).	math::tracks::galois-theory
+State the quadratic formula.	\( x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} \) for \( ax^2 + bx + c = 0 \).	math::tracks::galois-theory
+Which degrees have a general formula by radicals?	Degrees 1, 2, 3 and 4. Degree 5 and higher have none (Abel-Ruffini).	math::tracks::galois-theory
+What is a field?	A set of numbers where you add, subtract, multiply and divide (except by 0) and always stay inside the set. Examples: \( \mathbb{Q}, \mathbb{R}, \mathbb{C}, \mathbb{Q}(\sqrt{2}) \).	math::tracks::galois-theory
+What is the degree \( [L:K] \) of a field extension?	The number of coordinates needed to write every element of \( L \) with coefficients from \( K \). For \( \mathbb{Q}(\sqrt{2}) \): basis \( 1, \sqrt{2} \), degree 2.	math::tracks::galois-theory
+State the tower law.	\( [M:K] = [M:L]\,[L:K] \) for fields \( K \subseteq L \subseteq M \). Degrees multiply.	math::tracks::galois-theory
+What is a field automorphism?	A one-to-one, onto map from a field to itself that respects addition and multiplication. It sends each root of a rational polynomial to a root of the same polynomial.	math::tracks::galois-theory
+What is the Galois group \( \mathrm{Gal}(L/K) \)?	All automorphisms of \( L \) that leave every element of \( K \) unchanged, with composition as the operation.	math::tracks::galois-theory
+Galois group of \( \mathbb{Q}(\sqrt{2}, \sqrt{3}) / \mathbb{Q} \)?	Four symmetries: flip the sign of \( \sqrt{2} \), of \( \sqrt{3} \), of both, or of neither. The Klein four-group.	math::tracks::galois-theory
+State the fundamental theorem of Galois theory in one line.	For a Galois extension, intermediate fields match subgroups one to one, with inclusion reversed: a bigger field has a smaller group.	math::tracks::galois-theory
+What is a solvable group?	A group that breaks into a chain of layers \( \{e\} = G_0 \subset G_1 \subset \dots \subset G_k = G \), each normal in the next, with every layer \( G_{i+1}/G_i \) abelian.	math::tracks::galois-theory
+Why is there no quintic formula?	A polynomial is solvable by radicals exactly when its Galois group is solvable. \( S_5 \) is not solvable (its derived series stalls at \( A_5 \)), and \( x^5 - 4x + 2 \) has Galois group \( S_5 \).	math::tracks::galois-theory
+Which real numbers can a ruler and compass construct?	Only numbers reached by a chain of square roots. Their degree over \( \mathbb{Q} \) is always a power of 2.	math::tracks::galois-theory
+Why can you not double the cube or trisect 60 degrees?	Doubling needs \( \sqrt[3]{2} \), degree 3. Trisecting 60 degrees needs \( \cos 20^\circ \), a root of \( 8x^3 - 6x - 1 \), degree 3. Three is not a power of 2.	math::tracks::galois-theory

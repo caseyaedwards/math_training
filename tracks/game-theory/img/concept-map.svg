@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 594" width="880" height="594" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Game Theory Concept Map</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker></defs>
+<rect x="0" y="0" width="880" height="594" fill="#ffffff"/>
+<text x="440.0" y="28" text-anchor="middle" font-size="17" font-weight="bold" fill="#222222">Game Theory Concept Map</text>
+<rect x="10" y="50" width="860" height="168" fill="#f3f3f3" stroke="#dddddd"/>
+<text x="22" y="139" font-weight="bold" fill="#555555">Beginner</text>
+<rect x="10" y="218" width="860" height="168" fill="#ffffff" stroke="#dddddd"/>
+<text x="22" y="307" font-weight="bold" fill="#555555">Intermediate</text>
+<rect x="10" y="386" width="860" height="168" fill="#f3f3f3" stroke="#dddddd"/>
+<text x="22" y="475" font-weight="bold" fill="#555555">Advanced</text>
+<path d="M444.1,110.2 L318.8,155.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M495.0,110.2 L495.0,155.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M346.2,194.0 L350.1,194.6 L354.0,195.2 L357.9,195.8 L361.8,196.4 L365.8,196.9 L369.7,197.5 L373.6,198.0 L377.5,198.5 L381.4,199.0 L385.3,199.5 L389.2,199.9 L393.2,200.4 L397.1,200.8 L401.0,201.2 L404.9,201.6 L408.8,202.0 L412.8,202.3 L416.7,202.7 L420.6,203.0 L424.5,203.3 L428.4,203.6 L432.3,203.9 L436.2,204.1 L440.2,204.4 L444.1,204.6 L448.0,204.8 L451.9,205.0 L455.8,205.2 L459.7,205.3 L463.7,205.5 L467.6,205.6 L471.5,205.7 L475.4,205.8 L479.3,205.9 L483.2,205.9 L487.2,206.0 L491.1,206.0 L495.0,206.0 L498.9,206.0 L502.8,206.0 L506.8,205.9 L510.7,205.9 L514.6,205.8 L518.5,205.7 L522.4,205.6 L526.3,205.5 L530.2,205.3 L534.2,205.2 L538.1,205.0 L542.0,204.8 L545.9,204.6 L549.8,204.4 L553.8,204.1 L557.7,203.9 L561.6,203.6 L565.5,203.3 L569.4,203.0 L573.3,202.7 L577.2,202.3 L581.2,202.0 L585.1,201.6 L589.0,201.2 L592.9,200.8 L596.8,200.4 L600.8,199.9 L604.7,199.5 L608.6,199.0 L612.5,198.5 L616.4,198.0 L620.3,197.5 L624.2,196.9 L628.2,196.4 L632.1,195.8 L636.0,195.2 L639.9,194.6 L643.8,194.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M569.4,176.0 L643.8,176.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M452.8,194.2 L361.8,233.4" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M360.7,260.0 L482.0,260.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M509.1,194.2 L543.8,239.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M740.8,194.2 L762.1,229.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M529.7,278.2 L470.2,313.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M569.8,192.7 L572.0,193.6 L574.1,194.4 L576.3,195.3 L578.4,196.2 L580.5,197.2 L582.5,198.1 L584.6,199.1 L586.7,200.1 L588.7,201.1 L590.7,202.1 L592.7,203.1 L594.7,204.2 L596.7,205.3 L598.6,206.4 L600.6,207.5 L602.5,208.6 L604.4,209.8 L606.3,211.0 L608.1,212.2 L610.0,213.4 L611.8,214.6 L613.7,215.9 L615.5,217.1 L617.3,218.4 L619.1,219.7 L620.8,221.1 L622.6,222.4 L624.3,223.8 L626.0,225.2 L627.7,226.6 L629.4,228.0 L631.1,229.5 L632.7,230.9 L634.4,232.4 L636.0,233.9 L637.6,235.5 L639.2,237.0 L640.8,238.6 L642.3,240.2 L643.9,241.8 L645.4,243.4 L646.9,245.0 L648.4,246.7 L649.9,248.4 L651.3,250.1 L652.8,251.8 L654.2,253.5 L655.6,255.3 L657.0,257.1 L658.4,258.9 L659.8,260.7 L661.1,262.5 L662.5,264.4 L663.8,266.2 L665.1,268.1 L666.4,270.0 L667.6,272.0 L668.9,273.9 L670.1,275.9 L671.4,277.9 L672.6,279.9 L673.8,281.9 L674.9,284.0 L676.1,286.0 L677.3,288.1 L678.4,290.2 L679.5,292.4 L680.6,294.5 L681.7,296.7 L682.7,298.8 L683.8,301.0 L684.8,303.3 L685.9,305.5 L686.9,307.8 L687.8,310.1 L688.8,312.4" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M247.9,195.1 L246.6,197.5 L245.2,199.9 L243.9,202.2 L242.7,204.6 L241.4,206.9 L240.2,209.3 L239.1,211.6 L237.9,213.9 L236.8,216.3 L235.8,218.6 L234.7,220.9 L233.7,223.2 L232.8,225.5 L231.8,227.8 L230.9,230.1 L230.1,232.4 L229.2,234.7 L228.4,237.0 L227.7,239.3 L226.9,241.5 L226.2,243.8 L225.6,246.1 L224.9,248.3 L224.3,250.6 L223.7,252.8 L223.2,255.0 L222.7,257.3 L222.2,259.5 L221.8,261.7 L221.4,263.9 L221.0,266.2 L220.7,268.4 L220.4,270.6 L220.1,272.8 L219.8,275.0 L219.6,277.1 L219.4,279.3 L219.3,281.5 L219.2,283.7 L219.1,285.8 L219.1,288.0 L219.1,290.1 L219.1,292.3 L219.1,294.4 L219.2,296.6 L219.3,298.7 L219.5,300.8 L219.7,303.0 L219.9,305.1 L220.1,307.2 L220.4,309.3 L220.7,311.4 L221.1,313.5 L221.5,315.6 L221.9,317.7 L222.3,319.8 L222.8,321.8 L223.3,323.9 L223.9,326.0 L224.5,328.0 L225.1,330.1 L225.7,332.1 L226.4,334.2 L227.1,336.2 L227.9,338.3 L228.6,340.3 L229.4,342.3 L230.3,344.3 L231.2,346.4 L232.1,348.4 L233.0,350.4 L234.0,352.4 L235.0,354.4 L236.0,356.3 L237.1,358.3 L238.2,360.3 L239.4,362.3 L240.5,364.2 L241.7,366.2 L243.0,368.2 L244.3,370.1 L245.6,372.1 L246.9,374.0 L248.3,375.9 L249.7,377.9 L251.1,379.8 L252.6,381.7 L254.1,383.6 L255.6,385.5 L257.2,387.4 L258.8,389.3 L260.4,391.2 L262.1,393.1 L263.8,395.0 L265.5,396.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M300.0,455.3 L300.0,491.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M487.8,369.9 L561.2,397.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M640.0,455.3 L640.0,481.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="388.0" y="75.0" width="214.0" height="34.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="495.0" y="97.0" text-anchor="middle" fill="#222222">Players, Choices, Payoffs</text>
+<rect x="175.8" y="159.0" width="168.4" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="260.0" y="181.0" text-anchor="middle" fill="#222222">Dominant Strategies</text>
+<rect x="422.2" y="159.0" width="145.6" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="495.0" y="181.0" text-anchor="middle" fill="#222222">Nash Equilibrium</text>
+<rect x="649.6" y="159.0" width="160.8" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="730.0" y="181.0" text-anchor="middle" fill="#222222">Prisoner's Dilemma</text>
+<rect x="242.4" y="234.0" width="115.2" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="300.0" y="256.0" text-anchor="middle" fill="#222222">Coordination</text>
+<text x="300.0" y="274.0" text-anchor="middle" fill="#222222">and Chicken</text>
+<rect x="487.2" y="243.0" width="145.6" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="560.0" y="265.0" text-anchor="middle" fill="#222222">Mixed Strategies</text>
+<rect x="711.0" y="234.0" width="138.0" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="780.0" y="256.0" text-anchor="middle" fill="#222222">Repeated Games</text>
+<text x="780.0" y="274.0" text-anchor="middle" fill="#222222">and Tit-for-Tat</text>
+<rect x="354.8" y="318.0" width="130.4" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="420.0" y="340.0" text-anchor="middle" fill="#222222">Zero-Sum Games</text>
+<text x="420.0" y="358.0" text-anchor="middle" fill="#222222">and Minimax</text>
+<rect x="627.2" y="318.0" width="145.6" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="700.0" y="340.0" text-anchor="middle" fill="#222222">Selfish Routing,</text>
+<text x="700.0" y="358.0" text-anchor="middle" fill="#222222">Price of Anarchy</text>
+<rect x="208.2" y="402.0" width="183.6" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="300.0" y="424.0" text-anchor="middle" fill="#222222">Auctions</text>
+<text x="300.0" y="442.0" text-anchor="middle" fill="#222222">(First, Second Price)</text>
+<rect x="555.8" y="402.0" width="168.4" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="640.0" y="424.0" text-anchor="middle" fill="#222222">Nim and</text>
+<text x="640.0" y="442.0" text-anchor="middle" fill="#222222">Combinatorial Games</text>
+<rect x="227.2" y="495.0" width="145.6" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="300.0" y="517.0" text-anchor="middle" fill="#222222">Mechanism Design</text>
+<rect x="574.8" y="486.0" width="130.4" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="640.0" y="508.0" text-anchor="middle" fill="#222222">Sprague-Grundy</text>
+<text x="640.0" y="526.0" text-anchor="middle" fill="#222222">Theorem</text>
+<text x="22" y="580" font-size="12" fill="#555555">Arrow A to B: learn A before B.</text>
+<rect x="630" y="568" width="16" height="14" rx="3" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="652" y="580" font-size="12" fill="#555555">start here</text>
+</svg>

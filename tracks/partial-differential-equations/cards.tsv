@@ -1,0 +1,15 @@
+What is a partial derivative \( u_x \)?	The slope of \( u(x, t) \) in the x direction with t held fixed.	math::tracks::partial-differential-equations
+Heat equation?	\( u_t = \alpha\, u_{xx} \): the heating rate is proportional to the curvature.	math::tracks::partial-differential-equations
+How does diffusion spread over time?	Like the square root of time: 4 times the time gives 2 times the spread.	math::tracks::partial-differential-equations
+Heat equation on a grid, in words?	Each point moves toward the average of its neighbors.	math::tracks::partial-differential-equations
+Dirichlet versus Neumann boundary condition?	Dirichlet fixes the value, such as \( u = 0 \). Neumann fixes the slope, such as \( u_x = 0 \) for an insulated end.	math::tracks::partial-differential-equations
+Explicit heat scheme and its stability limit?	\( u_i^{new} = u_i + r(u_{i+1} - 2u_i + u_{i-1}) \) with \( r = \alpha\,dt/dx^2 \le 1/2 \).	math::tracks::partial-differential-equations
+Separated heat solution on \( [0,1] \) with cold ends?	\( \sin(n\pi x)\,e^{-\alpha n^2\pi^2 t} \). Higher modes fade like \( n^2 \).	math::tracks::partial-differential-equations
+Wave equation?	\( u_{tt} = c^2 u_{xx} \): acceleration proportional to curvature.	math::tracks::partial-differential-equations
+D'Alembert's formula with zero starting velocity?	\( u = \tfrac12 f(x - ct) + \tfrac12 f(x + ct) \): two half-size copies moving apart at speed c.	math::tracks::partial-differential-equations
+Frequencies of a string of length L?	\( f_n = n c / (2L) \): whole-number multiples of the base note.	math::tracks::partial-differential-equations
+Laplace equation and its grid rule?	\( u_{xx} + u_{yy} = 0 \). Each point equals the average of its four neighbors.	math::tracks::partial-differential-equations
+Maximum principle?	For heat and Laplace equations, extreme values sit on the boundary or at the start, never strictly inside.	math::tracks::partial-differential-equations
+Three families of second-order PDEs?	Parabolic (heat: smooths), hyperbolic (wave: travels), elliptic (Laplace: settled).	math::tracks::partial-differential-equations
+How do Fourier series solve the heat equation?	Expand the start in sines, let each term fade by \( e^{-n^2\pi^2 t} \), and add them back up.	math::tracks::partial-differential-equations
+CFL condition for the explicit wave scheme?	\( c\,dt/dx \le 1 \): the stencil must reach as far per step as the wave travels.	math::tracks::partial-differential-equations

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="800" height="380" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>A Torus Is a Square With Its Edges Glued</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="800" height="380" fill="#ffffff"/>
+<text x="400.0" y="28.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">A Torus Is a Square With Its Edges Glued</text>
+<rect x="70.0" y="80.0" width="220.0" height="220.0" rx="0" fill="#f1f3f5" stroke="#222222" stroke-width="2"/>
+<path d="M70.0,181.6 L77.0,197.0 L63.0,197.0 Z" fill="#222222"/>
+<path d="M290.0,181.6 L297.0,197.0 L283.0,197.0 Z" fill="#222222"/>
+<path d="M181.4,80.0 L166.0,87.0 L166.0,73.0 Z" fill="#222222"/>
+<path d="M195.4,80.0 L180.0,87.0 L180.0,73.0 Z" fill="#222222"/>
+<path d="M181.4,300.0 L166.0,307.0 L166.0,293.0 Z" fill="#222222"/>
+<path d="M195.4,300.0 L180.0,307.0 L180.0,293.0 Z" fill="#222222"/>
+<line x1="70.0" y1="212.0" x2="290.0" y2="212.0" stroke="#d9480f" stroke-width="3"/>
+<line x1="147.0" y1="80.0" x2="147.0" y2="300.0" stroke="#222222" stroke-width="3"/>
+<text x="300.0" y="217.0" text-anchor="start" fill="#d9480f" font-size="16" font-weight="bold">b</text>
+<text x="153.0" y="72.0" text-anchor="start" fill="#222222" font-size="16" font-weight="bold">a</text>
+<text x="180.0" y="330.0" text-anchor="middle" fill="#555555" font-size="13">glue left to right, then top to bottom</text>
+<line x1="320.0" y1="190.0" x2="390.0" y2="190.0" stroke="#d9480f" stroke-width="2.4" marker-end="url(#aha)"/>
+<ellipse cx="590.0" cy="190.0" rx="180.0" ry="90.0" fill="none" stroke="#222222" stroke-width="2.4"/>
+<path d="M514.4,185.5 Q590,230.5 665.6,185.5" fill="none" stroke="#222222" stroke-width="2.4"/>
+<path d="M533.3,198.1 Q590,171.1 646.7,198.1" fill="none" stroke="#222222" stroke-width="2.4"/>
+<ellipse cx="590.0" cy="192.0" rx="126.0" ry="56.0" fill="none" stroke="#d9480f" stroke-width="3"/>
+<path d="M735,154 Q715,190 735,226" fill="none" stroke="#222222" stroke-width="3"/>
+<path d="M735,154 Q755,190 735,226" fill="none" stroke="#222222" stroke-width="1.6" stroke-dasharray="5,4"/>
+<text x="711.0" y="196.0" text-anchor="end" fill="#222222" font-size="16" font-weight="bold">a</text>
+<text x="590.0" y="128.0" text-anchor="middle" fill="#d9480f" font-size="16" font-weight="bold">b</text>
+<text x="400.0" y="345.0" text-anchor="middle" fill="#555555" font-size="13">Going around a then b ends where going around b then a ends: ab = ba.</text>
+<text x="400.0" y="365.0" text-anchor="middle" fill="#555555" font-size="13">Each loop on the torus is a pair of whole numbers (laps of a, laps of b).</text>
+</svg>

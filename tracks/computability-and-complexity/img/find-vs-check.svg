@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="800" height="380" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Subset sum: finding needs many tries, checking needs one sum</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="800" height="380" fill="#ffffff"/>
+<text x="400.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Finding Versus Checking: Subset Sum</text>
+<text x="200.0" y="64.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">set {3, 34, 4, 12, 5, 2}, target 9</text>
+<rect x="70.0" y="90.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="102.0" y="90.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="134.0" y="90.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="166.0" y="90.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="198.0" y="90.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="230.0" y="90.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="262.0" y="90.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="294.0" y="90.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="70.0" y="120.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="102.0" y="120.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="134.0" y="120.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="166.0" y="120.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="198.0" y="120.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="230.0" y="120.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="262.0" y="120.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="294.0" y="120.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="70.0" y="150.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="102.0" y="150.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="134.0" y="150.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="166.0" y="150.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="198.0" y="150.0" width="28.0" height="26.0" rx="0" fill="#d9480f" stroke="#d9480f" stroke-width="1"/>
+<rect x="230.0" y="150.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="262.0" y="150.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="294.0" y="150.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="70.0" y="180.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="102.0" y="180.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="134.0" y="180.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="166.0" y="180.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="198.0" y="180.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="230.0" y="180.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="262.0" y="180.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="294.0" y="180.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="70.0" y="210.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="102.0" y="210.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="134.0" y="210.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="166.0" y="210.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="198.0" y="210.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="230.0" y="210.0" width="28.0" height="26.0" rx="0" fill="#d9480f" stroke="#d9480f" stroke-width="1"/>
+<rect x="262.0" y="210.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="294.0" y="210.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="70.0" y="240.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="102.0" y="240.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="134.0" y="240.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="166.0" y="240.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="198.0" y="240.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="230.0" y="240.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="262.0" y="240.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="294.0" y="240.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="70.0" y="270.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="102.0" y="270.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="134.0" y="270.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="166.0" y="270.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="198.0" y="270.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="230.0" y="270.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="262.0" y="270.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="294.0" y="270.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="70.0" y="300.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="102.0" y="300.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="134.0" y="300.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="166.0" y="300.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="198.0" y="300.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="230.0" y="300.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="262.0" y="300.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<rect x="294.0" y="300.0" width="28.0" height="26.0" rx="0" fill="#f1f3f5" stroke="#cccccc" stroke-width="1"/>
+<text x="200.0" y="350.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">FIND: try up to 2^6 = 64 subsets</text>
+<text x="200.0" y="370.0" text-anchor="middle" fill="#d9480f" font-size="13">2 hits: {4, 5} and {3, 4, 2}</text>
+<line x1="400.0" y1="70.0" x2="400.0" y2="350.0" stroke="#cccccc" stroke-width="1.5" stroke-dasharray="5,4"/>
+<text x="600.0" y="64.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">someone hands you a certificate</text>
+<rect x="520.0" y="117.0" width="160.0" height="46.0" rx="6" fill="#fde4d6" stroke="#d9480f" stroke-width="1.5"/>
+<text x="600.0" y="145.0" text-anchor="middle" fill="#222222" font-size="18">{4, 5}</text>
+<line x1="600.0" y1="165.0" x2="600.0" y2="215.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<rect x="500.0" y="217.0" width="200.0" height="46.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="600.0" y="245.0" text-anchor="middle" fill="#222222" font-size="16">4 + 5 = 9   yes</text>
+<text x="600.0" y="350.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">CHECK: one addition</text>
+<text x="600.0" y="370.0" text-anchor="middle" fill="#d9480f" font-size="13">NP = problems where checking is fast</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>The two possible worlds: P not equal to NP, or P equals NP</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="900" height="380" fill="#ffffff"/>
+<text x="450.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Two Possible Worlds</text>
+<text x="230.0" y="64.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">If P is not NP (most experts bet here)</text>
+<clipPath id="npclip"><ellipse cx="160" cy="225" rx="150" ry="85"/></clipPath>
+<ellipse cx="160" cy="225" rx="150" ry="85" fill="#f1f3f5" stroke="#222222" stroke-width="1.6"/>
+<ellipse cx="330" cy="225" rx="110" ry="72" fill="#fde4d6" stroke="none" clip-path="url(#npclip)"/>
+<ellipse cx="330" cy="225" rx="110" ry="72" fill="none" stroke="#d9480f" stroke-width="2" stroke-dasharray="7,5"/>
+<text x="60.0" y="180.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">NP</text>
+<ellipse cx="115" cy="235" rx="62" ry="45" fill="#ffffff" stroke="#222222" stroke-width="1.6"/>
+<text x="115.0" y="240.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">P</text>
+<text x="266.0" y="220.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">NP-</text>
+<text x="266.0" y="238.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">complete</text>
+<text x="385.0" y="215.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">NP-hard</text>
+<text x="385.0" y="235.0" text-anchor="middle" fill="#666666" font-size="12">halting,</text>
+<text x="385.0" y="251.0" text-anchor="middle" fill="#666666" font-size="12">optimization</text>
+<text x="230.0" y="334.0" text-anchor="middle" fill="#222222" font-size="13">NP-complete = inside NP and NP-hard</text>
+<text x="690.0" y="64.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">If P = NP</text>
+<ellipse cx="690" cy="225" rx="190" ry="120" fill="none" stroke="#d9480f" stroke-width="2" stroke-dasharray="7,5"/>
+<ellipse cx="660" cy="225" rx="135" ry="80" fill="#fde4d6" stroke="#d9480f" stroke-width="2"/>
+<text x="660.0" y="215.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">P = NP = NP-complete</text>
+<text x="660.0" y="235.0" text-anchor="middle" fill="#666666" font-size="12">(apart from the trivial</text>
+<text x="660.0" y="251.0" text-anchor="middle" fill="#666666" font-size="12">empty and full languages)</text>
+<text x="830.0" y="200.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">NP-hard</text>
+<text x="830.0" y="300.0" text-anchor="middle" fill="#666666" font-size="12">halting</text>
+<line x1="445.0" y1="70.0" x2="445.0" y2="340.0" stroke="#cccccc" stroke-width="1.5" stroke-dasharray="5,4"/>
+<text x="450.0" y="366.0" text-anchor="middle" fill="#666666" font-size="12">Nobody knows which picture is true. A proof either way earns USD 1,000,000 from the Clay Institute.</text>
+</svg>

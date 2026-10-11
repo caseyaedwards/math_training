@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" width="720" height="360" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Swapping the roots of x^2 - 2</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#444444"/></marker></defs>
+<rect x="0" y="0" width="720" height="360" fill="#ffffff"/>
+<text x="360.0" y="30.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">The Swap √2 ↔ -√2 Keeps Every Rational Fact</text>
+<line x1="60.0" y1="170.0" x2="660.0" y2="170.0" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="80.0" y1="165.0" x2="80.0" y2="175.0" stroke="#222222" stroke-width="1.5"/>
+<text x="80.0" y="194.0" text-anchor="middle" fill="#222222" font-size="13">-3</text>
+<line x1="173.3" y1="165.0" x2="173.3" y2="175.0" stroke="#222222" stroke-width="1.5"/>
+<text x="173.3" y="194.0" text-anchor="middle" fill="#222222" font-size="13">-2</text>
+<line x1="266.7" y1="165.0" x2="266.7" y2="175.0" stroke="#222222" stroke-width="1.5"/>
+<text x="266.7" y="194.0" text-anchor="middle" fill="#222222" font-size="13">-1</text>
+<line x1="360.0" y1="165.0" x2="360.0" y2="175.0" stroke="#222222" stroke-width="1.5"/>
+<text x="360.0" y="194.0" text-anchor="middle" fill="#222222" font-size="13">0</text>
+<line x1="453.3" y1="165.0" x2="453.3" y2="175.0" stroke="#222222" stroke-width="1.5"/>
+<text x="453.3" y="194.0" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<line x1="546.7" y1="165.0" x2="546.7" y2="175.0" stroke="#222222" stroke-width="1.5"/>
+<text x="546.7" y="194.0" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<line x1="640.0" y1="165.0" x2="640.0" y2="175.0" stroke="#222222" stroke-width="1.5"/>
+<text x="640.0" y="194.0" text-anchor="middle" fill="#222222" font-size="13">3</text>
+<circle cx="228.0" cy="170.0" r="7.0" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="228.0" y="214.0" text-anchor="middle" fill="#d9480f" font-size="15" font-weight="bold">-√2</text>
+<circle cx="492.0" cy="170.0" r="7.0" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<text x="492.0" y="214.0" text-anchor="middle" fill="#d9480f" font-size="15" font-weight="bold">√2</text>
+<path d="M228.0,158.0 Q360.0,80.0 492.0,158.0" fill="none" stroke="#d9480f" stroke-width="2" marker-end="url(#aha)"/>
+<path d="M492.0,158.0 Q360.0,110.0 228.0,158.0" fill="none" stroke="#d9480f" stroke-width="2" marker-end="url(#aha)"/>
+<text x="360.0" y="78.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">σ swaps the two roots</text>
+<text x="70.0" y="250.0" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">expression</text>
+<text x="250.0" y="250.0" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">before swap</text>
+<text x="430.0" y="250.0" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">after swap</text>
+<text x="610.0" y="250.0" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">result</text>
+<line x1="60.0" y1="258.0" x2="670.0" y2="258.0" stroke="#868e96" stroke-width="1"/>
+<text x="70.0" y="280.0" text-anchor="start" fill="#222222" font-size="13">sum of roots</text>
+<text x="250.0" y="280.0" text-anchor="start" fill="#222222" font-size="13">√2 + (-√2) = 0</text>
+<text x="430.0" y="280.0" text-anchor="start" fill="#222222" font-size="13">(-√2) + √2 = 0</text>
+<text x="610.0" y="280.0" text-anchor="start" fill="#222222" font-size="13">same</text>
+<text x="70.0" y="304.0" text-anchor="start" fill="#222222" font-size="13">product of roots</text>
+<text x="250.0" y="304.0" text-anchor="start" fill="#222222" font-size="13">√2 · (-√2) = -2</text>
+<text x="430.0" y="304.0" text-anchor="start" fill="#222222" font-size="13">(-√2) · √2 = -2</text>
+<text x="610.0" y="304.0" text-anchor="start" fill="#222222" font-size="13">same</text>
+<text x="70.0" y="328.0" text-anchor="start" fill="#222222" font-size="13">first minus second</text>
+<text x="250.0" y="328.0" text-anchor="start" fill="#222222" font-size="13">√2 - (-√2) = 2√2</text>
+<text x="430.0" y="328.0" text-anchor="start" fill="#222222" font-size="13">(-√2) - √2 = -2√2</text>
+<text x="610.0" y="328.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">flips</text>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 530" width="720" height="530" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Little's law: area under the in-system count equals total time spent</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#666666"/></marker></defs>
+<rect x="0" y="0" width="720" height="530" fill="#ffffff"/>
+<text x="360.0" y="32.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">Little's Law: L = λ W</text>
+<rect x="119.5" y="64.3" width="147.5" height="18.0" rx="0" fill="#fff4e6" stroke="#d9480f" stroke-width="1.5"/>
+<text x="113.5" y="78.3" text-anchor="end" fill="#222222" font-size="13">r1</text>
+<text x="193.2" y="78.3" text-anchor="middle" fill="#222222" font-size="12">2.5 s</text>
+<rect x="149.0" y="91.0" width="118.0" height="18.0" rx="0" fill="#fff4e6" stroke="#d9480f" stroke-width="1.5"/>
+<text x="143.0" y="105.0" text-anchor="end" fill="#222222" font-size="13">r2</text>
+<text x="208.0" y="105.0" text-anchor="middle" fill="#222222" font-size="12">2 s</text>
+<rect x="208.0" y="117.7" width="206.5" height="18.0" rx="0" fill="#fff4e6" stroke="#d9480f" stroke-width="1.5"/>
+<text x="202.0" y="131.7" text-anchor="end" fill="#222222" font-size="13">r3</text>
+<text x="311.2" y="131.7" text-anchor="middle" fill="#222222" font-size="12">3.5 s</text>
+<rect x="296.5" y="144.3" width="177.0" height="18.0" rx="0" fill="#fff4e6" stroke="#d9480f" stroke-width="1.5"/>
+<text x="290.5" y="158.3" text-anchor="end" fill="#222222" font-size="13">r4</text>
+<text x="385.0" y="158.3" text-anchor="middle" fill="#222222" font-size="12">3 s</text>
+<rect x="326.0" y="171.0" width="206.5" height="18.0" rx="0" fill="#fff4e6" stroke="#d9480f" stroke-width="1.5"/>
+<text x="320.0" y="185.0" text-anchor="end" fill="#222222" font-size="13">r5</text>
+<text x="429.2" y="185.0" text-anchor="middle" fill="#222222" font-size="12">3.5 s</text>
+<rect x="444.0" y="197.7" width="206.5" height="18.0" rx="0" fill="#fff4e6" stroke="#d9480f" stroke-width="1.5"/>
+<text x="438.0" y="211.7" text-anchor="end" fill="#222222" font-size="13">r6</text>
+<text x="547.2" y="211.7" text-anchor="middle" fill="#222222" font-size="12">3.5 s</text>
+<text x="90.0" y="54.0" text-anchor="start" fill="#666666" font-size="13">each bar is one request, from arrival to departure</text>
+<line x1="90.0" y1="410.0" x2="680.0" y2="410.0" stroke="#eeeeee" stroke-width="1"/>
+<text x="82.0" y="415.0" text-anchor="end" fill="#222222" font-size="13">0</text>
+<line x1="90.0" y1="372.5" x2="680.0" y2="372.5" stroke="#eeeeee" stroke-width="1"/>
+<text x="82.0" y="377.5" text-anchor="end" fill="#222222" font-size="13">1</text>
+<line x1="90.0" y1="335.0" x2="680.0" y2="335.0" stroke="#eeeeee" stroke-width="1"/>
+<text x="82.0" y="340.0" text-anchor="end" fill="#222222" font-size="13">2</text>
+<line x1="90.0" y1="297.5" x2="680.0" y2="297.5" stroke="#eeeeee" stroke-width="1"/>
+<text x="82.0" y="302.5" text-anchor="end" fill="#222222" font-size="13">3</text>
+<line x1="90.0" y1="260.0" x2="680.0" y2="260.0" stroke="#eeeeee" stroke-width="1"/>
+<text x="82.0" y="265.0" text-anchor="end" fill="#222222" font-size="13">4</text>
+<line x1="90.0" y1="410.0" x2="90.0" y2="415.0" stroke="#222222" stroke-width="1.5"/>
+<text x="90.0" y="432.0" text-anchor="middle" fill="#222222" font-size="13">0</text>
+<line x1="149.0" y1="410.0" x2="149.0" y2="415.0" stroke="#222222" stroke-width="1.5"/>
+<text x="149.0" y="432.0" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<line x1="208.0" y1="410.0" x2="208.0" y2="415.0" stroke="#222222" stroke-width="1.5"/>
+<text x="208.0" y="432.0" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<line x1="267.0" y1="410.0" x2="267.0" y2="415.0" stroke="#222222" stroke-width="1.5"/>
+<text x="267.0" y="432.0" text-anchor="middle" fill="#222222" font-size="13">3</text>
+<line x1="326.0" y1="410.0" x2="326.0" y2="415.0" stroke="#222222" stroke-width="1.5"/>
+<text x="326.0" y="432.0" text-anchor="middle" fill="#222222" font-size="13">4</text>
+<line x1="385.0" y1="410.0" x2="385.0" y2="415.0" stroke="#222222" stroke-width="1.5"/>
+<text x="385.0" y="432.0" text-anchor="middle" fill="#222222" font-size="13">5</text>
+<line x1="444.0" y1="410.0" x2="444.0" y2="415.0" stroke="#222222" stroke-width="1.5"/>
+<text x="444.0" y="432.0" text-anchor="middle" fill="#222222" font-size="13">6</text>
+<line x1="503.0" y1="410.0" x2="503.0" y2="415.0" stroke="#222222" stroke-width="1.5"/>
+<text x="503.0" y="432.0" text-anchor="middle" fill="#222222" font-size="13">7</text>
+<line x1="562.0" y1="410.0" x2="562.0" y2="415.0" stroke="#222222" stroke-width="1.5"/>
+<text x="562.0" y="432.0" text-anchor="middle" fill="#222222" font-size="13">8</text>
+<line x1="621.0" y1="410.0" x2="621.0" y2="415.0" stroke="#222222" stroke-width="1.5"/>
+<text x="621.0" y="432.0" text-anchor="middle" fill="#222222" font-size="13">9</text>
+<line x1="680.0" y1="410.0" x2="680.0" y2="415.0" stroke="#222222" stroke-width="1.5"/>
+<text x="680.0" y="432.0" text-anchor="middle" fill="#222222" font-size="13">10</text>
+<line x1="90.0" y1="410.0" x2="680.0" y2="410.0" stroke="#222222" stroke-width="1.5"/>
+<line x1="90.0" y1="410.0" x2="90.0" y2="260.0" stroke="#222222" stroke-width="1.5"/>
+<text x="385.0" y="456.0" text-anchor="middle" fill="#666666" font-size="14">time (s)</text>
+<text x="38.0" y="335.0" text-anchor="middle" fill="#666666" font-size="14" transform="rotate(-90 38.0 335.0)">in system N(t)</text>
+<polygon points="90.0,410.0 119.5,410.0 119.5,372.5 149.0,372.5 149.0,335.0 208.0,335.0 208.0,297.5 267.0,297.5 267.0,335.0 267.0,335.0 267.0,372.5 296.5,372.5 296.5,335.0 326.0,335.0 326.0,297.5 414.5,297.5 414.5,335.0 444.0,335.0 444.0,297.5 473.5,297.5 473.5,335.0 532.5,335.0 532.5,372.5 650.5,372.5 650.5,410.0 680.0,410.0 680.0,410.0" fill="#ffe8cc" stroke="none"/>
+<polyline points="90.0,410.0 119.5,410.0 119.5,372.5 149.0,372.5 149.0,335.0 208.0,335.0 208.0,297.5 267.0,297.5 267.0,335.0 267.0,335.0 267.0,372.5 296.5,372.5 296.5,335.0 326.0,335.0 326.0,297.5 414.5,297.5 414.5,335.0 444.0,335.0 444.0,297.5 473.5,297.5 473.5,335.0 532.5,335.0 532.5,372.5 650.5,372.5 650.5,410.0 680.0,410.0" fill="none" stroke="#d9480f" stroke-width="2" stroke-linejoin="round"/>
+<text x="674.1" y="278.8" text-anchor="end" fill="#222222" font-size="13" font-weight="bold">shaded area = sum of bars = 18 request-seconds</text>
+<text x="360.0" y="488.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">L = area / 10 s = 1.8   ·   λ = 6 / 10 s = 0.6 per s   ·   W = 18 / 6 = 3 s   ·   λW = 1.8</text>
+<text x="360.0" y="512.0" text-anchor="middle" fill="#666666" font-size="13">Count the same area two ways: by time (L) or by request (λ times W).</text>
+</svg>

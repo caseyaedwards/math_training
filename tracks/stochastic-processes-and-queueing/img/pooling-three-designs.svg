@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 480" width="780" height="480" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Separate queues, a shared queue, and one fast server at the same total load</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#666666"/></marker></defs>
+<rect x="0" y="0" width="780" height="480" fill="#ffffff"/>
+<text x="390.0" y="32.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">Pooling: Share One Line Instead of Two (total load 8 per second)</text>
+<text x="130.0" y="80.0" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">Two separate lines</text>
+<text x="130.0" y="100.0" text-anchor="middle" fill="#666666" font-size="13">each server μ = 5</text>
+<text x="130.0" y="420.0" text-anchor="middle" fill="#d9480f" font-size="16" font-weight="bold">W = 1.000 s</text>
+<text x="390.0" y="80.0" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">One shared line</text>
+<text x="390.0" y="100.0" text-anchor="middle" fill="#666666" font-size="13">two servers μ = 5</text>
+<text x="390.0" y="420.0" text-anchor="middle" fill="#d9480f" font-size="16" font-weight="bold">W = 0.556 s</text>
+<text x="650.0" y="80.0" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">One fast server</text>
+<text x="650.0" y="100.0" text-anchor="middle" fill="#666666" font-size="13">one server μ = 10</text>
+<text x="650.0" y="420.0" text-anchor="middle" fill="#d9480f" font-size="16" font-weight="bold">W = 0.500 s</text>
+<text x="30.0" y="185.0" text-anchor="start" fill="#222222" font-size="13">λ=4</text>
+<line x1="62.0" y1="180.0" x2="80.0" y2="180.0" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<path d="M84,162 L170,162 L170,198 L84,198" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="155.0" cy="180.0" r="9" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="127.0" cy="180.0" r="9" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="99.0" cy="180.0" r="9" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="205.0" cy="180.0" r="24" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="205.0" cy="180.0" r="9" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<text x="30.0" y="305.0" text-anchor="start" fill="#222222" font-size="13">λ=4</text>
+<line x1="62.0" y1="300.0" x2="80.0" y2="300.0" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<path d="M84,282 L170,282 L170,318 L84,318" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="155.0" cy="300.0" r="9" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="127.0" cy="300.0" r="9" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="99.0" cy="300.0" r="9" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="205.0" cy="300.0" r="24" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="205.0" cy="300.0" r="9" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<text x="270.0" y="226.0" text-anchor="start" fill="#222222" font-size="13">λ=8</text>
+<line x1="270.0" y1="240.0" x2="290.0" y2="240.0" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<path d="M294,222 L410,222 L410,258 L294,258" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="395.0" cy="240.0" r="9" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="367.0" cy="240.0" r="9" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="339.0" cy="240.0" r="9" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="311.0" cy="240.0" r="9" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<path d="M412,240 C430,240 430,180 445,180" fill="none" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<circle cx="472.0" cy="180.0" r="24" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="472.0" cy="180.0" r="9" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<path d="M412,240 C430,240 430,300 445,300" fill="none" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<circle cx="472.0" cy="300.0" r="24" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="472.0" cy="300.0" r="9" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<text x="540.0" y="226.0" text-anchor="start" fill="#222222" font-size="13">λ=8</text>
+<line x1="540.0" y1="240.0" x2="560.0" y2="240.0" stroke="#222222" stroke-width="1.5" marker-end="url(#ah)"/>
+<path d="M564,222 L670,222 L670,258 L564,258" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="655.0" cy="240.0" r="9" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="627.0" cy="240.0" r="9" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="599.0" cy="240.0" r="9" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<circle cx="715.0" cy="240.0" r="34" fill="#ffffff" stroke="#222222" stroke-width="3"/>
+<circle cx="715.0" cy="240.0" r="12" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<text x="390.0" y="455.0" text-anchor="middle" fill="#666666" font-size="13">Same 80% utilization everywhere. A shared line never leaves one server idle while the other has a queue.</text>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Weak and strong duality on a number line</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#666666"/></marker></defs>
+<rect x="0" y="0" width="900" height="420" fill="#ffffff"/>
+<text x="450.0" y="30.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">Duality: Every Plan Sits Below Every Price Bound. They Meet at 25</text>
+<line x1="70.0" y1="200.0" x2="840.0" y2="200.0" stroke="#222222" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="70.0" y1="195.0" x2="70.0" y2="205.0" stroke="#222222" stroke-width="1.5"/>
+<text x="70.0" y="248.0" text-anchor="middle" fill="#666666" font-size="13" font-weight="normal">0</text>
+<line x1="146.0" y1="195.0" x2="146.0" y2="205.0" stroke="#222222" stroke-width="1.5"/>
+<text x="146.0" y="248.0" text-anchor="middle" fill="#666666" font-size="13" font-weight="normal">5</text>
+<line x1="222.0" y1="195.0" x2="222.0" y2="205.0" stroke="#222222" stroke-width="1.5"/>
+<text x="222.0" y="248.0" text-anchor="middle" fill="#666666" font-size="13" font-weight="normal">10</text>
+<line x1="298.0" y1="195.0" x2="298.0" y2="205.0" stroke="#222222" stroke-width="1.5"/>
+<text x="298.0" y="248.0" text-anchor="middle" fill="#666666" font-size="13" font-weight="normal">15</text>
+<line x1="374.0" y1="195.0" x2="374.0" y2="205.0" stroke="#222222" stroke-width="1.5"/>
+<text x="374.0" y="248.0" text-anchor="middle" fill="#666666" font-size="13" font-weight="normal">20</text>
+<line x1="450.0" y1="195.0" x2="450.0" y2="205.0" stroke="#222222" stroke-width="1.5"/>
+<text x="450.0" y="248.0" text-anchor="middle" fill="#666666" font-size="13" font-weight="normal">25</text>
+<line x1="526.0" y1="195.0" x2="526.0" y2="205.0" stroke="#222222" stroke-width="1.5"/>
+<text x="526.0" y="248.0" text-anchor="middle" fill="#666666" font-size="13" font-weight="normal">30</text>
+<line x1="602.0" y1="195.0" x2="602.0" y2="205.0" stroke="#222222" stroke-width="1.5"/>
+<text x="602.0" y="248.0" text-anchor="middle" fill="#666666" font-size="13" font-weight="normal">35</text>
+<line x1="678.0" y1="195.0" x2="678.0" y2="205.0" stroke="#222222" stroke-width="1.5"/>
+<text x="678.0" y="248.0" text-anchor="middle" fill="#666666" font-size="13" font-weight="normal">40</text>
+<line x1="754.0" y1="195.0" x2="754.0" y2="205.0" stroke="#222222" stroke-width="1.5"/>
+<text x="754.0" y="248.0" text-anchor="middle" fill="#666666" font-size="13" font-weight="normal">45</text>
+<line x1="830.0" y1="195.0" x2="830.0" y2="205.0" stroke="#222222" stroke-width="1.5"/>
+<text x="830.0" y="248.0" text-anchor="middle" fill="#666666" font-size="13" font-weight="normal">50</text>
+<rect x="70.0" y="191.0" width="380.0" height="18.0" rx="0" fill="#e9ecef" stroke="none" stroke-width="1.5"/>
+<rect x="450.0" y="191.0" width="380.0" height="18.0" rx="0" fill="#fff4e6" stroke="none" stroke-width="1.5"/>
+<line x1="70.0" y1="200.0" x2="830.0" y2="200.0" stroke="#222222" stroke-width="2"/>
+<circle cx="70.0" cy="200.0" r="6" fill="#222222" stroke="none" stroke-width="1.5"/>
+<line x1="70.0" y1="208.0" x2="70.0" y2="222.0" stroke="#666666" stroke-width="1"/>
+<circle cx="282.8" cy="200.0" r="6" fill="#222222" stroke="none" stroke-width="1.5"/>
+<line x1="282.8" y1="208.0" x2="282.8" y2="222.0" stroke="#666666" stroke-width="1"/>
+<circle cx="298.0" cy="200.0" r="6" fill="#222222" stroke="none" stroke-width="1.5"/>
+<line x1="298.0" y1="208.0" x2="298.0" y2="222.0" stroke="#666666" stroke-width="1"/>
+<circle cx="374.0" cy="200.0" r="6" fill="#222222" stroke="none" stroke-width="1.5"/>
+<line x1="374.0" y1="208.0" x2="374.0" y2="222.0" stroke="#666666" stroke-width="1"/>
+<text x="70.0" y="278.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="normal">(0, 0)</text>
+<text x="282.8" y="278.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="normal">(2, 2)</text>
+<text x="298.0" y="298.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="normal">(5, 0)</text>
+<text x="374.0" y="278.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="normal">(0, 5)</text>
+<circle cx="526.0" cy="200.0" r="6" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="526.0" y="174.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="normal">(1.5, 1)</text>
+<circle cx="678.0" cy="200.0" r="6" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="678.0" y="174.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="normal">(4, 0)</text>
+<circle cx="754.0" cy="200.0" r="6" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="754.0" y="174.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="normal">(0, 3)</text>
+<line x1="450.0" y1="140.0" x2="450.0" y2="230.0" stroke="#d9480f" stroke-width="2.5" stroke-dasharray="5 3"/>
+<circle cx="450.0" cy="200.0" r="8" fill="#d9480f" stroke="none" stroke-width="1.5"/>
+<text x="450.0" y="132.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">both reach 25</text>
+<text x="100.4" y="140.0" text-anchor="start" fill="#222222" font-size="14" font-weight="bold">primal plans (x, y): value 3x + 4y</text>
+<text x="100.4" y="160.0" text-anchor="start" fill="#666666" font-size="13" font-weight="normal">each one is a lower bound on the best</text>
+<text x="541.2" y="80.0" text-anchor="start" fill="#d9480f" font-size="14" font-weight="bold">dual prices (u, v): bound 10u + 15v</text>
+<text x="541.2" y="100.0" text-anchor="start" fill="#666666" font-size="13" font-weight="normal">each one is an upper bound on the best</text>
+<text x="70.0" y="345.0" text-anchor="start" fill="#222222" font-size="14" font-weight="normal">Dual: minimize 10u + 15v with 2u + v &gt;= 3 and u + 3v &gt;= 4, u, v &gt;= 0.</text>
+<text x="70.0" y="368.0" text-anchor="start" fill="#222222" font-size="14" font-weight="normal">u = price of one CPU core, v = price of one GB. Optimum u = 1, v = 1, bound 25.</text>
+<text x="70.0" y="391.0" text-anchor="start" fill="#d9480f" font-size="14" font-weight="normal">Check: 1 more core lets the best plan earn 26. The shadow price of a core is 1.</text>
+</svg>

@@ -1,0 +1,15 @@
+What are the three parts of an optimization problem?	Decision variables (the knobs), an objective (the number to minimize or maximize), and constraints (the rules a plan must obey).	math::tracks::optimization
+Where can the maximum of a smooth function on a closed interval sit?	At a critical point, where \( f'(x) = 0 \), or at an endpoint of the interval. Compare the values of all candidates.	math::tracks::optimization
+What is a convex function?	A bowl shape: every chord between two points of the graph lies on or above the graph. For one variable, \( f'' \ge 0 \).	math::tracks::optimization
+Why does convexity matter?	In a convex problem every local minimum is a global minimum, so a downhill walk cannot get stuck.	math::tracks::optimization
+Gradient descent update rule?	\( x_{k+1} = x_k - \eta \nabla f(x_k) \). Step against the gradient with step size \( \eta \).	math::tracks::optimization
+Gradient descent on \( (x-3)^2 \): what does each step do to the distance from 3?	It multiplies it by \( 1 - 2\eta \). The walk converges for \( 0 < \eta < 1 \) and diverges for \( \eta > 1 \).	math::tracks::optimization
+Lagrange condition for maximizing \( f \) subject to \( g = c \)?	\( \nabla f = \lambda \nabla g \). The multiplier \( \lambda \) is the gain in the best value per unit of loosened constraint.	math::tracks::optimization
+What is a linear program?	Optimize a linear objective subject to linear inequalities: maximize \( c^\top x \) with \( Ax \le b, x \ge 0 \). The feasible region is a convex polygon or polytope.	math::tracks::optimization
+Fundamental theorem of linear programming?	If an LP has an optimal value, some corner of the feasible region achieves it.	math::tracks::optimization
+How does the simplex method work?	Start at a corner and walk along edges to better corners. Stop when no neighbor is better: that corner is optimal.	math::tracks::optimization
+What is a shadow price?	The optimal dual value of a constraint: how much the best objective improves per extra unit of that resource. Slack resources have shadow price 0.	math::tracks::optimization
+Weak and strong duality?	Every feasible dual value bounds every feasible primal value. At the optimum the two values are equal.	math::tracks::optimization
+Why not just round the LP answer of an integer program?	The rounded point can be infeasible or far from the best. Branch and bound splits on fractional variables and prunes branches whose LP bound cannot win.	math::tracks::optimization
+What is first fit decreasing?	A bin packing rule: sort items from big to small, then put each in the first bin with room. It uses at most \( \tfrac{11}{9} \mathrm{OPT} + \tfrac{6}{9} \) bins.	math::tracks::optimization
+What is a constraint satisfaction problem?	Variables, a domain of allowed values for each, and constraints between them. A solver searches by backtracking plus propagation.	math::tracks::optimization

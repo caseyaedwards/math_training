@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" width="720" height="380" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>RAID 5 stripe with XOR parity and a rebuild after one disk dies</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="720" height="380" fill="#ffffff"/>
+<text x="360.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">RAID 5: Parity Disk Rebuilds Any One Lost Disk</text>
+<rect x="70.0" y="60.0" width="110.0" height="170.0" rx="10" fill="#f1f3f5" stroke="#222222" stroke-width="2"/>
+<text x="125.0" y="85.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">Disk 1</text>
+<rect x="77.0" y="110.0" width="24.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="89.0" y="129.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<rect x="101.0" y="110.0" width="24.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="113.0" y="129.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<rect x="125.0" y="110.0" width="24.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="137.0" y="129.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<rect x="149.0" y="110.0" width="24.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="161.0" y="129.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<text x="125.0" y="170.0" text-anchor="middle" fill="#666666" font-size="12">D1</text>
+<rect x="220.0" y="60.0" width="110.0" height="170.0" rx="10" fill="#ffffff" stroke="#d9480f" stroke-width="2" stroke-dasharray="6,4"/>
+<text x="275.0" y="85.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">Disk 2</text>
+<rect x="227.0" y="110.0" width="24.0" height="28.0" rx="0" fill="#f1f3f5" stroke="#868e96" stroke-width="1.2"/>
+<text x="239.0" y="129.0" text-anchor="middle" fill="#868e96" font-size="14" font-weight="bold">0</text>
+<rect x="251.0" y="110.0" width="24.0" height="28.0" rx="0" fill="#f1f3f5" stroke="#868e96" stroke-width="1.2"/>
+<text x="263.0" y="129.0" text-anchor="middle" fill="#868e96" font-size="14" font-weight="bold">1</text>
+<rect x="275.0" y="110.0" width="24.0" height="28.0" rx="0" fill="#f1f3f5" stroke="#868e96" stroke-width="1.2"/>
+<text x="287.0" y="129.0" text-anchor="middle" fill="#868e96" font-size="14" font-weight="bold">1</text>
+<rect x="299.0" y="110.0" width="24.0" height="28.0" rx="0" fill="#f1f3f5" stroke="#868e96" stroke-width="1.2"/>
+<text x="311.0" y="129.0" text-anchor="middle" fill="#868e96" font-size="14" font-weight="bold">0</text>
+<text x="275.0" y="170.0" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">D2 lost</text>
+<line x1="232.0" y1="100.0" x2="318.0" y2="148.0" stroke="#d9480f" stroke-width="3"/>
+<line x1="318.0" y1="100.0" x2="232.0" y2="148.0" stroke="#d9480f" stroke-width="3"/>
+<rect x="370.0" y="60.0" width="110.0" height="170.0" rx="10" fill="#f1f3f5" stroke="#222222" stroke-width="2"/>
+<text x="425.0" y="85.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">Disk 3</text>
+<rect x="377.0" y="110.0" width="24.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="389.0" y="129.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<rect x="401.0" y="110.0" width="24.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="413.0" y="129.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<rect x="425.0" y="110.0" width="24.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="437.0" y="129.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<rect x="449.0" y="110.0" width="24.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="461.0" y="129.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<text x="425.0" y="170.0" text-anchor="middle" fill="#666666" font-size="12">D3</text>
+<rect x="520.0" y="60.0" width="110.0" height="170.0" rx="10" fill="#f1f3f5" stroke="#222222" stroke-width="2"/>
+<text x="575.0" y="85.0" text-anchor="middle" fill="#d9480f" font-size="14" font-weight="bold">Parity</text>
+<rect x="527.0" y="110.0" width="24.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="539.0" y="129.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<rect x="551.0" y="110.0" width="24.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="563.0" y="129.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<rect x="575.0" y="110.0" width="24.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="587.0" y="129.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<rect x="599.0" y="110.0" width="24.0" height="28.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="611.0" y="129.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<text x="575.0" y="170.0" text-anchor="middle" fill="#d9480f" font-size="12">P = D1⊕D2⊕D3</text>
+<text x="70.0" y="270.0" text-anchor="start" fill="#222222" font-size="14" font-weight="bold">Rebuild:</text>
+<rect x="160.0" y="250.0" width="22.0" height="26.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="171.0" y="268.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<rect x="182.0" y="250.0" width="22.0" height="26.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="193.0" y="268.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<rect x="204.0" y="250.0" width="22.0" height="26.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="215.0" y="268.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<rect x="226.0" y="250.0" width="22.0" height="26.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="237.0" y="268.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<text x="204.0" y="296.0" text-anchor="middle" fill="#666666" font-size="12">D1</text>
+<text x="263.0" y="270.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">⊕</text>
+<rect x="278.0" y="250.0" width="22.0" height="26.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="289.0" y="268.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<rect x="300.0" y="250.0" width="22.0" height="26.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="311.0" y="268.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<rect x="322.0" y="250.0" width="22.0" height="26.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="333.0" y="268.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<rect x="344.0" y="250.0" width="22.0" height="26.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="355.0" y="268.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<text x="322.0" y="296.0" text-anchor="middle" fill="#666666" font-size="12">D3</text>
+<text x="381.0" y="270.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">⊕</text>
+<rect x="396.0" y="250.0" width="22.0" height="26.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="407.0" y="268.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<rect x="418.0" y="250.0" width="22.0" height="26.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="429.0" y="268.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<rect x="440.0" y="250.0" width="22.0" height="26.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="451.0" y="268.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<rect x="462.0" y="250.0" width="22.0" height="26.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="473.0" y="268.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<text x="440.0" y="296.0" text-anchor="middle" fill="#666666" font-size="12">P</text>
+<text x="499.0" y="270.0" text-anchor="middle" fill="#222222" font-size="18" font-weight="bold">=</text>
+<rect x="514.0" y="250.0" width="22.0" height="26.0" rx="0" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="2"/>
+<text x="525.0" y="268.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<rect x="536.0" y="250.0" width="22.0" height="26.0" rx="0" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="2"/>
+<text x="547.0" y="268.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<rect x="558.0" y="250.0" width="22.0" height="26.0" rx="0" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="2"/>
+<text x="569.0" y="268.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<rect x="580.0" y="250.0" width="22.0" height="26.0" rx="0" fill="#d9480f" fill-opacity="0.25" stroke="#d9480f" stroke-width="2"/>
+<text x="591.0" y="268.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<text x="558.0" y="296.0" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">D2 again</text>
+<text x="360.0" y="340.0" text-anchor="middle" fill="#222222" font-size="13">XOR of all four disks is 0000. Any one disk equals the XOR of the other three.</text>
+<text x="360.0" y="362.0" text-anchor="middle" fill="#666666" font-size="12">RAID 6 adds a second, different parity (a Reed-Solomon Q) and survives two dead disks.</text>
+</svg>

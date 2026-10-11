@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" width="720" height="440" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>CRC long division of 110101 by 1011 over GF(2)</title>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="720" height="440" fill="#ffffff"/>
+<text x="360.0" y="26.0" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">CRC: Long Division Where Subtraction Is XOR</text>
+<text x="138.0" y="87.0" text-anchor="end" fill="#666666" font-size="12">dividend</text>
+<rect x="150.0" y="70.0" width="30.0" height="24.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="165.0" y="87.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<rect x="180.0" y="70.0" width="30.0" height="24.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="195.0" y="87.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<rect x="210.0" y="70.0" width="30.0" height="24.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="225.0" y="87.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<rect x="240.0" y="70.0" width="30.0" height="24.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="255.0" y="87.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<rect x="270.0" y="70.0" width="30.0" height="24.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="285.0" y="87.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">0</text>
+<rect x="300.0" y="70.0" width="30.0" height="24.0" rx="0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="315.0" y="87.0" text-anchor="middle" fill="#222222" font-size="14" font-weight="bold">1</text>
+<rect x="330.0" y="70.0" width="30.0" height="24.0" rx="0" fill="#f1f3f5" stroke="#868e96" stroke-width="1.2"/>
+<text x="345.0" y="87.0" text-anchor="middle" fill="#868e96" font-size="14" font-weight="bold">0</text>
+<rect x="360.0" y="70.0" width="30.0" height="24.0" rx="0" fill="#f1f3f5" stroke="#868e96" stroke-width="1.2"/>
+<text x="375.0" y="87.0" text-anchor="middle" fill="#868e96" font-size="14" font-weight="bold">0</text>
+<rect x="390.0" y="70.0" width="30.0" height="24.0" rx="0" fill="#f1f3f5" stroke="#868e96" stroke-width="1.2"/>
+<text x="405.0" y="87.0" text-anchor="middle" fill="#868e96" font-size="14" font-weight="bold">0</text>
+<text x="432.0" y="87.0" text-anchor="start" fill="#666666" font-size="12">message 110101 + three 0s</text>
+<text x="138.0" y="117.0" text-anchor="end" fill="#d9480f" font-size="12">XOR 1011</text>
+<rect x="152.0" y="101.0" width="26.0" height="22.0" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="#d9480f" stroke-width="1"/>
+<text x="165.0" y="117.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">1</text>
+<rect x="182.0" y="101.0" width="26.0" height="22.0" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="#d9480f" stroke-width="1"/>
+<text x="195.0" y="117.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">0</text>
+<rect x="212.0" y="101.0" width="26.0" height="22.0" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="#d9480f" stroke-width="1"/>
+<text x="225.0" y="117.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">1</text>
+<rect x="242.0" y="101.0" width="26.0" height="22.0" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="#d9480f" stroke-width="1"/>
+<text x="255.0" y="117.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">1</text>
+<line x1="150.0" y1="126.0" x2="270.0" y2="126.0" stroke="#222222" stroke-width="1.5"/>
+<text x="165.0" y="145.0" text-anchor="middle" fill="#868e96" font-size="13">0</text>
+<text x="195.0" y="145.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<text x="225.0" y="145.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<text x="255.0" y="145.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">0</text>
+<text x="285.0" y="145.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">0</text>
+<text x="315.0" y="145.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<text x="345.0" y="145.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">0</text>
+<text x="375.0" y="145.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">0</text>
+<text x="405.0" y="145.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">0</text>
+<text x="138.0" y="175.0" text-anchor="end" fill="#d9480f" font-size="12">XOR 1011</text>
+<rect x="182.0" y="159.0" width="26.0" height="22.0" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="#d9480f" stroke-width="1"/>
+<text x="195.0" y="175.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">1</text>
+<rect x="212.0" y="159.0" width="26.0" height="22.0" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="#d9480f" stroke-width="1"/>
+<text x="225.0" y="175.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">0</text>
+<rect x="242.0" y="159.0" width="26.0" height="22.0" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="#d9480f" stroke-width="1"/>
+<text x="255.0" y="175.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">1</text>
+<rect x="272.0" y="159.0" width="26.0" height="22.0" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="#d9480f" stroke-width="1"/>
+<text x="285.0" y="175.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">1</text>
+<line x1="180.0" y1="184.0" x2="300.0" y2="184.0" stroke="#222222" stroke-width="1.5"/>
+<text x="195.0" y="203.0" text-anchor="middle" fill="#868e96" font-size="13">0</text>
+<text x="225.0" y="203.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<text x="255.0" y="203.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<text x="285.0" y="203.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<text x="315.0" y="203.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<text x="345.0" y="203.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">0</text>
+<text x="375.0" y="203.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">0</text>
+<text x="405.0" y="203.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">0</text>
+<text x="138.0" y="233.0" text-anchor="end" fill="#d9480f" font-size="12">XOR 1011</text>
+<rect x="212.0" y="217.0" width="26.0" height="22.0" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="#d9480f" stroke-width="1"/>
+<text x="225.0" y="233.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">1</text>
+<rect x="242.0" y="217.0" width="26.0" height="22.0" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="#d9480f" stroke-width="1"/>
+<text x="255.0" y="233.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">0</text>
+<rect x="272.0" y="217.0" width="26.0" height="22.0" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="#d9480f" stroke-width="1"/>
+<text x="285.0" y="233.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">1</text>
+<rect x="302.0" y="217.0" width="26.0" height="22.0" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="#d9480f" stroke-width="1"/>
+<text x="315.0" y="233.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">1</text>
+<line x1="210.0" y1="242.0" x2="330.0" y2="242.0" stroke="#222222" stroke-width="1.5"/>
+<text x="225.0" y="261.0" text-anchor="middle" fill="#868e96" font-size="13">0</text>
+<text x="255.0" y="261.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<text x="285.0" y="261.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">0</text>
+<text x="315.0" y="261.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">0</text>
+<text x="345.0" y="261.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">0</text>
+<text x="375.0" y="261.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">0</text>
+<text x="405.0" y="261.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">0</text>
+<text x="138.0" y="291.0" text-anchor="end" fill="#d9480f" font-size="12">XOR 1011</text>
+<rect x="242.0" y="275.0" width="26.0" height="22.0" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="#d9480f" stroke-width="1"/>
+<text x="255.0" y="291.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">1</text>
+<rect x="272.0" y="275.0" width="26.0" height="22.0" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="#d9480f" stroke-width="1"/>
+<text x="285.0" y="291.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">0</text>
+<rect x="302.0" y="275.0" width="26.0" height="22.0" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="#d9480f" stroke-width="1"/>
+<text x="315.0" y="291.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">1</text>
+<rect x="332.0" y="275.0" width="26.0" height="22.0" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="#d9480f" stroke-width="1"/>
+<text x="345.0" y="291.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">1</text>
+<line x1="240.0" y1="300.0" x2="360.0" y2="300.0" stroke="#222222" stroke-width="1.5"/>
+<text x="255.0" y="319.0" text-anchor="middle" fill="#868e96" font-size="13">0</text>
+<text x="285.0" y="319.0" text-anchor="middle" fill="#868e96" font-size="13">0</text>
+<text x="315.0" y="319.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<text x="345.0" y="319.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<text x="375.0" y="319.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">0</text>
+<text x="405.0" y="319.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">0</text>
+<text x="138.0" y="349.0" text-anchor="end" fill="#d9480f" font-size="12">XOR 1011</text>
+<rect x="302.0" y="333.0" width="26.0" height="22.0" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="#d9480f" stroke-width="1"/>
+<text x="315.0" y="349.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">1</text>
+<rect x="332.0" y="333.0" width="26.0" height="22.0" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="#d9480f" stroke-width="1"/>
+<text x="345.0" y="349.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">0</text>
+<rect x="362.0" y="333.0" width="26.0" height="22.0" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="#d9480f" stroke-width="1"/>
+<text x="375.0" y="349.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">1</text>
+<rect x="392.0" y="333.0" width="26.0" height="22.0" rx="0" fill="#d9480f" fill-opacity="0.15" stroke="#d9480f" stroke-width="1"/>
+<text x="405.0" y="349.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">1</text>
+<line x1="300.0" y1="358.0" x2="420.0" y2="358.0" stroke="#222222" stroke-width="1.5"/>
+<text x="315.0" y="377.0" text-anchor="middle" fill="#868e96" font-size="13">0</text>
+<text x="345.0" y="377.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<text x="375.0" y="377.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<text x="405.0" y="377.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">1</text>
+<rect x="328.0" y="359.0" width="94.0" height="26.0" rx="3" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<text x="432.0" y="377.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">remainder 111</text>
+<text x="530.0" y="160.0" text-anchor="start" fill="#222222" font-size="13">Divisor 1011 means</text>
+<text x="530.0" y="180.0" text-anchor="start" fill="#222222" font-size="13">x³ + x + 1.</text>
+<text x="530.0" y="200.0" text-anchor="start" fill="#222222" font-size="13"></text>
+<text x="530.0" y="220.0" text-anchor="start" fill="#222222" font-size="13">Each step: line the</text>
+<text x="530.0" y="240.0" text-anchor="start" fill="#222222" font-size="13">divisor under the</text>
+<text x="530.0" y="260.0" text-anchor="start" fill="#222222" font-size="13">leftmost 1 and XOR.</text>
+<text x="530.0" y="280.0" text-anchor="start" fill="#222222" font-size="13"></text>
+<text x="530.0" y="300.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">Send 110101 111.</text>
+<text x="530.0" y="320.0" text-anchor="start" fill="#222222" font-size="13">The receiver divides</text>
+<text x="530.0" y="340.0" text-anchor="start" fill="#222222" font-size="13">again and expects</text>
+<text x="530.0" y="360.0" text-anchor="start" fill="#222222" font-size="13">remainder 000.</text>
+</svg>

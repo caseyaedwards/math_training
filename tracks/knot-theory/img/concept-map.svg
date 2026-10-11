@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 594" width="880" height="594" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Knot Theory: Concept Map</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker></defs>
+<rect x="0" y="0" width="880" height="594" fill="#ffffff"/>
+<text x="440.0" y="28" text-anchor="middle" font-size="17" font-weight="bold" fill="#222222">Knot Theory: Concept Map</text>
+<rect x="10" y="50" width="860" height="168" fill="#f3f3f3" stroke="#dddddd"/>
+<text x="22" y="139" font-weight="bold" fill="#555555">Beginner</text>
+<rect x="10" y="218" width="860" height="168" fill="#ffffff" stroke="#dddddd"/>
+<text x="22" y="307" font-weight="bold" fill="#555555">Intermediate</text>
+<rect x="10" y="386" width="860" height="168" fill="#f3f3f3" stroke="#dddddd"/>
+<text x="22" y="475" font-weight="bold" fill="#555555">Advanced</text>
+<path d="M459.2,110.2 L371.2,155.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M539.4,110.2 L664.1,161.3" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M323.5,194.2 L307.5,239.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M379.8,194.2 L489.1,234.1" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M300.0,278.2 L300.0,323.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M706.5,194.2 L752.5,323.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M625.0,287.3 L710.0,323.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M278.3,362.2 L225.0,407.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M326.0,362.2 L390.0,407.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M490.8,428.0 L703.3,428.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M560.0,287.3 L560.0,491.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M394.0,446.2 L330.0,491.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M380.0,528.7 L384.0,529.3 L388.0,530.0 L392.0,530.6 L396.0,531.2 L400.0,531.8 L404.0,532.4 L408.0,532.9 L412.0,533.5 L416.0,534.0 L420.0,534.5 L424.0,535.0 L428.0,535.5 L432.0,535.9 L436.0,536.4 L440.0,536.8 L444.0,537.2 L448.0,537.6 L452.0,538.0 L456.0,538.3 L460.0,538.7 L464.0,539.0 L468.0,539.3 L472.0,539.6 L476.0,539.9 L480.0,540.1 L484.0,540.4 L488.0,540.6 L492.0,540.8 L496.0,541.0 L500.0,541.2 L504.0,541.3 L508.0,541.5 L512.0,541.6 L516.0,541.7 L520.0,541.8 L524.0,541.9 L528.0,541.9 L532.0,542.0 L536.0,542.0 L540.0,542.0 L544.0,542.0 L548.0,542.0 L552.0,541.9 L556.0,541.9 L560.0,541.8 L564.0,541.7 L568.0,541.6 L572.0,541.5 L576.0,541.3 L580.0,541.2 L584.0,541.0 L588.0,540.8 L592.0,540.6 L596.0,540.4 L600.0,540.1 L604.0,539.9 L608.0,539.6 L612.0,539.3 L616.0,539.0 L620.0,538.7 L624.0,538.3 L628.0,538.0 L632.0,537.6 L636.0,537.2 L640.0,536.8 L644.0,536.4 L648.0,535.9 L652.0,535.5 L656.0,535.0 L660.0,534.5 L664.0,534.0 L668.0,533.5 L672.0,532.9 L676.0,532.4 L680.0,531.8 L684.0,531.2 L688.0,530.6 L692.0,530.0 L696.0,529.3 L700.0,528.7 L704.0,528.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M635.2,512.0 L706.7,512.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="429.8" y="75.0" width="130.4" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="495.0" y="97.0" text-anchor="middle" fill="#222222">What Is a Knot</text>
+<rect x="268.6" y="159.0" width="122.8" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="330.0" y="181.0" text-anchor="middle" fill="#222222">Knot Diagrams</text>
+<rect x="669.0" y="159.0" width="62.0" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="700.0" y="181.0" text-anchor="middle" fill="#222222">Links</text>
+<rect x="219.6" y="243.0" width="160.8" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="300.0" y="265.0" text-anchor="middle" fill="#222222">Reidemeister Moves</text>
+<rect x="494.8" y="234.0" width="130.4" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="560.0" y="256.0" text-anchor="middle" fill="#222222">Crossing Signs</text>
+<text x="560.0" y="274.0" text-anchor="middle" fill="#222222">and Writhe</text>
+<rect x="250.0" y="327.0" width="100.0" height="34.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="300.0" y="349.0" text-anchor="middle" fill="#222222">Invariants</text>
+<rect x="694.8" y="327.0" width="130.4" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="760.0" y="349.0" text-anchor="middle" fill="#222222">Linking Number</text>
+<rect x="131.0" y="411.0" width="138.0" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="200.0" y="433.0" text-anchor="middle" fill="#222222">Tricolorability</text>
+<rect x="351.0" y="411.0" width="138.0" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="420.0" y="433.0" text-anchor="middle" fill="#222222">Crossing Number</text>
+<rect x="710.0" y="402.0" width="100.0" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="760.0" y="424.0" text-anchor="middle" fill="#222222">Knot Sums</text>
+<text x="760.0" y="442.0" text-anchor="middle" fill="#222222">and Primes</text>
+<rect x="487.2" y="495.0" width="145.6" height="34.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="560.0" y="517.0" text-anchor="middle" fill="#222222">Jones Polynomial</text>
+<rect x="223.4" y="495.0" width="153.2" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="300.0" y="517.0" text-anchor="middle" fill="#222222">Unknotting Number</text>
+<rect x="711.0" y="495.0" width="138.0" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="780.0" y="517.0" text-anchor="middle" fill="#222222">DNA and Physics</text>
+<text x="22" y="580" font-size="12" fill="#555555">Arrow A to B: learn A before B.</text>
+<rect x="630" y="568" width="16" height="14" rx="3" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="652" y="580" font-size="12" fill="#555555">milestone concept of the track</text>
+</svg>

@@ -76,3 +76,7 @@ Before the first deployment, open the repository settings on GitHub, go to **Pag
 ## Update Dependencies
 
 The package versions in `package.json` are exact. To upgrade, change the version numbers, run `npm install` to refresh `package-lock.json`, and run `npm run build` to confirm that the site still builds.
+
+## Diagram Showcase
+
+CI runs `python3 -m svgmath showcase --out ../site/public/diagrams` from `svg-generator/` before the build. The site serves the result at `/diagrams/`. To preview it locally, run the same command first. The output is about 42 MB and stays out of git.

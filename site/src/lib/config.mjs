@@ -27,4 +27,6 @@ export const NAV = [
   { label: 'Workshops', dir: 'workshops' },
   { label: 'History', dir: 'history' },
   { label: 'Resources', dir: 'resources' },
+  // The diagram showcase is generated into public/diagrams/ by svg-generator in CI.
+  { label: 'Diagrams', dir: 'svg-generator', href: '/diagrams/' },
 ];

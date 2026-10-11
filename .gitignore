@@ -2,3 +2,6 @@
 site/node_modules/
 site/dist/
 site/.astro/
+
+# Generated in CI by svg-generator
+site/public/diagrams/

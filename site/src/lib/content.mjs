@@ -258,5 +258,5 @@ export function buildIndex() {
 export function navItems(nav) {
   return nav
     .filter((n) => fs.existsSync(path.join(REPO_ROOT, n.dir, 'README.md')))
-    .map((n) => ({ ...n, href: withBase(n.dir ? '/' + n.dir + '/' : '/') }));
+    .map((n) => ({ ...n, href: withBase(n.href ?? (n.dir ? '/' + n.dir + '/' : '/')) }));
 }

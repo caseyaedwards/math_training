@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 160" width="720" height="160" font-family="sans-serif" font-size="14" role="img" aria-label="Number line from 0.40 to 0.55 with 0.405, 0.45, 0.5 and 0.54 in order">
+<title>Number line from 0.40 to 0.55 with 0.405, 0.45, 0.5 and 0.54 in order</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="720" height="160" fill="#fff"/>
+<line x1="35.0" y1="85.0" x2="685.0" y2="85.0" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="35.0" y1="85" x2="34.0" y2="85" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="50.0" y1="80.0" x2="50.0" y2="90.0" stroke="#222" stroke-width="1"/>
+<line x1="91.3" y1="80.0" x2="91.3" y2="90.0" stroke="#222" stroke-width="1"/>
+<line x1="132.7" y1="80.0" x2="132.7" y2="90.0" stroke="#222" stroke-width="1"/>
+<line x1="174.0" y1="80.0" x2="174.0" y2="90.0" stroke="#222" stroke-width="1"/>
+<line x1="215.3" y1="80.0" x2="215.3" y2="90.0" stroke="#222" stroke-width="1"/>
+<line x1="256.7" y1="80.0" x2="256.7" y2="90.0" stroke="#222" stroke-width="1"/>
+<line x1="298.0" y1="80.0" x2="298.0" y2="90.0" stroke="#222" stroke-width="1"/>
+<line x1="339.3" y1="80.0" x2="339.3" y2="90.0" stroke="#222" stroke-width="1"/>
+<line x1="380.7" y1="80.0" x2="380.7" y2="90.0" stroke="#222" stroke-width="1"/>
+<line x1="422.0" y1="80.0" x2="422.0" y2="90.0" stroke="#222" stroke-width="1"/>
+<line x1="463.3" y1="80.0" x2="463.3" y2="90.0" stroke="#222" stroke-width="1"/>
+<line x1="504.7" y1="80.0" x2="504.7" y2="90.0" stroke="#222" stroke-width="1"/>
+<line x1="546.0" y1="80.0" x2="546.0" y2="90.0" stroke="#222" stroke-width="1"/>
+<line x1="587.3" y1="80.0" x2="587.3" y2="90.0" stroke="#222" stroke-width="1"/>
+<line x1="628.7" y1="80.0" x2="628.7" y2="90.0" stroke="#222" stroke-width="1"/>
+<line x1="670.0" y1="80.0" x2="670.0" y2="90.0" stroke="#222" stroke-width="1"/>
+<line x1="50.0" y1="76.0" x2="50.0" y2="94.0" stroke="#222" stroke-width="2"/>
+<text x="50.0" y="113.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">0.40</text>
+<line x1="256.7" y1="76.0" x2="256.7" y2="94.0" stroke="#222" stroke-width="2"/>
+<text x="256.7" y="113.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">0.45</text>
+<line x1="463.3" y1="76.0" x2="463.3" y2="94.0" stroke="#222" stroke-width="2"/>
+<text x="463.3" y="113.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">0.50</text>
+<line x1="670.0" y1="76.0" x2="670.0" y2="94.0" stroke="#222" stroke-width="2"/>
+<text x="670.0" y="113.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">0.55</text>
+<circle cx="70.7" cy="85.0" r="6" fill="#d9480f" stroke="none" stroke-width="2"/>
+<text x="70.7" y="60.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">0.405</text>
+<circle cx="256.7" cy="85.0" r="6" fill="#d9480f" stroke="none" stroke-width="2"/>
+<text x="256.7" y="60.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">0.45</text>
+<circle cx="463.3" cy="85.0" r="6" fill="#d9480f" stroke="none" stroke-width="2"/>
+<text x="463.3" y="60.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">0.5</text>
+<circle cx="628.7" cy="85.0" r="6" fill="#d9480f" stroke="none" stroke-width="2"/>
+<text x="628.7" y="60.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">0.54</text>
+<text x="360.0" y="150.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">Pad to three places: 0.405 &lt; 0.450 &lt; 0.500 &lt; 0.540</text>
+</svg>

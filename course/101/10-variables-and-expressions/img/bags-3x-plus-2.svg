@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 270" width="340" height="270" font-family="sans-serif" font-size="14" role="img" aria-label="Three bags labeled x and two loose dots for 3x + 2; below, each bag holds 4 dots, giving 14">
+<title>Three bags labeled x and two loose dots for 3x + 2; below, each bag holds 4 dots, giving 14</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="340" height="270" fill="#fff"/>
+<path d="M40,54 Q36,90 62,92 Q88,90 84,54 z" fill="#f3d9cc" stroke="#222" stroke-width="1.5"/>
+<path d="M46,54 L54,44 L70,44 L78,54" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="62.0" y="78.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">x</text>
+<path d="M100,54 Q96,90 122,92 Q148,90 144,54 z" fill="#f3d9cc" stroke="#222" stroke-width="1.5"/>
+<path d="M106,54 L114,44 L130,44 L138,54" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="122.0" y="78.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">x</text>
+<path d="M160,54 Q156,90 182,92 Q208,90 204,54 z" fill="#f3d9cc" stroke="#222" stroke-width="1.5"/>
+<path d="M166,54 L174,44 L190,44 L198,54" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="182.0" y="78.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">x</text>
+<circle cx="240.0" cy="72.0" r="9" fill="#d9480f" stroke="none" stroke-width="2"/>
+<circle cx="266.0" cy="72.0" r="9" fill="#d9480f" stroke="none" stroke-width="2"/>
+<text x="160.0" y="125.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">3 bags of x, plus 2 loose: 3x + 2</text>
+<path d="M40,174 Q36,210 62,212 Q88,210 84,174 z" fill="#f3d9cc" stroke="#222" stroke-width="1.5"/>
+<path d="M46,174 L54,164 L70,164 L78,174" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="62.0" y="198.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold"></text>
+<circle cx="52.0" cy="186.0" r="6" fill="#222" stroke="none" stroke-width="2"/>
+<circle cx="72.0" cy="186.0" r="6" fill="#222" stroke="none" stroke-width="2"/>
+<circle cx="52.0" cy="202.0" r="6" fill="#222" stroke="none" stroke-width="2"/>
+<circle cx="72.0" cy="202.0" r="6" fill="#222" stroke="none" stroke-width="2"/>
+<path d="M100,174 Q96,210 122,212 Q148,210 144,174 z" fill="#f3d9cc" stroke="#222" stroke-width="1.5"/>
+<path d="M106,174 L114,164 L130,164 L138,174" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="122.0" y="198.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold"></text>
+<circle cx="112.0" cy="186.0" r="6" fill="#222" stroke="none" stroke-width="2"/>
+<circle cx="132.0" cy="186.0" r="6" fill="#222" stroke="none" stroke-width="2"/>
+<circle cx="112.0" cy="202.0" r="6" fill="#222" stroke="none" stroke-width="2"/>
+<circle cx="132.0" cy="202.0" r="6" fill="#222" stroke="none" stroke-width="2"/>
+<path d="M160,174 Q156,210 182,212 Q208,210 204,174 z" fill="#f3d9cc" stroke="#222" stroke-width="1.5"/>
+<path d="M166,174 L174,164 L190,164 L198,174" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="182.0" y="198.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold"></text>
+<circle cx="172.0" cy="186.0" r="6" fill="#222" stroke="none" stroke-width="2"/>
+<circle cx="192.0" cy="186.0" r="6" fill="#222" stroke="none" stroke-width="2"/>
+<circle cx="172.0" cy="202.0" r="6" fill="#222" stroke="none" stroke-width="2"/>
+<circle cx="192.0" cy="202.0" r="6" fill="#222" stroke="none" stroke-width="2"/>
+<circle cx="240.0" cy="192.0" r="9" fill="#d9480f" stroke="none" stroke-width="2"/>
+<circle cx="266.0" cy="192.0" r="9" fill="#d9480f" stroke="none" stroke-width="2"/>
+<text x="160.0" y="245.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">if each bag holds 4: 3(4) + 2 = 14</text>
+</svg>

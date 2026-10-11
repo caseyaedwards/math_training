@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 990 360" width="990" height="360" font-family="sans-serif" font-size="14" role="img" aria-label="Prerequisite map of the ten 101 lessons">
+<title>Prerequisite map of the ten 101 lessons</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="990" height="360" fill="#fff"/>
+<line x1="140.0" y1="177.0" x2="156.0" y2="177.0" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="278.0" y1="177.0" x2="294.0" y2="287.0" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="278.0" y1="177.0" x2="294.0" y2="67.0" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="416.0" y1="67.0" x2="432.0" y2="67.0" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="554.0" y1="67.0" x2="570.0" y2="67.0" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="692.0" y1="67.0" x2="708.0" y2="67.0" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="830.0" y1="67.0" x2="846.0" y2="67.0" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="416.0" y1="287.0" x2="570.0" y2="287.0" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="416.0" y1="67.0" x2="570.0" y2="287.0" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="692.0" y1="287.0" x2="708.0" y2="287.0" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="692.0" y1="67.0" x2="708.0" y2="287.0" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="20.0" y="150.0" width="120.0" height="54.0" fill="#f3d9cc" stroke="#222" stroke-width="2" rx="6"/>
+<text x="80.0" y="172.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">01</text>
+<text x="80.0" y="192.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">Place Value</text>
+<rect x="158.0" y="150.0" width="120.0" height="54.0" fill="#fff" stroke="#222" stroke-width="2" rx="6"/>
+<text x="218.0" y="172.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">02</text>
+<text x="218.0" y="192.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">Four Operations</text>
+<rect x="296.0" y="260.0" width="120.0" height="54.0" fill="#fff" stroke="#222" stroke-width="2" rx="6"/>
+<text x="356.0" y="282.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">03</text>
+<text x="356.0" y="302.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">Negatives</text>
+<rect x="296.0" y="40.0" width="120.0" height="54.0" fill="#fff" stroke="#222" stroke-width="2" rx="6"/>
+<text x="356.0" y="62.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">04</text>
+<text x="356.0" y="82.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">Factors, Primes</text>
+<rect x="434.0" y="40.0" width="120.0" height="54.0" fill="#fff" stroke="#222" stroke-width="2" rx="6"/>
+<text x="494.0" y="62.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">05</text>
+<text x="494.0" y="82.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">Fractions</text>
+<rect x="572.0" y="260.0" width="120.0" height="54.0" fill="#fff" stroke="#222" stroke-width="2" rx="6"/>
+<text x="632.0" y="282.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">09</text>
+<text x="632.0" y="302.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">Powers, Order</text>
+<rect x="572.0" y="40.0" width="120.0" height="54.0" fill="#fff" stroke="#222" stroke-width="2" rx="6"/>
+<text x="632.0" y="62.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">06</text>
+<text x="632.0" y="82.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">Fraction Ops</text>
+<rect x="710.0" y="40.0" width="120.0" height="54.0" fill="#fff" stroke="#222" stroke-width="2" rx="6"/>
+<text x="770.0" y="62.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">07</text>
+<text x="770.0" y="82.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">Decimals, %</text>
+<rect x="710.0" y="260.0" width="120.0" height="54.0" fill="#fff" stroke="#222" stroke-width="2" rx="6"/>
+<text x="770.0" y="282.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">10</text>
+<text x="770.0" y="302.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">Variables</text>
+<rect x="848.0" y="40.0" width="120.0" height="54.0" fill="#fff" stroke="#222" stroke-width="2" rx="6"/>
+<text x="908.0" y="62.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">08</text>
+<text x="908.0" y="82.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">Ratios, Rates</text>
+<text x="495.0" y="346.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">Arrows point from a lesson to the lessons that build on it. Start at 01.</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 305" width="620" height="305" font-family="sans-serif" font-size="14" role="img" aria-label="Three pizzas each cut in quarters for persons A to D; person A collects three quarters">
+<title>Three pizzas each cut in quarters for persons A to D; person A collects three quarters</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="620" height="305" fill="#fff"/>
+<text x="125.0" y="56.0" text-anchor="end" font-size="13" fill="#222" font-weight="normal">pizza 1</text>
+<rect x="140.0" y="30.0" width="90.0" height="40.0" fill="#d9480f" stroke="#222" stroke-width="1.5" rx="0"/>
+<text x="185.0" y="56.0" text-anchor="middle" font-size="14" fill="#fff" font-weight="bold">A</text>
+<rect x="230.0" y="30.0" width="90.0" height="40.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<text x="275.0" y="56.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">B</text>
+<rect x="320.0" y="30.0" width="90.0" height="40.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<text x="365.0" y="56.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">C</text>
+<rect x="410.0" y="30.0" width="90.0" height="40.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<text x="455.0" y="56.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">D</text>
+<text x="125.0" y="111.0" text-anchor="end" font-size="13" fill="#222" font-weight="normal">pizza 2</text>
+<rect x="140.0" y="85.0" width="90.0" height="40.0" fill="#d9480f" stroke="#222" stroke-width="1.5" rx="0"/>
+<text x="185.0" y="111.0" text-anchor="middle" font-size="14" fill="#fff" font-weight="bold">A</text>
+<rect x="230.0" y="85.0" width="90.0" height="40.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<text x="275.0" y="111.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">B</text>
+<rect x="320.0" y="85.0" width="90.0" height="40.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<text x="365.0" y="111.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">C</text>
+<rect x="410.0" y="85.0" width="90.0" height="40.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<text x="455.0" y="111.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">D</text>
+<text x="125.0" y="166.0" text-anchor="end" font-size="13" fill="#222" font-weight="normal">pizza 3</text>
+<rect x="140.0" y="140.0" width="90.0" height="40.0" fill="#d9480f" stroke="#222" stroke-width="1.5" rx="0"/>
+<text x="185.0" y="166.0" text-anchor="middle" font-size="14" fill="#fff" font-weight="bold">A</text>
+<rect x="230.0" y="140.0" width="90.0" height="40.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<text x="275.0" y="166.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">B</text>
+<rect x="320.0" y="140.0" width="90.0" height="40.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<text x="365.0" y="166.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">C</text>
+<rect x="410.0" y="140.0" width="90.0" height="40.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<text x="455.0" y="166.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">D</text>
+<text x="125.0" y="246.0" text-anchor="end" font-size="14" fill="#222" font-weight="bold">A gets</text>
+<rect x="140.0" y="220.0" width="90.0" height="40.0" fill="#d9480f" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="230.0" y="220.0" width="90.0" height="40.0" fill="#d9480f" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="320.0" y="220.0" width="90.0" height="40.0" fill="#d9480f" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="410.0" y="220.0" width="90.0" height="40.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<text x="520.0" y="246.0" text-anchor="start" font-size="18" fill="#d9480f" font-weight="bold">= 3/4</text>
+<text x="310.0" y="293.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">3 pizzas shared by 4 people: each person gets 3 ÷ 4 = 3/4 of a pizza.</text>
+</svg>

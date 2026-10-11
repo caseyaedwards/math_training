@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 182" width="520" height="182" font-family="sans-serif" font-size="14" role="img" aria-label="Two ten-frames showing 5 + 4 and 4 + 5 both fill 9 cells">
+<title>Two ten-frames showing 5 + 4 and 4 + 5 both fill 9 cells</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="520" height="182" fill="#fff"/>
+<rect x="40.0" y="40.0" width="36.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.2" rx="0"/>
+<rect x="76.0" y="40.0" width="36.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.2" rx="0"/>
+<rect x="112.0" y="40.0" width="36.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.2" rx="0"/>
+<rect x="148.0" y="40.0" width="36.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.2" rx="0"/>
+<rect x="184.0" y="40.0" width="36.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.2" rx="0"/>
+<rect x="40.0" y="76.0" width="36.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.2" rx="0"/>
+<rect x="76.0" y="76.0" width="36.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.2" rx="0"/>
+<rect x="112.0" y="76.0" width="36.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.2" rx="0"/>
+<rect x="148.0" y="76.0" width="36.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.2" rx="0"/>
+<rect x="184.0" y="76.0" width="36.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.2" rx="0"/>
+<circle cx="58.0" cy="58.0" r="12" fill="#222" stroke="none" stroke-width="2"/>
+<circle cx="94.0" cy="58.0" r="12" fill="#222" stroke="none" stroke-width="2"/>
+<circle cx="130.0" cy="58.0" r="12" fill="#222" stroke="none" stroke-width="2"/>
+<circle cx="166.0" cy="58.0" r="12" fill="#222" stroke="none" stroke-width="2"/>
+<circle cx="202.0" cy="58.0" r="12" fill="#222" stroke="none" stroke-width="2"/>
+<circle cx="58.0" cy="94.0" r="12" fill="#d9480f" stroke="none" stroke-width="2"/>
+<circle cx="94.0" cy="94.0" r="12" fill="#d9480f" stroke="none" stroke-width="2"/>
+<circle cx="130.0" cy="94.0" r="12" fill="#d9480f" stroke="none" stroke-width="2"/>
+<circle cx="166.0" cy="94.0" r="12" fill="#d9480f" stroke="none" stroke-width="2"/>
+<text x="130.0" y="138.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">5 + 4 = 9</text>
+<rect x="300.0" y="40.0" width="36.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.2" rx="0"/>
+<rect x="336.0" y="40.0" width="36.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.2" rx="0"/>
+<rect x="372.0" y="40.0" width="36.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.2" rx="0"/>
+<rect x="408.0" y="40.0" width="36.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.2" rx="0"/>
+<rect x="444.0" y="40.0" width="36.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.2" rx="0"/>
+<rect x="300.0" y="76.0" width="36.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.2" rx="0"/>
+<rect x="336.0" y="76.0" width="36.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.2" rx="0"/>
+<rect x="372.0" y="76.0" width="36.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.2" rx="0"/>
+<rect x="408.0" y="76.0" width="36.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.2" rx="0"/>
+<rect x="444.0" y="76.0" width="36.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.2" rx="0"/>
+<circle cx="318.0" cy="58.0" r="12" fill="#d9480f" stroke="none" stroke-width="2"/>
+<circle cx="354.0" cy="58.0" r="12" fill="#d9480f" stroke="none" stroke-width="2"/>
+<circle cx="390.0" cy="58.0" r="12" fill="#d9480f" stroke="none" stroke-width="2"/>
+<circle cx="426.0" cy="58.0" r="12" fill="#d9480f" stroke="none" stroke-width="2"/>
+<circle cx="462.0" cy="58.0" r="12" fill="#222" stroke="none" stroke-width="2"/>
+<circle cx="318.0" cy="94.0" r="12" fill="#222" stroke="none" stroke-width="2"/>
+<circle cx="354.0" cy="94.0" r="12" fill="#222" stroke="none" stroke-width="2"/>
+<circle cx="390.0" cy="94.0" r="12" fill="#222" stroke="none" stroke-width="2"/>
+<circle cx="426.0" cy="94.0" r="12" fill="#222" stroke="none" stroke-width="2"/>
+<text x="390.0" y="138.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">4 + 5 = 9</text>
+<text x="260.0" y="170.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">Same dots, different order. The total does not care.</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 385" width="400" height="385" font-family="sans-serif" font-size="14" role="img" aria-label="Vertical thermometer from -10 to 10 with -2 above -7, showing -2 is greater">
+<title>Vertical thermometer from -10 to 10 with -2 above -7, showing -2 is greater</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="400" height="385" fill="#fff"/>
+<rect x="190.0" y="20.0" width="20.0" height="320.0" fill="#fff" stroke="#222" stroke-width="2" rx="10"/>
+<rect x="195.0" y="210.0" width="10.0" height="120.0" fill="#f3d9cc" stroke="none" stroke-width="0" rx="0"/>
+<line x1="210.0" y1="330.0" x2="222.0" y2="330.0" stroke="#222" stroke-width="1.5"/>
+<text x="230.0" y="335.0" text-anchor="start" font-size="13" fill="#222" font-weight="normal">−10</text>
+<line x1="210.0" y1="315.0" x2="216.0" y2="315.0" stroke="#222" stroke-width="1"/>
+<line x1="210.0" y1="300.0" x2="216.0" y2="300.0" stroke="#222" stroke-width="1"/>
+<line x1="210.0" y1="285.0" x2="216.0" y2="285.0" stroke="#222" stroke-width="1"/>
+<line x1="210.0" y1="270.0" x2="216.0" y2="270.0" stroke="#222" stroke-width="1"/>
+<line x1="210.0" y1="255.0" x2="222.0" y2="255.0" stroke="#222" stroke-width="1.5"/>
+<text x="230.0" y="260.0" text-anchor="start" font-size="13" fill="#222" font-weight="normal">−5</text>
+<line x1="210.0" y1="240.0" x2="216.0" y2="240.0" stroke="#222" stroke-width="1"/>
+<line x1="210.0" y1="225.0" x2="216.0" y2="225.0" stroke="#222" stroke-width="1"/>
+<line x1="210.0" y1="210.0" x2="216.0" y2="210.0" stroke="#222" stroke-width="1"/>
+<line x1="210.0" y1="195.0" x2="216.0" y2="195.0" stroke="#222" stroke-width="1"/>
+<line x1="210.0" y1="180.0" x2="222.0" y2="180.0" stroke="#222" stroke-width="1.5"/>
+<text x="230.0" y="185.0" text-anchor="start" font-size="13" fill="#222" font-weight="normal">0</text>
+<line x1="210.0" y1="165.0" x2="216.0" y2="165.0" stroke="#222" stroke-width="1"/>
+<line x1="210.0" y1="150.0" x2="216.0" y2="150.0" stroke="#222" stroke-width="1"/>
+<line x1="210.0" y1="135.0" x2="216.0" y2="135.0" stroke="#222" stroke-width="1"/>
+<line x1="210.0" y1="120.0" x2="216.0" y2="120.0" stroke="#222" stroke-width="1"/>
+<line x1="210.0" y1="105.0" x2="222.0" y2="105.0" stroke="#222" stroke-width="1.5"/>
+<text x="230.0" y="110.0" text-anchor="start" font-size="13" fill="#222" font-weight="normal">5</text>
+<line x1="210.0" y1="90.0" x2="216.0" y2="90.0" stroke="#222" stroke-width="1"/>
+<line x1="210.0" y1="75.0" x2="216.0" y2="75.0" stroke="#222" stroke-width="1"/>
+<line x1="210.0" y1="60.0" x2="216.0" y2="60.0" stroke="#222" stroke-width="1"/>
+<line x1="210.0" y1="45.0" x2="216.0" y2="45.0" stroke="#222" stroke-width="1"/>
+<line x1="210.0" y1="30.0" x2="222.0" y2="30.0" stroke="#222" stroke-width="1.5"/>
+<text x="230.0" y="35.0" text-anchor="start" font-size="13" fill="#222" font-weight="normal">10</text>
+<circle cx="200.0" cy="210.0" r="7" fill="#d9480f" stroke="none" stroke-width="2"/>
+<line x1="186.0" y1="210.0" x2="160.0" y2="210.0" stroke="#d9480f" stroke-width="1.5"/>
+<text x="154.0" y="215.0" text-anchor="end" font-size="13" fill="#d9480f" font-weight="normal">−2: warmer, higher</text>
+<circle cx="200.0" cy="285.0" r="7" fill="#d9480f" stroke="none" stroke-width="2"/>
+<line x1="186.0" y1="285.0" x2="160.0" y2="285.0" stroke="#d9480f" stroke-width="1.5"/>
+<text x="154.0" y="290.0" text-anchor="end" font-size="13" fill="#d9480f" font-weight="normal">−7: colder, lower</text>
+<text x="200.0" y="375.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">Higher is greater: −2 &gt; −7</text>
+</svg>

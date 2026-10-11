@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 260" width="460" height="260" font-family="sans-serif" font-size="14" role="img" aria-label="Factor tree for 84 starting as 4 times 21, ending in the same primes 2, 2, 3 and 7">
+<title>Factor tree for 84 starting as 4 times 21, ending in the same primes 2, 2, 3 and 7</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="460" height="260" fill="#fff"/>
+<line x1="214.4" y1="52.5" x2="145.6" y2="107.5" stroke="#222" stroke-width="1.5"/>
+<line x1="245.6" y1="52.5" x2="314.4" y2="107.5" stroke="#222" stroke-width="1.5"/>
+<line x1="119.4" y1="137.0" x2="90.6" y2="183.0" stroke="#222" stroke-width="1.5"/>
+<line x1="140.6" y1="137.0" x2="169.4" y2="183.0" stroke="#222" stroke-width="1.5"/>
+<line x1="319.4" y1="137.0" x2="290.6" y2="183.0" stroke="#222" stroke-width="1.5"/>
+<line x1="340.6" y1="137.0" x2="369.4" y2="183.0" stroke="#222" stroke-width="1.5"/>
+<circle cx="230.0" cy="40.0" r="20" fill="#fff" stroke="#222" stroke-width="2"/>
+<text x="230.0" y="45.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">84</text>
+<circle cx="130.0" cy="120.0" r="20" fill="#fff" stroke="#222" stroke-width="2"/>
+<text x="130.0" y="125.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">4</text>
+<circle cx="330.0" cy="120.0" r="20" fill="#fff" stroke="#222" stroke-width="2"/>
+<text x="330.0" y="125.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">21</text>
+<circle cx="80.0" cy="200.0" r="20" fill="#f3d9cc" stroke="#d9480f" stroke-width="2"/>
+<text x="80.0" y="205.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">2</text>
+<circle cx="180.0" cy="200.0" r="20" fill="#f3d9cc" stroke="#d9480f" stroke-width="2"/>
+<text x="180.0" y="205.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">2</text>
+<circle cx="280.0" cy="200.0" r="20" fill="#f3d9cc" stroke="#d9480f" stroke-width="2"/>
+<text x="280.0" y="205.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">3</text>
+<circle cx="380.0" cy="200.0" r="20" fill="#f3d9cc" stroke="#d9480f" stroke-width="2"/>
+<text x="380.0" y="205.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">7</text>
+<text x="20.0" y="245.0" text-anchor="start" font-size="16" fill="#d9480f" font-weight="bold">Start with 4 × 21: same leaves, 2 × 2 × 3 × 7</text>
+</svg>

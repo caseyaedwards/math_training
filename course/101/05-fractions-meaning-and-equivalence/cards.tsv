@@ -1,0 +1,10 @@
+What does a/b mean?	Cut a whole into b equal pieces and take a of them.	math::101::fractions
+Numerator and denominator?	Numerator: top, counts pieces. Denominator: bottom, names the piece size.	math::101::fractions
+A fraction as a division?	\(\frac{3}{4} = 3 \div 4\). Share 3 pizzas among 4 people.	math::101::fractions
+Rule for equivalent fractions?	\(\frac{a}{b} = \frac{a \times k}{b \times k}\) for any k except 0.	math::101::fractions
+Why does the equivalence rule work?	\(\frac{k}{k} = 1\), and multiplying by 1 changes nothing.	math::101::fractions
+Simplify 18/24.	3/4. Divide top and bottom by the gcd, 6.	math::101::fractions
+17/5 as a mixed number?	3 2/5, because 17 = 5 × 3 + 2.	math::101::fractions
+2 5/6 as an improper fraction?	17/6, because 2 × 6 + 5 = 17.	math::101::fractions
+Compare 5/8 and 3/5.	5/8 is larger: 25/40 against 24/40.	math::101::fractions
+Is 1/8 bigger than 1/4?	No. More cuts make smaller pieces.	math::101::fractions

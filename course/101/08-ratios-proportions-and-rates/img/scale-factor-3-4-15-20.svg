@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 240" width="680" height="240" font-family="sans-serif" font-size="14" role="img" aria-label="The proportion 3/4 = 15/20 with times 5 arrows on the tops and the bottoms">
+<title>The proportion 3/4 = 15/20 with times 5 arrows on the tops and the bottoms</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="680" height="240" fill="#fff"/>
+<text x="150.0" y="105.0" text-anchor="middle" font-size="34" fill="#222" font-weight="bold">3</text>
+<line x1="130.0" y1="118.0" x2="170.0" y2="118.0" stroke="#222" stroke-width="2.5"/>
+<text x="150.0" y="155.0" text-anchor="middle" font-size="34" fill="#222" font-weight="bold">4</text>
+<text x="220.0" y="135.0" text-anchor="middle" font-size="34" fill="#222" font-weight="normal">=</text>
+<text x="300.0" y="105.0" text-anchor="middle" font-size="34" fill="#d9480f" font-weight="bold">15</text>
+<line x1="275.0" y1="118.0" x2="325.0" y2="118.0" stroke="#222" stroke-width="2.5"/>
+<text x="300.0" y="155.0" text-anchor="middle" font-size="34" fill="#222" font-weight="bold">20</text>
+<path d="M168,70 Q225,25 282,70" fill="none" stroke="#d9480f" stroke-width="2" marker-end="url(#arrowacc)"/>
+<text x="225.0" y="35.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">× 5</text>
+<path d="M168,170 Q225,215 282,170" fill="none" stroke="#d9480f" stroke-width="2" marker-end="url(#arrowacc)"/>
+<text x="225.0" y="222.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">× 5</text>
+<text x="520.0" y="110.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">4 became 20: times 5.</text>
+<text x="520.0" y="135.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">Do the same to the top.</text>
+</svg>

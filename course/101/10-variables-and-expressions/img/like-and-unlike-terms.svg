@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 290" width="500" height="290" font-family="sans-serif" font-size="14" role="img" aria-label="Three bags plus five bags make eight bags; below, a strip x and a square x squared cannot combine">
+<title>Three bags plus five bags make eight bags; below, a strip x and a square x squared cannot combine</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="500" height="290" fill="#fff"/>
+<path d="M30,44 Q26,80 52,82 Q78,80 74,44 z" fill="#f3d9cc" stroke="#222" stroke-width="1.5"/>
+<path d="M36,44 L44,34 L60,34 L68,44" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="52.0" y="68.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">x</text>
+<path d="M82,44 Q78,80 104,82 Q130,80 126,44 z" fill="#f3d9cc" stroke="#222" stroke-width="1.5"/>
+<path d="M88,44 L96,34 L112,34 L120,44" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="104.0" y="68.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">x</text>
+<path d="M134,44 Q130,80 156,82 Q182,80 178,44 z" fill="#f3d9cc" stroke="#222" stroke-width="1.5"/>
+<path d="M140,44 L148,34 L164,34 L172,44" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="156.0" y="68.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">x</text>
+<text x="200.0" y="70.0" text-anchor="middle" font-size="22" fill="#222" font-weight="normal">+</text>
+<path d="M220,44 Q216,80 242,82 Q268,80 264,44 z" fill="#d9480f" stroke="#222" stroke-width="1.5"/>
+<path d="M226,44 L234,34 L250,34 L258,44" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="242.0" y="68.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">x</text>
+<path d="M272,44 Q268,80 294,82 Q320,80 316,44 z" fill="#d9480f" stroke="#222" stroke-width="1.5"/>
+<path d="M278,44 L286,34 L302,34 L310,44" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="294.0" y="68.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">x</text>
+<path d="M324,44 Q320,80 346,82 Q372,80 368,44 z" fill="#d9480f" stroke="#222" stroke-width="1.5"/>
+<path d="M330,44 L338,34 L354,34 L362,44" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="346.0" y="68.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">x</text>
+<path d="M376,44 Q372,80 398,82 Q424,80 420,44 z" fill="#d9480f" stroke="#222" stroke-width="1.5"/>
+<path d="M382,44 L390,34 L406,34 L414,44" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="398.0" y="68.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">x</text>
+<path d="M428,44 Q424,80 450,82 Q476,80 472,44 z" fill="#d9480f" stroke="#222" stroke-width="1.5"/>
+<path d="M434,44 L442,34 L458,34 L466,44" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="450.0" y="68.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">x</text>
+<text x="250.0" y="112.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">3x + 5x = 8x: eight bags of the same thing</text>
+<rect x="60.0" y="150.0" width="88.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1.5" rx="0"/>
+<text x="104.0" y="140.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">x by 1</text>
+<text x="104.0" y="166.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">x</text>
+<rect x="240.0" y="150.0" width="88.0" height="88.0" fill="#d9480f" stroke="#222" stroke-width="1.5" rx="0"/>
+<text x="284.0" y="140.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">x by x</text>
+<text x="284.0" y="199.0" text-anchor="middle" font-size="14" fill="#fff" font-weight="bold">x²</text>
+<text x="190.0" y="166.0" text-anchor="middle" font-size="22" fill="#222" font-weight="normal">+</text>
+<text x="250.0" y="270.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">x + x²: a strip and a square. Different shapes do not merge.</text>
+</svg>

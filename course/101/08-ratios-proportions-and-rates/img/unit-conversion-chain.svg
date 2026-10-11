@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 175" width="700" height="175" font-family="sans-serif" font-size="14" role="img" aria-label="Conversion chain from 6 GB per minute to 6,000 MB per minute to 100 MB per second">
+<title>Conversion chain from 6 GB per minute to 6,000 MB per minute to 100 MB per second</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="700" height="175" fill="#fff"/>
+<rect x="30.0" y="50.0" width="160.0" height="54.0" fill="#f3d9cc" stroke="#222" stroke-width="2" rx="6"/>
+<text x="110.0" y="83.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">6 GB/min</text>
+<rect x="270.0" y="50.0" width="160.0" height="54.0" fill="#f3d9cc" stroke="#222" stroke-width="2" rx="6"/>
+<text x="350.0" y="83.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">6,000 MB/min</text>
+<rect x="510.0" y="50.0" width="160.0" height="54.0" fill="#f3d9cc" stroke="#222" stroke-width="2" rx="6"/>
+<text x="590.0" y="83.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">100 MB/s</text>
+<line x1="194.0" y1="77.0" x2="266.0" y2="77.0" stroke="#d9480f" stroke-width="2" marker-end="url(#arrowacc)"/>
+<text x="230.0" y="132.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="normal">× 1,000 MB/GB</text>
+<line x1="434.0" y1="77.0" x2="506.0" y2="77.0" stroke="#d9480f" stroke-width="2" marker-end="url(#arrowacc)"/>
+<text x="470.0" y="132.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="normal">÷ 60 s/min</text>
+<text x="350.0" y="161.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">Each step multiplies by a fraction worth 1. The number changes, the amount does not.</text>
+</svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 594" width="880" height="594" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Algebra: Concept Map</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker></defs>
+<rect x="0" y="0" width="880" height="594" fill="#ffffff"/>
+<text x="440.0" y="28" text-anchor="middle" font-size="17" font-weight="bold" fill="#222222">Algebra: Concept Map</text>
+<rect x="10" y="50" width="860" height="168" fill="#f3f3f3" stroke="#dddddd"/>
+<text x="22" y="139" font-weight="bold" fill="#555555">Beginner</text>
+<rect x="10" y="218" width="860" height="168" fill="#ffffff" stroke="#dddddd"/>
+<text x="22" y="307" font-weight="bold" fill="#555555">Intermediate</text>
+<rect x="10" y="386" width="860" height="168" fill="#f3f3f3" stroke="#dddddd"/>
+<text x="22" y="475" font-weight="bold" fill="#555555">Advanced</text>
+<path d="M455.5,110.2 L358.1,155.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M534.5,110.2 L631.9,155.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M415.9,176.0 L598.4,176.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M603.0,190.7 L315.5,247.4" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M638.0,194.2 L540.6,239.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M690.7,194.2 L723.1,239.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M320.4,194.7 L321.0,196.5 L321.6,198.3 L322.3,200.1 L322.8,201.9 L323.4,203.7 L323.9,205.5 L324.5,207.3 L325.0,209.0 L325.4,210.8 L325.9,212.5 L326.3,214.2 L326.7,216.0 L327.1,217.7 L327.4,219.4 L327.7,221.1 L328.0,222.8 L328.3,224.5 L328.6,226.2 L328.8,227.8 L329.0,229.5 L329.2,231.1 L329.4,232.8 L329.5,234.4 L329.6,236.0 L329.7,237.7 L329.8,239.3 L329.8,240.9 L329.9,242.5 L329.9,244.0 L329.8,245.6 L329.8,247.2 L329.7,248.7 L329.6,250.3 L329.5,251.8 L329.4,253.4 L329.2,254.9 L329.0,256.4 L328.8,257.9 L328.5,259.4 L328.3,260.9 L328.0,262.4 L327.7,263.8 L327.4,265.3 L327.0,266.8 L326.6,268.2 L326.2,269.7 L325.8,271.1 L325.4,272.5 L324.9,273.9 L324.4,275.3 L323.9,276.7 L323.3,278.1 L322.8,279.5 L322.2,280.9 L321.6,282.2 L320.9,283.6 L320.3,284.9 L319.6,286.2 L318.9,287.6 L318.2,288.9 L317.4,290.2 L316.6,291.5 L315.8,292.8 L315.0,294.1 L314.1,295.4 L313.3,296.6 L312.4,297.9 L311.5,299.1 L310.5,300.4 L309.6,301.6 L308.6,302.8 L307.6,304.1 L306.5,305.3 L305.5,306.5 L304.4,307.7 L303.3,308.8 L302.1,310.0 L301.0,311.2 L299.8,312.3 L298.6,313.5 L297.4,314.6 L296.1,315.8 L294.9,316.9 L293.6,318.0 L292.3,319.1 L290.9,320.2 L289.5,321.3 L288.2,322.4" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M320.5,194.7 L321.5,196.7 L322.5,198.8 L323.4,200.7 L324.4,202.7 L325.4,204.7 L326.4,206.7 L327.4,208.6 L328.5,210.5 L329.5,212.5 L330.6,214.4 L331.6,216.3 L332.7,218.1 L333.8,220.0 L334.9,221.9 L336.0,223.7 L337.1,225.6 L338.2,227.4 L339.4,229.2 L340.5,231.0 L341.7,232.8 L342.9,234.6 L344.1,236.3 L345.3,238.1 L346.5,239.8 L347.7,241.5 L348.9,243.2 L350.2,244.9 L351.4,246.6 L352.7,248.3 L354.0,250.0 L355.3,251.6 L356.6,253.3 L357.9,254.9 L359.2,256.5 L360.5,258.1 L361.9,259.7 L363.2,261.3 L364.6,262.8 L366.0,264.4 L367.4,265.9 L368.8,267.5 L370.2,269.0 L371.6,270.5 L373.1,272.0 L374.5,273.5 L376.0,274.9 L377.4,276.4 L378.9,277.8 L380.4,279.2 L381.9,280.7 L383.4,282.1 L385.0,283.5 L386.5,284.8 L388.0,286.2 L389.6,287.6 L391.2,288.9 L392.8,290.3 L394.4,291.6 L396.0,292.9 L397.6,294.2 L399.2,295.5 L400.8,296.7 L402.5,298.0 L404.2,299.2 L405.8,300.5 L407.5,301.7 L409.2,302.9 L410.9,304.1 L412.6,305.3 L414.4,306.5 L416.1,307.6 L417.9,308.8 L419.6,309.9 L421.4,311.0 L423.2,312.1 L425.0,313.2" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M566.0,344.0 L649.1,344.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M547.7,278.2 L677.5,323.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M251.7,362.2 L251.7,407.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M468.6,278.2 L282.1,407.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M685.6,362.2 L555.8,407.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M699.7,278.2 L697.1,279.6 L694.6,281.0 L692.1,282.4 L689.7,283.8 L687.3,285.2 L685.0,286.6 L682.8,288.0 L680.6,289.4 L678.4,290.8 L676.4,292.2 L674.3,293.6 L672.4,295.0 L670.4,296.4 L668.6,297.8 L666.8,299.2 L665.0,300.6 L663.3,302.0 L661.7,303.4 L660.1,304.8 L658.6,306.2 L657.1,307.6 L655.7,309.0 L654.3,310.4 L653.0,311.8 L651.8,313.2 L650.6,314.6 L649.4,316.0 L648.4,317.4 L647.3,318.8 L646.4,320.2 L645.4,321.6 L644.6,323.0 L643.8,324.4 L643.0,325.8 L642.3,327.2 L641.7,328.6 L641.1,330.0 L640.6,331.4 L640.1,332.8 L639.7,334.2 L639.3,335.6 L639.0,337.0 L638.8,338.4 L638.6,339.8 L638.4,341.2 L638.4,342.6 L638.3,344.0 L638.4,345.4 L638.4,346.8 L638.6,348.2 L638.8,349.6 L639.0,351.0 L639.3,352.4 L639.7,353.8 L640.1,355.2 L640.6,356.6 L641.1,358.0 L641.7,359.4 L642.3,360.8 L643.0,362.2 L643.8,363.6 L644.6,365.0 L645.4,366.4 L646.4,367.8 L647.3,369.2 L648.4,370.6 L649.4,372.0 L650.6,373.4 L651.8,374.8 L653.0,376.2 L654.3,377.6 L655.7,379.0 L657.1,380.4 L658.6,381.8 L660.1,383.2 L661.7,384.6 L663.3,386.0 L665.0,387.4 L666.8,388.8 L668.6,390.2 L670.4,391.6 L672.4,393.0 L674.3,394.4 L676.4,395.8 L678.4,397.2 L680.6,398.6 L682.8,400.0 L685.0,401.4 L687.3,402.8 L689.7,404.2 L692.1,405.6 L694.6,407.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M455.5,446.2 L377.9,481.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M450.3,371.7 L448.6,372.9 L446.9,374.1 L445.1,375.3 L443.4,376.5 L441.8,377.7 L440.1,378.9 L438.4,380.2 L436.7,381.4 L435.0,382.6 L433.4,383.9 L431.7,385.1 L430.1,386.4 L428.4,387.6 L426.8,388.9 L425.1,390.2 L423.5,391.5 L421.9,392.8 L420.3,394.0 L418.6,395.3 L417.0,396.7 L415.4,398.0 L413.8,399.3 L412.2,400.6 L410.7,401.9 L409.1,403.3 L407.5,404.6 L405.9,406.0 L404.4,407.3 L402.8,408.7 L401.3,410.0 L399.7,411.4 L398.2,412.8 L396.6,414.2 L395.1,415.6 L393.6,417.0 L392.1,418.4 L390.6,419.8 L389.1,421.2 L387.6,422.6 L386.1,424.0 L384.6,425.5 L383.1,426.9 L381.6,428.4 L380.1,429.8 L378.7,431.3 L377.2,432.7 L375.7,434.2 L374.3,435.7 L372.9,437.2 L371.4,438.7 L370.0,440.1 L368.6,441.6 L367.1,443.2 L365.7,444.7 L364.3,446.2 L362.9,447.7 L361.5,449.2 L360.1,450.8 L358.7,452.3 L357.3,453.9 L356.0,455.4 L354.6,457.0 L353.2,458.6 L351.9,460.1 L350.5,461.7 L349.2,463.3 L347.8,464.9 L346.5,466.5 L345.1,468.1 L343.8,469.7 L342.5,471.3 L341.2,473.0 L339.9,474.6 L338.6,476.2 L337.3,477.9 L336.0,479.5 L334.7,481.2" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M725.2,446.2 L699.3,481.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M534.5,446.2 L612.1,481.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="388.0" y="75.0" width="214.0" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="495.0" y="97.0" text-anchor="middle" fill="#222222">Variables and Expressions</text>
+<rect x="213.1" y="159.0" width="198.8" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="312.5" y="181.0" text-anchor="middle" fill="#222222">Simplifying Expressions</text>
+<rect x="604.7" y="159.0" width="145.6" height="34.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="677.5" y="181.0" text-anchor="middle" fill="#222222">Linear Equations</text>
+<rect x="194.1" y="243.0" width="115.2" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="251.7" y="265.0" text-anchor="middle" fill="#222222">Inequalities</text>
+<rect x="407.0" y="243.0" width="176.0" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="495.0" y="265.0" text-anchor="middle" fill="#222222">Functions and Graphs</text>
+<rect x="650.3" y="243.0" width="176.0" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="738.3" y="265.0" text-anchor="middle" fill="#222222">Systems of Equations</text>
+<rect x="186.5" y="327.0" width="130.4" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="251.7" y="349.0" text-anchor="middle" fill="#222222">Exponent Rules</text>
+<rect x="426.0" y="318.0" width="138.0" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="495.0" y="340.0" text-anchor="middle" fill="#222222">Polynomials and</text>
+<text x="495.0" y="358.0" text-anchor="middle" fill="#222222">Factoring</text>
+<rect x="654.1" y="327.0" width="168.4" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="738.3" y="349.0" text-anchor="middle" fill="#222222">Quadratic Equations</text>
+<rect x="159.9" y="411.0" width="183.6" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="251.7" y="433.0" text-anchor="middle" fill="#222222">Exponentials and Logs</text>
+<rect x="426.0" y="411.0" width="138.0" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="495.0" y="433.0" text-anchor="middle" fill="#222222">Complex Numbers</text>
+<rect x="695.9" y="411.0" width="84.8" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="738.3" y="433.0" text-anchor="middle" fill="#222222">Matrices</text>
+<rect x="228.3" y="486.0" width="168.4" height="52.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="312.5" y="508.0" text-anchor="middle" fill="#222222">Fundamental Theorem</text>
+<text x="312.5" y="526.0" text-anchor="middle" fill="#222222">of Algebra</text>
+<rect x="593.3" y="486.0" width="168.4" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="677.5" y="508.0" text-anchor="middle" fill="#222222">Groups and</text>
+<text x="677.5" y="526.0" text-anchor="middle" fill="#222222">Abstract Structures</text>
+<text x="22" y="580" font-size="12" fill="#555555">Arrow A to B: learn A before B.</text>
+<rect x="630" y="568" width="16" height="14" rx="3" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="652" y="580" font-size="12" fill="#555555">milestone concept of the track</text>
+</svg>

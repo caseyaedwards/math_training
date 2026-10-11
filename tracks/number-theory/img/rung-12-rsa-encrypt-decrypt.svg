@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 300" width="740" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>RSA Encrypt and Decrypt: 65 to 2,790 and Back to 65</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="740" height="300" fill="#ffffff"/>
+<text x="370" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Encrypt with the public key, decrypt with the private key</text>
+<rect x="20" y="110" width="110" height="60" fill="#ffffff" stroke="#222222" stroke-width="1.6" rx="6"/>
+<text x="75" y="135" text-anchor="middle" fill="#222222" font-weight="bold">m = 65</text>
+<text x="75" y="155" text-anchor="middle" fill="#222222" font-size="13">message</text>
+<rect x="190" y="100" width="160" height="80" fill="#ffffff" stroke="#222222" stroke-width="1.6" rx="6"/>
+<text x="270" y="125" text-anchor="middle" fill="#222222" font-weight="bold">c = m^e mod n</text>
+<text x="270" y="145" text-anchor="middle" fill="#222222" font-size="13">65^17 mod 3,233</text>
+<text x="270" y="165" text-anchor="middle" fill="#222222" font-size="13">public (3,233, 17)</text>
+<rect x="410" y="110" width="100" height="60" fill="#ffffff" stroke="#222222" stroke-width="1.6" rx="6"/>
+<text x="460" y="135" text-anchor="middle" fill="#222222" font-weight="bold">c = 2,790</text>
+<text x="460" y="155" text-anchor="middle" fill="#222222" font-size="13">on the wire</text>
+<rect x="560" y="100" width="165" height="80" fill="#f6d5c4" stroke="#d9480f" stroke-width="2" rx="6"/>
+<text x="642.5" y="125" text-anchor="middle" fill="#d9480f" font-weight="bold">m = c^d mod n</text>
+<text x="642.5" y="145" text-anchor="middle" fill="#222222" font-size="13">2,790^2,753 mod 3,233</text>
+<text x="642.5" y="165" text-anchor="middle" fill="#222222" font-size="13">private d = 2,753</text>
+<line x1="132" y1="140" x2="186" y2="140" stroke="#555555" stroke-width="1.5" marker-end="url(#arrD)"/>
+<line x1="352" y1="140" x2="406" y2="140" stroke="#555555" stroke-width="1.5" marker-end="url(#arrD)"/>
+<line x1="512" y1="140" x2="556" y2="140" stroke="#555555" stroke-width="1.5" marker-end="url(#arrD)"/>
+<path d="M642,182 L642,240 L75,240 L75,174" fill="none" stroke="#d9480f" stroke-width="2" marker-end="url(#arrA)"/>
+<text x="360" y="232" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">out comes 65 again: (m^e)^d ≡ m (mod n) because ed ≡ 1 (mod φ(n))</text>
+<text x="270" y="80" text-anchor="middle" fill="#555555" font-size="13">sender</text>
+<text x="642" y="80" text-anchor="middle" fill="#555555" font-size="13">receiver</text>
+<text x="370" y="284" text-anchor="middle" fill="#222222" font-size="13">Anyone can lock. Only the holder of d can unlock.</text>
+</svg>

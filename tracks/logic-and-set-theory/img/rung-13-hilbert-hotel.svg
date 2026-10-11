@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 340" width="740" height="340" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Hilbert's Hotel: Shifting Guests to Free Rooms</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="740" height="340" fill="#ffffff"/>
+<text x="370" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Hilbert's Hotel: every room is full, and there is still space</text>
+<text x="40" y="58" text-anchor="start" fill="#222222" font-weight="bold">One new guest: move room n to room n + 1</text>
+<rect x="40" y="100" width="62" height="40" fill="#ffffff" stroke="#d9480f" stroke-width="1.5"/>
+<text x="71" y="125" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">1</text>
+<rect x="110" y="100" width="62" height="40" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="141" y="125" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">2</text>
+<rect x="180" y="100" width="62" height="40" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="211" y="125" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">3</text>
+<rect x="250" y="100" width="62" height="40" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="281" y="125" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">4</text>
+<rect x="320" y="100" width="62" height="40" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="351" y="125" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">5</text>
+<rect x="390" y="100" width="62" height="40" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="421" y="125" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">6</text>
+<rect x="460" y="100" width="62" height="40" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="491" y="125" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">7</text>
+<rect x="530" y="100" width="62" height="40" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="561" y="125" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">8</text>
+<rect x="600" y="100" width="62" height="40" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="631" y="125" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">9</text>
+<path d="M77.0,100 Q106.0,76 135.0,100" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrD)"/>
+<path d="M147.0,100 Q176.0,76 205.0,100" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrD)"/>
+<path d="M217.0,100 Q246.0,76 275.0,100" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrD)"/>
+<path d="M287.0,100 Q316.0,76 345.0,100" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrD)"/>
+<path d="M357.0,100 Q386.0,76 415.0,100" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrD)"/>
+<path d="M427.0,100 Q456.0,76 485.0,100" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrD)"/>
+<path d="M497.0,100 Q526.0,76 555.0,100" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrD)"/>
+<path d="M567.0,100 Q596.0,76 625.0,100" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrD)"/>
+<text x="71" y="160" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">new guest</text>
+<text x="674" y="125" text-anchor="start" fill="#222222" font-size="16">…</text>
+<text x="40" y="200" text-anchor="start" fill="#222222" font-weight="bold">Infinitely many new guests: move room n to room 2n</text>
+<rect x="40" y="240" width="62" height="40" fill="#ffffff" stroke="#d9480f" stroke-width="1.5"/>
+<text x="71" y="265" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">1</text>
+<rect x="110" y="240" width="62" height="40" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="141" y="265" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">2</text>
+<rect x="180" y="240" width="62" height="40" fill="#ffffff" stroke="#d9480f" stroke-width="1.5"/>
+<text x="211" y="265" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">3</text>
+<rect x="250" y="240" width="62" height="40" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="281" y="265" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">4</text>
+<rect x="320" y="240" width="62" height="40" fill="#ffffff" stroke="#d9480f" stroke-width="1.5"/>
+<text x="351" y="265" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">5</text>
+<rect x="390" y="240" width="62" height="40" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="421" y="265" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">6</text>
+<rect x="460" y="240" width="62" height="40" fill="#ffffff" stroke="#d9480f" stroke-width="1.5"/>
+<text x="491" y="265" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">7</text>
+<rect x="530" y="240" width="62" height="40" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="561" y="265" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">8</text>
+<rect x="600" y="240" width="62" height="40" fill="#ffffff" stroke="#d9480f" stroke-width="1.5"/>
+<text x="631" y="265" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">9</text>
+<path d="M71.0,240 Q106.0,210 141.0,240" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrD)"/>
+<path d="M141.0,240 Q211.0,198 281.0,240" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrD)"/>
+<path d="M211.0,240 Q316.0,186 421.0,240" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrD)"/>
+<path d="M281.0,240 Q421.0,174 561.0,240" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrD)"/>
+<text x="674" y="265" text-anchor="start" fill="#222222" font-size="16">…</text>
+<text x="370" y="310" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">Odd rooms 1, 3, 5, 7, 9, … open up for the new guests.</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" width="720" height="440" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Venn Diagram: Sets and Logic Are the Same Picture</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="720" height="440" fill="#ffffff"/>
+<text x="360.0" y="28" text-anchor="middle" font-size="17" font-weight="bold" fill="#222222">Venn Diagram: Sets and Logic Are the Same Picture</text>
+<defs><clipPath id="clipA"><circle cx="280" cy="225" r="130"/></clipPath></defs>
+<rect x="40" y="60" width="640" height="330" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<circle cx="420" cy="225" r="130" fill="#d9480f" fill-opacity="0.28" clip-path="url(#clipA)"/>
+<circle cx="280" cy="225" r="130" fill="none" stroke="#222222" stroke-width="2"/>
+<circle cx="420" cy="225" r="130" fill="none" stroke="#222222" stroke-width="2"/>
+<text x="54.0" y="84.0" text-anchor="start" fill="#222222" font-weight="bold">U (everything)</text>
+<text x="185.0" y="125.0" text-anchor="middle" fill="#222222" font-weight="bold" font-size="20">A</text>
+<text x="515.0" y="125.0" text-anchor="middle" fill="#222222" font-weight="bold" font-size="20">B</text>
+<text x="220.0" y="221.0" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">A AND NOT B</text>
+<text x="220.0" y="241.0" text-anchor="middle" fill="#555555" font-size="13">A ∖ B</text>
+<text x="350.0" y="221.0" text-anchor="middle" fill="#d9480f" font-weight="bold" font-size="13">A AND B</text>
+<text x="350.0" y="241.0" text-anchor="middle" fill="#d9480f" font-size="13">A ∩ B</text>
+<text x="480.0" y="221.0" text-anchor="middle" fill="#222222" font-weight="bold" font-size="13">B AND NOT A</text>
+<text x="480.0" y="241.0" text-anchor="middle" fill="#555555" font-size="13">B ∖ A</text>
+<text x="666.0" y="358.0" text-anchor="end" fill="#222222" font-weight="bold" font-size="13">NOT (A OR B)</text>
+<text x="666.0" y="378.0" text-anchor="end" fill="#555555" font-size="13">(A ∪ B)ᶜ</text>
+<text x="360.0" y="422.0" text-anchor="middle" fill="#555555" font-size="13">Example: A = hosts with high CPU, B = hosts with high memory. Shaded: hosts with both.</text>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 594" width="880" height="594" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Geometry: Concept Map</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker></defs>
+<rect x="0" y="0" width="880" height="594" fill="#ffffff"/>
+<text x="440.0" y="28" text-anchor="middle" font-size="17" font-weight="bold" fill="#222222">Geometry: Concept Map</text>
+<rect x="10" y="50" width="860" height="168" fill="#f3f3f3" stroke="#dddddd"/>
+<text x="22" y="139" font-weight="bold" fill="#555555">Beginner</text>
+<rect x="10" y="218" width="860" height="168" fill="#ffffff" stroke="#dddddd"/>
+<text x="22" y="307" font-weight="bold" fill="#555555">Intermediate</text>
+<rect x="10" y="386" width="860" height="168" fill="#f3f3f3" stroke="#dddddd"/>
+<text x="22" y="475" font-weight="bold" fill="#555555">Advanced</text>
+<path d="M455.5,110.2 L358.1,155.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M534.5,110.2 L631.9,155.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M312.5,194.2 L312.5,239.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M610.6,191.4 L397.7,240.4" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M391.6,194.2 L586.2,239.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M299.3,278.2 L266.9,323.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M585.2,278.2 L340.4,326.5" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M352.0,278.2 L432.6,315.3" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M690.7,278.2 L723.1,323.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M251.7,362.2 L251.7,407.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M665.3,356.6 L340.9,412.6" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M664.2,279.1 L662.9,280.8 L661.7,282.5 L660.4,284.1 L659.1,285.8 L657.9,287.5 L656.6,289.2 L655.3,290.8 L654.0,292.5 L652.7,294.1 L651.4,295.8 L650.1,297.4 L648.8,299.0 L647.5,300.7 L646.2,302.3 L644.9,303.9 L643.5,305.5 L642.2,307.1 L640.8,308.7 L639.5,310.3 L638.1,311.9 L636.8,313.4 L635.4,315.0 L634.0,316.6 L632.7,318.1 L631.3,319.7 L629.9,321.2 L628.5,322.8 L627.1,324.3 L625.7,325.8 L624.3,327.3 L622.9,328.8 L621.4,330.4 L620.0,331.9 L618.6,333.3 L617.1,334.8 L615.7,336.3 L614.3,337.8 L612.8,339.3 L611.3,340.7 L609.9,342.2 L608.4,343.6 L606.9,345.1 L605.4,346.5 L603.9,348.0 L602.4,349.4 L600.9,350.8 L599.4,352.2 L597.9,353.6 L596.4,355.0 L594.9,356.4 L593.4,357.8 L591.8,359.2 L590.3,360.6 L588.7,362.0 L587.2,363.3 L585.6,364.7 L584.1,366.0 L582.5,367.4 L580.9,368.7 L579.3,370.1 L577.8,371.4 L576.2,372.7 L574.6,374.0 L573.0,375.3 L571.4,376.7 L569.7,378.0 L568.1,379.2 L566.5,380.5 L564.9,381.8 L563.2,383.1 L561.6,384.4 L559.9,385.6 L558.3,386.9 L556.6,388.1 L555.0,389.4 L553.3,390.6 L551.6,391.8 L549.9,393.1 L548.2,394.3 L546.6,395.5 L544.9,396.7 L543.1,397.9 L541.4,399.1 L539.7,400.3 L538.0,401.5 L536.3,402.6 L534.5,403.8 L532.8,405.0 L531.1,406.1" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M340.9,446.0 L344.9,446.6 L349.0,447.2 L353.1,447.8 L357.1,448.4 L361.2,448.9 L365.2,449.5 L369.3,450.0 L373.3,450.5 L377.4,451.0 L381.4,451.5 L385.5,451.9 L389.6,452.4 L393.6,452.8 L397.7,453.2 L401.7,453.6 L405.8,454.0 L409.8,454.3 L413.9,454.7 L417.9,455.0 L422.0,455.3 L426.1,455.6 L430.1,455.9 L434.2,456.1 L438.2,456.4 L442.3,456.6 L446.3,456.8 L450.4,457.0 L454.4,457.2 L458.5,457.3 L462.6,457.5 L466.6,457.6 L470.7,457.7 L474.7,457.8 L478.8,457.9 L482.8,457.9 L486.9,458.0 L490.9,458.0 L495.0,458.0 L499.1,458.0 L503.1,458.0 L507.2,457.9 L511.2,457.9 L515.3,457.8 L519.3,457.7 L523.4,457.6 L527.4,457.5 L531.5,457.3 L535.6,457.2 L539.6,457.0 L543.7,456.8 L547.7,456.6 L551.8,456.4 L555.8,456.1 L559.9,455.9 L563.9,455.6 L568.0,455.3 L572.1,455.0 L576.1,454.7 L580.2,454.3 L584.2,454.0 L588.3,453.6 L592.3,453.2 L596.4,452.8 L600.4,452.4 L604.5,451.9 L608.6,451.5 L612.6,451.0 L616.7,450.5 L620.7,450.0 L624.8,449.5 L628.8,448.9 L632.9,448.4 L636.9,447.8 L641.0,447.2 L645.1,446.6 L649.1,446.0 L653.2,445.3 L657.2,444.7 L661.3,444.0 L665.3,443.3" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M539.4,446.2 L648.8,491.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M283.2,362.4 L285.0,363.5 L286.8,364.6 L288.6,365.8 L290.4,366.9 L292.2,368.1 L294.0,369.3 L295.7,370.4 L297.5,371.6 L299.3,372.8 L301.0,374.0 L302.8,375.2 L304.5,376.4 L306.2,377.6 L308.0,378.8 L309.7,380.0 L311.4,381.3 L313.1,382.5 L314.8,383.7 L316.6,385.0 L318.3,386.3 L319.9,387.5 L321.6,388.8 L323.3,390.1 L325.0,391.3 L326.7,392.6 L328.3,393.9 L330.0,395.2 L331.7,396.5 L333.3,397.8 L334.9,399.1 L336.6,400.5 L338.2,401.8 L339.8,403.1 L341.5,404.5 L343.1,405.8 L344.7,407.2 L346.3,408.5 L347.9,409.9 L349.5,411.3 L351.1,412.6 L352.7,414.0 L354.2,415.4 L355.8,416.8 L357.4,418.2 L358.9,419.6 L360.5,421.0 L362.1,422.5 L363.6,423.9 L365.1,425.3 L366.7,426.8 L368.2,428.2 L369.7,429.7 L371.2,431.1 L372.7,432.6 L374.3,434.1 L375.8,435.5 L377.2,437.0 L378.7,438.5 L380.2,440.0 L381.7,441.5 L383.2,443.0 L384.6,444.5 L386.1,446.1 L387.6,447.6 L389.0,449.1 L390.4,450.7 L391.9,452.2 L393.3,453.7 L394.7,455.3 L396.2,456.9 L397.6,458.4 L399.0,460.0 L400.4,461.6 L401.8,463.2 L403.2,464.8 L404.6,466.4 L406.0,468.0 L407.4,469.6 L408.7,471.2 L410.1,472.9 L411.5,474.5 L412.8,476.1 L414.2,477.8 L415.5,479.4 L416.8,481.1" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M292.5,446.2 L377.2,484.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="391.8" y="75.0" width="206.4" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="495.0" y="97.0" text-anchor="middle" fill="#222222">Points, Lines and Angles</text>
+<rect x="216.9" y="159.0" width="191.2" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="312.5" y="181.0" text-anchor="middle" fill="#222222">Triangles and Polygons</text>
+<rect x="612.3" y="159.0" width="130.4" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="677.5" y="181.0" text-anchor="middle" fill="#222222">Circles and Pi</text>
+<rect x="232.1" y="243.0" width="160.8" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="312.5" y="265.0" text-anchor="middle" fill="#222222">Perimeter and Area</text>
+<rect x="570.5" y="243.0" width="214.0" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="677.5" y="265.0" text-anchor="middle" fill="#222222">Congruence and Similarity</text>
+<rect x="167.5" y="327.0" width="168.4" height="34.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="251.7" y="349.0" text-anchor="middle" fill="#222222">Pythagorean Theorem</text>
+<rect x="437.4" y="318.0" width="115.2" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="495.0" y="340.0" text-anchor="middle" fill="#222222">Volume and</text>
+<text x="495.0" y="358.0" text-anchor="middle" fill="#222222">Surface Area</text>
+<rect x="669.3" y="327.0" width="138.0" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="738.3" y="349.0" text-anchor="middle" fill="#222222">Transformations</text>
+<rect x="167.5" y="411.0" width="168.4" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="251.7" y="433.0" text-anchor="middle" fill="#222222">Coordinate Geometry</text>
+<rect x="422.2" y="411.0" width="145.6" height="34.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="495.0" y="433.0" text-anchor="middle" fill="#222222">Axioms and Proof</text>
+<rect x="673.1" y="411.0" width="130.4" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="738.3" y="433.0" text-anchor="middle" fill="#222222">Conic Sections</text>
+<rect x="382.4" y="486.0" width="115.2" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="440.0" y="508.0" text-anchor="middle" fill="#222222">Trigonometry</text>
+<text x="440.0" y="526.0" text-anchor="middle" fill="#222222">(next track)</text>
+<rect x="604.4" y="495.0" width="191.2" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="700.0" y="517.0" text-anchor="middle" fill="#222222">Non-Euclidean Geometry</text>
+<text x="22" y="580" font-size="12" fill="#555555">Arrow A to B: learn A before B.</text>
+<rect x="630" y="568" width="16" height="14" rx="3" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="652" y="580" font-size="12" fill="#555555">milestone concept of the track</text>
+</svg>

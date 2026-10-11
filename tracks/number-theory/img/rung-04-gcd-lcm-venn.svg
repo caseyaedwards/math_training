@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 400" width="620" height="400" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>GCD and LCM of 6 and 10 as a Venn Diagram of Prime Factors</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><clipPath id="clip1"><circle cx="235" cy="200" r="105"/></clipPath></defs>
+<rect x="0" y="0" width="620" height="400" fill="#ffffff"/>
+<text x="310" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Prime factors of 6 and 10: overlap = gcd, everything = lcm</text>
+<circle cx="385" cy="200" r="105" fill="#d9480f" stroke="none" stroke-width="0" fill-opacity="0.28" clip-path="url(#clip1)"/>
+<circle cx="235" cy="200" r="105" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="385" cy="200" r="105" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="195" y="78" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">6 = 2 × 3</text>
+<text x="425" y="78" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">10 = 2 × 5</text>
+<text x="180" y="207" text-anchor="middle" fill="#222222" font-size="22" font-weight="bold">3</text>
+<text x="310" y="207" text-anchor="middle" fill="#d9480f" font-size="22" font-weight="bold">2</text>
+<text x="440" y="207" text-anchor="middle" fill="#222222" font-size="22" font-weight="bold">5</text>
+<text x="310" y="232" text-anchor="middle" fill="#d9480f" font-size="13">shared</text>
+<text x="310" y="336" text-anchor="middle" fill="#d9480f" font-weight="bold">gcd(6, 10) = overlap = 2</text>
+<text x="310" y="360" text-anchor="middle" fill="#222222" font-weight="bold">lcm(6, 10) = everything = 2 × 3 × 5 = 30</text>
+<text x="310" y="384" text-anchor="middle" fill="#555555" font-size="13">gcd × lcm = 2 × 30 = 60 = 6 × 10</text>
+</svg>

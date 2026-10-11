@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 330" width="620" height="330" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>If p Then q as One Region Inside Another</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="620" height="330" fill="#ffffff"/>
+<text x="310" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">p → q as a picture: every p-world sits inside the q-region</text>
+<rect x="30" y="50" width="560" height="240" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<ellipse cx="330" cy="170" rx="240" ry="105" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<ellipse cx="250" cy="175" rx="115" ry="62" fill="#f6d5c4" stroke="#d9480f" stroke-width="2"/>
+<text x="420" y="125" text-anchor="middle" fill="#222222" font-weight="bold">q: error rate rose</text>
+<text x="250" y="168" text-anchor="middle" fill="#d9480f" font-weight="bold">p: deploy</text>
+<text x="250" y="188" text-anchor="middle" fill="#d9480f" font-weight="bold">broke prod</text>
+<circle cx="440" cy="160" r="7" fill="#222222" stroke="none" stroke-width="0"/>
+<text x="440" y="184" text-anchor="middle" fill="#222222" font-size="12">q without p:</text>
+<text x="440" y="200" text-anchor="middle" fill="#222222" font-size="12">a healthy deploy</text>
+<text x="440" y="216" text-anchor="middle" fill="#222222" font-size="12">during an outage</text>
+<text x="45" y="280" text-anchor="start" fill="#555555" font-size="12">outside both: p and q false</text>
+<text x="310" y="315" text-anchor="middle" fill="#222222" font-size="13">No point is in p but outside q. That empty zone is the false cell p = T, q = F.</text>
+</svg>

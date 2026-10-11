@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Place value of 3,047</title>
+<defs><marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="600" height="300" fill="#ffffff"/>
+<text x="300.0" y="28.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">3,047 in place-value columns</text>
+<rect x="60.0" y="48.0" width="120.0" height="32.0" fill="#f1f1f1" stroke="#222222" stroke-width="1.5"/>
+<text x="120.0" y="69.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">Thousands</text>
+<rect x="60.0" y="80.0" width="120.0" height="26.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="120.0" y="98.0" text-anchor="middle" font-size="13" fill="#555555">worth 1000</text>
+<rect x="60.0" y="106.0" width="120.0" height="70.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="120.0" y="156.0" text-anchor="middle" font-size="40" fill="#222222" font-weight="bold">3</text>
+<text x="120.0" y="202.0" text-anchor="middle" font-size="14" fill="#222222">3 × 1000</text>
+<text x="120.0" y="224.0" text-anchor="middle" font-size="14" fill="#222222">= 3,000</text>
+<rect x="180.0" y="48.0" width="120.0" height="32.0" fill="#f1f1f1" stroke="#222222" stroke-width="1.5"/>
+<text x="240.0" y="69.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">Hundreds</text>
+<rect x="180.0" y="80.0" width="120.0" height="26.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="240.0" y="98.0" text-anchor="middle" font-size="13" fill="#555555">worth 100</text>
+<rect x="180.0" y="106.0" width="120.0" height="70.0" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="240.0" y="156.0" text-anchor="middle" font-size="40" fill="#d9480f" font-weight="bold">0</text>
+<text x="240.0" y="202.0" text-anchor="middle" font-size="14" fill="#222222">0 × 100</text>
+<text x="240.0" y="224.0" text-anchor="middle" font-size="14" fill="#222222">= 0</text>
+<rect x="300.0" y="48.0" width="120.0" height="32.0" fill="#f1f1f1" stroke="#222222" stroke-width="1.5"/>
+<text x="360.0" y="69.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">Tens</text>
+<rect x="300.0" y="80.0" width="120.0" height="26.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="360.0" y="98.0" text-anchor="middle" font-size="13" fill="#555555">worth 10</text>
+<rect x="300.0" y="106.0" width="120.0" height="70.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="360.0" y="156.0" text-anchor="middle" font-size="40" fill="#222222" font-weight="bold">4</text>
+<text x="360.0" y="202.0" text-anchor="middle" font-size="14" fill="#222222">4 × 10</text>
+<text x="360.0" y="224.0" text-anchor="middle" font-size="14" fill="#222222">= 40</text>
+<rect x="420.0" y="48.0" width="120.0" height="32.0" fill="#f1f1f1" stroke="#222222" stroke-width="1.5"/>
+<text x="480.0" y="69.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">Ones</text>
+<rect x="420.0" y="80.0" width="120.0" height="26.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="480.0" y="98.0" text-anchor="middle" font-size="13" fill="#555555">worth 1</text>
+<rect x="420.0" y="106.0" width="120.0" height="70.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="480.0" y="156.0" text-anchor="middle" font-size="40" fill="#222222" font-weight="bold">7</text>
+<text x="480.0" y="202.0" text-anchor="middle" font-size="14" fill="#222222">7 × 1</text>
+<text x="480.0" y="224.0" text-anchor="middle" font-size="14" fill="#222222">= 7</text>
+<text x="300.0" y="262.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">3,000 + 0 + 40 + 7 = 3,047</text>
+<text x="300.0" y="286.0" text-anchor="middle" font-size="13" fill="#555555">The orange 0 holds the hundreds column open.</text>
+</svg>

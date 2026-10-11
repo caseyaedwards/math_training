@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 350" width="720" height="350" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Amounts Measurable with a 9-Liter and a 6-Liter Jug</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="720" height="350" fill="#ffffff"/>
+<text x="360" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">With 9-liter and 6-liter jugs, only multiples of gcd(9, 6) = 3 appear</text>
+<line x1="30" y1="110" x2="696" y2="110" stroke="#222222" stroke-width="1.5"/>
+<line x1="40" y1="105" x2="40" y2="115" stroke="#222222" stroke-width="1.2"/>
+<text x="40" y="131" text-anchor="middle" fill="#222222" font-size="13">0</text>
+<line x1="74" y1="105" x2="74" y2="115" stroke="#222222" stroke-width="1.2"/>
+<text x="74" y="131" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<line x1="108" y1="105" x2="108" y2="115" stroke="#222222" stroke-width="1.2"/>
+<text x="108" y="131" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<line x1="142" y1="105" x2="142" y2="115" stroke="#222222" stroke-width="1.2"/>
+<text x="142" y="131" text-anchor="middle" fill="#222222" font-size="13">3</text>
+<line x1="176" y1="105" x2="176" y2="115" stroke="#222222" stroke-width="1.2"/>
+<text x="176" y="131" text-anchor="middle" fill="#222222" font-size="13">4</text>
+<line x1="210" y1="105" x2="210" y2="115" stroke="#222222" stroke-width="1.2"/>
+<text x="210" y="131" text-anchor="middle" fill="#222222" font-size="13">5</text>
+<line x1="244" y1="105" x2="244" y2="115" stroke="#222222" stroke-width="1.2"/>
+<text x="244" y="131" text-anchor="middle" fill="#222222" font-size="13">6</text>
+<line x1="278" y1="105" x2="278" y2="115" stroke="#222222" stroke-width="1.2"/>
+<text x="278" y="131" text-anchor="middle" fill="#222222" font-size="13">7</text>
+<line x1="312" y1="105" x2="312" y2="115" stroke="#222222" stroke-width="1.2"/>
+<text x="312" y="131" text-anchor="middle" fill="#222222" font-size="13">8</text>
+<line x1="346" y1="105" x2="346" y2="115" stroke="#222222" stroke-width="1.2"/>
+<text x="346" y="131" text-anchor="middle" fill="#222222" font-size="13">9</text>
+<line x1="380" y1="105" x2="380" y2="115" stroke="#222222" stroke-width="1.2"/>
+<text x="380" y="131" text-anchor="middle" fill="#222222" font-size="13">10</text>
+<line x1="414" y1="105" x2="414" y2="115" stroke="#222222" stroke-width="1.2"/>
+<text x="414" y="131" text-anchor="middle" fill="#222222" font-size="13">11</text>
+<line x1="448" y1="105" x2="448" y2="115" stroke="#222222" stroke-width="1.2"/>
+<text x="448" y="131" text-anchor="middle" fill="#222222" font-size="13">12</text>
+<line x1="482" y1="105" x2="482" y2="115" stroke="#222222" stroke-width="1.2"/>
+<text x="482" y="131" text-anchor="middle" fill="#222222" font-size="13">13</text>
+<line x1="516" y1="105" x2="516" y2="115" stroke="#222222" stroke-width="1.2"/>
+<text x="516" y="131" text-anchor="middle" fill="#222222" font-size="13">14</text>
+<line x1="550" y1="105" x2="550" y2="115" stroke="#222222" stroke-width="1.2"/>
+<text x="550" y="131" text-anchor="middle" fill="#222222" font-size="13">15</text>
+<line x1="584" y1="105" x2="584" y2="115" stroke="#222222" stroke-width="1.2"/>
+<text x="584" y="131" text-anchor="middle" fill="#222222" font-size="13">16</text>
+<line x1="618" y1="105" x2="618" y2="115" stroke="#222222" stroke-width="1.2"/>
+<text x="618" y="131" text-anchor="middle" fill="#222222" font-size="13">17</text>
+<line x1="652" y1="105" x2="652" y2="115" stroke="#222222" stroke-width="1.2"/>
+<text x="652" y="131" text-anchor="middle" fill="#222222" font-size="13">18</text>
+<line x1="686" y1="105" x2="686" y2="115" stroke="#222222" stroke-width="1.2"/>
+<text x="686" y="131" text-anchor="middle" fill="#222222" font-size="13">19</text>
+<circle cx="40" cy="110" r="9" fill="#d9480f" stroke="none" stroke-width="0"/>
+<circle cx="142" cy="110" r="9" fill="#d9480f" stroke="none" stroke-width="0"/>
+<circle cx="244" cy="110" r="9" fill="#d9480f" stroke="none" stroke-width="0"/>
+<circle cx="346" cy="110" r="9" fill="#d9480f" stroke="none" stroke-width="0"/>
+<circle cx="448" cy="110" r="9" fill="#d9480f" stroke="none" stroke-width="0"/>
+<circle cx="550" cy="110" r="9" fill="#d9480f" stroke="none" stroke-width="0"/>
+<circle cx="652" cy="110" r="9" fill="#d9480f" stroke="none" stroke-width="0"/>
+<circle cx="176" cy="110" r="10" fill="none" stroke="#222222" stroke-width="1.5"/>
+<line x1="169" y1="103" x2="183" y2="117" stroke="#222222" stroke-width="2"/>
+<line x1="169" y1="117" x2="183" y2="103" stroke="#222222" stroke-width="2"/>
+<text x="176" y="70" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">4: not reachable</text>
+<line x1="176" y1="76" x2="176" y2="96" stroke="#222222" stroke-width="1"/>
+<text x="40" y="156" text-anchor="start" fill="#d9480f" font-size="13">orange: 0, 3, 6, 9, 12, 15, 18, the amounts 9x + 6y</text>
+<text x="40" y="190" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">How 3 appears: fill 9, then pour out 6</text>
+<line x1="30" y1="250" x2="696" y2="250" stroke="#222222" stroke-width="1.5"/>
+<line x1="40" y1="245" x2="40" y2="255" stroke="#222222" stroke-width="1.2"/>
+<text x="40" y="271" text-anchor="middle" fill="#222222" font-size="13">0</text>
+<line x1="74" y1="245" x2="74" y2="255" stroke="#222222" stroke-width="1.2"/>
+<text x="74" y="271" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<line x1="108" y1="245" x2="108" y2="255" stroke="#222222" stroke-width="1.2"/>
+<text x="108" y="271" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<line x1="142" y1="245" x2="142" y2="255" stroke="#222222" stroke-width="1.2"/>
+<text x="142" y="271" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">3</text>
+<line x1="176" y1="245" x2="176" y2="255" stroke="#222222" stroke-width="1.2"/>
+<text x="176" y="271" text-anchor="middle" fill="#222222" font-size="13">4</text>
+<line x1="210" y1="245" x2="210" y2="255" stroke="#222222" stroke-width="1.2"/>
+<text x="210" y="271" text-anchor="middle" fill="#222222" font-size="13">5</text>
+<line x1="244" y1="245" x2="244" y2="255" stroke="#222222" stroke-width="1.2"/>
+<text x="244" y="271" text-anchor="middle" fill="#222222" font-size="13">6</text>
+<line x1="278" y1="245" x2="278" y2="255" stroke="#222222" stroke-width="1.2"/>
+<text x="278" y="271" text-anchor="middle" fill="#222222" font-size="13">7</text>
+<line x1="312" y1="245" x2="312" y2="255" stroke="#222222" stroke-width="1.2"/>
+<text x="312" y="271" text-anchor="middle" fill="#222222" font-size="13">8</text>
+<line x1="346" y1="245" x2="346" y2="255" stroke="#222222" stroke-width="1.2"/>
+<text x="346" y="271" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">9</text>
+<line x1="380" y1="245" x2="380" y2="255" stroke="#222222" stroke-width="1.2"/>
+<text x="380" y="271" text-anchor="middle" fill="#222222" font-size="13">10</text>
+<line x1="414" y1="245" x2="414" y2="255" stroke="#222222" stroke-width="1.2"/>
+<text x="414" y="271" text-anchor="middle" fill="#222222" font-size="13">11</text>
+<line x1="448" y1="245" x2="448" y2="255" stroke="#222222" stroke-width="1.2"/>
+<text x="448" y="271" text-anchor="middle" fill="#222222" font-size="13">12</text>
+<line x1="482" y1="245" x2="482" y2="255" stroke="#222222" stroke-width="1.2"/>
+<text x="482" y="271" text-anchor="middle" fill="#222222" font-size="13">13</text>
+<line x1="516" y1="245" x2="516" y2="255" stroke="#222222" stroke-width="1.2"/>
+<text x="516" y="271" text-anchor="middle" fill="#222222" font-size="13">14</text>
+<line x1="550" y1="245" x2="550" y2="255" stroke="#222222" stroke-width="1.2"/>
+<text x="550" y="271" text-anchor="middle" fill="#222222" font-size="13">15</text>
+<line x1="584" y1="245" x2="584" y2="255" stroke="#222222" stroke-width="1.2"/>
+<text x="584" y="271" text-anchor="middle" fill="#222222" font-size="13">16</text>
+<line x1="618" y1="245" x2="618" y2="255" stroke="#222222" stroke-width="1.2"/>
+<text x="618" y="271" text-anchor="middle" fill="#222222" font-size="13">17</text>
+<line x1="652" y1="245" x2="652" y2="255" stroke="#222222" stroke-width="1.2"/>
+<text x="652" y="271" text-anchor="middle" fill="#222222" font-size="13">18</text>
+<line x1="686" y1="245" x2="686" y2="255" stroke="#222222" stroke-width="1.2"/>
+<text x="686" y="271" text-anchor="middle" fill="#222222" font-size="13">19</text>
+<path d="M40.0,242 Q193.0,198.0 346.0,242" fill="none" stroke="#d9480f" stroke-width="1.8" marker-end="url(#arrA)"/>
+<text x="193" y="214" text-anchor="middle" fill="#d9480f" font-size="12">+9</text>
+<path d="M346.0,278 Q244.0,308 142.0,278" fill="none" stroke="#555555" stroke-width="1.8" marker-end="url(#arrD)"/>
+<text x="244" y="312" text-anchor="middle" fill="#555555" font-size="12">−6</text>
+<text x="482" y="312" text-anchor="middle" fill="#222222" font-weight="bold">9 × 1 + 6 × (−1) = 3</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" width="640" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Opposite, adjacent and hypotenuse in a 3-4-5 triangle</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="arrowD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker></defs>
+<rect x="0" y="0" width="640" height="300" fill="#ffffff"/>
+<path d="M70.0,250.0 L270.0,250.0 L270.0,100.0 Z" stroke="#222222" stroke-width="2" fill="#f6d5c4" stroke-linejoin="round"/>
+<line x1="270.0" y1="250.0" x2="270.0" y2="100.0" stroke="#d9480f" stroke-width="4"/>
+<path d="M256.0,250.0 L256.0,236.0 L270.0,236.0" stroke="#222222" stroke-width="1.2" fill="none" stroke-linejoin="round"/>
+<path d="M110.0,250.0 A40.0,40.0 0 0 0 102.0,226.0" stroke="#222222" stroke-width="1.5" fill="none" stroke-linejoin="round"/>
+<text x="121.2" y="237.9" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">θ</text>
+<text x="170.0" y="274.0" text-anchor="middle" fill="#222222">adjacent = 4</text>
+<text x="280.0" y="180.0" text-anchor="start" fill="#d9480f" font-weight="bold">opposite = 3</text>
+<text x="156.0" y="163.0" text-anchor="end" fill="#222222">hypotenuse = 5</text>
+<text x="400.0" y="70.0" text-anchor="start" fill="#222222" font-weight="bold">Seen from angle θ:</text>
+<text x="400.0" y="105.0" text-anchor="start" fill="#d9480f" font-weight="bold">SOH</text>
+<text x="446.0" y="105.0" text-anchor="start" fill="#222222">sin θ = O / H = 3/5 = 0.6</text>
+<text x="400.0" y="135.0" text-anchor="start" fill="#d9480f" font-weight="bold">CAH</text>
+<text x="446.0" y="135.0" text-anchor="start" fill="#222222">cos θ = A / H = 4/5 = 0.8</text>
+<text x="400.0" y="165.0" text-anchor="start" fill="#d9480f" font-weight="bold">TOA</text>
+<text x="446.0" y="165.0" text-anchor="start" fill="#222222">tan θ = O / A = 3/4 = 0.75</text>
+<text x="400.0" y="205.0" text-anchor="start" fill="#d9480f" font-weight="bold">θ ≈ 36.87°</text>
+<text x="400.0" y="235.0" text-anchor="start" fill="#555555" font-size="13">The hypotenuse sits across</text>
+<text x="400.0" y="253.0" text-anchor="start" fill="#555555" font-size="13">from the right angle.</text>
+</svg>

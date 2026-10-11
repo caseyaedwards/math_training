@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 260" width="700" height="260" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Switches in Series Act as AND, Switches in Parallel Act as OR</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="700" height="260" fill="#ffffff"/>
+<text x="350" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Switch circuits: series is AND, parallel is OR</text>
+<text x="170" y="70" text-anchor="middle" fill="#222222" font-weight="bold">Series: p AND q</text>
+<polyline points="40,120 80,120" fill="none" stroke="#222222" stroke-width="1.6"/>
+<circle cx="80" cy="120" r="3" fill="#222222" stroke="none" stroke-width="0"/>
+<circle cx="120" cy="120" r="3" fill="#222222" stroke="none" stroke-width="0"/>
+<line x1="80" y1="120" x2="116" y2="104" stroke="#222222" stroke-width="2"/>
+<text x="100" y="98" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold" font-style="italic">p</text>
+<polyline points="120,120 170,120" fill="none" stroke="#222222" stroke-width="1.6"/>
+<circle cx="170" cy="120" r="3" fill="#222222" stroke="none" stroke-width="0"/>
+<circle cx="210" cy="120" r="3" fill="#222222" stroke="none" stroke-width="0"/>
+<line x1="170" y1="120" x2="206" y2="104" stroke="#222222" stroke-width="2"/>
+<text x="190" y="98" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold" font-style="italic">q</text>
+<polyline points="210,120 262,120" fill="none" stroke="#222222" stroke-width="1.6"/>
+<circle cx="275" cy="120" r="13" fill="#f6d5c4" stroke="#d9480f" stroke-width="2"/>
+<line x1="266" y1="111" x2="284" y2="129" stroke="#d9480f" stroke-width="1.5"/>
+<line x1="266" y1="129" x2="284" y2="111" stroke="#d9480f" stroke-width="1.5"/>
+<polyline points="288,120 310,120" fill="none" stroke="#222222" stroke-width="1.6"/>
+<text x="170" y="175" text-anchor="middle" fill="#555555" font-size="13">The lamp lights only when</text>
+<text x="170" y="194" text-anchor="middle" fill="#555555" font-size="13">both switches are closed.</text>
+<text x="530" y="70" text-anchor="middle" fill="#222222" font-weight="bold">Parallel: p OR q</text>
+<polyline points="380,143 410,143" fill="none" stroke="#222222" stroke-width="1.6"/>
+<polyline points="410,118 410,168" fill="none" stroke="#222222" stroke-width="1.6"/>
+<polyline points="410,118 450,118" fill="none" stroke="#222222" stroke-width="1.6"/>
+<polyline points="410,168 450,168" fill="none" stroke="#222222" stroke-width="1.6"/>
+<circle cx="450" cy="118" r="3" fill="#222222" stroke="none" stroke-width="0"/>
+<circle cx="490" cy="118" r="3" fill="#222222" stroke="none" stroke-width="0"/>
+<line x1="450" y1="118" x2="486" y2="102" stroke="#222222" stroke-width="2"/>
+<text x="470" y="96" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold" font-style="italic">p</text>
+<circle cx="450" cy="168" r="3" fill="#222222" stroke="none" stroke-width="0"/>
+<circle cx="490" cy="168" r="3" fill="#222222" stroke="none" stroke-width="0"/>
+<line x1="450" y1="168" x2="486" y2="152" stroke="#222222" stroke-width="2"/>
+<text x="470" y="146" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold" font-style="italic">q</text>
+<polyline points="490,118 530,118 530,168 490,168" fill="none" stroke="#222222" stroke-width="1.6"/>
+<polyline points="530,143 577,143" fill="none" stroke="#222222" stroke-width="1.6"/>
+<circle cx="590" cy="143" r="13" fill="#f6d5c4" stroke="#d9480f" stroke-width="2"/>
+<line x1="581" y1="134" x2="599" y2="152" stroke="#d9480f" stroke-width="1.5"/>
+<line x1="581" y1="152" x2="599" y2="134" stroke="#d9480f" stroke-width="1.5"/>
+<polyline points="603,143 630,143" fill="none" stroke="#222222" stroke-width="1.6"/>
+<text x="530" y="205" text-anchor="middle" fill="#555555" font-size="13">The lamp lights when at least</text>
+<text x="530" y="224" text-anchor="middle" fill="#555555" font-size="13">one switch is closed.</text>
+<line x1="345" y1="55" x2="345" y2="230" stroke="#555555" stroke-width="1" stroke-dasharray="4,4"/>
+</svg>

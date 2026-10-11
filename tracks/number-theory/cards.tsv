@@ -1,0 +1,15 @@
+What does \(a \mid b\) mean?	\(a\) divides \(b\): \(b = ak\) for some integer \(k\).	math::tracks::number-theory math::tracks::number-theory::divisibility
+Divisibility test for 3 and 9	Add the digits. The number is divisible by 3 (or 9) exactly when the digit sum is.	math::tracks::number-theory math::tracks::number-theory::divisibility
+Prime factorization of 360	\(2^3 \cdot 3^2 \cdot 5\)	math::tracks::number-theory math::tracks::number-theory::factorization
+Link between gcd and lcm	\(\gcd(a,b) \cdot \operatorname{lcm}(a,b) = ab\)	math::tracks::number-theory math::tracks::number-theory::gcd
+Euclidean algorithm step	\(\gcd(a, b) = \gcd(b, a \bmod b)\), stop when the remainder is 0.	math::tracks::number-theory math::tracks::number-theory::euclid
+What does \(a \equiv b \pmod n\) mean?	\(n\) divides \(a - b\): same remainder after division by \(n\).	math::tracks::number-theory math::tracks::number-theory::modular
+Bezout's identity	\(\gcd(a, b) = ax + by\) for some integers \(x, y\) (found by extended Euclid).	math::tracks::number-theory math::tracks::number-theory::bezout
+When does \(a\) have an inverse mod \(n\)?	Exactly when \(\gcd(a, n) = 1\).	math::tracks::number-theory math::tracks::number-theory::inverses
+\(3^{-1} \bmod 7\)	5, because \(3 \cdot 5 = 15 \equiv 1 \pmod 7\).	math::tracks::number-theory math::tracks::number-theory::inverses
+Fermat's little theorem	\(a^{p-1} \equiv 1 \pmod p\) for prime \(p\) not dividing \(a\).	math::tracks::number-theory math::tracks::number-theory::fermat
+Chinese remainder theorem	Congruences with pairwise coprime moduli have exactly one solution modulo the product.	math::tracks::number-theory math::tracks::number-theory::crt
+\(\varphi(pq)\) for distinct primes	\((p - 1)(q - 1)\)	math::tracks::number-theory math::tracks::number-theory::totient
+RSA in one line	Public \((n, e)\), secret \(d\) with \(ed \equiv 1 \pmod{\varphi(n)}\). Encrypt \(c = m^e \bmod n\), decrypt \(m = c^d \bmod n\).	math::tracks::number-theory math::tracks::number-theory::rsa
+Prime number theorem	\(\pi(x) \sim \frac{x}{\ln x}\): near \(x\), about one number in \(\ln x\) is prime.	math::tracks::number-theory math::tracks::number-theory::pnt
+Why are there infinitely many primes?	If \(p_1, \ldots, p_k\) were all, \(p_1 \cdots p_k + 1\) has a prime factor not on the list.	math::tracks::number-theory math::tracks::number-theory::primes

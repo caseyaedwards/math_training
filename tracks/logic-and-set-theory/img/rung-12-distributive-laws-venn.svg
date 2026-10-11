@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 490" width="740" height="490" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Both Distributive Laws of Boolean Algebra as Three-Circle Venn Diagrams</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><clipPath id="clip1"><circle cx="120.0" cy="110.7" r="44"/></clipPath><clipPath id="clip2"><circle cx="94.1" cy="154.9" r="44"/></clipPath><clipPath id="clip3"><circle cx="145.9" cy="154.9" r="44"/></clipPath><clipPath id="clip4"><circle cx="370.0" cy="110.7" r="44"/></clipPath><clipPath id="clip5"><circle cx="344.1" cy="154.9" r="44"/></clipPath><clipPath id="clip6"><circle cx="395.9" cy="154.9" r="44"/></clipPath><clipPath id="clip7"><circle cx="620.0" cy="110.7" r="44"/></clipPath><clipPath id="clip8"><circle cx="594.1" cy="154.9" r="44"/></clipPath><clipPath id="clip9"><circle cx="645.9" cy="154.9" r="44"/></clipPath><clipPath id="clip10"><circle cx="120.0" cy="325.7" r="44"/></clipPath><clipPath id="clip11"><circle cx="94.1" cy="369.9" r="44"/></clipPath><clipPath id="clip12"><circle cx="145.9" cy="369.9" r="44"/></clipPath><clipPath id="clip13"><circle cx="370.0" cy="325.7" r="44"/></clipPath><clipPath id="clip14"><circle cx="344.1" cy="369.9" r="44"/></clipPath><clipPath id="clip15"><circle cx="395.9" cy="369.9" r="44"/></clipPath><clipPath id="clip16"><circle cx="620.0" cy="325.7" r="44"/></clipPath><clipPath id="clip17"><circle cx="594.1" cy="369.9" r="44"/></clipPath><clipPath id="clip18"><circle cx="645.9" cy="369.9" r="44"/></clipPath></defs>
+<rect x="0" y="0" width="740" height="490" fill="#ffffff"/>
+<text x="370" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Both distributive laws hold: compare the shading</text>
+<rect x="40.08" y="56.72" width="159.83" height="152.19" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<g clip-path="url(#clip3)"><rect x="40.084" y="56.72" width="159.832" height="152.1936" fill="#f6d5c4"/><circle cx="120.0" cy="110.7" r="44" fill="#ffffff"/><circle cx="94.1" cy="154.9" r="44" fill="#ffffff"/></g>
+<g clip-path="url(#clip2)"><rect x="40.084" y="56.72" width="159.832" height="152.1936" fill="#f6d5c4"/><circle cx="120.0" cy="110.7" r="44" fill="#ffffff"/><circle cx="145.9" cy="154.9" r="44" fill="#ffffff"/></g>
+<g clip-path="url(#clip3)"><g clip-path="url(#clip2)"><rect x="40.084" y="56.72" width="159.832" height="152.1936" fill="#f6d5c4"/><circle cx="120.0" cy="110.7" r="44" fill="#ffffff"/></g></g>
+<g clip-path="url(#clip3)"><g clip-path="url(#clip1)"><rect x="40.084" y="56.72" width="159.832" height="152.1936" fill="#f6d5c4"/><circle cx="94.1" cy="154.9" r="44" fill="#ffffff"/></g></g>
+<g clip-path="url(#clip2)"><g clip-path="url(#clip1)"><rect x="40.084" y="56.72" width="159.832" height="152.1936" fill="#f6d5c4"/><circle cx="145.9" cy="154.9" r="44" fill="#ffffff"/></g></g>
+<g clip-path="url(#clip3)"><g clip-path="url(#clip2)"><g clip-path="url(#clip1)"><rect x="40.084" y="56.72" width="159.832" height="152.1936" fill="#f6d5c4"/></g></g></g>
+<circle cx="120" cy="110.72" r="44" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="94.08" cy="154.91" r="44" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="145.92" cy="154.91" r="44" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="120" y="88.72" text-anchor="middle" fill="#222222" font-weight="bold">x</text>
+<text x="69.88" y="172.51" text-anchor="middle" fill="#222222" font-weight="bold">y</text>
+<text x="170.12" y="172.51" text-anchor="middle" fill="#222222" font-weight="bold">z</text>
+<text x="120" y="230.91" text-anchor="middle" fill="#222222" font-weight="bold">y + z</text>
+<rect x="290.08" y="56.72" width="159.83" height="152.19" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<g clip-path="url(#clip6)"><g clip-path="url(#clip4)"><rect x="290.084" y="56.72" width="159.832" height="152.1936" fill="#f6d5c4"/><circle cx="344.1" cy="154.9" r="44" fill="#ffffff"/></g></g>
+<g clip-path="url(#clip5)"><g clip-path="url(#clip4)"><rect x="290.084" y="56.72" width="159.832" height="152.1936" fill="#f6d5c4"/><circle cx="395.9" cy="154.9" r="44" fill="#ffffff"/></g></g>
+<g clip-path="url(#clip6)"><g clip-path="url(#clip5)"><g clip-path="url(#clip4)"><rect x="290.084" y="56.72" width="159.832" height="152.1936" fill="#f6d5c4"/></g></g></g>
+<circle cx="370" cy="110.72" r="44" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="344.08" cy="154.91" r="44" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="395.92" cy="154.91" r="44" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="370" y="88.72" text-anchor="middle" fill="#222222" font-weight="bold">x</text>
+<text x="319.88" y="172.51" text-anchor="middle" fill="#222222" font-weight="bold">y</text>
+<text x="420.12" y="172.51" text-anchor="middle" fill="#222222" font-weight="bold">z</text>
+<text x="370" y="230.91" text-anchor="middle" fill="#222222" font-weight="bold">x · (y + z)</text>
+<rect x="540.08" y="56.72" width="159.83" height="152.19" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<g clip-path="url(#clip9)"><g clip-path="url(#clip7)"><rect x="540.0840000000001" y="56.72" width="159.832" height="152.1936" fill="#f6d5c4"/><circle cx="594.1" cy="154.9" r="44" fill="#ffffff"/></g></g>
+<g clip-path="url(#clip8)"><g clip-path="url(#clip7)"><rect x="540.0840000000001" y="56.72" width="159.832" height="152.1936" fill="#f6d5c4"/><circle cx="645.9" cy="154.9" r="44" fill="#ffffff"/></g></g>
+<g clip-path="url(#clip9)"><g clip-path="url(#clip8)"><g clip-path="url(#clip7)"><rect x="540.0840000000001" y="56.72" width="159.832" height="152.1936" fill="#f6d5c4"/></g></g></g>
+<circle cx="620" cy="110.72" r="44" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="594.08" cy="154.91" r="44" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="645.92" cy="154.91" r="44" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="620" y="88.72" text-anchor="middle" fill="#222222" font-weight="bold">x</text>
+<text x="569.88" y="172.51" text-anchor="middle" fill="#222222" font-weight="bold">y</text>
+<text x="670.12" y="172.51" text-anchor="middle" fill="#222222" font-weight="bold">z</text>
+<text x="620" y="230.91" text-anchor="middle" fill="#222222" font-weight="bold">xy + xz</text>
+<rect x="40.08" y="271.72" width="159.83" height="152.19" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<g clip-path="url(#clip12)"><g clip-path="url(#clip11)"><rect x="40.084" y="271.72" width="159.832" height="152.1936" fill="#f6d5c4"/><circle cx="120.0" cy="325.7" r="44" fill="#ffffff"/></g></g>
+<g clip-path="url(#clip12)"><g clip-path="url(#clip11)"><g clip-path="url(#clip10)"><rect x="40.084" y="271.72" width="159.832" height="152.1936" fill="#f6d5c4"/></g></g></g>
+<circle cx="120" cy="325.72" r="44" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="94.08" cy="369.91" r="44" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="145.92" cy="369.91" r="44" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="120" y="303.72" text-anchor="middle" fill="#222222" font-weight="bold">x</text>
+<text x="69.88" y="387.51" text-anchor="middle" fill="#222222" font-weight="bold">y</text>
+<text x="170.12" y="387.51" text-anchor="middle" fill="#222222" font-weight="bold">z</text>
+<text x="120" y="445.91" text-anchor="middle" fill="#222222" font-weight="bold">yz</text>
+<rect x="290.08" y="271.72" width="159.83" height="152.19" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<g clip-path="url(#clip15)"><g clip-path="url(#clip14)"><rect x="290.084" y="271.72" width="159.832" height="152.1936" fill="#f6d5c4"/><circle cx="370.0" cy="325.7" r="44" fill="#ffffff"/></g></g>
+<g clip-path="url(#clip13)"><rect x="290.084" y="271.72" width="159.832" height="152.1936" fill="#f6d5c4"/><circle cx="344.1" cy="369.9" r="44" fill="#ffffff"/><circle cx="395.9" cy="369.9" r="44" fill="#ffffff"/></g>
+<g clip-path="url(#clip15)"><g clip-path="url(#clip13)"><rect x="290.084" y="271.72" width="159.832" height="152.1936" fill="#f6d5c4"/><circle cx="344.1" cy="369.9" r="44" fill="#ffffff"/></g></g>
+<g clip-path="url(#clip14)"><g clip-path="url(#clip13)"><rect x="290.084" y="271.72" width="159.832" height="152.1936" fill="#f6d5c4"/><circle cx="395.9" cy="369.9" r="44" fill="#ffffff"/></g></g>
+<g clip-path="url(#clip15)"><g clip-path="url(#clip14)"><g clip-path="url(#clip13)"><rect x="290.084" y="271.72" width="159.832" height="152.1936" fill="#f6d5c4"/></g></g></g>
+<circle cx="370" cy="325.72" r="44" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="344.08" cy="369.91" r="44" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="395.92" cy="369.91" r="44" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="370" y="303.72" text-anchor="middle" fill="#222222" font-weight="bold">x</text>
+<text x="319.88" y="387.51" text-anchor="middle" fill="#222222" font-weight="bold">y</text>
+<text x="420.12" y="387.51" text-anchor="middle" fill="#222222" font-weight="bold">z</text>
+<text x="370" y="445.91" text-anchor="middle" fill="#222222" font-weight="bold">x + yz</text>
+<rect x="540.08" y="271.72" width="159.83" height="152.19" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<g clip-path="url(#clip18)"><g clip-path="url(#clip17)"><rect x="540.0840000000001" y="271.72" width="159.832" height="152.1936" fill="#f6d5c4"/><circle cx="620.0" cy="325.7" r="44" fill="#ffffff"/></g></g>
+<g clip-path="url(#clip16)"><rect x="540.0840000000001" y="271.72" width="159.832" height="152.1936" fill="#f6d5c4"/><circle cx="594.1" cy="369.9" r="44" fill="#ffffff"/><circle cx="645.9" cy="369.9" r="44" fill="#ffffff"/></g>
+<g clip-path="url(#clip18)"><g clip-path="url(#clip16)"><rect x="540.0840000000001" y="271.72" width="159.832" height="152.1936" fill="#f6d5c4"/><circle cx="594.1" cy="369.9" r="44" fill="#ffffff"/></g></g>
+<g clip-path="url(#clip17)"><g clip-path="url(#clip16)"><rect x="540.0840000000001" y="271.72" width="159.832" height="152.1936" fill="#f6d5c4"/><circle cx="645.9" cy="369.9" r="44" fill="#ffffff"/></g></g>
+<g clip-path="url(#clip18)"><g clip-path="url(#clip17)"><g clip-path="url(#clip16)"><rect x="540.0840000000001" y="271.72" width="159.832" height="152.1936" fill="#f6d5c4"/></g></g></g>
+<circle cx="620" cy="325.72" r="44" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="594.08" cy="369.91" r="44" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="645.92" cy="369.91" r="44" fill="none" stroke="#222222" stroke-width="1.5"/>
+<text x="620" y="303.72" text-anchor="middle" fill="#222222" font-weight="bold">x</text>
+<text x="569.88" y="387.51" text-anchor="middle" fill="#222222" font-weight="bold">y</text>
+<text x="670.12" y="387.51" text-anchor="middle" fill="#222222" font-weight="bold">z</text>
+<text x="620" y="445.91" text-anchor="middle" fill="#222222" font-weight="bold">(x + y)(x + z)</text>
+<text x="245" y="147" text-anchor="middle" fill="#555555" font-size="22" font-weight="bold">→</text>
+<text x="495" y="149" text-anchor="middle" fill="#d9480f" font-size="24" font-weight="bold">=</text>
+<text x="245" y="362" text-anchor="middle" fill="#555555" font-size="22" font-weight="bold">→</text>
+<text x="495" y="364" text-anchor="middle" fill="#d9480f" font-size="24" font-weight="bold">=</text>
+<text x="370" y="480" text-anchor="middle" fill="#222222" font-size="13">Left: one factor. Middle and right: the two sides of each law, shaded the same.</text>
+</svg>

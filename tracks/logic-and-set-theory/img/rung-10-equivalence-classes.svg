@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 270" width="660" height="270" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>An Equivalence Relation Splits Hosts into Zones</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="660" height="270" fill="#ffffff"/>
+<text x="330" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Same zone as is an equivalence relation: it splits hosts into groups</text>
+<rect x="30" y="50" width="600" height="150" fill="#ffffff" stroke="#222222" stroke-width="1.8" rx="10"/>
+<text x="140" y="76" text-anchor="middle" fill="#d9480f" font-weight="bold">zone a</text>
+<circle cx="80" cy="135" r="20" fill="#f6d5c4" stroke="#222222" stroke-width="1.3"/>
+<text x="80" y="140" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">h1</text>
+<circle cx="140" cy="135" r="20" fill="#f6d5c4" stroke="#222222" stroke-width="1.3"/>
+<text x="140" y="140" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">h2</text>
+<circle cx="200" cy="135" r="20" fill="#f6d5c4" stroke="#222222" stroke-width="1.3"/>
+<text x="200" y="140" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">h3</text>
+<line x1="250" y1="50" x2="250" y2="200" stroke="#222222" stroke-width="1.8"/>
+<text x="330" y="76" text-anchor="middle" fill="#d9480f" font-weight="bold">zone b</text>
+<circle cx="300" cy="135" r="20" fill="#f6d5c4" stroke="#222222" stroke-width="1.3"/>
+<text x="300" y="140" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">h4</text>
+<circle cx="360" cy="135" r="20" fill="#f6d5c4" stroke="#222222" stroke-width="1.3"/>
+<text x="360" y="140" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">h5</text>
+<line x1="410" y1="50" x2="410" y2="200" stroke="#222222" stroke-width="1.8"/>
+<text x="520" y="76" text-anchor="middle" fill="#d9480f" font-weight="bold">zone c</text>
+<circle cx="460" cy="135" r="20" fill="#f6d5c4" stroke="#222222" stroke-width="1.3"/>
+<text x="460" y="140" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">h6</text>
+<circle cx="520" cy="135" r="20" fill="#f6d5c4" stroke="#222222" stroke-width="1.3"/>
+<text x="520" y="140" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">h7</text>
+<circle cx="580" cy="135" r="20" fill="#f6d5c4" stroke="#222222" stroke-width="1.3"/>
+<text x="580" y="140" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">h8</text>
+<text x="40" y="230" text-anchor="start" fill="#222222" font-size="13">reflexive: h1 ~ h1</text>
+<text x="40" y="252" text-anchor="start" fill="#222222" font-size="13">symmetric: h1 ~ h2 gives h2 ~ h1</text>
+<text x="360" y="230" text-anchor="start" fill="#222222" font-size="13">transitive: h1 ~ h2 and h2 ~ h3 give h1 ~ h3</text>
+<text x="360" y="252" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">result: every host in exactly one group</text>
+</svg>

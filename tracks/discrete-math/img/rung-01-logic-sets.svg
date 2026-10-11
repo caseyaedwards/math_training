@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 270" width="700" height="270" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Not Every Server Is Up Means Some Server Is Down</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="700" height="270" fill="#ffffff"/>
+<text x="350.0" y="26.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">Not Every Server Is Up Means Some Server Is Down</text>
+<text x="350.0" y="58.0" text-anchor="middle" fill="#555555">P(x) means: server x is up</text>
+<rect x="65.0" y="80.0" width="90.0" height="60.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="110.0" y="106.0" text-anchor="middle" fill="#222222" font-weight="bold">s1</text>
+<text x="110.0" y="128.0" text-anchor="middle" fill="#555555">up</text>
+<rect x="185.0" y="80.0" width="90.0" height="60.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="230.0" y="106.0" text-anchor="middle" fill="#222222" font-weight="bold">s2</text>
+<text x="230.0" y="128.0" text-anchor="middle" fill="#555555">up</text>
+<rect x="305.0" y="80.0" width="90.0" height="60.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="350.0" y="106.0" text-anchor="middle" fill="#222222" font-weight="bold">s3</text>
+<text x="350.0" y="128.0" text-anchor="middle" fill="#555555">up</text>
+<rect x="425.0" y="80.0" width="90.0" height="60.0" rx="6" fill="#f6d5c4" stroke="#d9480f" stroke-width="2"/>
+<text x="470.0" y="106.0" text-anchor="middle" fill="#d9480f" font-weight="bold">s4</text>
+<text x="470.0" y="128.0" text-anchor="middle" fill="#d9480f">down</text>
+<rect x="545.0" y="80.0" width="90.0" height="60.0" rx="6" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="590.0" y="106.0" text-anchor="middle" fill="#222222" font-weight="bold">s5</text>
+<text x="590.0" y="128.0" text-anchor="middle" fill="#555555">up</text>
+<text x="350.0" y="190.0" text-anchor="middle" fill="#222222">¬∀x P(x):  it is false that every server is up</text>
+<text x="350.0" y="218.0" text-anchor="middle" fill="#d9480f">∃x ¬P(x):  some server is down (here s4)</text>
+<text x="350.0" y="250.0" text-anchor="middle" fill="#555555" font-size="13">one counterexample is enough to break a for-all claim</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 380" width="560" height="380" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>x and 7 Minus x Have the Same Square Mod 7</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="560" height="380" fill="#ffffff"/>
+<text x="280" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">x and −x share a square: half of 1 to 6 are squares</text>
+<circle cx="200" cy="210" r="130" fill="none" stroke="#555555" stroke-width="1"/>
+<line x1="301.64" y1="128.95" x2="98.36" y2="128.95" stroke="#d9480f" stroke-width="2"/>
+<rect x="178" y="116.95" width="44" height="22" fill="#ffffff" stroke="#d9480f" stroke-width="1" rx="4"/>
+<text x="200" y="132.95" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">→ 1</text>
+<line x1="326.74" y1="238.93" x2="73.26" y2="238.93" stroke="#d9480f" stroke-width="2"/>
+<rect x="178" y="226.93" width="44" height="22" fill="#ffffff" stroke="#d9480f" stroke-width="1" rx="4"/>
+<text x="200" y="242.93" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">→ 4</text>
+<line x1="256.4" y1="327.13" x2="143.6" y2="327.13" stroke="#d9480f" stroke-width="2"/>
+<rect x="178" y="315.13" width="44" height="22" fill="#ffffff" stroke="#d9480f" stroke-width="1" rx="4"/>
+<text x="200" y="331.13" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">→ 2</text>
+<circle cx="200" cy="80" r="16" fill="#ffffff" stroke="#222222" stroke-width="1.6"/>
+<text x="200" y="85" text-anchor="middle" fill="#222222" font-weight="bold">0</text>
+<circle cx="301.64" cy="128.95" r="16" fill="#ffffff" stroke="#222222" stroke-width="1.6"/>
+<text x="301.64" y="133.95" text-anchor="middle" fill="#222222" font-weight="bold">1</text>
+<circle cx="326.74" cy="238.93" r="16" fill="#ffffff" stroke="#222222" stroke-width="1.6"/>
+<text x="326.74" y="243.93" text-anchor="middle" fill="#222222" font-weight="bold">2</text>
+<circle cx="256.4" cy="327.13" r="16" fill="#ffffff" stroke="#222222" stroke-width="1.6"/>
+<text x="256.4" y="332.13" text-anchor="middle" fill="#222222" font-weight="bold">3</text>
+<circle cx="143.6" cy="327.13" r="16" fill="#ffffff" stroke="#222222" stroke-width="1.6"/>
+<text x="143.6" y="332.13" text-anchor="middle" fill="#222222" font-weight="bold">4</text>
+<circle cx="73.26" cy="238.93" r="16" fill="#ffffff" stroke="#222222" stroke-width="1.6"/>
+<text x="73.26" y="243.93" text-anchor="middle" fill="#222222" font-weight="bold">5</text>
+<circle cx="98.36" cy="128.95" r="16" fill="#ffffff" stroke="#222222" stroke-width="1.6"/>
+<text x="98.36" y="133.95" text-anchor="middle" fill="#222222" font-weight="bold">6</text>
+<text x="380" y="120" text-anchor="start" fill="#222222" font-size="13">1 and 6 ≡ −1: square 1</text>
+<text x="380" y="145" text-anchor="start" fill="#222222" font-size="13">2 and 5 ≡ −2: square 4</text>
+<text x="380" y="170" text-anchor="start" fill="#222222" font-size="13">3 and 4 ≡ −3: square 2</text>
+<text x="380" y="215" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">6 numbers, 3 pairs,</text>
+<text x="380" y="237" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">(7 − 1)/2 = 3 squares</text>
+</svg>

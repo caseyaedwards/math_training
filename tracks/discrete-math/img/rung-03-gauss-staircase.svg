@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Two Staircases Make a 5 by 6 Rectangle</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="640" height="360" fill="#ffffff"/>
+<text x="320.0" y="26.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">Two Staircases Make a 5 by 6 Rectangle</text>
+<rect x="90.0" y="260.0" width="40.0" height="40.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<rect x="90.0" y="220.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="90.0" y="180.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="90.0" y="140.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="90.0" y="100.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="90.0" y="60.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#d9480f" stroke-width="1.2"/>
+<text x="110.0" y="285.0" text-anchor="middle" fill="#222222" font-weight="bold">1</text>
+<text x="110.0" y="245.0" text-anchor="middle" fill="#d9480f" font-weight="bold">5</text>
+<rect x="130.0" y="260.0" width="40.0" height="40.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<rect x="130.0" y="220.0" width="40.0" height="40.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<rect x="130.0" y="180.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="130.0" y="140.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="130.0" y="100.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="130.0" y="60.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#d9480f" stroke-width="1.2"/>
+<text x="150.0" y="245.0" text-anchor="middle" fill="#222222" font-weight="bold">2</text>
+<text x="150.0" y="205.0" text-anchor="middle" fill="#d9480f" font-weight="bold">4</text>
+<rect x="170.0" y="260.0" width="40.0" height="40.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<rect x="170.0" y="220.0" width="40.0" height="40.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<rect x="170.0" y="180.0" width="40.0" height="40.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<rect x="170.0" y="140.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="170.0" y="100.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="170.0" y="60.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#d9480f" stroke-width="1.2"/>
+<text x="190.0" y="205.0" text-anchor="middle" fill="#222222" font-weight="bold">3</text>
+<text x="190.0" y="165.0" text-anchor="middle" fill="#d9480f" font-weight="bold">3</text>
+<rect x="210.0" y="260.0" width="40.0" height="40.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<rect x="210.0" y="220.0" width="40.0" height="40.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<rect x="210.0" y="180.0" width="40.0" height="40.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<rect x="210.0" y="140.0" width="40.0" height="40.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<rect x="210.0" y="100.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="210.0" y="60.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#d9480f" stroke-width="1.2"/>
+<text x="230.0" y="165.0" text-anchor="middle" fill="#222222" font-weight="bold">4</text>
+<text x="230.0" y="125.0" text-anchor="middle" fill="#d9480f" font-weight="bold">2</text>
+<rect x="250.0" y="260.0" width="40.0" height="40.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<rect x="250.0" y="220.0" width="40.0" height="40.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<rect x="250.0" y="180.0" width="40.0" height="40.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<rect x="250.0" y="140.0" width="40.0" height="40.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<rect x="250.0" y="100.0" width="40.0" height="40.0" rx="0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<rect x="250.0" y="60.0" width="40.0" height="40.0" rx="0" fill="#ffffff" stroke="#d9480f" stroke-width="1.2"/>
+<text x="270.0" y="125.0" text-anchor="middle" fill="#222222" font-weight="bold">5</text>
+<text x="270.0" y="85.0" text-anchor="middle" fill="#d9480f" font-weight="bold">1</text>
+<text x="190.0" y="326.0" text-anchor="middle" fill="#222222">n = 5 columns</text>
+<text x="76.0" y="185.0" text-anchor="end" fill="#222222">6 rows</text>
+<text x="340.0" y="110.0" text-anchor="start" fill="#222222">tint staircase:  1 + 2 + 3 + 4 + 5</text>
+<text x="340.0" y="140.0" text-anchor="start" fill="#d9480f">orange staircase:  5 + 4 + 3 + 2 + 1</text>
+<text x="340.0" y="170.0" text-anchor="start" fill="#222222">each column holds n + 1 = 6</text>
+<text x="340.0" y="210.0" text-anchor="start" fill="#222222" font-weight="bold">2S = 5 × 6 = 30</text>
+<text x="340.0" y="240.0" text-anchor="start" fill="#d9480f" font-weight="bold">S = 30 / 2 = 15</text>
+<text x="340.0" y="280.0" text-anchor="start" fill="#222222">general:  S = n(n + 1) / 2</text>
+</svg>

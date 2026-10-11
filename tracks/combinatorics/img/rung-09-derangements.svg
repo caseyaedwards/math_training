@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" width="700" height="400" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>All 9 Derangements of 4 Items</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="700" height="400" fill="#ffffff"/>
+<text x="350.0" y="26.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">All 9 Derangements of 4: Nobody Gets Their Own Gift</text>
+<rect x="45.0" y="50.0" width="190.0" height="90.0" rx="5" fill="#ffffff" stroke="#bbbbbb" stroke-width="1"/>
+<text x="59.0" y="80.0" text-anchor="start" fill="#555555" font-size="12">person</text>
+<text x="59.0" y="120.0" text-anchor="start" fill="#555555" font-size="12">gift</text>
+<text x="127.0" y="80.0" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<line x1="127.0" y1="87.0" x2="127.0" y2="102.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="127.0" y="120.0" text-anchor="middle" fill="#d9480f" font-weight="bold">2</text>
+<text x="155.0" y="80.0" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<line x1="155.0" y1="87.0" x2="155.0" y2="102.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="155.0" y="120.0" text-anchor="middle" fill="#d9480f" font-weight="bold">1</text>
+<text x="183.0" y="80.0" text-anchor="middle" fill="#222222" font-size="13">3</text>
+<line x1="183.0" y1="87.0" x2="183.0" y2="102.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="183.0" y="120.0" text-anchor="middle" fill="#d9480f" font-weight="bold">4</text>
+<text x="211.0" y="80.0" text-anchor="middle" fill="#222222" font-size="13">4</text>
+<line x1="211.0" y1="87.0" x2="211.0" y2="102.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="211.0" y="120.0" text-anchor="middle" fill="#d9480f" font-weight="bold">3</text>
+<rect x="255.0" y="50.0" width="190.0" height="90.0" rx="5" fill="#ffffff" stroke="#bbbbbb" stroke-width="1"/>
+<text x="269.0" y="80.0" text-anchor="start" fill="#555555" font-size="12">person</text>
+<text x="269.0" y="120.0" text-anchor="start" fill="#555555" font-size="12">gift</text>
+<text x="337.0" y="80.0" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<line x1="337.0" y1="87.0" x2="337.0" y2="102.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="337.0" y="120.0" text-anchor="middle" fill="#d9480f" font-weight="bold">2</text>
+<text x="365.0" y="80.0" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<line x1="365.0" y1="87.0" x2="365.0" y2="102.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="365.0" y="120.0" text-anchor="middle" fill="#d9480f" font-weight="bold">3</text>
+<text x="393.0" y="80.0" text-anchor="middle" fill="#222222" font-size="13">3</text>
+<line x1="393.0" y1="87.0" x2="393.0" y2="102.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="393.0" y="120.0" text-anchor="middle" fill="#d9480f" font-weight="bold">4</text>
+<text x="421.0" y="80.0" text-anchor="middle" fill="#222222" font-size="13">4</text>
+<line x1="421.0" y1="87.0" x2="421.0" y2="102.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="421.0" y="120.0" text-anchor="middle" fill="#d9480f" font-weight="bold">1</text>
+<rect x="465.0" y="50.0" width="190.0" height="90.0" rx="5" fill="#ffffff" stroke="#bbbbbb" stroke-width="1"/>
+<text x="479.0" y="80.0" text-anchor="start" fill="#555555" font-size="12">person</text>
+<text x="479.0" y="120.0" text-anchor="start" fill="#555555" font-size="12">gift</text>
+<text x="547.0" y="80.0" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<line x1="547.0" y1="87.0" x2="547.0" y2="102.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="547.0" y="120.0" text-anchor="middle" fill="#d9480f" font-weight="bold">2</text>
+<text x="575.0" y="80.0" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<line x1="575.0" y1="87.0" x2="575.0" y2="102.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="575.0" y="120.0" text-anchor="middle" fill="#d9480f" font-weight="bold">4</text>
+<text x="603.0" y="80.0" text-anchor="middle" fill="#222222" font-size="13">3</text>
+<line x1="603.0" y1="87.0" x2="603.0" y2="102.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="603.0" y="120.0" text-anchor="middle" fill="#d9480f" font-weight="bold">1</text>
+<text x="631.0" y="80.0" text-anchor="middle" fill="#222222" font-size="13">4</text>
+<line x1="631.0" y1="87.0" x2="631.0" y2="102.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="631.0" y="120.0" text-anchor="middle" fill="#d9480f" font-weight="bold">3</text>
+<rect x="45.0" y="152.0" width="190.0" height="90.0" rx="5" fill="#ffffff" stroke="#bbbbbb" stroke-width="1"/>
+<text x="59.0" y="182.0" text-anchor="start" fill="#555555" font-size="12">person</text>
+<text x="59.0" y="222.0" text-anchor="start" fill="#555555" font-size="12">gift</text>
+<text x="127.0" y="182.0" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<line x1="127.0" y1="189.0" x2="127.0" y2="204.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="127.0" y="222.0" text-anchor="middle" fill="#d9480f" font-weight="bold">3</text>
+<text x="155.0" y="182.0" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<line x1="155.0" y1="189.0" x2="155.0" y2="204.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="155.0" y="222.0" text-anchor="middle" fill="#d9480f" font-weight="bold">1</text>
+<text x="183.0" y="182.0" text-anchor="middle" fill="#222222" font-size="13">3</text>
+<line x1="183.0" y1="189.0" x2="183.0" y2="204.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="183.0" y="222.0" text-anchor="middle" fill="#d9480f" font-weight="bold">4</text>
+<text x="211.0" y="182.0" text-anchor="middle" fill="#222222" font-size="13">4</text>
+<line x1="211.0" y1="189.0" x2="211.0" y2="204.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="211.0" y="222.0" text-anchor="middle" fill="#d9480f" font-weight="bold">2</text>
+<rect x="255.0" y="152.0" width="190.0" height="90.0" rx="5" fill="#ffffff" stroke="#bbbbbb" stroke-width="1"/>
+<text x="269.0" y="182.0" text-anchor="start" fill="#555555" font-size="12">person</text>
+<text x="269.0" y="222.0" text-anchor="start" fill="#555555" font-size="12">gift</text>
+<text x="337.0" y="182.0" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<line x1="337.0" y1="189.0" x2="337.0" y2="204.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="337.0" y="222.0" text-anchor="middle" fill="#d9480f" font-weight="bold">3</text>
+<text x="365.0" y="182.0" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<line x1="365.0" y1="189.0" x2="365.0" y2="204.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="365.0" y="222.0" text-anchor="middle" fill="#d9480f" font-weight="bold">4</text>
+<text x="393.0" y="182.0" text-anchor="middle" fill="#222222" font-size="13">3</text>
+<line x1="393.0" y1="189.0" x2="393.0" y2="204.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="393.0" y="222.0" text-anchor="middle" fill="#d9480f" font-weight="bold">1</text>
+<text x="421.0" y="182.0" text-anchor="middle" fill="#222222" font-size="13">4</text>
+<line x1="421.0" y1="189.0" x2="421.0" y2="204.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="421.0" y="222.0" text-anchor="middle" fill="#d9480f" font-weight="bold">2</text>
+<rect x="465.0" y="152.0" width="190.0" height="90.0" rx="5" fill="#ffffff" stroke="#bbbbbb" stroke-width="1"/>
+<text x="479.0" y="182.0" text-anchor="start" fill="#555555" font-size="12">person</text>
+<text x="479.0" y="222.0" text-anchor="start" fill="#555555" font-size="12">gift</text>
+<text x="547.0" y="182.0" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<line x1="547.0" y1="189.0" x2="547.0" y2="204.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="547.0" y="222.0" text-anchor="middle" fill="#d9480f" font-weight="bold">3</text>
+<text x="575.0" y="182.0" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<line x1="575.0" y1="189.0" x2="575.0" y2="204.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="575.0" y="222.0" text-anchor="middle" fill="#d9480f" font-weight="bold">4</text>
+<text x="603.0" y="182.0" text-anchor="middle" fill="#222222" font-size="13">3</text>
+<line x1="603.0" y1="189.0" x2="603.0" y2="204.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="603.0" y="222.0" text-anchor="middle" fill="#d9480f" font-weight="bold">2</text>
+<text x="631.0" y="182.0" text-anchor="middle" fill="#222222" font-size="13">4</text>
+<line x1="631.0" y1="189.0" x2="631.0" y2="204.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="631.0" y="222.0" text-anchor="middle" fill="#d9480f" font-weight="bold">1</text>
+<rect x="45.0" y="254.0" width="190.0" height="90.0" rx="5" fill="#ffffff" stroke="#bbbbbb" stroke-width="1"/>
+<text x="59.0" y="284.0" text-anchor="start" fill="#555555" font-size="12">person</text>
+<text x="59.0" y="324.0" text-anchor="start" fill="#555555" font-size="12">gift</text>
+<text x="127.0" y="284.0" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<line x1="127.0" y1="291.0" x2="127.0" y2="306.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="127.0" y="324.0" text-anchor="middle" fill="#d9480f" font-weight="bold">4</text>
+<text x="155.0" y="284.0" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<line x1="155.0" y1="291.0" x2="155.0" y2="306.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="155.0" y="324.0" text-anchor="middle" fill="#d9480f" font-weight="bold">1</text>
+<text x="183.0" y="284.0" text-anchor="middle" fill="#222222" font-size="13">3</text>
+<line x1="183.0" y1="291.0" x2="183.0" y2="306.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="183.0" y="324.0" text-anchor="middle" fill="#d9480f" font-weight="bold">2</text>
+<text x="211.0" y="284.0" text-anchor="middle" fill="#222222" font-size="13">4</text>
+<line x1="211.0" y1="291.0" x2="211.0" y2="306.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="211.0" y="324.0" text-anchor="middle" fill="#d9480f" font-weight="bold">3</text>
+<rect x="255.0" y="254.0" width="190.0" height="90.0" rx="5" fill="#ffffff" stroke="#bbbbbb" stroke-width="1"/>
+<text x="269.0" y="284.0" text-anchor="start" fill="#555555" font-size="12">person</text>
+<text x="269.0" y="324.0" text-anchor="start" fill="#555555" font-size="12">gift</text>
+<text x="337.0" y="284.0" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<line x1="337.0" y1="291.0" x2="337.0" y2="306.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="337.0" y="324.0" text-anchor="middle" fill="#d9480f" font-weight="bold">4</text>
+<text x="365.0" y="284.0" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<line x1="365.0" y1="291.0" x2="365.0" y2="306.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="365.0" y="324.0" text-anchor="middle" fill="#d9480f" font-weight="bold">3</text>
+<text x="393.0" y="284.0" text-anchor="middle" fill="#222222" font-size="13">3</text>
+<line x1="393.0" y1="291.0" x2="393.0" y2="306.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="393.0" y="324.0" text-anchor="middle" fill="#d9480f" font-weight="bold">1</text>
+<text x="421.0" y="284.0" text-anchor="middle" fill="#222222" font-size="13">4</text>
+<line x1="421.0" y1="291.0" x2="421.0" y2="306.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="421.0" y="324.0" text-anchor="middle" fill="#d9480f" font-weight="bold">2</text>
+<rect x="465.0" y="254.0" width="190.0" height="90.0" rx="5" fill="#ffffff" stroke="#bbbbbb" stroke-width="1"/>
+<text x="479.0" y="284.0" text-anchor="start" fill="#555555" font-size="12">person</text>
+<text x="479.0" y="324.0" text-anchor="start" fill="#555555" font-size="12">gift</text>
+<text x="547.0" y="284.0" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<line x1="547.0" y1="291.0" x2="547.0" y2="306.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="547.0" y="324.0" text-anchor="middle" fill="#d9480f" font-weight="bold">4</text>
+<text x="575.0" y="284.0" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<line x1="575.0" y1="291.0" x2="575.0" y2="306.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="575.0" y="324.0" text-anchor="middle" fill="#d9480f" font-weight="bold">3</text>
+<text x="603.0" y="284.0" text-anchor="middle" fill="#222222" font-size="13">3</text>
+<line x1="603.0" y1="291.0" x2="603.0" y2="306.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="603.0" y="324.0" text-anchor="middle" fill="#d9480f" font-weight="bold">2</text>
+<text x="631.0" y="284.0" text-anchor="middle" fill="#222222" font-size="13">4</text>
+<line x1="631.0" y1="291.0" x2="631.0" y2="306.0" stroke="#bbbbbb" stroke-width="1"/>
+<text x="631.0" y="324.0" text-anchor="middle" fill="#d9480f" font-weight="bold">1</text>
+<text x="350.0" y="372.0" text-anchor="middle" fill="#555555" font-size="13">every column differs: no person i receives gift i</text>
+<text x="350.0" y="392.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">D<tspan dy="3" font-size="9">4</tspan><tspan dy="-3"> = 9 of the 4! = 24 shuffles, 9/24 = 0.375</tspan></text>
+</svg>

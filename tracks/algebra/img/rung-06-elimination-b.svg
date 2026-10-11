@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 300" width="560" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Elimination: add the equations</title>
+<defs><marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="560" height="300" fill="#ffffff"/>
+<text x="280.0" y="28.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">Elimination: add the two equations</text>
+<text x="200.0" y="80.0" text-anchor="middle" font-size="22" fill="#222222" font-weight="bold">x</text>
+<text x="250.0" y="80.0" text-anchor="middle" font-size="22" fill="#222222">+</text>
+<text x="300.0" y="80.0" text-anchor="middle" font-size="22" fill="#222222" font-weight="bold">y</text>
+<text x="350.0" y="80.0" text-anchor="middle" font-size="22" fill="#222222">=</text>
+<text x="400.0" y="80.0" text-anchor="middle" font-size="22" fill="#222222">5</text>
+<text x="200.0" y="120.0" text-anchor="middle" font-size="22" fill="#222222" font-weight="bold">x</text>
+<text x="250.0" y="120.0" text-anchor="middle" font-size="22" fill="#222222">−</text>
+<text x="300.0" y="120.0" text-anchor="middle" font-size="22" fill="#222222" font-weight="bold">y</text>
+<text x="350.0" y="120.0" text-anchor="middle" font-size="22" fill="#222222">=</text>
+<text x="400.0" y="120.0" text-anchor="middle" font-size="22" fill="#222222">1</text>
+<rect x="232.0" y="52.0" width="88.0" height="76.0" fill="none" stroke="#d9480f" stroke-width="2" rx="6" stroke-dasharray="5 3"/>
+<text x="440.0" y="92.0" text-anchor="start" font-size="13" fill="#d9480f" font-weight="bold">+y and −y</text>
+<text x="440.0" y="110.0" text-anchor="start" font-size="13" fill="#d9480f" font-weight="bold">cancel</text>
+<text x="140.0" y="80.0" text-anchor="middle" font-size="13" fill="#222222"></text>
+<text x="160.0" y="126.0" text-anchor="end" font-size="22" fill="#555555">+</text>
+<line x1="170.0" y1="140.0" x2="420.0" y2="140.0" stroke="#222222" stroke-width="2"/>
+<text x="200.0" y="174.0" text-anchor="middle" font-size="22" fill="#222222" font-weight="bold">2x</text>
+<text x="250.0" y="174.0" text-anchor="middle" font-size="22" fill="#222222">+</text>
+<text x="300.0" y="174.0" text-anchor="middle" font-size="22" fill="#d9480f">0</text>
+<text x="350.0" y="174.0" text-anchor="middle" font-size="22" fill="#222222">=</text>
+<text x="400.0" y="174.0" text-anchor="middle" font-size="22" fill="#222222">6</text>
+<text x="280.0" y="222.0" text-anchor="middle" font-size="20" fill="#222222" font-weight="bold">x = 3</text>
+<text x="280.0" y="254.0" text-anchor="middle" font-size="15" fill="#222222">put x = 3 into x + y = 5:   y = 2</text>
+<text x="280.0" y="282.0" text-anchor="middle" font-size="15" fill="#d9480f" font-weight="bold">answer: (3, 2)</text>
+</svg>

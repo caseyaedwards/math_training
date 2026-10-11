@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 250" width="740" height="250" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Rotations of a square</title>
+<defs><marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="740" height="250" fill="#ffffff"/>
+<text x="370.0" y="28.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">The four rotations of a square (each arrow: turn 90° counterclockwise)</text>
+<rect x="60.0" y="80.0" width="80.0" height="80.0" fill="#f1f1f1" stroke="#222222" stroke-width="2"/>
+<circle cx="60.0" cy="80.0" r="5.0" fill="#d9480f"/>
+<text x="46.0" y="71.0" text-anchor="middle" font-size="15" fill="#d9480f" font-weight="bold">A</text>
+<circle cx="140.0" cy="80.0" r="5.0" fill="#222222"/>
+<text x="154.0" y="71.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">B</text>
+<circle cx="140.0" cy="160.0" r="5.0" fill="#222222"/>
+<text x="154.0" y="179.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">C</text>
+<circle cx="60.0" cy="160.0" r="5.0" fill="#222222"/>
+<text x="46.0" y="179.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">D</text>
+<text x="100.0" y="204.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">r0 (do nothing)</text>
+<line x1="166.0" y1="120.0" x2="214.0" y2="120.0" stroke="#555555" stroke-width="2" marker-end="url(#ad)"/>
+<rect x="240.0" y="80.0" width="80.0" height="80.0" fill="#f1f1f1" stroke="#222222" stroke-width="2"/>
+<circle cx="240.0" cy="80.0" r="5.0" fill="#222222"/>
+<text x="226.0" y="71.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">B</text>
+<circle cx="320.0" cy="80.0" r="5.0" fill="#222222"/>
+<text x="334.0" y="71.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">C</text>
+<circle cx="320.0" cy="160.0" r="5.0" fill="#222222"/>
+<text x="334.0" y="179.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">D</text>
+<circle cx="240.0" cy="160.0" r="5.0" fill="#d9480f"/>
+<text x="226.0" y="179.0" text-anchor="middle" font-size="15" fill="#d9480f" font-weight="bold">A</text>
+<text x="280.0" y="204.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">r90</text>
+<line x1="346.0" y1="120.0" x2="394.0" y2="120.0" stroke="#555555" stroke-width="2" marker-end="url(#ad)"/>
+<rect x="420.0" y="80.0" width="80.0" height="80.0" fill="#f1f1f1" stroke="#222222" stroke-width="2"/>
+<circle cx="420.0" cy="80.0" r="5.0" fill="#222222"/>
+<text x="406.0" y="71.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">C</text>
+<circle cx="500.0" cy="80.0" r="5.0" fill="#222222"/>
+<text x="514.0" y="71.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">D</text>
+<circle cx="500.0" cy="160.0" r="5.0" fill="#d9480f"/>
+<text x="514.0" y="179.0" text-anchor="middle" font-size="15" fill="#d9480f" font-weight="bold">A</text>
+<circle cx="420.0" cy="160.0" r="5.0" fill="#222222"/>
+<text x="406.0" y="179.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">B</text>
+<text x="460.0" y="204.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">r180</text>
+<line x1="526.0" y1="120.0" x2="574.0" y2="120.0" stroke="#555555" stroke-width="2" marker-end="url(#ad)"/>
+<rect x="600.0" y="80.0" width="80.0" height="80.0" fill="#f1f1f1" stroke="#222222" stroke-width="2"/>
+<circle cx="600.0" cy="80.0" r="5.0" fill="#222222"/>
+<text x="586.0" y="71.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">D</text>
+<circle cx="680.0" cy="80.0" r="5.0" fill="#d9480f"/>
+<text x="694.0" y="71.0" text-anchor="middle" font-size="15" fill="#d9480f" font-weight="bold">A</text>
+<circle cx="680.0" cy="160.0" r="5.0" fill="#222222"/>
+<text x="694.0" y="179.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">B</text>
+<circle cx="600.0" cy="160.0" r="5.0" fill="#222222"/>
+<text x="586.0" y="179.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">C</text>
+<text x="640.0" y="204.0" text-anchor="middle" font-size="14" fill="#222222" font-weight="bold">r270</text>
+<text x="370.0" y="232.0" text-anchor="middle" font-size="13" fill="#555555">One more turn after r270 returns to r0.</text>
+</svg>

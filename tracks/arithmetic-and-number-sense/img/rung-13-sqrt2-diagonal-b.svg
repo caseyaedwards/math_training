@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340" width="600" height="340" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Square root of 2 on the number line</title>
+<defs><marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="600" height="340" fill="#ffffff"/>
+<text x="300.0" y="28.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">√2 is a real length that no fraction hits</text>
+<line x1="36.0" y1="270.0" x2="468.0" y2="270.0" stroke="#222222" stroke-width="1.5" marker-end="url(#ad)" marker-start="url(#ad)"/>
+<line x1="100.0" y1="264.0" x2="100.0" y2="276.0" stroke="#222222" stroke-width="1.5"/>
+<text x="100.0" y="294.0" text-anchor="middle" font-size="14" fill="#222222">0</text>
+<line x1="260.0" y1="264.0" x2="260.0" y2="276.0" stroke="#222222" stroke-width="1.5"/>
+<text x="260.0" y="294.0" text-anchor="middle" font-size="14" fill="#222222">1</text>
+<line x1="420.0" y1="264.0" x2="420.0" y2="276.0" stroke="#222222" stroke-width="1.5"/>
+<text x="420.0" y="294.0" text-anchor="middle" font-size="14" fill="#222222">2</text>
+<line x1="324.0" y1="266.0" x2="324.0" y2="274.0" stroke="#555555" stroke-width="1"/>
+<text x="324.0" y="314.0" text-anchor="middle" font-size="12" fill="#555555">1.4</text>
+<line x1="340.0" y1="266.0" x2="340.0" y2="274.0" stroke="#555555" stroke-width="1"/>
+<text x="340.0" y="294.0" text-anchor="middle" font-size="12" fill="#555555">1.5</text>
+<rect x="100.0" y="110.0" width="160.0" height="160.0" fill="#f6d5c4" stroke="#222222" stroke-width="2"/>
+<text x="180.0" y="102.0" text-anchor="middle" font-size="14" fill="#222222">1</text>
+<text x="90.0" y="195.0" text-anchor="end" font-size="14" fill="#222222">1</text>
+<line x1="100.0" y1="270.0" x2="260.0" y2="110.0" stroke="#d9480f" stroke-width="3"/>
+<text x="166.0" y="184.0" text-anchor="end" font-size="16" fill="#d9480f" font-weight="bold">√2</text>
+<path d="M260.0,110.0 A226.3,226.3 0 0 1 326.3,270.0" fill="none" stroke="#d9480f" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#aa)"/>
+<circle cx="326.3" cy="270.0" r="6.0" fill="#d9480f"/>
+<text x="340.3" y="256.0" text-anchor="start" font-size="14" fill="#d9480f" font-weight="bold">√2 ≈ 1.41421…</text>
+<text x="470.0" y="90.0" text-anchor="middle" font-size="13" fill="#555555">The diagonal of a unit</text>
+<text x="470.0" y="108.0" text-anchor="middle" font-size="13" fill="#555555">square swings down</text>
+<text x="470.0" y="126.0" text-anchor="middle" font-size="13" fill="#555555">onto the line.</text>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 380" width="520" height="380" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Cayley table for rotations of a square</title>
+<defs><marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="520" height="380" fill="#ffffff"/>
+<text x="260.0" y="28.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">Combine two rotations: add the angles</text>
+<rect x="40.0" y="70.0" width="70.0" height="50.0" fill="#f1f1f1" stroke="#222222" stroke-width="1.2"/>
+<text x="75.0" y="101.0" text-anchor="middle" font-size="18" fill="#222222">∘</text>
+<rect x="110.0" y="70.0" width="70.0" height="50.0" fill="#f1f1f1" stroke="#222222" stroke-width="1.2"/>
+<text x="145.0" y="101.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">r0</text>
+<rect x="180.0" y="70.0" width="70.0" height="50.0" fill="#f1f1f1" stroke="#222222" stroke-width="1.2"/>
+<text x="215.0" y="101.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">r90</text>
+<rect x="250.0" y="70.0" width="70.0" height="50.0" fill="#f1f1f1" stroke="#222222" stroke-width="1.2"/>
+<text x="285.0" y="101.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">r180</text>
+<rect x="320.0" y="70.0" width="70.0" height="50.0" fill="#f1f1f1" stroke="#222222" stroke-width="1.2"/>
+<text x="355.0" y="101.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">r270</text>
+<rect x="40.0" y="120.0" width="70.0" height="50.0" fill="#f1f1f1" stroke="#222222" stroke-width="1.2"/>
+<text x="75.0" y="151.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">r0</text>
+<rect x="110.0" y="120.0" width="70.0" height="50.0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<text x="145.0" y="151.0" text-anchor="middle" font-size="15" fill="#d9480f" font-weight="bold">r0</text>
+<rect x="180.0" y="120.0" width="70.0" height="50.0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="215.0" y="151.0" text-anchor="middle" font-size="15" fill="#222222">r90</text>
+<rect x="250.0" y="120.0" width="70.0" height="50.0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="285.0" y="151.0" text-anchor="middle" font-size="15" fill="#222222">r180</text>
+<rect x="320.0" y="120.0" width="70.0" height="50.0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="355.0" y="151.0" text-anchor="middle" font-size="15" fill="#222222">r270</text>
+<rect x="40.0" y="170.0" width="70.0" height="50.0" fill="#f1f1f1" stroke="#222222" stroke-width="1.2"/>
+<text x="75.0" y="201.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">r90</text>
+<rect x="110.0" y="170.0" width="70.0" height="50.0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="145.0" y="201.0" text-anchor="middle" font-size="15" fill="#222222">r90</text>
+<rect x="180.0" y="170.0" width="70.0" height="50.0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="215.0" y="201.0" text-anchor="middle" font-size="15" fill="#222222">r180</text>
+<rect x="250.0" y="170.0" width="70.0" height="50.0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="285.0" y="201.0" text-anchor="middle" font-size="15" fill="#222222">r270</text>
+<rect x="320.0" y="170.0" width="70.0" height="50.0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<text x="355.0" y="201.0" text-anchor="middle" font-size="15" fill="#d9480f" font-weight="bold">r0</text>
+<rect x="40.0" y="220.0" width="70.0" height="50.0" fill="#f1f1f1" stroke="#222222" stroke-width="1.2"/>
+<text x="75.0" y="251.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">r180</text>
+<rect x="110.0" y="220.0" width="70.0" height="50.0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="145.0" y="251.0" text-anchor="middle" font-size="15" fill="#222222">r180</text>
+<rect x="180.0" y="220.0" width="70.0" height="50.0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="215.0" y="251.0" text-anchor="middle" font-size="15" fill="#222222">r270</text>
+<rect x="250.0" y="220.0" width="70.0" height="50.0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<text x="285.0" y="251.0" text-anchor="middle" font-size="15" fill="#d9480f" font-weight="bold">r0</text>
+<rect x="320.0" y="220.0" width="70.0" height="50.0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="355.0" y="251.0" text-anchor="middle" font-size="15" fill="#222222">r90</text>
+<rect x="40.0" y="270.0" width="70.0" height="50.0" fill="#f1f1f1" stroke="#222222" stroke-width="1.2"/>
+<text x="75.0" y="301.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">r270</text>
+<rect x="110.0" y="270.0" width="70.0" height="50.0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="145.0" y="301.0" text-anchor="middle" font-size="15" fill="#222222">r270</text>
+<rect x="180.0" y="270.0" width="70.0" height="50.0" fill="#f6d5c4" stroke="#222222" stroke-width="1.2"/>
+<text x="215.0" y="301.0" text-anchor="middle" font-size="15" fill="#d9480f" font-weight="bold">r0</text>
+<rect x="250.0" y="270.0" width="70.0" height="50.0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="285.0" y="301.0" text-anchor="middle" font-size="15" fill="#222222">r90</text>
+<rect x="320.0" y="270.0" width="70.0" height="50.0" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="355.0" y="301.0" text-anchor="middle" font-size="15" fill="#222222">r180</text>
+<text x="410.0" y="110.0" text-anchor="start" font-size="13" fill="#222222">Every row</text>
+<text x="410.0" y="128.0" text-anchor="start" font-size="13" fill="#222222">has one r0:</text>
+<text x="410.0" y="146.0" text-anchor="start" font-size="13" fill="#222222">every move</text>
+<text x="410.0" y="164.0" text-anchor="start" font-size="13" fill="#222222">has an</text>
+<text x="410.0" y="182.0" text-anchor="start" font-size="13" fill="#d9480f" font-weight="bold">inverse.</text>
+<text x="410.0" y="226.0" text-anchor="start" font-size="13" fill="#222222">r0 changes</text>
+<text x="410.0" y="244.0" text-anchor="start" font-size="13" fill="#222222">nothing: it is</text>
+<text x="410.0" y="262.0" text-anchor="start" font-size="13" fill="#222222" font-weight="bold">the identity.</text>
+<text x="260.0" y="350.0" text-anchor="middle" font-size="14" fill="#222222">Example: r90 then r270 = 360° = r0.</text>
+</svg>

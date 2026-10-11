@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" width="720" height="320" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Similar triangles scale area by k squared</title>
+<defs><marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="720" height="320" fill="#ffffff"/>
+<text x="360.0" y="28.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold"><tspan>Scale lengths by k and the area scales by k</tspan><tspan dy="-6.1" font-size="11.5">2</tspan></text>
+<polygon points="40.0,230.0 92.0,230.0 58.0,184.0" fill="#f6d5c4" stroke="#222222" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="40.0,230.0 92.0,230.0 58.0,184.0" fill="none" stroke="#222222" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="72.0" y="256.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">k = 1</text>
+<text x="72.0" y="278.0" text-anchor="middle" font-size="13" fill="#222222">sides × 1, area × 1</text>
+<text x="72.0" y="298.0" text-anchor="middle" font-size="13" fill="#555555">1 small copy</text>
+<polygon points="170.0,230.0 222.0,230.0 188.0,184.0" fill="#f6d5c4" stroke="#222222" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="222.0,230.0 240.0,184.0 188.0,184.0" fill="#ffffff" stroke="#222222" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="188.0,184.0 240.0,184.0 206.0,138.0" fill="#f6d5c4" stroke="#222222" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="222.0,230.0 274.0,230.0 240.0,184.0" fill="#f6d5c4" stroke="#222222" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="170.0,230.0 274.0,230.0 206.0,138.0" fill="none" stroke="#d9480f" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="234.0" y="256.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">k = 2</text>
+<text x="234.0" y="278.0" text-anchor="middle" font-size="13" fill="#d9480f">sides × 2, area × 4</text>
+<text x="234.0" y="298.0" text-anchor="middle" font-size="13" fill="#555555">4 small copies</text>
+<polygon points="380.0,230.0 432.0,230.0 398.0,184.0" fill="#f6d5c4" stroke="#222222" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="432.0,230.0 450.0,184.0 398.0,184.0" fill="#ffffff" stroke="#222222" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="398.0,184.0 450.0,184.0 416.0,138.0" fill="#f6d5c4" stroke="#222222" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="450.0,184.0 468.0,138.0 416.0,138.0" fill="#ffffff" stroke="#222222" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="416.0,138.0 468.0,138.0 434.0,92.0" fill="#f6d5c4" stroke="#222222" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="432.0,230.0 484.0,230.0 450.0,184.0" fill="#f6d5c4" stroke="#222222" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="484.0,230.0 502.0,184.0 450.0,184.0" fill="#ffffff" stroke="#222222" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="450.0,184.0 502.0,184.0 468.0,138.0" fill="#f6d5c4" stroke="#222222" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="484.0,230.0 536.0,230.0 502.0,184.0" fill="#f6d5c4" stroke="#222222" stroke-width="1" stroke-linejoin="round"/>
+<polygon points="380.0,230.0 536.0,230.0 434.0,92.0" fill="none" stroke="#d9480f" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="476.0" y="256.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">k = 3</text>
+<text x="476.0" y="278.0" text-anchor="middle" font-size="13" fill="#d9480f">sides × 3, area × 9</text>
+<text x="476.0" y="298.0" text-anchor="middle" font-size="13" fill="#555555">9 small copies</text>
+<text x="600.0" y="120.0" text-anchor="middle" font-size="13" fill="#555555">Each small</text>
+<text x="600.0" y="138.0" text-anchor="middle" font-size="13" fill="#555555">triangle is a</text>
+<text x="600.0" y="156.0" text-anchor="middle" font-size="13" fill="#555555">copy of k = 1.</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 280" width="700" height="280" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>A matrix packs a system of equations</title>
+<defs><marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="700" height="280" fill="#ffffff"/>
+<text x="350.0" y="28.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">Row times column gives one equation</text>
+<polyline points="48.0,60.0 40.0,60.0 40.0,160.0 48.0,160.0" fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="162.0,60.0 170.0,60.0 170.0,160.0 162.0,160.0" fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="48.0" y="68.0" width="114.0" height="38.0" fill="#f6d5c4" stroke="#d9480f" stroke-width="1.5" rx="6"/>
+<text x="80.0" y="94.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">1</text>
+<text x="130.0" y="94.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">1</text>
+<text x="80.0" y="140.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">1</text>
+<text x="130.0" y="140.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">−1</text>
+<polyline points="198.0,60.0 190.0,60.0 190.0,160.0 198.0,160.0" fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="242.0,60.0 250.0,60.0 250.0,160.0 242.0,160.0" fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="198.0" y="66.0" width="44.0" height="88.0" fill="none" stroke="#d9480f" stroke-width="1.5" rx="6" stroke-dasharray="4 3"/>
+<text x="220.0" y="94.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold" font-style="italic">x</text>
+<text x="220.0" y="140.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold" font-style="italic">y</text>
+<text x="275.0" y="117.0" text-anchor="middle" font-size="20" fill="#222222">=</text>
+<polyline points="308.0,60.0 300.0,60.0 300.0,160.0 308.0,160.0" fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="352.0,60.0 360.0,60.0 360.0,160.0 352.0,160.0" fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="330.0" y="94.0" text-anchor="middle" font-size="18" fill="#d9480f" font-weight="bold">5</text>
+<text x="330.0" y="140.0" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">1</text>
+<line x1="372.0" y1="88.0" x2="410.0" y2="88.0" stroke="#d9480f" stroke-width="1.5" marker-end="url(#aa)"/>
+<text x="420.0" y="94.0" text-anchor="start" font-size="16" fill="#d9480f" font-weight="bold">1 · x + 1 · y = 5</text>
+<line x1="372.0" y1="134.0" x2="410.0" y2="134.0" stroke="#555555" stroke-width="1.5" marker-end="url(#ad)"/>
+<text x="420.0" y="140.0" text-anchor="start" font-size="16" fill="#222222">1 · x + (−1) · y = 1</text>
+<text x="350.0" y="210.0" text-anchor="middle" font-size="14" fill="#222222">The highlighted row meets the column (x, y) to make the first equation.</text>
+<text x="350.0" y="236.0" text-anchor="middle" font-size="14" fill="#555555">A x = b holds the whole system in one line.</text>
+</svg>

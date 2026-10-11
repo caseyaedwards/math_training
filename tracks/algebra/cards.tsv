@@ -1,0 +1,13 @@
+Solve \(3x + 5 = 20\)	Subtract 5: \(3x = 15\). Divide by 3: \(x = 5\).	math::tracks::algebra math::tracks::algebra::linear-equations
+What flips the direction of an inequality?	Multiplying or dividing both sides by a negative number.	math::tracks::algebra math::tracks::algebra::inequalities
+Slope between two points	\(m = \frac{y_2 - y_1}{x_2 - x_1}\), rise over run.	math::tracks::algebra math::tracks::algebra::functions
+Slope-intercept form	\(y = mx + b\): slope \(m\), y-intercept \(b\).	math::tracks::algebra math::tracks::algebra::functions
+Quadratic formula	\(x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}\)	math::tracks::algebra math::tracks::algebra::quadratics
+What does the discriminant \(b^2 - 4ac\) tell you?	Positive: two real roots. Zero: one. Negative: none (two complex).	math::tracks::algebra math::tracks::algebra::quadratics
+Factor \(x^2 + 5x + 6\)	\((x + 2)(x + 3)\)	math::tracks::algebra math::tracks::algebra::factoring
+Exponent rules	\(a^m a^n = a^{m+n}\), \((a^m)^n = a^{mn}\), \(a^{-n} = 1/a^n\), \(a^0 = 1\).	math::tracks::algebra math::tracks::algebra::exponents
+Definition of \(\log_b y\)	The power of \(b\) that gives \(y\): \(b^x = y \iff x = \log_b y\).	math::tracks::algebra math::tracks::algebra::logs
+\(i^2 = ?\)	\(-1\). Multiplying by \(i\) rotates a point in the complex plane by 90 degrees.	math::tracks::algebra math::tracks::algebra::complex
+Factor theorem	\(p(r) = 0\) exactly when \((x - r)\) is a factor of \(p(x)\).	math::tracks::algebra math::tracks::algebra::polynomials
+Fundamental theorem of algebra	A degree \(n\) polynomial has exactly \(n\) complex roots, counted with repetition.	math::tracks::algebra math::tracks::algebra::fta
+What is a group?	A set with one operation that is associative, has an identity, and has inverses.	math::tracks::algebra math::tracks::algebra::groups

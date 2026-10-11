@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" width="720" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>A Function Versus a Relation That Is Not a Function</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="720" height="300" fill="#ffffff"/>
+<text x="360.0" y="26.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">A Function Versus a Relation</text>
+<ellipse cx="90" cy="150" rx="40" ry="85" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<ellipse cx="270" cy="150" rx="40" ry="85" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="90.0" y="100.0" text-anchor="middle" fill="#222222" font-weight="bold">1</text>
+<text x="90.0" y="155.0" text-anchor="middle" fill="#222222" font-weight="bold">2</text>
+<text x="90.0" y="210.0" text-anchor="middle" fill="#222222" font-weight="bold">3</text>
+<text x="270.0" y="100.0" text-anchor="middle" fill="#222222" font-weight="bold">a</text>
+<text x="270.0" y="155.0" text-anchor="middle" fill="#222222" font-weight="bold">b</text>
+<text x="270.0" y="210.0" text-anchor="middle" fill="#222222" font-weight="bold">c</text>
+<line x1="104.0" y1="95.0" x2="254.0" y2="95.0" stroke="#555555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="103.4" y1="145.9" x2="254.7" y2="99.7" stroke="#555555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="104.0" y1="205.0" x2="254.0" y2="205.0" stroke="#555555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="180.0" y="60.0" text-anchor="middle" fill="#222222" font-weight="bold">function</text>
+<text x="180.0" y="262.0" text-anchor="middle" fill="#555555" font-size="13">pairs (1,a), (2,a), (3,c)</text>
+<text x="180.0" y="282.0" text-anchor="middle" fill="#555555" font-size="13">each input has exactly one output</text>
+<ellipse cx="450" cy="150" rx="40" ry="85" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<ellipse cx="630" cy="150" rx="40" ry="85" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="450.0" y="100.0" text-anchor="middle" fill="#d9480f" font-weight="bold">1</text>
+<text x="450.0" y="155.0" text-anchor="middle" fill="#d9480f" font-weight="bold">2</text>
+<text x="450.0" y="210.0" text-anchor="middle" fill="#222222" font-weight="bold">3</text>
+<text x="630.0" y="100.0" text-anchor="middle" fill="#222222" font-weight="bold">a</text>
+<text x="630.0" y="155.0" text-anchor="middle" fill="#222222" font-weight="bold">b</text>
+<text x="630.0" y="210.0" text-anchor="middle" fill="#222222" font-weight="bold">c</text>
+<line x1="464.0" y1="95.0" x2="614.0" y2="95.0" stroke="#d9480f" stroke-width="2" marker-end="url(#arrowA)"/>
+<line x1="463.4" y1="99.1" x2="614.7" y2="145.3" stroke="#d9480f" stroke-width="2" marker-end="url(#arrowA)"/>
+<line x1="464.0" y1="205.0" x2="614.0" y2="205.0" stroke="#555555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="540.0" y="60.0" text-anchor="middle" fill="#222222" font-weight="bold">relation, not a function</text>
+<text x="540.0" y="262.0" text-anchor="middle" fill="#555555" font-size="13">pairs (1,a), (1,b), (3,c)</text>
+<text x="540.0" y="282.0" text-anchor="middle" fill="#d9480f" font-size="13">1 has two outputs, 2 has none</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 340" width="560" height="340" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Vertical angles and a straight line</title>
+<defs><marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="560" height="340" fill="#ffffff"/>
+<text x="280.0" y="28.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">Crossing lines: opposite angles match</text>
+<line x1="90.0" y1="180.0" x2="430.0" y2="180.0" stroke="#222222" stroke-width="2.5"/>
+<line x1="209.0" y1="268.3" x2="311.0" y2="91.7" stroke="#222222" stroke-width="2.5"/>
+<path d="M260.0,180.0 L294.0,180.0 A34.0,34.0 0 0 0 277.0,150.6 Z" fill="#f6d5c4" stroke="#d9480f" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M260.0,180.0 L226.0,180.0 A34.0,34.0 0 0 0 243.0,209.4 Z" fill="#f6d5c4" stroke="#d9480f" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M286.0,135.0 A52.0,52.0 0 0 0 208.0,180.0" fill="none" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M234.0,225.0 A52.0,52.0 0 0 0 312.0,180.0" fill="none" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="313.7" y="154.0" text-anchor="middle" font-size="15" fill="#d9480f" font-weight="bold">60°</text>
+<text x="206.3" y="216.0" text-anchor="middle" font-size="15" fill="#d9480f" font-weight="bold">60°</text>
+<text x="221.0" y="117.5" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">120°</text>
+<text x="299.0" y="252.5" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">120°</text>
+<text x="280.0" y="300.0" text-anchor="middle" font-size="14" fill="#222222">Opposite (vertical) angles are equal: 60° and 60°, 120° and 120°.</text>
+<text x="280.0" y="324.0" text-anchor="middle" font-size="14" fill="#d9480f">Neighbors on a straight line add to 180°: 60° + 120° = 180°.</text>
+</svg>

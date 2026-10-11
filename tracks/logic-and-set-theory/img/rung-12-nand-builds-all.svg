@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 420" width="740" height="420" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Building NOT, AND and OR from NAND Gates Only</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="740" height="420" fill="#ffffff"/>
+<text x="370" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">NAND alone builds every other gate</text>
+<text x="30" y="70" text-anchor="start" fill="#222222" font-weight="bold">NOT x</text>
+<polyline points="40,110 90,110" fill="none" stroke="#222222" stroke-width="1.6"/>
+<text x="36" y="115" text-anchor="end" fill="#222222" font-style="italic">x</text>
+<polyline points="90,110 90,98 120,98" fill="none" stroke="#222222" stroke-width="1.6"/>
+<polyline points="90,110 90,122 120,122" fill="none" stroke="#222222" stroke-width="1.6"/>
+<circle cx="90" cy="110" r="3" fill="#222222" stroke="none" stroke-width="0"/>
+<path d="M120,85 h30 a25,25 0 0 1 0,50 h-30 z" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<circle cx="180" cy="110" r="5" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<polyline points="185,110 215,110" fill="none" stroke="#d9480f" stroke-width="2"/>
+<text x="221" y="115" text-anchor="start" fill="#d9480f" font-weight="bold">¬x</text>
+<text x="150" y="160" text-anchor="middle" fill="#555555" font-size="12">tie both inputs together</text>
+<text x="400" y="70" text-anchor="start" fill="#222222" font-weight="bold">x AND y</text>
+<polyline points="410,98 440,98" fill="none" stroke="#222222" stroke-width="1.6"/>
+<polyline points="410,122 440,122" fill="none" stroke="#222222" stroke-width="1.6"/>
+<text x="406" y="103" text-anchor="end" fill="#222222" font-style="italic">x</text>
+<text x="406" y="127" text-anchor="end" fill="#222222" font-style="italic">y</text>
+<path d="M440,85 h30 a25,25 0 0 1 0,50 h-30 z" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<circle cx="500" cy="110" r="5" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<polyline points="505,110 525,110" fill="none" stroke="#222222" stroke-width="1.6"/>
+<polyline points="525,110 525,98 545,98" fill="none" stroke="#222222" stroke-width="1.6"/>
+<polyline points="525,110 525,122 545,122" fill="none" stroke="#222222" stroke-width="1.6"/>
+<circle cx="525" cy="110" r="3" fill="#222222" stroke="none" stroke-width="0"/>
+<path d="M545,85 h30 a25,25 0 0 1 0,50 h-30 z" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<circle cx="605" cy="110" r="5" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<polyline points="610,110 635,110" fill="none" stroke="#d9480f" stroke-width="2"/>
+<text x="640" y="115" text-anchor="start" fill="#d9480f" font-weight="bold">x ∧ y</text>
+<text x="540" y="160" text-anchor="middle" fill="#555555" font-size="12">NAND, then NAND as NOT</text>
+<text x="30" y="230" text-anchor="start" fill="#222222" font-weight="bold">x OR y</text>
+<polyline points="50,260 90,260" fill="none" stroke="#222222" stroke-width="1.6"/>
+<text x="46" y="265" text-anchor="end" fill="#222222" font-style="italic">x</text>
+<polyline points="90,260 90,248 120,248" fill="none" stroke="#222222" stroke-width="1.6"/>
+<polyline points="90,260 90,272 120,272" fill="none" stroke="#222222" stroke-width="1.6"/>
+<circle cx="90" cy="260" r="3" fill="#222222" stroke="none" stroke-width="0"/>
+<path d="M120,235 h30 a25,25 0 0 1 0,50 h-30 z" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<circle cx="180" cy="260" r="5" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<polyline points="185,260 215,260 215,288 250,288" fill="none" stroke="#222222" stroke-width="1.6"/>
+<polyline points="50,340 90,340" fill="none" stroke="#222222" stroke-width="1.6"/>
+<text x="46" y="345" text-anchor="end" fill="#222222" font-style="italic">y</text>
+<polyline points="90,340 90,328 120,328" fill="none" stroke="#222222" stroke-width="1.6"/>
+<polyline points="90,340 90,352 120,352" fill="none" stroke="#222222" stroke-width="1.6"/>
+<circle cx="90" cy="340" r="3" fill="#222222" stroke="none" stroke-width="0"/>
+<path d="M120,315 h30 a25,25 0 0 1 0,50 h-30 z" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<circle cx="180" cy="340" r="5" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<polyline points="185,340 215,340 215,312 250,312" fill="none" stroke="#222222" stroke-width="1.6"/>
+<text x="200" y="252" text-anchor="middle" fill="#555555" font-size="13">¬x</text>
+<text x="200" y="332" text-anchor="middle" fill="#555555" font-size="13">¬y</text>
+<path d="M250,275 h30 a25,25 0 0 1 0,50 h-30 z" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<circle cx="310" cy="300" r="5" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<polyline points="315,300 345,300" fill="none" stroke="#d9480f" stroke-width="2"/>
+<text x="351" y="305" text-anchor="start" fill="#d9480f" font-weight="bold">x ∨ y</text>
+<text x="470" y="280" text-anchor="start" fill="#222222" font-size="13">NAND(¬x, ¬y) = ¬(¬x ∧ ¬y)</text>
+<text x="470" y="302" text-anchor="start" fill="#222222" font-size="13">= x ∨ y by De Morgan</text>
+<text x="470" y="340" text-anchor="start" fill="#555555" font-size="13">Each D shape with a bubble</text>
+<text x="470" y="358" text-anchor="start" fill="#555555" font-size="13">is one NAND gate.</text>
+</svg>

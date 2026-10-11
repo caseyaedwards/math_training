@@ -1,0 +1,15 @@
+Two parts of a proof by induction	Base case \(P(1)\), and inductive step \(P(k) \to P(k+1)\).	math::tracks::discrete-math math::tracks::discrete-math::induction
+How does strong induction differ from plain induction?	The step assumes all of \(P(1), \ldots, P(k)\), not only \(P(k)\).	math::tracks::discrete-math math::tracks::discrete-math::induction
+\(1 + 2 + \cdots + n\)	\(\frac{n(n+1)}{2}\)	math::tracks::discrete-math math::tracks::discrete-math::sums
+Towers of Hanoi recurrence and closed form	\(T(n) = 2T(n-1) + 1\), \(T(n) = 2^n - 1\).	math::tracks::discrete-math math::tracks::discrete-math::recurrences
+Fibonacci characteristic equation	\(r^2 = r + 1\), roots \(\varphi = \frac{1+\sqrt5}{2}\) and \(\psi = \frac{1-\sqrt5}{2}\).	math::tracks::discrete-math math::tracks::discrete-math::recurrences
+Pigeonhole principle	\(N\) items in \(k\) boxes force a box with at least \(\lceil N/k \rceil\) items.	math::tracks::discrete-math math::tracks::discrete-math::pigeonhole
+Handshake lemma	\(\sum_v \deg(v) = 2|E|\)	math::tracks::discrete-math math::tracks::discrete-math::graphs
+Edges in a tree with \(n\) vertices	\(n - 1\)	math::tracks::discrete-math math::tracks::discrete-math::graphs
+When does a connected graph have an Euler walk?	When it has 0 or 2 vertices of odd degree.	math::tracks::discrete-math math::tracks::discrete-math::graphs
+Meaning of \(f(n) = O(g(n))\)	\(f(n) \le c\,g(n)\) for some constant \(c\) and all large \(n\).	math::tracks::discrete-math math::tracks::discrete-math::big-o
+Max comparisons for binary search on 1,000,000 items	20, since \(2^{20} = 1{,}048{,}576\).	math::tracks::discrete-math math::tracks::discrete-math::big-o
+Partial order	A relation that is reflexive, antisymmetric and transitive. Example: deploy-before.	math::tracks::discrete-math math::tracks::discrete-math::relations
+Linearity of expectation	\(E[X + Y] = E[X] + E[Y]\), even when \(X\) and \(Y\) depend on each other.	math::tracks::discrete-math math::tracks::discrete-math::probability
+What can a regex (finite automaton) NOT do?	Check balanced parentheses of any depth.	math::tracks::discrete-math math::tracks::discrete-math::automata
+Halting problem	No program decides, for every program and input, whether it halts.	math::tracks::discrete-math math::tracks::discrete-math::computability

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Nested Classes of Problems</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="720" height="420" fill="#ffffff"/>
+<text x="360.0" y="26.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">Problem Classes as Nested Sets</text>
+<rect x="30.0" y="50.0" width="660.0" height="350.0" rx="10" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="50.0" y="76.0" text-anchor="start" fill="#222222" font-weight="bold">all yes/no problems</text>
+<ellipse cx="290" cy="230" rx="245" ry="150" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="290.0" y="140.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">decidable (some program always answers)</text>
+<ellipse cx="290" cy="260" rx="170" ry="90" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="290.0" y="194.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">NP: answers checkable fast</text>
+<text x="290.0" y="214.0" text-anchor="middle" fill="#555555" font-size="13">Sudoku, SAT</text>
+<ellipse cx="290" cy="290" rx="100" ry="50" fill="#ffffff" stroke="#d9480f" stroke-width="2"/>
+<text x="290.0" y="278.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">P: solvable fast</text>
+<text x="290.0" y="298.0" text-anchor="middle" fill="#555555" font-size="13">sorting,</text>
+<text x="290.0" y="315.0" text-anchor="middle" fill="#555555" font-size="13">shortest path</text>
+<text x="290.0" y="368.0" text-anchor="middle" fill="#555555" font-size="13">harder decidable problems</text>
+<text x="610.0" y="220.0" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">halting problem</text>
+<text x="610.0" y="240.0" text-anchor="middle" fill="#555555" font-size="13">(undecidable)</text>
+<text x="610.0" y="300.0" text-anchor="middle" fill="#222222" font-size="13" font-weight="bold">P = NP?</text>
+<text x="610.0" y="320.0" text-anchor="middle" fill="#555555" font-size="13">still open</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 360" width="620" height="360" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Circle with radius, diameter and circumference</title>
+<defs><marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="620" height="360" fill="#ffffff"/>
+<text x="310.0" y="28.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">Radius, diameter and circumference</text>
+<circle cx="190.0" cy="190.0" r="130.0" fill="none" stroke="#d9480f" stroke-width="3"/>
+<line x1="60.0" y1="190.0" x2="320.0" y2="190.0" stroke="#222222" stroke-width="2"/>
+<line x1="190.0" y1="190.0" x2="255.0" y2="77.4" stroke="#222222" stroke-width="2"/>
+<circle cx="190.0" cy="190.0" r="5.0" fill="#222222"/>
+<text x="190.0" y="212.0" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">d = 2r</text>
+<text x="212.5" y="133.7" text-anchor="end" font-size="16" fill="#222222" font-weight="bold" font-style="italic">r</text>
+<text x="85.3" y="85.3" text-anchor="end" font-size="18" fill="#d9480f" font-weight="bold">C</text>
+<text x="370.0" y="120.0" text-anchor="start" font-size="15" fill="#222222">r: center to edge</text>
+<text x="370.0" y="146.0" text-anchor="start" font-size="15" fill="#222222">d = 2r: edge to edge</text>
+<text x="370.0" y="172.0" text-anchor="start" font-size="15" fill="#d9480f" font-weight="bold">C: once around</text>
+<text x="370.0" y="224.0" text-anchor="start" font-size="15" fill="#222222" font-weight="bold">C ÷ d = π ≈ 3.14159</text>
+<text x="370.0" y="250.0" text-anchor="start" font-size="15" fill="#222222">for every circle, so</text>
+<text x="370.0" y="276.0" text-anchor="start" font-size="15" fill="#d9480f" font-weight="bold">C = πd = 2πr</text>
+</svg>

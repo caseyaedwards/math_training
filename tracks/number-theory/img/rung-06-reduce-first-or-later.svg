@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 400" width="560" height="400" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Multiply First or Reduce First: Same Remainder</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="560" height="400" fill="#ffffff"/>
+<text x="280" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Multiply then reduce, or reduce then multiply: same answer</text>
+<rect x="65" y="60" width="110" height="36" fill="#ffffff" stroke="#222222" stroke-width="1.6"/>
+<text x="120" y="84" text-anchor="middle" fill="#222222" font-weight="bold">17 and 23</text>
+<rect x="345" y="60" width="150" height="36" fill="#ffffff" stroke="#222222" stroke-width="1.6"/>
+<text x="420" y="84" text-anchor="middle" fill="#222222" font-weight="bold">17 × 23 = 391</text>
+<rect x="65" y="300" width="110" height="36" fill="#ffffff" stroke="#222222" stroke-width="1.6"/>
+<text x="120" y="324" text-anchor="middle" fill="#222222" font-weight="bold">7 and 3</text>
+<rect x="345" y="300" width="150" height="36" fill="#ffffff" stroke="#222222" stroke-width="1.6"/>
+<text x="420" y="324" text-anchor="middle" fill="#222222" font-weight="bold">7 × 3 = 21</text>
+<line x1="178" y1="78" x2="342" y2="78" stroke="#555555" stroke-width="1.5" marker-end="url(#arrD)"/>
+<text x="260" y="70" text-anchor="middle" fill="#555555" font-size="13">multiply</text>
+<line x1="178" y1="318" x2="342" y2="318" stroke="#555555" stroke-width="1.5" marker-end="url(#arrD)"/>
+<text x="260" y="310" text-anchor="middle" fill="#555555" font-size="13">multiply</text>
+<line x1="120" y1="98" x2="120" y2="297" stroke="#555555" stroke-width="1.5" marker-end="url(#arrD)"/>
+<text x="110" y="205" text-anchor="end" fill="#555555" font-size="13">mod 10</text>
+<text x="110" y="225" text-anchor="end" fill="#555555" font-size="12">17 → 7, 23 → 3</text>
+<line x1="420" y1="98" x2="420" y2="176" stroke="#d9480f" stroke-width="1.5" marker-end="url(#arrA)"/>
+<text x="430" y="142" text-anchor="start" fill="#d9480f" font-size="13">391 mod 10</text>
+<line x1="420" y1="298" x2="420" y2="214" stroke="#d9480f" stroke-width="1.5" marker-end="url(#arrA)"/>
+<text x="430" y="260" text-anchor="start" fill="#d9480f" font-size="13">21 mod 10</text>
+<circle cx="420" cy="195" r="17" fill="#d9480f" stroke="none" stroke-width="0"/>
+<text x="420" y="201" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="bold">1</text>
+<text x="280" y="380" text-anchor="middle" fill="#222222" font-size="13">Both routes end at 1. Reduce early to keep the numbers small.</text>
+</svg>

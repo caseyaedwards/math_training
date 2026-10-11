@@ -1,0 +1,13 @@
+Average rate of change	\(\frac{f(b) - f(a)}{b - a}\): the secant slope.	math::tracks::calculus math::tracks::calculus::rates
+Definition of the derivative	\(f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}\)	math::tracks::calculus math::tracks::calculus::derivative
+Power rule	\((x^n)' = nx^{n-1}\)	math::tracks::calculus math::tracks::calculus::rules
+Chain rule	\((f(g(x)))' = f'(g(x))\,g'(x)\)	math::tracks::calculus math::tracks::calculus::rules
+Product rule	\((fg)' = f'g + fg'\)	math::tracks::calculus math::tracks::calculus::rules
+Where can a smooth function have a max or min?	Where \(f'(x) = 0\) (or at the ends of the interval).	math::tracks::calculus math::tracks::calculus::optimization
+Definite integral as a limit	\(\int_a^b f\,dx = \lim_{n\to\infty}\sum f(x_i)\Delta x\): area by thinner and thinner rectangles.	math::tracks::calculus math::tracks::calculus::integral
+Fundamental theorem of calculus	If \(F' = f\), then \(\int_a^b f(x)\,dx = F(b) - F(a)\).	math::tracks::calculus math::tracks::calculus::ftc
+\(\int_0^2 x^2\,dx\)	\(\frac{8}{3}\)	math::tracks::calculus math::tracks::calculus::integral
+Taylor series of \(e^x\)	\(1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \cdots\)	math::tracks::calculus math::tracks::calculus::series
+Solution of \(y' = ky\)	\(y = y_0 e^{kt}\): exponential growth or decay.	math::tracks::calculus math::tracks::calculus::ode
+Prometheus rate() and increase() in calculus terms	rate() is a derivative of a counter. increase() is an integral of a rate.	math::tracks::calculus math::tracks::calculus::applied
+Mean value theorem	On a smooth stretch, some point has instantaneous rate equal to the average rate.	math::tracks::calculus math::tracks::calculus::theorems

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>All 6 Orderings of A, B, C</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="640" height="360" fill="#ffffff"/>
+<text x="320.0" y="26.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">All 3! = 6 Orderings of A, B, C</text>
+<circle cx="50.0" cy="195.0" r="7.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<text x="150.0" y="58.0" text-anchor="middle" fill="#555555" font-size="13">3 choices</text>
+<text x="290.0" y="58.0" text-anchor="middle" fill="#555555" font-size="13">2 left</text>
+<text x="430.0" y="58.0" text-anchor="middle" fill="#555555" font-size="13">1 left</text>
+<line x1="55.9" y1="189.6" x2="136.6" y2="117.0" stroke="#555555" stroke-width="1.5"/>
+<circle cx="150.0" cy="105.0" r="16.0" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="150.0" y="110.0" text-anchor="middle" fill="#222222" font-weight="bold">A</text>
+<line x1="167.8" y1="102.2" x2="274.2" y2="85.5" stroke="#555555" stroke-width="1.5"/>
+<circle cx="290.0" cy="83.0" r="14.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="290.0" y="88.0" text-anchor="middle" fill="#222222" font-size="13">B</text>
+<line x1="306.0" y1="83.0" x2="416.0" y2="83.0" stroke="#555555" stroke-width="1.5"/>
+<circle cx="430.0" cy="83.0" r="14.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="430.0" y="88.0" text-anchor="middle" fill="#222222" font-size="13">C</text>
+<text x="470.0" y="88.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">1. ABC</text>
+<line x1="167.8" y1="107.8" x2="274.2" y2="124.5" stroke="#555555" stroke-width="1.5"/>
+<circle cx="290.0" cy="127.0" r="14.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="290.0" y="132.0" text-anchor="middle" fill="#222222" font-size="13">C</text>
+<line x1="306.0" y1="127.0" x2="416.0" y2="127.0" stroke="#555555" stroke-width="1.5"/>
+<circle cx="430.0" cy="127.0" r="14.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="430.0" y="132.0" text-anchor="middle" fill="#222222" font-size="13">B</text>
+<text x="470.0" y="132.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">2. ACB</text>
+<line x1="58.0" y1="195.0" x2="132.0" y2="195.0" stroke="#555555" stroke-width="1.5"/>
+<circle cx="150.0" cy="195.0" r="16.0" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="150.0" y="200.0" text-anchor="middle" fill="#222222" font-weight="bold">B</text>
+<line x1="167.8" y1="192.2" x2="274.2" y2="175.5" stroke="#555555" stroke-width="1.5"/>
+<circle cx="290.0" cy="173.0" r="14.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="290.0" y="178.0" text-anchor="middle" fill="#222222" font-size="13">A</text>
+<line x1="306.0" y1="173.0" x2="416.0" y2="173.0" stroke="#555555" stroke-width="1.5"/>
+<circle cx="430.0" cy="173.0" r="14.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="430.0" y="178.0" text-anchor="middle" fill="#222222" font-size="13">C</text>
+<text x="470.0" y="178.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">3. BAC</text>
+<line x1="167.8" y1="197.8" x2="274.2" y2="214.5" stroke="#555555" stroke-width="1.5"/>
+<circle cx="290.0" cy="217.0" r="14.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="290.0" y="222.0" text-anchor="middle" fill="#222222" font-size="13">C</text>
+<line x1="306.0" y1="217.0" x2="416.0" y2="217.0" stroke="#555555" stroke-width="1.5"/>
+<circle cx="430.0" cy="217.0" r="14.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="430.0" y="222.0" text-anchor="middle" fill="#222222" font-size="13">A</text>
+<text x="470.0" y="222.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">4. BCA</text>
+<line x1="55.9" y1="200.4" x2="136.6" y2="273.0" stroke="#555555" stroke-width="1.5"/>
+<circle cx="150.0" cy="285.0" r="16.0" fill="#f6d5c4" stroke="#222222" stroke-width="1.5"/>
+<text x="150.0" y="290.0" text-anchor="middle" fill="#222222" font-weight="bold">C</text>
+<line x1="167.8" y1="282.2" x2="274.2" y2="265.5" stroke="#555555" stroke-width="1.5"/>
+<circle cx="290.0" cy="263.0" r="14.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="290.0" y="268.0" text-anchor="middle" fill="#222222" font-size="13">A</text>
+<line x1="306.0" y1="263.0" x2="416.0" y2="263.0" stroke="#555555" stroke-width="1.5"/>
+<circle cx="430.0" cy="263.0" r="14.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="430.0" y="268.0" text-anchor="middle" fill="#222222" font-size="13">B</text>
+<text x="470.0" y="268.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">5. CAB</text>
+<line x1="167.8" y1="287.8" x2="274.2" y2="304.5" stroke="#555555" stroke-width="1.5"/>
+<circle cx="290.0" cy="307.0" r="14.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="290.0" y="312.0" text-anchor="middle" fill="#222222" font-size="13">B</text>
+<line x1="306.0" y1="307.0" x2="416.0" y2="307.0" stroke="#555555" stroke-width="1.5"/>
+<circle cx="430.0" cy="307.0" r="14.0" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="430.0" y="312.0" text-anchor="middle" fill="#222222" font-size="13">A</text>
+<text x="470.0" y="312.0" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">6. CBA</text>
+<text x="320.0" y="345.0" text-anchor="middle" fill="#555555" font-size="13">3 × 2 × 1 = 6 leaves, one per ordering</text>
+</svg>

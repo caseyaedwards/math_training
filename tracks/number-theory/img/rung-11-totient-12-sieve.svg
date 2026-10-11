@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" width="640" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Totient of 12 by Sieving Out Multiples of 2 and 3</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="640" height="300" fill="#ffffff"/>
+<text x="320" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">φ(12) = 12 × (1 − 1/2) × (1 − 1/3) = 4</text>
+<text x="188" y="82" text-anchor="end" fill="#222222" font-size="13" font-weight="bold">1 to 12</text>
+<rect x="200" y="60" width="34" height="34" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="217" y="82" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<rect x="234" y="60" width="34" height="34" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="251" y="82" text-anchor="middle" fill="#222222" font-size="13">2</text>
+<rect x="268" y="60" width="34" height="34" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="285" y="82" text-anchor="middle" fill="#222222" font-size="13">3</text>
+<rect x="302" y="60" width="34" height="34" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="319" y="82" text-anchor="middle" fill="#222222" font-size="13">4</text>
+<rect x="336" y="60" width="34" height="34" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="353" y="82" text-anchor="middle" fill="#222222" font-size="13">5</text>
+<rect x="370" y="60" width="34" height="34" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="387" y="82" text-anchor="middle" fill="#222222" font-size="13">6</text>
+<rect x="404" y="60" width="34" height="34" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="421" y="82" text-anchor="middle" fill="#222222" font-size="13">7</text>
+<rect x="438" y="60" width="34" height="34" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="455" y="82" text-anchor="middle" fill="#222222" font-size="13">8</text>
+<rect x="472" y="60" width="34" height="34" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="489" y="82" text-anchor="middle" fill="#222222" font-size="13">9</text>
+<rect x="506" y="60" width="34" height="34" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="523" y="82" text-anchor="middle" fill="#222222" font-size="13">10</text>
+<rect x="540" y="60" width="34" height="34" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="557" y="82" text-anchor="middle" fill="#222222" font-size="13">11</text>
+<rect x="574" y="60" width="34" height="34" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="591" y="82" text-anchor="middle" fill="#222222" font-size="13">12</text>
+<text x="404" y="112" text-anchor="middle" fill="#555555" font-size="13">left: 12</text>
+<text x="188" y="152" text-anchor="end" fill="#222222" font-size="13" font-weight="bold">drop multiples of 2</text>
+<rect x="200" y="130" width="34" height="34" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="217" y="152" text-anchor="middle" fill="#222222" font-size="13">1</text>
+<rect x="234" y="130" width="34" height="34" fill="#ffffff" stroke="#555555" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="251" y="152" text-anchor="middle" fill="#555555" font-size="13">2</text>
+<line x1="239" y1="159" x2="263" y2="135" stroke="#555555" stroke-width="1"/>
+<rect x="268" y="130" width="34" height="34" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="285" y="152" text-anchor="middle" fill="#222222" font-size="13">3</text>
+<rect x="302" y="130" width="34" height="34" fill="#ffffff" stroke="#555555" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="319" y="152" text-anchor="middle" fill="#555555" font-size="13">4</text>
+<line x1="307" y1="159" x2="331" y2="135" stroke="#555555" stroke-width="1"/>
+<rect x="336" y="130" width="34" height="34" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="353" y="152" text-anchor="middle" fill="#222222" font-size="13">5</text>
+<rect x="370" y="130" width="34" height="34" fill="#ffffff" stroke="#555555" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="387" y="152" text-anchor="middle" fill="#555555" font-size="13">6</text>
+<line x1="375" y1="159" x2="399" y2="135" stroke="#555555" stroke-width="1"/>
+<rect x="404" y="130" width="34" height="34" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="421" y="152" text-anchor="middle" fill="#222222" font-size="13">7</text>
+<rect x="438" y="130" width="34" height="34" fill="#ffffff" stroke="#555555" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="455" y="152" text-anchor="middle" fill="#555555" font-size="13">8</text>
+<line x1="443" y1="159" x2="467" y2="135" stroke="#555555" stroke-width="1"/>
+<rect x="472" y="130" width="34" height="34" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="489" y="152" text-anchor="middle" fill="#222222" font-size="13">9</text>
+<rect x="506" y="130" width="34" height="34" fill="#ffffff" stroke="#555555" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="523" y="152" text-anchor="middle" fill="#555555" font-size="13">10</text>
+<line x1="511" y1="159" x2="535" y2="135" stroke="#555555" stroke-width="1"/>
+<rect x="540" y="130" width="34" height="34" fill="#ffffff" stroke="#222222" stroke-width="1.2"/>
+<text x="557" y="152" text-anchor="middle" fill="#222222" font-size="13">11</text>
+<rect x="574" y="130" width="34" height="34" fill="#ffffff" stroke="#555555" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="591" y="152" text-anchor="middle" fill="#555555" font-size="13">12</text>
+<line x1="579" y1="159" x2="603" y2="135" stroke="#555555" stroke-width="1"/>
+<text x="404" y="182" text-anchor="middle" fill="#555555" font-size="13">left: 12 × 1/2 = 6</text>
+<text x="188" y="222" text-anchor="end" fill="#222222" font-size="13" font-weight="bold">drop multiples of 3</text>
+<rect x="200" y="200" width="34" height="34" fill="#d9480f" stroke="#222222" stroke-width="1.2"/>
+<text x="217" y="222" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="bold">1</text>
+<rect x="234" y="200" width="34" height="34" fill="#ffffff" stroke="#555555" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="251" y="222" text-anchor="middle" fill="#555555" font-size="13">2</text>
+<line x1="239" y1="229" x2="263" y2="205" stroke="#555555" stroke-width="1"/>
+<rect x="268" y="200" width="34" height="34" fill="#ffffff" stroke="#555555" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="285" y="222" text-anchor="middle" fill="#555555" font-size="13">3</text>
+<line x1="273" y1="229" x2="297" y2="205" stroke="#555555" stroke-width="1"/>
+<rect x="302" y="200" width="34" height="34" fill="#ffffff" stroke="#555555" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="319" y="222" text-anchor="middle" fill="#555555" font-size="13">4</text>
+<line x1="307" y1="229" x2="331" y2="205" stroke="#555555" stroke-width="1"/>
+<rect x="336" y="200" width="34" height="34" fill="#d9480f" stroke="#222222" stroke-width="1.2"/>
+<text x="353" y="222" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="bold">5</text>
+<rect x="370" y="200" width="34" height="34" fill="#ffffff" stroke="#555555" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="387" y="222" text-anchor="middle" fill="#555555" font-size="13">6</text>
+<line x1="375" y1="229" x2="399" y2="205" stroke="#555555" stroke-width="1"/>
+<rect x="404" y="200" width="34" height="34" fill="#d9480f" stroke="#222222" stroke-width="1.2"/>
+<text x="421" y="222" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="bold">7</text>
+<rect x="438" y="200" width="34" height="34" fill="#ffffff" stroke="#555555" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="455" y="222" text-anchor="middle" fill="#555555" font-size="13">8</text>
+<line x1="443" y1="229" x2="467" y2="205" stroke="#555555" stroke-width="1"/>
+<rect x="472" y="200" width="34" height="34" fill="#ffffff" stroke="#555555" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="489" y="222" text-anchor="middle" fill="#555555" font-size="13">9</text>
+<line x1="477" y1="229" x2="501" y2="205" stroke="#555555" stroke-width="1"/>
+<rect x="506" y="200" width="34" height="34" fill="#ffffff" stroke="#555555" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="523" y="222" text-anchor="middle" fill="#555555" font-size="13">10</text>
+<line x1="511" y1="229" x2="535" y2="205" stroke="#555555" stroke-width="1"/>
+<rect x="540" y="200" width="34" height="34" fill="#d9480f" stroke="#222222" stroke-width="1.2"/>
+<text x="557" y="222" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="bold">11</text>
+<rect x="574" y="200" width="34" height="34" fill="#ffffff" stroke="#555555" stroke-width="0.8" stroke-dasharray="3,3"/>
+<text x="591" y="222" text-anchor="middle" fill="#555555" font-size="13">12</text>
+<line x1="579" y1="229" x2="603" y2="205" stroke="#555555" stroke-width="1"/>
+<text x="404" y="252" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">left: 6 × 2/3 = 4</text>
+<text x="320" y="284" text-anchor="middle" fill="#222222" font-size="13">Survivors 1, 5, 7, 11 share no factor with 12.</text>
+</svg>

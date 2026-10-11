@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 380" width="700" height="380" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>f(n) = 3n + 10 Is O(n)</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="700" height="380" fill="#ffffff"/>
+<text x="350.0" y="26.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">3n + 10 Is O(n): Below 4n Once n ≥ 10</text>
+<rect x="246.0" y="50.0" width="264.0" height="270.0" rx="0" fill="#f6d5c4" stroke="none" stroke-width="0"/>
+<rect x="70.0" y="50.0" width="440.0" height="270.0" rx="0" fill="none" stroke="#555555" stroke-width="1"/>
+<line x1="65.0" y1="320.0" x2="70.0" y2="320.0" stroke="#555555" stroke-width="1"/>
+<text x="61.0" y="325.0" text-anchor="end" fill="#555555" font-size="12">0</text>
+<line x1="65.0" y1="266.0" x2="70.0" y2="266.0" stroke="#555555" stroke-width="1"/>
+<text x="61.0" y="271.0" text-anchor="end" fill="#555555" font-size="12">20</text>
+<line x1="65.0" y1="212.0" x2="70.0" y2="212.0" stroke="#555555" stroke-width="1"/>
+<text x="61.0" y="217.0" text-anchor="end" fill="#555555" font-size="12">40</text>
+<line x1="65.0" y1="158.0" x2="70.0" y2="158.0" stroke="#555555" stroke-width="1"/>
+<text x="61.0" y="163.0" text-anchor="end" fill="#555555" font-size="12">60</text>
+<line x1="65.0" y1="104.0" x2="70.0" y2="104.0" stroke="#555555" stroke-width="1"/>
+<text x="61.0" y="109.0" text-anchor="end" fill="#555555" font-size="12">80</text>
+<line x1="65.0" y1="50.0" x2="70.0" y2="50.0" stroke="#555555" stroke-width="1"/>
+<text x="61.0" y="55.0" text-anchor="end" fill="#555555" font-size="12">100</text>
+<line x1="70.0" y1="320.0" x2="70.0" y2="325.0" stroke="#555555" stroke-width="1"/>
+<text x="70.0" y="340.0" text-anchor="middle" fill="#555555" font-size="12">0</text>
+<line x1="158.0" y1="320.0" x2="158.0" y2="325.0" stroke="#555555" stroke-width="1"/>
+<text x="158.0" y="340.0" text-anchor="middle" fill="#555555" font-size="12">5</text>
+<line x1="246.0" y1="320.0" x2="246.0" y2="325.0" stroke="#555555" stroke-width="1"/>
+<text x="246.0" y="340.0" text-anchor="middle" fill="#555555" font-size="12">10</text>
+<line x1="334.0" y1="320.0" x2="334.0" y2="325.0" stroke="#555555" stroke-width="1"/>
+<text x="334.0" y="340.0" text-anchor="middle" fill="#555555" font-size="12">15</text>
+<line x1="422.0" y1="320.0" x2="422.0" y2="325.0" stroke="#555555" stroke-width="1"/>
+<text x="422.0" y="340.0" text-anchor="middle" fill="#555555" font-size="12">20</text>
+<line x1="510.0" y1="320.0" x2="510.0" y2="325.0" stroke="#555555" stroke-width="1"/>
+<text x="510.0" y="340.0" text-anchor="middle" fill="#555555" font-size="12">25</text>
+<text x="290.0" y="364.0" text-anchor="middle" fill="#222222" font-size="13">n</text>
+<line x1="70.0" y1="293.0" x2="510.0" y2="90.5" stroke="#222222" stroke-width="2.2"/>
+<line x1="70.0" y1="320.0" x2="510.0" y2="50.0" stroke="#d9480f" stroke-width="2.2" stroke-dasharray="7,4"/>
+<circle cx="246.0" cy="212.0" r="5.0" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<line x1="246.0" y1="218.0" x2="246.0" y2="320.0" stroke="#222222" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="238.0" y="206.0" text-anchor="end" fill="#222222" font-size="13">n₀ = 10, both 40</text>
+<text x="518.0" y="95.5" text-anchor="start" fill="#222222">f(n) = 3n + 10</text>
+<text x="518.0" y="55.0" text-anchor="start" fill="#d9480f" font-weight="bold">c·g(n) = 4n</text>
+<text x="378.0" y="72.0" text-anchor="middle" fill="#222222" font-size="13">f(n) ≤ 4n here</text>
+<text x="518.0" y="200.0" text-anchor="start" fill="#222222" font-size="13">c = 4, g(n) = n</text>
+<text x="518.0" y="225.0" text-anchor="start" fill="#222222" font-size="13">3n + 10 ≤ 4n</text>
+<text x="518.0" y="248.0" text-anchor="start" fill="#222222" font-size="13">exactly when n ≥ 10</text>
+</svg>

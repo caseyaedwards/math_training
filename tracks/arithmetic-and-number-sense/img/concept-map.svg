@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 594" width="880" height="594" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Arithmetic and Number Sense: Concept Map</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker></defs>
+<rect x="0" y="0" width="880" height="594" fill="#ffffff"/>
+<text x="440.0" y="28" text-anchor="middle" font-size="17" font-weight="bold" fill="#222222">Arithmetic and Number Sense: Concept Map</text>
+<rect x="10" y="50" width="860" height="168" fill="#f3f3f3" stroke="#dddddd"/>
+<text x="22" y="139" font-weight="bold" fill="#555555">Beginner</text>
+<rect x="10" y="218" width="860" height="168" fill="#ffffff" stroke="#dddddd"/>
+<text x="22" y="307" font-weight="bold" fill="#555555">Intermediate</text>
+<rect x="10" y="386" width="860" height="168" fill="#f3f3f3" stroke="#dddddd"/>
+<text x="22" y="475" font-weight="bold" fill="#555555">Advanced</text>
+<path d="M495.0,110.2 L495.0,155.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M570.0,176.0 L649.1,176.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M420.0,176.0 L328.7,176.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M738.3,194.2 L738.3,239.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M649.1,191.4 L340.9,244.6" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M251.7,194.2 L251.7,239.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M685.6,194.2 L555.8,239.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M738.3,278.2 L738.3,323.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M689.7,276.8 L555.8,323.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M251.7,278.2 L251.7,323.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M578.1,260.0 L687.6,260.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M727.9,362.2 L707.3,397.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M339.3,360.8 L598.7,410.5" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M262.1,362.2 L282.7,397.9" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M626.6,455.3 L543.8,491.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<path d="M363.4,455.3 L446.2,491.0" fill="none" stroke="#555555" stroke-width="1.4" marker-end="url(#arrow)"/>
+<rect x="391.8" y="75.0" width="206.4" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="495.0" y="97.0" text-anchor="middle" fill="#222222">Counting and Place Value</text>
+<rect x="178.9" y="159.0" width="145.6" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="251.7" y="181.0" text-anchor="middle" fill="#222222">Negative Numbers</text>
+<rect x="422.2" y="159.0" width="145.6" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="495.0" y="181.0" text-anchor="middle" fill="#222222">Add and Subtract</text>
+<rect x="654.1" y="159.0" width="168.4" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="738.3" y="181.0" text-anchor="middle" fill="#222222">Multiply and Divide</text>
+<rect x="167.5" y="243.0" width="168.4" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="251.7" y="265.0" text-anchor="middle" fill="#222222">Order of Operations</text>
+<rect x="414.6" y="243.0" width="160.8" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="495.0" y="265.0" text-anchor="middle" fill="#222222">Factors and Primes</text>
+<rect x="692.1" y="243.0" width="92.4" height="34.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="738.3" y="265.0" text-anchor="middle" fill="#222222">Fractions</text>
+<rect x="167.5" y="327.0" width="168.4" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="251.7" y="349.0" text-anchor="middle" fill="#222222">Exponents and Roots</text>
+<rect x="403.2" y="327.0" width="183.6" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="495.0" y="349.0" text-anchor="middle" fill="#222222">Ratios and Proportion</text>
+<rect x="646.5" y="327.0" width="183.6" height="34.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="738.3" y="349.0" text-anchor="middle" fill="#222222">Decimals and Percents</text>
+<rect x="238.6" y="402.0" width="122.8" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="300.0" y="424.0" text-anchor="middle" fill="#222222">Number Bases</text>
+<text x="300.0" y="442.0" text-anchor="middle" fill="#222222">(Binary, Hex)</text>
+<rect x="605.8" y="402.0" width="168.4" height="52.0" rx="8" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="690.0" y="424.0" text-anchor="middle" fill="#222222">Estimation and</text>
+<text x="690.0" y="442.0" text-anchor="middle" fill="#222222">Scientific Notation</text>
+<rect x="407.0" y="495.0" width="176.0" height="34.0" rx="8" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="495.0" y="517.0" text-anchor="middle" fill="#222222">The Real Number Line</text>
+<text x="22" y="580" font-size="12" fill="#555555">Arrow A to B: learn A before B.</text>
+<rect x="630" y="568" width="16" height="14" rx="3" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="652" y="580" font-size="12" fill="#555555">milestone concept of the track</text>
+</svg>

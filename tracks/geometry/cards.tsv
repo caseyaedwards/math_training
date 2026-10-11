@@ -1,0 +1,12 @@
+Angle sum of a triangle	\(180^\circ\) (in flat, Euclidean geometry).	math::tracks::geometry math::tracks::geometry::triangles
+Interior angle sum of an \(n\)-gon	\((n - 2) \cdot 180^\circ\)	math::tracks::geometry math::tracks::geometry::polygons
+Circumference and area of a circle	\(C = 2\pi r\), \(A = \pi r^2\)	math::tracks::geometry math::tracks::geometry::circles
+Area of a triangle	\(\frac{1}{2}bh\): half of a rectangle.	math::tracks::geometry math::tracks::geometry::area
+Scale lengths by \(k\). What happens to area and volume?	Area scales by \(k^2\), volume by \(k^3\).	math::tracks::geometry math::tracks::geometry::similarity
+Pythagorean theorem	In a right triangle, \(a^2 + b^2 = c^2\), with \(c\) the hypotenuse.	math::tracks::geometry math::tracks::geometry::pythagoras
+Distance formula	\(d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}\): Pythagoras on the grid.	math::tracks::geometry math::tracks::geometry::coordinates
+Volume of a sphere and a cylinder	Sphere \(\frac{4}{3}\pi r^3\). Cylinder \(\pi r^2 h\).	math::tracks::geometry math::tracks::geometry::volume
+Rotate \((x, y)\) by 90 degrees about the origin	\((-y, x)\)	math::tracks::geometry math::tracks::geometry::transformations
+Thales' theorem	An angle inscribed in a semicircle is a right angle.	math::tracks::geometry math::tracks::geometry::circles
+Euler's polyhedron formula	\(V - E + F = 2\). Cube: \(8 - 12 + 6 = 2\).	math::tracks::geometry math::tracks::geometry::solids
+What happens if you drop Euclid's parallel postulate?	You get non-Euclidean geometries: spherical (angle sums above 180) and hyperbolic (below 180).	math::tracks::geometry math::tracks::geometry::non-euclidean

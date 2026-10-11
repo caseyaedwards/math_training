@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 320" width="680" height="320" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>DFA That Accepts an Even Number of 1s</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrowA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="680" height="320" fill="#ffffff"/>
+<text x="340.0" y="26.0" text-anchor="middle" fill="#222222" font-size="17" font-weight="bold">A DFA for Strings with an Even Number of 1s</text>
+<circle cx="180.0" cy="160.0" r="40.0" fill="#f6d5c4" stroke="#222222" stroke-width="1.8"/>
+<circle cx="180.0" cy="160.0" r="34.0" fill="none" stroke="#222222" stroke-width="1.5"/>
+<circle cx="400.0" cy="160.0" r="40.0" fill="#ffffff" stroke="#222222" stroke-width="1.8"/>
+<text x="180.0" y="165.0" text-anchor="middle" fill="#222222" font-weight="bold">Even</text>
+<text x="400.0" y="165.0" text-anchor="middle" fill="#222222" font-weight="bold">Odd</text>
+<line x1="70.0" y1="160.0" x2="138.0" y2="160.0" stroke="#222222" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="70.0" y="150.0" text-anchor="start" fill="#555555" font-size="13">start</text>
+<path d="M210,133 Q290.0,80 368,134" fill="none" stroke="#d9480f" stroke-width="2" marker-end="url(#arrowA)"/>
+<path d="M370,187 Q290.0,240 212,186" fill="none" stroke="#d9480f" stroke-width="2" marker-end="url(#arrowA)"/>
+<text x="290.0" y="102.0" text-anchor="middle" fill="#d9480f" font-weight="bold">1</text>
+<text x="290.0" y="230.0" text-anchor="middle" fill="#d9480f" font-weight="bold">1</text>
+<path d="M164,122 C140,60 220,60 196,120" fill="none" stroke="#555555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="180.0" y="70.0" text-anchor="middle" fill="#222222" font-weight="bold">0</text>
+<path d="M384,122 C360,60 440,60 416,120" fill="none" stroke="#555555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="400.0" y="70.0" text-anchor="middle" fill="#222222" font-weight="bold">0</text>
+<text x="480.0" y="110.0" text-anchor="start" fill="#222222" font-size="13">double circle = accept</text>
+<text x="480.0" y="150.0" text-anchor="start" fill="#222222" font-size="13">1001: Even, Odd, Odd,</text>
+<text x="480.0" y="170.0" text-anchor="start" fill="#d9480f" font-size="13">Odd, Even → accept</text>
+<text x="480.0" y="205.0" text-anchor="start" fill="#222222" font-size="13">10: Odd, Odd → reject</text>
+<text x="480.0" y="245.0" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">regex: 0*(10*10*)*</text>
+<text x="340.0" y="300.0" text-anchor="middle" fill="#555555" font-size="13">two states are enough because the machine only needs the parity so far</text>
+</svg>

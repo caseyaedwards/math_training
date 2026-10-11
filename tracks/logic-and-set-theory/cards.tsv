@@ -1,0 +1,15 @@
+When is \(p \to q\) false?	Only when \(p\) is true and \(q\) is false.	math::tracks::logic-and-set-theory math::tracks::logic-and-set-theory::implication
+Contrapositive of \(p \to q\)	\(\lnot q \to \lnot p\). Always equivalent to the original.	math::tracks::logic-and-set-theory math::tracks::logic-and-set-theory::implication
+Converse of \(p \to q\)	\(q \to p\). NOT equivalent to the original.	math::tracks::logic-and-set-theory math::tracks::logic-and-set-theory::implication
+De Morgan's laws	\(\lnot(p \land q) \equiv \lnot p \lor \lnot q\) and \(\lnot(p \lor q) \equiv \lnot p \land \lnot q\).	math::tracks::logic-and-set-theory math::tracks::logic-and-set-theory::de-morgan
+Negate \(\forall x\, P(x)\)	\(\exists x\, \lnot P(x)\)	math::tracks::logic-and-set-theory math::tracks::logic-and-set-theory::quantifiers
+How many rows in a truth table with \(n\) variables?	\(2^n\)	math::tracks::logic-and-set-theory math::tracks::logic-and-set-theory::truth-tables
+Union, intersection, difference in logic words	\(A \cup B\): OR. \(A \cap B\): AND. \(A \setminus B\): in A AND NOT in B.	math::tracks::logic-and-set-theory math::tracks::logic-and-set-theory::sets
+\(|A \cup B|\)	\(|A| + |B| - |A \cap B|\)	math::tracks::logic-and-set-theory math::tracks::logic-and-set-theory::sets
+Number of subsets of an \(n\)-element set	\(2^n\): each element is in or out, one bit each.	math::tracks::logic-and-set-theory math::tracks::logic-and-set-theory::power-set
+Injective, surjective, bijective	No two inputs share an output; every output is hit; both (a perfect pairing).	math::tracks::logic-and-set-theory math::tracks::logic-and-set-theory::functions
+Four proof patterns	Direct, contrapositive, contradiction, induction.	math::tracks::logic-and-set-theory math::tracks::logic-and-set-theory::proof
+Are the integers countable?	Yes: list them as \(0, 1, -1, 2, -2, \ldots\)	math::tracks::logic-and-set-theory math::tracks::logic-and-set-theory::cardinality
+Cantor's diagonal argument shows...	No list contains every infinite binary string, so the reals are uncountable.	math::tracks::logic-and-set-theory math::tracks::logic-and-set-theory::cardinality
+Russell's paradox	\(R = \{x \mid x \notin x\}\) gives \(R \in R \iff R \notin R\). Unrestricted set building fails.	math::tracks::logic-and-set-theory math::tracks::logic-and-set-theory::foundations
+Gödel's first incompleteness theorem	Any consistent axiom system strong enough for arithmetic has true statements it cannot prove.	math::tracks::logic-and-set-theory math::tracks::logic-and-set-theory::foundations

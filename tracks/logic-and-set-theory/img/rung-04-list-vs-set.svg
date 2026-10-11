@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 250" width="700" height="250" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>A List Keeps Order and Repeats; a Set Keeps Neither</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="700" height="250" fill="#ffffff"/>
+<text x="350" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">List [1, 2, 2, 3] versus set {1, 2, 2, 3} = {3, 2, 1}</text>
+<text x="40" y="70" text-anchor="start" fill="#222222" font-weight="bold">List (order and repeats matter)</text>
+<rect x="40" y="85" width="50" height="44" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="65" y="113" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">1</text>
+<text x="65" y="148" text-anchor="middle" fill="#555555" font-size="12">[0]</text>
+<rect x="90" y="85" width="50" height="44" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="115" y="113" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">2</text>
+<text x="115" y="148" text-anchor="middle" fill="#555555" font-size="12">[1]</text>
+<rect x="140" y="85" width="50" height="44" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="165" y="113" text-anchor="middle" fill="#d9480f" font-size="15" font-weight="bold">2</text>
+<text x="165" y="148" text-anchor="middle" fill="#555555" font-size="12">[2]</text>
+<rect x="190" y="85" width="50" height="44" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="215" y="113" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">3</text>
+<text x="215" y="148" text-anchor="middle" fill="#555555" font-size="12">[3]</text>
+<text x="140" y="185" text-anchor="middle" fill="#555555" font-size="13">4 slots: the second 2 is a separate entry</text>
+<line x1="270" y1="107" x2="380" y2="107" stroke="#555555" stroke-width="1.5" marker-end="url(#arrD)"/>
+<text x="325" y="98" text-anchor="middle" fill="#555555" font-size="13">make a set</text>
+<ellipse cx="520" cy="120" rx="110" ry="60" fill="#f6d5c4" stroke="#222222" stroke-width="2"/>
+<circle cx="470" cy="105" r="17" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="470" y="110" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">3</text>
+<circle cx="520" cy="140" r="17" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="520" y="145" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">2</text>
+<circle cx="570" cy="105" r="17" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
+<text x="570" y="110" text-anchor="middle" fill="#222222" font-size="15" font-weight="bold">1</text>
+<text x="520" y="205" text-anchor="middle" fill="#555555" font-size="13">3 elements: the repeated 2 merges</text>
+<text x="520" y="225" text-anchor="middle" fill="#555555" font-size="13">and the order is gone</text>
+<text x="140" y="225" text-anchor="middle" fill="#222222" font-size="13">Go: []int{1, 2, 2, 3}</text>
+</svg>

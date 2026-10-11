@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 465" width="600" height="465" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Roots of x^2 + 5x + 6 on a graph</title>
+<defs><marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="600" height="465" fill="#ffffff"/>
+<text x="300.0" y="28.0" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold"><tspan>y = x</tspan><tspan dy="-6.1" font-size="11.5">2</tspan><tspan dy="6.1"> + 5x + 6 = (x + 2)(x + 3)</tspan></text>
+<line x1="80.0" y1="396.0" x2="80.0" y2="60.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="130.0" y1="396.0" x2="130.0" y2="60.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="180.0" y1="396.0" x2="180.0" y2="60.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="230.0" y1="396.0" x2="230.0" y2="60.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="280.0" y1="396.0" x2="280.0" y2="60.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="330.0" y1="396.0" x2="330.0" y2="60.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="380.0" y1="396.0" x2="380.0" y2="60.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="430.0" y1="396.0" x2="430.0" y2="60.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="80.0" y1="396.0" x2="430.0" y2="396.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="80.0" y1="354.0" x2="430.0" y2="354.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="80.0" y1="312.0" x2="430.0" y2="312.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="80.0" y1="270.0" x2="430.0" y2="270.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="80.0" y1="228.0" x2="430.0" y2="228.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="80.0" y1="186.0" x2="430.0" y2="186.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="80.0" y1="144.0" x2="430.0" y2="144.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="80.0" y1="102.0" x2="430.0" y2="102.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="80.0" y1="60.0" x2="430.0" y2="60.0" stroke="#dddddd" stroke-width="1"/>
+<line x1="74.0" y1="354.0" x2="440.0" y2="354.0" stroke="#555555" stroke-width="1.5" marker-end="url(#ad)"/>
+<line x1="380.0" y1="402.0" x2="380.0" y2="50.0" stroke="#555555" stroke-width="1.5" marker-end="url(#ad)"/>
+<text x="446.0" y="359.0" text-anchor="start" font-size="14" fill="#222222" font-style="italic">x</text>
+<text x="380.0" y="44.0" text-anchor="middle" font-size="14" fill="#222222" font-style="italic">y</text>
+<line x1="80.0" y1="351.0" x2="80.0" y2="357.0" stroke="#555555" stroke-width="1"/>
+<text x="80.0" y="371.0" text-anchor="middle" font-size="12" fill="#222222">−6</text>
+<line x1="130.0" y1="351.0" x2="130.0" y2="357.0" stroke="#555555" stroke-width="1"/>
+<text x="130.0" y="371.0" text-anchor="middle" font-size="12" fill="#222222">−5</text>
+<line x1="180.0" y1="351.0" x2="180.0" y2="357.0" stroke="#555555" stroke-width="1"/>
+<text x="180.0" y="371.0" text-anchor="middle" font-size="12" fill="#222222">−4</text>
+<line x1="230.0" y1="351.0" x2="230.0" y2="357.0" stroke="#555555" stroke-width="1"/>
+<text x="230.0" y="371.0" text-anchor="middle" font-size="12" fill="#222222">−3</text>
+<line x1="280.0" y1="351.0" x2="280.0" y2="357.0" stroke="#555555" stroke-width="1"/>
+<text x="280.0" y="371.0" text-anchor="middle" font-size="12" fill="#222222">−2</text>
+<line x1="330.0" y1="351.0" x2="330.0" y2="357.0" stroke="#555555" stroke-width="1"/>
+<text x="330.0" y="371.0" text-anchor="middle" font-size="12" fill="#222222">−1</text>
+<line x1="430.0" y1="351.0" x2="430.0" y2="357.0" stroke="#555555" stroke-width="1"/>
+<text x="430.0" y="371.0" text-anchor="middle" font-size="12" fill="#222222">1</text>
+<line x1="377.0" y1="396.0" x2="383.0" y2="396.0" stroke="#555555" stroke-width="1"/>
+<text x="373.0" y="400.0" text-anchor="end" font-size="12" fill="#222222">−1</text>
+<line x1="377.0" y1="312.0" x2="383.0" y2="312.0" stroke="#555555" stroke-width="1"/>
+<text x="373.0" y="316.0" text-anchor="end" font-size="12" fill="#222222">1</text>
+<line x1="377.0" y1="270.0" x2="383.0" y2="270.0" stroke="#555555" stroke-width="1"/>
+<text x="373.0" y="274.0" text-anchor="end" font-size="12" fill="#222222">2</text>
+<line x1="377.0" y1="228.0" x2="383.0" y2="228.0" stroke="#555555" stroke-width="1"/>
+<text x="373.0" y="232.0" text-anchor="end" font-size="12" fill="#222222">3</text>
+<line x1="377.0" y1="186.0" x2="383.0" y2="186.0" stroke="#555555" stroke-width="1"/>
+<text x="373.0" y="190.0" text-anchor="end" font-size="12" fill="#222222">4</text>
+<line x1="377.0" y1="60.0" x2="383.0" y2="60.0" stroke="#555555" stroke-width="1"/>
+<text x="373.0" y="64.0" text-anchor="end" font-size="12" fill="#222222">7</text>
+<text x="387.0" y="371.0" text-anchor="start" font-size="12" fill="#222222">0</text>
+<polyline points="122.0,67.3 123.8,75.1 125.5,82.8 127.3,90.3 129.0,97.8 130.8,105.1 132.5,112.4 134.2,119.5 136.0,126.6 137.8,133.5 139.5,140.4 141.2,147.1 143.0,153.8 144.8,160.3 146.5,166.7 148.2,173.1 150.0,179.3 151.8,185.4 153.5,191.4 155.2,197.3 157.0,203.2 158.8,208.9 160.5,214.5 162.2,220.0 164.0,225.4 165.8,230.7 167.5,235.9 169.2,241.0 171.0,246.0 172.8,250.8 174.5,255.6 176.2,260.3 178.0,264.9 179.8,269.4 181.5,273.7 183.2,278.0 185.0,282.2 186.8,286.2 188.5,290.2 190.2,294.1 192.0,297.8 193.8,301.5 195.5,305.0 197.2,308.5 199.0,311.8 200.8,315.1 202.5,318.2 204.2,321.2 206.0,324.2 207.8,327.0 209.5,329.7 211.2,332.3 213.0,334.9 214.8,337.3 216.5,339.6 218.2,341.8 220.0,343.9 221.8,345.9 223.5,347.8 225.2,349.6 227.0,351.3 228.8,352.9 230.5,354.4 232.2,355.8 234.0,357.1 235.8,358.3 237.5,359.4 239.2,360.3 241.0,361.2 242.8,362.0 244.5,362.6 246.2,363.2 248.0,363.7 249.8,364.0 251.5,364.3 253.2,364.4 255.0,364.5 256.8,364.4 258.5,364.3 260.2,364.0 262.0,363.7 263.8,363.2 265.5,362.6 267.2,362.0 269.0,361.2 270.8,360.3 272.5,359.4 274.2,358.3 276.0,357.1 277.8,355.8 279.5,354.4 281.2,352.9 283.0,351.3 284.8,349.6 286.5,347.8 288.2,345.9 290.0,343.9 291.8,341.8 293.5,339.6 295.2,337.3 297.0,334.9 298.8,332.3 300.5,329.7 302.2,327.0 304.0,324.2 305.8,321.2 307.5,318.2 309.2,315.1 311.0,311.8 312.8,308.5 314.5,305.0 316.2,301.5 318.0,297.8 319.8,294.1 321.5,290.2 323.2,286.2 325.0,282.2 326.8,278.0 328.5,273.7 330.2,269.4 332.0,264.9 333.8,260.3 335.5,255.6 337.2,250.8 339.0,246.0 340.8,241.0 342.5,235.9 344.2,230.7 346.0,225.4 347.8,220.0 349.5,214.5 351.2,208.9 353.0,203.2 354.8,197.3 356.5,191.4 358.2,185.4 360.0,179.3 361.8,173.1 363.5,166.7 365.2,160.3 367.0,153.8 368.8,147.1 370.5,140.4 372.2,133.5 374.0,126.6 375.8,119.5 377.5,112.4 379.2,105.1 381.0,97.8 382.8,90.3 384.5,82.8 386.2,75.1 388.0,67.3" fill="none" stroke="#222222" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="230.0" cy="354.0" r="7.0" fill="#d9480f"/>
+<circle cx="280.0" cy="354.0" r="7.0" fill="#d9480f"/>
+<text x="255.0" y="394.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">roots: x = −3 and x = −2</text>
+<circle cx="380.0" cy="102.0" r="5.0" fill="#222222"/>
+<text x="390.0" y="122.0" text-anchor="start" font-size="13" fill="#222222">(0, 6)</text>
+<text x="300.0" y="450.0" text-anchor="middle" font-size="14" fill="#222222">A product is 0 when a factor is 0: x + 2 = 0 or x + 3 = 0.</text>
+</svg>

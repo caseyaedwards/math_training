@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Halting Problem Diagonal: A Program That Disagrees with Every Program on the Diagonal</title>
+<defs><marker id="arrD" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker><marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="640" height="400" fill="#ffffff"/>
+<text x="320" y="26" text-anchor="middle" fill="#222222" font-size="16" font-weight="bold">Halting: build D to do the opposite of the diagonal</text>
+<text x="252" y="46" text-anchor="middle" fill="#555555" font-size="13">input</text>
+<text x="168" y="70" text-anchor="middle" fill="#222222" font-weight="bold">P1</text>
+<text x="224" y="70" text-anchor="middle" fill="#222222" font-weight="bold">P2</text>
+<text x="280" y="70" text-anchor="middle" fill="#222222" font-weight="bold">P3</text>
+<text x="336" y="70" text-anchor="middle" fill="#222222" font-weight="bold">P4</text>
+<text x="126" y="70" text-anchor="end" fill="#555555" font-size="13">program</text>
+<text x="126" y="113" text-anchor="end" fill="#222222" font-weight="bold">P1</text>
+<rect x="140" y="80" width="56" height="56" fill="#f6d5c4" stroke="#d9480f" stroke-width="2"/>
+<text x="168" y="114" text-anchor="middle" fill="#d9480f" font-size="16" font-weight="bold">H</text>
+<rect x="196" y="80" width="56" height="56" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="224" y="114" text-anchor="middle" fill="#222222" font-size="16">L</text>
+<rect x="252" y="80" width="56" height="56" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="280" y="114" text-anchor="middle" fill="#222222" font-size="16">H</text>
+<rect x="308" y="80" width="56" height="56" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="336" y="114" text-anchor="middle" fill="#222222" font-size="16">H</text>
+<text x="126" y="169" text-anchor="end" fill="#222222" font-weight="bold">P2</text>
+<rect x="140" y="136" width="56" height="56" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="168" y="170" text-anchor="middle" fill="#222222" font-size="16">L</text>
+<rect x="196" y="136" width="56" height="56" fill="#f6d5c4" stroke="#d9480f" stroke-width="2"/>
+<text x="224" y="170" text-anchor="middle" fill="#d9480f" font-size="16" font-weight="bold">L</text>
+<rect x="252" y="136" width="56" height="56" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="280" y="170" text-anchor="middle" fill="#222222" font-size="16">H</text>
+<rect x="308" y="136" width="56" height="56" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="336" y="170" text-anchor="middle" fill="#222222" font-size="16">L</text>
+<text x="126" y="225" text-anchor="end" fill="#222222" font-weight="bold">P3</text>
+<rect x="140" y="192" width="56" height="56" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="168" y="226" text-anchor="middle" fill="#222222" font-size="16">H</text>
+<rect x="196" y="192" width="56" height="56" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="224" y="226" text-anchor="middle" fill="#222222" font-size="16">H</text>
+<rect x="252" y="192" width="56" height="56" fill="#f6d5c4" stroke="#d9480f" stroke-width="2"/>
+<text x="280" y="226" text-anchor="middle" fill="#d9480f" font-size="16" font-weight="bold">H</text>
+<rect x="308" y="192" width="56" height="56" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="336" y="226" text-anchor="middle" fill="#222222" font-size="16">L</text>
+<text x="126" y="281" text-anchor="end" fill="#222222" font-weight="bold">P4</text>
+<rect x="140" y="248" width="56" height="56" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="168" y="282" text-anchor="middle" fill="#222222" font-size="16">L</text>
+<rect x="196" y="248" width="56" height="56" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="224" y="282" text-anchor="middle" fill="#222222" font-size="16">H</text>
+<rect x="252" y="248" width="56" height="56" fill="#ffffff" stroke="#555555" stroke-width="0.8"/>
+<text x="280" y="282" text-anchor="middle" fill="#222222" font-size="16">L</text>
+<rect x="308" y="248" width="56" height="56" fill="#f6d5c4" stroke="#d9480f" stroke-width="2"/>
+<text x="336" y="282" text-anchor="middle" fill="#d9480f" font-size="16" font-weight="bold">H</text>
+<text x="126" y="357" text-anchor="end" fill="#d9480f" font-size="15" font-weight="bold">D</text>
+<rect x="140" y="324" width="56" height="56" fill="#d9480f" stroke="#ffffff" stroke-width="2"/>
+<text x="168" y="358" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="bold">L</text>
+<rect x="196" y="324" width="56" height="56" fill="#d9480f" stroke="#ffffff" stroke-width="2"/>
+<text x="224" y="358" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="bold">H</text>
+<rect x="252" y="324" width="56" height="56" fill="#d9480f" stroke="#ffffff" stroke-width="2"/>
+<text x="280" y="358" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="bold">L</text>
+<rect x="308" y="324" width="56" height="56" fill="#d9480f" stroke="#ffffff" stroke-width="2"/>
+<text x="336" y="358" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="bold">L</text>
+<text x="388" y="110" text-anchor="start" fill="#222222" font-size="13">H: halts on that input</text>
+<text x="388" y="132" text-anchor="start" fill="#222222" font-size="13">L: loops forever</text>
+<text x="388" y="176" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">D on input Pn does the</text>
+<text x="388" y="196" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">opposite of Pn on Pn.</text>
+<text x="388" y="240" text-anchor="start" fill="#d9480f" font-size="13">D differs from every row,</text>
+<text x="388" y="260" text-anchor="start" fill="#d9480f" font-size="13">yet D is a program if a</text>
+<text x="388" y="280" text-anchor="start" fill="#d9480f" font-size="13">halting decider exists.</text>
+<text x="388" y="310" text-anchor="start" fill="#222222" font-size="13" font-weight="bold">No such decider exists.</text>
+</svg>

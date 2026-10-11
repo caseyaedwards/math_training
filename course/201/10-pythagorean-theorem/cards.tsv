@@ -1,0 +1,10 @@
+State the Pythagorean theorem.	In a right triangle, \(a^2 + b^2 = c^2\), with c the hypotenuse.	math::201::pythagoras
+Which side is the hypotenuse?	The side across from the right angle, the longest side.	math::201::pythagoras
+Sketch the rearrangement proof in words.	A square of side a + b holds four copies of the triangle. One arrangement leaves \(c^2\) uncovered, the other leaves \(a^2 + b^2\).	math::201::pythagoras
+Name four Pythagorean triples.	3-4-5, 5-12-13, 8-15-17, 7-24-25.	math::201::pythagoras
+Converse: \(c^2 > a^2 + b^2\) means the triangle is?	Obtuse.	math::201::pythagoras
+Converse: \(c^2 < a^2 + b^2\) means the triangle is?	Acute.	math::201::pythagoras
+Distance formula.	\(d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}\)	math::201::pythagoras
+Distance from (1, 2) to (7, 10)?	10	math::201::pythagoras
+Space diagonal of a unit cube?	\(\sqrt{3}\)	math::201::pythagoras
+Is \(\sqrt{a^2 + b^2} = a + b\)?	No. \(\sqrt{9 + 16} = 5\), not 7.	math::201::pythagoras

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 260" width="520" height="260" font-family="sans-serif" font-size="14">
+<title>Exterior angle equals the sum of the two remote interior angles</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="520" height="260" fill="#ffffff"/>
+<polygon points="60,200 320,200 180,60" fill="#ffffff" stroke="#222" stroke-width="2.5" stroke-linejoin="round"/>
+<line x1="320" y1="200" x2="480" y2="200" stroke="#222" stroke-width="2" stroke-dasharray="6 4"/>
+<path d="M 86 200 A 26 26 0 0 0 76.92 180.26" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<path d="M 165.68 76.7 A 22 22 0 0 0 195.56 75.56" fill="none" stroke="#222" stroke-width="2.5"/>
+<path d="M 350 200 A 30 30 0 0 0 298.79 178.79" fill="none" stroke="#2b8a3e" stroke-width="2.5"/>
+<text x="104" y="192" text-anchor="middle" fill="#d9480f" font-weight="bold">a</text>
+<text x="180" y="104" text-anchor="middle" fill="#222" font-weight="bold">b</text>
+<text x="366" y="184" text-anchor="middle" fill="#2b8a3e" font-weight="bold">d</text>
+<text x="260" y="245" text-anchor="middle" fill="#222" font-size="16" font-weight="bold">d = a + b</text>
+</svg>

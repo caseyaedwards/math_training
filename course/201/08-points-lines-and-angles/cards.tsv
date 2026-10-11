@@ -1,0 +1,10 @@
+Segment, ray, line: how many ends each?	Segment two, ray one, line none.	math::201::angles
+Acute, right, obtuse, straight?	Below 90, exactly 90, between 90 and 180, exactly 180 degrees.	math::201::angles
+Complementary angles add to?	90 degrees.	math::201::angles
+Supplementary angles add to?	180 degrees.	math::201::angles
+Vertical angles are...	Equal.	math::201::angles
+Why are vertical angles equal?	Each pairs with the same angle to make 180 degrees.	math::201::angles
+Parallel lines cut by a transversal: corresponding angles?	Equal.	math::201::angles
+Parallel lines cut by a transversal: alternate interior angles?	Equal.	math::201::angles
+Parallel lines cut by a transversal: same-side interior angles?	Add to 180 degrees.	math::201::angles
+State the parallel postulate.	Through a point not on a line, exactly one line is parallel to it.	math::201::angles

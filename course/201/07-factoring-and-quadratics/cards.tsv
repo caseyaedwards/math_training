@@ -1,0 +1,11 @@
+Expand \((x + 2)(x + 3)\).	\(x^2 + 5x + 6\)	math::201::quadratics
+To factor \(x^2 + bx + c\), find two numbers that...	Multiply to c and add to b.	math::201::quadratics
+Factor \(x^2 - x - 6\).	\((x + 2)(x - 3)\)	math::201::quadratics
+Factor \(a^2 - b^2\).	\((a + b)(a - b)\)	math::201::quadratics
+Factor \(2x^2 + 6x\).	\(2x(x + 3)\)	math::201::quadratics
+State the zero product property.	If \(AB = 0\), then \(A = 0\) or \(B = 0\).	math::201::quadratics
+Solve \(x^2 = 4x\).	\(x = 0\) or \(x = 4\). Do not divide by x.	math::201::quadratics
+Quadratic formula.	\(x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}\)	math::201::quadratics
+What does the discriminant \(b^2 - 4ac\) tell you?	Positive: two real roots. Zero: one. Negative: none.	math::201::quadratics
+\((x + 3)^2 = ?\)	\(x^2 + 6x + 9\), not \(x^2 + 9\).	math::201::quadratics
+Where are the roots on the graph of a quadratic?	Where the parabola crosses the x-axis.	math::201::quadratics

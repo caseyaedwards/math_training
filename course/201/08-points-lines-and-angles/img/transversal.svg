@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 380" width="560" height="380" font-family="sans-serif" font-size="14">
+<title>Two parallel lines cut by a transversal, eight angles numbered</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="560" height="380" fill="#ffffff"/>
+<line x1="40" y1="120" x2="520" y2="120" stroke="#222" stroke-width="2.5"/>
+<line x1="40" y1="260" x2="520" y2="260" stroke="#222" stroke-width="2.5"/>
+<text x="530" y="125" text-anchor="start" fill="#222" font-size="16" font-style="italic">m</text>
+<text x="530" y="265" text-anchor="start" fill="#222" font-size="16" font-style="italic">n</text>
+<path d="M 96 113 L 106 120 L 96 127" fill="none" stroke="#222" stroke-width="2"/>
+<path d="M 96 253 L 106 260 L 96 267" fill="none" stroke="#222" stroke-width="2"/>
+<line x1="199.17" y1="346.6" x2="380" y2="33.4" stroke="#222" stroke-width="2.5"/>
+<text x="388" y="39.4" text-anchor="start" fill="#222" font-size="16" font-style="italic">t</text>
+<path d="M 341 100.95 A 22 22 0 0 0 308 120" fill="none" stroke="#222" stroke-width="2"/>
+<text x="310" y="90.36" text-anchor="middle" fill="#222" font-size="16" font-weight="bold">1</text>
+<path d="M 348 120 A 18 18 0 0 0 339 104.41" fill="none" stroke="#d9480f" stroke-width="2"/>
+<text x="364.64" y="105" text-anchor="middle" fill="#d9480f" font-size="16" font-weight="bold">2</text>
+<path d="M 312 120 A 18 18 0 0 0 321 135.59" fill="none" stroke="#d9480f" stroke-width="2"/>
+<text x="295.36" y="145" text-anchor="middle" fill="#d9480f" font-size="16" font-weight="bold">3</text>
+<path d="M 319 139.05 A 22 22 0 0 0 352 120" fill="none" stroke="#222" stroke-width="2"/>
+<text x="350" y="159.64" text-anchor="middle" fill="#222" font-size="16" font-weight="bold">4</text>
+<path d="M 260.17 240.95 A 22 22 0 0 0 227.17 260" fill="none" stroke="#222" stroke-width="2"/>
+<text x="229.17" y="230.36" text-anchor="middle" fill="#222" font-size="16" font-weight="bold">5</text>
+<path d="M 267.17 260 A 18 18 0 0 0 258.17 244.41" fill="none" stroke="#d9480f" stroke-width="2"/>
+<text x="283.81" y="245" text-anchor="middle" fill="#d9480f" font-size="16" font-weight="bold">6</text>
+<path d="M 231.17 260 A 18 18 0 0 0 240.17 275.59" fill="none" stroke="#d9480f" stroke-width="2"/>
+<text x="214.53" y="285" text-anchor="middle" fill="#d9480f" font-size="16" font-weight="bold">7</text>
+<path d="M 238.17 279.05 A 22 22 0 0 0 271.17 260" fill="none" stroke="#222" stroke-width="2"/>
+<text x="269.17" y="299.64" text-anchor="middle" fill="#222" font-size="16" font-weight="bold">8</text>
+<text x="280" y="372" text-anchor="middle" fill="#222" font-size="13">orange angles are all 60°, black angles are all 120°</text>
+</svg>

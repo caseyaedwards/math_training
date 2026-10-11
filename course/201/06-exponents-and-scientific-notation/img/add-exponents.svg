@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 170" width="700" height="170" font-family="sans-serif" font-size="14">
+<title>2 cubed times 2 squared equals 2 to the fifth</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="700" height="170" fill="#ffffff"/>
+<rect x="30" y="50" width="40" height="40" fill="#ffffff" stroke="#222" stroke-width="2"/>
+<text x="50" y="76" text-anchor="middle" fill="#222" font-weight="bold">2</text>
+<rect x="74" y="50" width="40" height="40" fill="#ffffff" stroke="#222" stroke-width="2"/>
+<text x="94" y="76" text-anchor="middle" fill="#222" font-weight="bold">2</text>
+<rect x="118" y="50" width="40" height="40" fill="#ffffff" stroke="#222" stroke-width="2"/>
+<text x="138" y="76" text-anchor="middle" fill="#222" font-weight="bold">2</text>
+<path d="M 30 100 L 30 108 L 158 108 L 158 100" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="94" y="130" text-anchor="middle" fill="#222" font-size="16" font-weight="bold">2³ = 8</text>
+<text x="176" y="77" text-anchor="middle" fill="#222" font-size="22">×</text>
+<rect x="192" y="50" width="40" height="40" fill="#fbe3d6" stroke="#d9480f" stroke-width="2"/>
+<text x="212" y="76" text-anchor="middle" fill="#d9480f" font-weight="bold">2</text>
+<rect x="236" y="50" width="40" height="40" fill="#fbe3d6" stroke="#d9480f" stroke-width="2"/>
+<text x="256" y="76" text-anchor="middle" fill="#d9480f" font-weight="bold">2</text>
+<path d="M 192 100 L 192 108 L 276 108 L 276 100" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="234" y="130" text-anchor="middle" fill="#222" font-size="16" font-weight="bold">2² = 4</text>
+<text x="294" y="77" text-anchor="middle" fill="#222" font-size="22">=</text>
+<rect x="310" y="50" width="40" height="40" fill="#ffffff" stroke="#222" stroke-width="2"/>
+<text x="330" y="76" text-anchor="middle" fill="#222" font-weight="bold">2</text>
+<rect x="354" y="50" width="40" height="40" fill="#ffffff" stroke="#222" stroke-width="2"/>
+<text x="374" y="76" text-anchor="middle" fill="#222" font-weight="bold">2</text>
+<rect x="398" y="50" width="40" height="40" fill="#ffffff" stroke="#222" stroke-width="2"/>
+<text x="418" y="76" text-anchor="middle" fill="#222" font-weight="bold">2</text>
+<rect x="442" y="50" width="40" height="40" fill="#fbe3d6" stroke="#d9480f" stroke-width="2"/>
+<text x="462" y="76" text-anchor="middle" fill="#d9480f" font-weight="bold">2</text>
+<rect x="486" y="50" width="40" height="40" fill="#fbe3d6" stroke="#d9480f" stroke-width="2"/>
+<text x="506" y="76" text-anchor="middle" fill="#d9480f" font-weight="bold">2</text>
+<path d="M 310 100 L 310 108 L 526 108 L 526 100" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="418" y="130" text-anchor="middle" fill="#222" font-size="16" font-weight="bold">2⁵ = 32</text>
+<text x="350" y="155" text-anchor="middle" fill="#222" font-size="13">count the factors: 3 + 2 = 5: add the exponents</text>
+</svg>

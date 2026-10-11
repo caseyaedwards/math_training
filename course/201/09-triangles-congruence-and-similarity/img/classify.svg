@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 330" width="720" height="330" font-family="sans-serif" font-size="14">
+<title>Classifying triangles by sides and by angles</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="720" height="330" fill="#ffffff"/>
+<polygon points="90,130 180,130 135,52.1" fill="#ffffff" stroke="#222" stroke-width="2.5" stroke-linejoin="round"/>
+<line x1="135" y1="123" x2="135" y2="137" stroke="#d9480f" stroke-width="2"/>
+<line x1="151.44" y1="94.55" x2="163.56" y2="87.55" stroke="#d9480f" stroke-width="2"/>
+<line x1="118.56" y1="94.55" x2="106.44" y2="87.55" stroke="#d9480f" stroke-width="2"/>
+<text x="140" y="154" text-anchor="middle" fill="#222" font-weight="bold">equilateral</text>
+<polygon points="320,130 410,130 365,30" fill="#ffffff" stroke="#222" stroke-width="2.5" stroke-linejoin="round"/>
+<line x1="381.12" y1="82.87" x2="393.88" y2="77.13" stroke="#d9480f" stroke-width="2"/>
+<line x1="348.88" y1="82.87" x2="336.12" y2="77.13" stroke="#d9480f" stroke-width="2"/>
+<text x="370" y="154" text-anchor="middle" fill="#222" font-weight="bold">isosceles</text>
+<polygon points="550,130 660,130 580,60" fill="#ffffff" stroke="#222" stroke-width="2.5" stroke-linejoin="round"/>
+<line x1="605" y1="123" x2="605" y2="137" stroke="#d9480f" stroke-width="2"/>
+<line x1="617.27" y1="101.91" x2="626.49" y2="91.38" stroke="#d9480f" stroke-width="2"/>
+<line x1="613.51" y1="98.62" x2="622.73" y2="88.09" stroke="#d9480f" stroke-width="2"/>
+<line x1="573.4" y1="93.16" x2="560.54" y2="87.65" stroke="#d9480f" stroke-width="2"/>
+<line x1="571.43" y1="97.76" x2="558.57" y2="92.24" stroke="#d9480f" stroke-width="2"/>
+<line x1="569.46" y1="102.35" x2="556.6" y2="96.84" stroke="#d9480f" stroke-width="2"/>
+<text x="600" y="154" text-anchor="middle" fill="#222" font-weight="bold">scalene</text>
+<polygon points="90,290 190,290 145,210" fill="#fbe3d6" stroke="#d9480f" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="140" y="314" text-anchor="middle" fill="#222" font-weight="bold">acute</text>
+<polygon points="320,290 420,290 320,220" fill="#fbe3d6" stroke="#d9480f" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M 332 290 L 332 278 L 320 278" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="370" y="314" text-anchor="middle" fill="#222" font-weight="bold">right</text>
+<polygon points="580,290 700,290 550,235" fill="#fbe3d6" stroke="#d9480f" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M 596 290 A 16 16 0 0 0 572.34 275.95" fill="none" stroke="#222" stroke-width="2.5"/>
+<text x="630" y="314" text-anchor="middle" fill="#222" font-weight="bold">obtuse</text>
+<text x="20" y="30" text-anchor="start" fill="#222" font-size="13" font-weight="bold">by sides (tick marks = equal sides)</text>
+<text x="20" y="190" text-anchor="start" fill="#222" font-size="13" font-weight="bold">by angles</text>
+</svg>

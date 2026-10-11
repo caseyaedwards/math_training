@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 490" width="440" height="490" font-family="sans-serif" font-size="14">
+<title>Parabola y = x squared - x - 6 crossing the x-axis at -2 and 3</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="440" height="490" fill="#ffffff"/>
+<line x1="60" y1="422" x2="60" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="88" y1="422" x2="88" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="116" y1="422" x2="116" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="144" y1="422" x2="144" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="172" y1="422" x2="172" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="200" y1="422" x2="200" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="228" y1="422" x2="228" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="256" y1="422" x2="256" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="284" y1="422" x2="284" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="312" y1="422" x2="312" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="422" x2="312" y2="422" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="394" x2="312" y2="394" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="366" x2="312" y2="366" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="338" x2="312" y2="338" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="310" x2="312" y2="310" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="282" x2="312" y2="282" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="254" x2="312" y2="254" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="226" x2="312" y2="226" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="198" x2="312" y2="198" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="170" x2="312" y2="170" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="142" x2="312" y2="142" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="114" x2="312" y2="114" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="86" x2="312" y2="86" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="58" x2="312" y2="58" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="30" x2="312" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="52" y1="226" x2="326" y2="226" stroke="#222" stroke-width="2" marker-end="url(#arr)"/>
+<text x="328" y="218" text-anchor="middle" fill="#222" font-style="italic">x</text>
+<line x1="172" y1="430" x2="172" y2="16" stroke="#222" stroke-width="2" marker-end="url(#arr)"/>
+<text x="184" y="18" text-anchor="middle" fill="#222" font-style="italic">y</text>
+<text x="60" y="243" text-anchor="middle" fill="#222" font-size="12">−4</text>
+<text x="88" y="243" text-anchor="middle" fill="#222" font-size="12">−3</text>
+<text x="116" y="243" text-anchor="middle" fill="#222" font-size="12">−2</text>
+<text x="144" y="243" text-anchor="middle" fill="#222" font-size="12">−1</text>
+<text x="200" y="243" text-anchor="middle" fill="#222" font-size="12">1</text>
+<text x="228" y="243" text-anchor="middle" fill="#222" font-size="12">2</text>
+<text x="256" y="243" text-anchor="middle" fill="#222" font-size="12">3</text>
+<text x="284" y="243" text-anchor="middle" fill="#222" font-size="12">4</text>
+<text x="312" y="243" text-anchor="middle" fill="#222" font-size="12">5</text>
+<text x="166" y="426" text-anchor="end" fill="#222" font-size="12">−7</text>
+<text x="166" y="398" text-anchor="end" fill="#222" font-size="12">−6</text>
+<text x="166" y="370" text-anchor="end" fill="#222" font-size="12">−5</text>
+<text x="166" y="342" text-anchor="end" fill="#222" font-size="12">−4</text>
+<text x="166" y="314" text-anchor="end" fill="#222" font-size="12">−3</text>
+<text x="166" y="286" text-anchor="end" fill="#222" font-size="12">−2</text>
+<text x="166" y="258" text-anchor="end" fill="#222" font-size="12">−1</text>
+<text x="166" y="202" text-anchor="end" fill="#222" font-size="12">1</text>
+<text x="166" y="174" text-anchor="end" fill="#222" font-size="12">2</text>
+<text x="166" y="146" text-anchor="end" fill="#222" font-size="12">3</text>
+<text x="166" y="118" text-anchor="end" fill="#222" font-size="12">4</text>
+<text x="166" y="90" text-anchor="end" fill="#222" font-size="12">5</text>
+<text x="166" y="62" text-anchor="end" fill="#222" font-size="12">6</text>
+<text x="166" y="34" text-anchor="end" fill="#222" font-size="12">7</text>
+<text x="166" y="242" text-anchor="end" fill="#222" font-size="12">0</text>
+<polyline points="84.36,32.04 85.37,39.38 86.39,46.65 87.41,53.84 88.42,60.96 89.44,68.01 90.46,74.98 91.47,81.88 92.49,88.71 93.51,95.46 94.52,102.14 95.54,108.74 96.56,115.27 97.57,121.73 98.59,128.11 99.6,134.42 100.62,140.66 101.64,146.82 102.65,152.91 103.67,158.92 104.69,164.86 105.7,170.73 106.72,176.52 107.74,182.24 108.75,187.89 109.77,193.46 110.79,198.96 111.8,204.38 112.82,209.73 113.83,215.01 114.85,220.21 115.87,225.34 116.88,230.39 117.9,235.37 118.92,240.28 119.93,245.11 120.95,249.87 121.97,254.56 122.98,259.17 124,263.71 125.02,268.17 126.03,272.56 127.05,276.88 128.06,281.12 129.08,285.29 130.1,289.39 131.11,293.41 132.13,297.36 133.15,301.23 134.16,305.03 135.18,308.76 136.2,312.41 137.21,315.99 138.23,319.5 139.24,322.93 140.26,326.28 141.28,329.57 142.29,332.78 143.31,335.91 144.33,338.98 145.34,341.97 146.36,344.88 147.38,347.72 148.39,350.49 149.41,353.18 150.43,355.8 151.44,358.35 152.46,360.82 153.47,363.22 154.49,365.54 155.51,367.79 156.52,369.97 157.54,372.07 158.56,374.1 159.57,376.06 160.59,377.94 161.61,379.75 162.62,381.48 163.64,383.14 164.66,384.73 165.67,386.24 166.69,387.68 167.7,389.05 168.72,390.34 169.74,391.55 170.75,392.7 171.77,393.77 172.79,394.76 173.8,395.69 174.82,396.54 175.84,397.31 176.85,398.01 177.87,398.64 178.89,399.19 179.9,399.67 180.92,400.08 181.93,400.41 182.95,400.67 183.97,400.85 184.98,400.96 186,401 187.02,400.96 188.03,400.85 189.05,400.67 190.07,400.41 191.08,400.08 192.1,399.67 193.11,399.19 194.13,398.64 195.15,398.01 196.16,397.31 197.18,396.54 198.2,395.69 199.21,394.76 200.23,393.77 201.25,392.7 202.26,391.55 203.28,390.34 204.3,389.05 205.31,387.68 206.33,386.24 207.34,384.73 208.36,383.14 209.38,381.48 210.39,379.75 211.41,377.94 212.43,376.06 213.44,374.1 214.46,372.07 215.48,369.97 216.49,367.79 217.51,365.54 218.53,363.22 219.54,360.82 220.56,358.35 221.57,355.8 222.59,353.18 223.61,350.49 224.62,347.72 225.64,344.88 226.66,341.97 227.67,338.98 228.69,335.91 229.71,332.78 230.72,329.57 231.74,326.28 232.76,322.93 233.77,319.5 234.79,315.99 235.8,312.41 236.82,308.76 237.84,305.03 238.85,301.23 239.87,297.36 240.89,293.41 241.9,289.39 242.92,285.29 243.94,281.12 244.95,276.88 245.97,272.56 246.98,268.17 248,263.71 249.02,259.17 250.03,254.56 251.05,249.87 252.07,245.11 253.08,240.28 254.1,235.37 255.12,230.39 256.13,225.34 257.15,220.21 258.17,215.01 259.18,209.73 260.2,204.38 261.21,198.96 262.23,193.46 263.25,187.89 264.26,182.24 265.28,176.52 266.3,170.73 267.31,164.86 268.33,158.92 269.35,152.91 270.36,146.82 271.38,140.66 272.4,134.42 273.41,128.11 274.43,121.73 275.44,115.27 276.46,108.74 277.48,102.14 278.49,95.46 279.51,88.71 280.53,81.88 281.54,74.98 282.56,68.01 283.58,60.96 284.59,53.84 285.61,46.65 286.63,39.38 287.64,32.04" fill="none" stroke="#222" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="116" cy="226" r="6" fill="#d9480f" stroke="#d9480f" stroke-width="1"/>
+<text x="106" y="272" text-anchor="end" fill="#222">x = −2</text>
+<circle cx="256" cy="226" r="6" fill="#d9480f" stroke="#d9480f" stroke-width="1"/>
+<text x="266" y="272" text-anchor="start" fill="#222">x = 3</text>
+<circle cx="186" cy="401" r="5" fill="#222" stroke="#222" stroke-width="1"/>
+<text x="196" y="405" text-anchor="start" fill="#222">vertex (0.5, −6.25)</text>
+<text x="220" y="470" text-anchor="middle" fill="#222" font-weight="bold">y = x² − x − 6 = (x − 3)(x + 2)</text>
+</svg>

@@ -1,0 +1,11 @@
+What does an equation claim?	That both sides are the same number. A balance scale that is level.	math::201::linear-equations
+Name the four fair moves for solving an equation.	Add, subtract, multiply, or divide both sides by the same number (never multiply or divide by zero).	math::201::linear-equations
+In what order do you undo \(3x + 5\)?	Reverse order: subtract 5 first, then divide by 3.	math::201::linear-equations
+Solve \(3x + 5 = 20\).	\(x = 5\)	math::201::linear-equations
+Solve \(5x - 7 = 2x + 8\).	\(x = 5\)	math::201::linear-equations
+Solve \(3(x + 2) = 2x - 4\).	\(x = -10\)	math::201::linear-equations
+How do you clear fractions in an equation?	Multiply both sides by a common denominator.	math::201::linear-equations
+What does it mean when solving gives \(1 = 2\)?	No solution.	math::201::linear-equations
+What does it mean when solving gives \(6 = 6\)?	Every value of x is a solution.	math::201::linear-equations
+Why is dividing both sides by x a bad move?	x can be 0, and dividing loses that solution.	math::201::linear-equations
+What is the last step of every equation?	Check: substitute the answer into the original equation.	math::201::linear-equations

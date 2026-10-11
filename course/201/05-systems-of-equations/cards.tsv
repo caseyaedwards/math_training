@@ -1,0 +1,9 @@
+What is the solution of a system of two linear equations, as a picture?	The point where the two lines cross.	math::201::systems
+Three possible outcomes for two lines?	One solution (cross), no solution (parallel), infinitely many (same line).	math::201::systems
+Describe the substitution method.	Solve one equation for a variable and put that expression into the other equation.	math::201::systems
+Describe the elimination method.	Add or subtract the equations (after scaling) so one variable cancels.	math::201::systems
+Why is adding two equations allowed?	Equal amounts added to equal amounts stay equal.	math::201::systems
+Solve \(3x + 2y = 16\), \(5x - 2y = 0\).	\((2, 5)\)	math::201::systems
+Solve \(2x + 3y = 12\), \(x - y = 1\).	\((3, 2)\)	math::201::systems
+What does \(0 = 0\) mean after elimination?	The equations describe the same line: infinitely many solutions.	math::201::systems
+What does \(1 = -4\) mean after elimination?	Parallel lines: no solution.	math::201::systems

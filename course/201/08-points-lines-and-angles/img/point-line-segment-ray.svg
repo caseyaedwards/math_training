@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 150" width="720" height="150" font-family="sans-serif" font-size="14">
+<title>Point, line, segment and ray</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="720" height="150" fill="#ffffff"/>
+<circle cx="60" cy="70" r="5" fill="#222" stroke="#222" stroke-width="2"/>
+<text x="60" y="54" text-anchor="middle" fill="#222" font-weight="bold">P</text>
+<text x="60" y="125" text-anchor="middle" fill="#222" font-weight="bold">point P</text>
+<line x1="150" y1="70" x2="290" y2="70" stroke="#222" stroke-width="2.5" marker-end="url(#arr)"/>
+<line x1="290" y1="70" x2="150" y2="70" stroke="#222" stroke-width="2.5" marker-end="url(#arr)"/>
+<circle cx="180" cy="70" r="4" fill="#222" stroke="#222" stroke-width="2"/>
+<text x="180" y="56" text-anchor="middle" fill="#222" font-weight="bold">A</text>
+<circle cx="260" cy="70" r="4" fill="#222" stroke="#222" stroke-width="2"/>
+<text x="260" y="56" text-anchor="middle" fill="#222" font-weight="bold">B</text>
+<text x="220" y="125" text-anchor="middle" fill="#222" font-weight="bold">line AB: no ends</text>
+<line x1="360" y1="70" x2="480" y2="70" stroke="#222" stroke-width="2.5"/>
+<circle cx="360" cy="70" r="5" fill="#222" stroke="#222" stroke-width="2"/>
+<text x="360" y="56" text-anchor="middle" fill="#222" font-weight="bold">A</text>
+<circle cx="480" cy="70" r="5" fill="#222" stroke="#222" stroke-width="2"/>
+<text x="480" y="56" text-anchor="middle" fill="#222" font-weight="bold">B</text>
+<text x="420" y="125" text-anchor="middle" fill="#222" font-weight="bold">segment AB: two ends</text>
+<line x1="550" y1="70" x2="690" y2="70" stroke="#222" stroke-width="2.5" marker-end="url(#arr)"/>
+<circle cx="550" cy="70" r="5" fill="#222" stroke="#222" stroke-width="2"/>
+<text x="550" y="56" text-anchor="middle" fill="#222" font-weight="bold">A</text>
+<circle cx="630" cy="70" r="4" fill="#222" stroke="#222" stroke-width="2"/>
+<text x="630" y="56" text-anchor="middle" fill="#222" font-weight="bold">B</text>
+<text x="620" y="125" text-anchor="middle" fill="#222" font-weight="bold">ray AB: one end</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 280" width="780" height="280" font-family="sans-serif" font-size="14">
+<title>Three angle pairs: corresponding, alternate interior, same-side interior</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="780" height="280" fill="#ffffff"/>
+<line x1="20" y1="80" x2="240" y2="80" stroke="#222" stroke-width="2"/>
+<line x1="20" y1="170" x2="240" y2="170" stroke="#222" stroke-width="2"/>
+<line x1="68.04" y1="221.96" x2="180" y2="28.04" stroke="#222" stroke-width="2"/>
+<path d="M 160 62.68 A 20 20 0 0 0 130 80" fill="none" stroke="#d9480f" stroke-width="3"/>
+<text x="132" y="53.82" text-anchor="middle" fill="#d9480f" font-size="15" font-weight="bold">1</text>
+<path d="M 108.04 152.68 A 20 20 0 0 0 78.04 170" fill="none" stroke="#d9480f" stroke-width="3"/>
+<text x="80.04" y="143.82" text-anchor="middle" fill="#d9480f" font-size="15" font-weight="bold">5</text>
+<text x="130" y="250" text-anchor="middle" fill="#222" font-size="13" font-weight="bold">corresponding: 1 and 5</text>
+<text x="130" y="270" text-anchor="middle" fill="#d9480f" font-size="13">equal</text>
+<line x1="280" y1="80" x2="500" y2="80" stroke="#222" stroke-width="2"/>
+<line x1="280" y1="170" x2="500" y2="170" stroke="#222" stroke-width="2"/>
+<line x1="328.04" y1="221.96" x2="440" y2="28.04" stroke="#222" stroke-width="2"/>
+<path d="M 390 80 A 20 20 0 0 0 400 97.32" fill="none" stroke="#d9480f" stroke-width="3"/>
+<text x="378.82" y="103" text-anchor="middle" fill="#d9480f" font-size="15" font-weight="bold">3</text>
+<path d="M 378.04 170 A 20 20 0 0 0 368.04 152.68" fill="none" stroke="#d9480f" stroke-width="3"/>
+<text x="389.22" y="157" text-anchor="middle" fill="#d9480f" font-size="15" font-weight="bold">6</text>
+<text x="390" y="250" text-anchor="middle" fill="#222" font-size="13" font-weight="bold">alternate interior: 3 and 6</text>
+<text x="390" y="270" text-anchor="middle" fill="#d9480f" font-size="13">equal</text>
+<line x1="540" y1="80" x2="760" y2="80" stroke="#222" stroke-width="2"/>
+<line x1="540" y1="170" x2="760" y2="170" stroke="#222" stroke-width="2"/>
+<line x1="588.04" y1="221.96" x2="700" y2="28.04" stroke="#222" stroke-width="2"/>
+<path d="M 650 80 A 20 20 0 0 0 660 97.32" fill="none" stroke="#d9480f" stroke-width="3"/>
+<text x="638.82" y="103" text-anchor="middle" fill="#d9480f" font-size="15" font-weight="bold">3</text>
+<path d="M 628.04 152.68 A 20 20 0 0 0 598.04 170" fill="none" stroke="#d9480f" stroke-width="3"/>
+<text x="600.04" y="143.82" text-anchor="middle" fill="#d9480f" font-size="15" font-weight="bold">5</text>
+<text x="650" y="250" text-anchor="middle" fill="#222" font-size="13" font-weight="bold">same-side interior: 3 and 5</text>
+<text x="650" y="270" text-anchor="middle" fill="#d9480f" font-size="13">add to 180°</text>
+</svg>

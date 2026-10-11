@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" width="680" height="300" font-family="sans-serif" font-size="14">
+<title>Difference of squares: cut b squared from a squared and rearrange</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="680" height="300" fill="#ffffff"/>
+<polygon points="40,40 196,40 196,144 144,144 144,196 40,196" fill="#fbe3d6" stroke="#d9480f" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="144" y="144" width="52" height="52" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="5 4"/>
+<line x1="40" y1="144" x2="144" y2="144" stroke="#d9480f" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="170" y="175" text-anchor="middle" fill="#999" font-weight="bold">b²</text>
+<text x="118" y="30" text-anchor="middle" fill="#222">a</text>
+<text x="28" y="118" text-anchor="middle" fill="#222">a</text>
+<text x="92" y="97" text-anchor="middle" fill="#d9480f" font-size="18" font-weight="bold">A</text>
+<text x="92" y="175" text-anchor="middle" fill="#d9480f" font-size="18" font-weight="bold">B</text>
+<text x="170" y="97" text-anchor="middle" fill="#222" font-size="1"></text>
+<text x="118" y="226" text-anchor="middle" fill="#222" font-size="16" font-weight="bold">a² − b²</text>
+<line x1="226" y1="118" x2="286" y2="118" stroke="#d9480f" stroke-width="2.5" marker-end="url(#arrA)"/>
+<text x="256" y="108" text-anchor="middle" fill="#d9480f" font-size="12">move B</text>
+<rect x="316" y="40" width="156" height="104" fill="#fbe3d6" stroke="#d9480f" stroke-width="2.5"/>
+<rect x="472" y="40" width="52" height="104" fill="#fbe3d6" stroke="#d9480f" stroke-width="2.5"/>
+<text x="394" y="97" text-anchor="middle" fill="#d9480f" font-size="18" font-weight="bold">A</text>
+<text x="498" y="97" text-anchor="middle" fill="#d9480f" font-size="18" font-weight="bold">B</text>
+<text x="420" y="30" text-anchor="middle" fill="#222">a + b</text>
+<text x="534" y="97" text-anchor="start" fill="#222">a − b</text>
+<text x="420" y="226" text-anchor="middle" fill="#222" font-size="16" font-weight="bold">(a + b)(a − b)</text>
+<text x="340" y="290" text-anchor="middle" fill="#222" font-size="13">B is the a − b by b strip, turned on its side</text>
+</svg>

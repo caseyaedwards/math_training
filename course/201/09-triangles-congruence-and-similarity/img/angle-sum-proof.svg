@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" width="520" height="320" font-family="sans-serif" font-size="14">
+<title>Proof that triangle angles sum to 180 degrees using a parallel line</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="520" height="320" fill="#ffffff"/>
+<polygon points="80,260 420,260 270,90" fill="#ffffff" stroke="#222" stroke-width="2.5" stroke-linejoin="round"/>
+<line x1="40" y1="90" x2="480" y2="90" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="484" y="80" text-anchor="end" fill="#222" font-size="12">line through C parallel to AB</text>
+<path d="M 110 260 A 30 30 0 0 0 102.36 240" fill="none" stroke="#d9480f" stroke-width="3"/>
+<path d="M 400.15 237.5 A 30 30 0 0 0 390 260" fill="none" stroke="#222" stroke-width="3"/>
+<path d="M 396.84 233.76 A 35 35 0 0 0 385 260" fill="none" stroke="#222" stroke-width="1.5"/>
+<path d="M 244 90 A 26 26 0 0 0 250.62 107.34" fill="none" stroke="#d9480f" stroke-width="3"/>
+<path d="M 250.62 107.34 A 26 26 0 0 0 287.2 109.5" fill="none" stroke="#2b8a3e" stroke-width="3"/>
+<path d="M 287.2 109.5 A 26 26 0 0 0 296 90" fill="none" stroke="#222" stroke-width="3"/>
+<path d="M 290.51 113.24 A 31 31 0 0 0 301 90" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="66" y="278" text-anchor="middle" fill="#222" font-weight="bold">A</text>
+<text x="434" y="278" text-anchor="middle" fill="#222" font-weight="bold">B</text>
+<text x="270" y="56" text-anchor="middle" fill="#222" font-weight="bold">C</text>
+<text x="126.71" y="247.15" text-anchor="middle" fill="#d9480f" font-weight="bold">a</text>
+<text x="372.6" y="243.61" text-anchor="middle" fill="#222" font-weight="bold">b</text>
+<text x="225.16" y="112.13" text-anchor="middle" fill="#d9480f" font-weight="bold">a</text>
+<text x="313.75" y="114.74" text-anchor="middle" fill="#222" font-weight="bold">b</text>
+<text x="267.29" y="140.92" text-anchor="middle" fill="#2b8a3e" font-weight="bold">c</text>
+<text x="260" y="305" text-anchor="middle" fill="#222" font-size="13">a + c + b lie along a straight line: a + b + c = 180°</text>
+</svg>

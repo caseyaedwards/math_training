@@ -9,6 +9,7 @@ coordinates with y pointing up, wrap a region of the canvas in a
 from __future__ import annotations
 
 import math
+import numbers
 import re
 from contextlib import contextmanager
 from typing import Iterable, Iterator, Optional, Sequence, Tuple
@@ -22,6 +23,7 @@ def fmt(v: float) -> str:
     """Formats a number compactly for SVG output."""
     if isinstance(v, str):
         return v
+    v = float(v)  # accepts Fraction, Decimal, and other real numbers
     if v != v or v in (math.inf, -math.inf):
         raise ValueError(f"cannot write non-finite number {v!r} to SVG")
     r = round(v, 2)
@@ -68,7 +70,7 @@ class Element:
     def render(self, indent: int = 0) -> str:
         pad = "  " * indent
         attrs = "".join(
-            f' {k}="{esc(fmt(v) if isinstance(v, (int, float)) else v)}"'
+            f' {k}="{esc(fmt(v) if isinstance(v, numbers.Real) else v)}"'
             for k, v in self.attrs.items()
         )
         if not self.children and self.text is None:
@@ -112,7 +114,7 @@ SYMBOLS = {
     r"\deg": "°", r"\angle": "∠", r"\perp": "⊥", r"\parallel": "∥",
     r"\triangle": "△", r"\sqrt": "√", r"\equiv": "≡", r"\prime": "′",
     r"\mathbb{R}": "ℝ", r"\mathbb{Z}": "ℤ", r"\mathbb{N}": "ℕ",
-    r"\mathbb{Q}": "ℚ", r"\mathbb{C}": "ℂ", r"\ldots": "…",
+    r"\mathbb{Q}": "ℚ", r"\mathbb{C}": "ℂ", r"\ldots": "…", r"\cdots": "⋯",
     r"\leftrightarrow": "↔", r"\Rightarrow": "⇒", r"\circ": "∘", r"\varphi": "φ", r"\rho": "ρ",
     r"\tau": "τ", r"\psi": "ψ", r"\chi": "χ", r"\eta": "η", r"\zeta": "ζ", r"\kappa": "κ",
 }

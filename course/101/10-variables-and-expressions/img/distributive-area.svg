@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 185" width="460" height="185" font-family="sans-serif" font-size="14" role="img" aria-label="Rectangle 3 tall and x plus 2 wide split into areas 3x and 6">
+<title>Rectangle 3 tall and x plus 2 wide split into areas 3x and 6</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="460" height="185" fill="#fff"/>
+<rect x="60.0" y="50.0" width="180.0" height="90.0" fill="#f3d9cc" stroke="#222" stroke-width="2" rx="0"/>
+<rect x="240.0" y="50.0" width="60.0" height="90.0" fill="#fff" stroke="#222" stroke-width="2" rx="0"/>
+<line x1="240.0" y1="80.0" x2="300.0" y2="80.0" stroke="#bbb" stroke-width="1"/>
+<line x1="240.0" y1="110.0" x2="300.0" y2="110.0" stroke="#bbb" stroke-width="1"/>
+<line x1="270.0" y1="50.0" x2="270.0" y2="140.0" stroke="#bbb" stroke-width="1"/>
+<text x="150.0" y="38.0" text-anchor="middle" font-size="16" fill="#222" font-weight="bold">x</text>
+<text x="270.0" y="38.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">2</text>
+<text x="46.0" y="100.0" text-anchor="end" font-size="14" fill="#222" font-weight="bold">3</text>
+<text x="150.0" y="100.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">3x</text>
+<text x="270.0" y="100.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">6</text>
+<text x="330.0" y="80.0" text-anchor="start" font-size="14" fill="#222" font-weight="bold">3(x + 2)</text>
+<text x="330.0" y="110.0" text-anchor="start" font-size="14" fill="#d9480f" font-weight="bold">= 3x + 6</text>
+<text x="180.0" y="173.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">x is an unknown width. The area splits the same way.</text>
+</svg>

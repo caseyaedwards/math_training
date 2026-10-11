@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 230" width="580" height="230" font-family="sans-serif" font-size="14" role="img" aria-label="Multiplying 470 by 10 shifts each digit one place left to give 4,700">
+<title>Multiplying 470 by 10 shifts each digit one place left to give 4,700</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="580" height="230" fill="#fff"/>
+<text x="185.0" y="28.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">Th</text>
+<text x="255.0" y="28.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">H</text>
+<text x="325.0" y="28.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">T</text>
+<text x="395.0" y="28.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">O</text>
+<text x="135.0" y="70.0" text-anchor="end" font-size="13" fill="#222" font-weight="bold">470</text>
+<rect x="150.0" y="40.0" width="70.0" height="44.0" fill="#fff" stroke="#222" stroke-width="1.2" rx="0"/>
+<text x="185.0" y="70.0" text-anchor="middle" font-size="22" fill="#222" font-weight="bold"></text>
+<rect x="220.0" y="40.0" width="70.0" height="44.0" fill="#f3d9cc" stroke="#222" stroke-width="1.2" rx="0"/>
+<text x="255.0" y="70.0" text-anchor="middle" font-size="22" fill="#222" font-weight="bold">4</text>
+<rect x="290.0" y="40.0" width="70.0" height="44.0" fill="#f3d9cc" stroke="#222" stroke-width="1.2" rx="0"/>
+<text x="325.0" y="70.0" text-anchor="middle" font-size="22" fill="#222" font-weight="bold">7</text>
+<rect x="360.0" y="40.0" width="70.0" height="44.0" fill="#f3d9cc" stroke="#222" stroke-width="1.2" rx="0"/>
+<text x="395.0" y="70.0" text-anchor="middle" font-size="22" fill="#222" font-weight="bold">0</text>
+<text x="135.0" y="180.0" text-anchor="end" font-size="13" fill="#222" font-weight="bold">470 × 10 = 4,700</text>
+<rect x="150.0" y="150.0" width="70.0" height="44.0" fill="#f3d9cc" stroke="#222" stroke-width="1.2" rx="0"/>
+<text x="185.0" y="180.0" text-anchor="middle" font-size="22" fill="#222" font-weight="bold">4</text>
+<rect x="220.0" y="150.0" width="70.0" height="44.0" fill="#f3d9cc" stroke="#222" stroke-width="1.2" rx="0"/>
+<text x="255.0" y="180.0" text-anchor="middle" font-size="22" fill="#222" font-weight="bold">7</text>
+<rect x="290.0" y="150.0" width="70.0" height="44.0" fill="#f3d9cc" stroke="#222" stroke-width="1.2" rx="0"/>
+<text x="325.0" y="180.0" text-anchor="middle" font-size="22" fill="#222" font-weight="bold">0</text>
+<rect x="360.0" y="150.0" width="70.0" height="44.0" fill="#f3d9cc" stroke="#222" stroke-width="1.2" rx="0"/>
+<text x="395.0" y="180.0" text-anchor="middle" font-size="22" fill="#222" font-weight="bold">0</text>
+<line x1="255.0" y1="88.0" x2="191.0" y2="146.0" stroke="#d9480f" stroke-width="1.8" marker-end="url(#arrowacc)"/>
+<line x1="325.0" y1="88.0" x2="261.0" y2="146.0" stroke="#d9480f" stroke-width="1.8" marker-end="url(#arrowacc)"/>
+<line x1="395.0" y1="88.0" x2="331.0" y2="146.0" stroke="#d9480f" stroke-width="1.8" marker-end="url(#arrowacc)"/>
+<text x="445.0" y="125.0" text-anchor="start" font-size="13" fill="#d9480f" font-weight="normal">every digit moves</text>
+<text x="445.0" y="143.0" text-anchor="start" font-size="13" fill="#d9480f" font-weight="normal">one place left</text>
+<text x="395.0" y="212.0" text-anchor="middle" font-size="12" fill="#666" font-weight="normal">new 0 fills the ones</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 200" width="720" height="200" font-family="sans-serif" font-size="14" role="img" aria-label="Double number line pairing seconds with requests at 120 requests per second">
+<title>Double number line pairing seconds with requests at 120 requests per second</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="720" height="200" fill="#fff"/>
+<line x1="105.0" y1="60.0" x2="655.0" y2="60.0" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="105.0" y1="60" x2="104.0" y2="60" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="120.0" y1="51.0" x2="120.0" y2="69.0" stroke="#222" stroke-width="2"/>
+<text x="120.0" y="88.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">0</text>
+<line x1="224.0" y1="51.0" x2="224.0" y2="69.0" stroke="#222" stroke-width="2"/>
+<text x="224.0" y="88.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">1</text>
+<line x1="328.0" y1="51.0" x2="328.0" y2="69.0" stroke="#222" stroke-width="2"/>
+<text x="328.0" y="88.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">2</text>
+<line x1="432.0" y1="51.0" x2="432.0" y2="69.0" stroke="#222" stroke-width="2"/>
+<text x="432.0" y="88.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">3</text>
+<line x1="536.0" y1="51.0" x2="536.0" y2="69.0" stroke="#222" stroke-width="2"/>
+<text x="536.0" y="88.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">4</text>
+<line x1="640.0" y1="51.0" x2="640.0" y2="69.0" stroke="#222" stroke-width="2"/>
+<text x="640.0" y="88.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">5</text>
+<line x1="105.0" y1="140.0" x2="655.0" y2="140.0" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="105.0" y1="140" x2="104.0" y2="140" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="120.0" y1="131.0" x2="120.0" y2="149.0" stroke="#222" stroke-width="2"/>
+<text x="120.0" y="168.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">0</text>
+<line x1="224.0" y1="131.0" x2="224.0" y2="149.0" stroke="#222" stroke-width="2"/>
+<text x="224.0" y="168.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">120</text>
+<line x1="328.0" y1="131.0" x2="328.0" y2="149.0" stroke="#222" stroke-width="2"/>
+<text x="328.0" y="168.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">240</text>
+<line x1="432.0" y1="131.0" x2="432.0" y2="149.0" stroke="#222" stroke-width="2"/>
+<text x="432.0" y="168.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">360</text>
+<line x1="536.0" y1="131.0" x2="536.0" y2="149.0" stroke="#222" stroke-width="2"/>
+<text x="536.0" y="168.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">480</text>
+<line x1="640.0" y1="131.0" x2="640.0" y2="149.0" stroke="#222" stroke-width="2"/>
+<text x="640.0" y="168.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">600</text>
+<text x="40.0" y="65.0" text-anchor="start" font-size="14" fill="#222" font-weight="normal">seconds</text>
+<text x="40.0" y="145.0" text-anchor="start" font-size="14" fill="#222" font-weight="normal">requests</text>
+<line x1="120.0" y1="75.0" x2="120.0" y2="128.0" stroke="#bbb" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="224.0" y1="75.0" x2="224.0" y2="128.0" stroke="#bbb" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="328.0" y1="75.0" x2="328.0" y2="128.0" stroke="#bbb" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="432.0" y1="75.0" x2="432.0" y2="128.0" stroke="#bbb" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="536.0" y1="75.0" x2="536.0" y2="128.0" stroke="#bbb" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="640.0" y1="75.0" x2="640.0" y2="128.0" stroke="#bbb" stroke-width="1" stroke-dasharray="3 3"/>
+<circle cx="224.0" cy="60.0" r="6" fill="#d9480f" stroke="none" stroke-width="2"/>
+<circle cx="224.0" cy="140.0" r="6" fill="#d9480f" stroke="none" stroke-width="2"/>
+<text x="360.0" y="192.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">Matching marks line up: 120 requests per 1 second at every point</text>
+</svg>

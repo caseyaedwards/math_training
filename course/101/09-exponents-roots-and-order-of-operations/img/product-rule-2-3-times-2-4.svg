@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 442 240" width="442" height="240" font-family="sans-serif" font-size="14" role="img" aria-label="Three boxes of 2 times four boxes of 2 regrouped as seven boxes of 2">
+<title>Three boxes of 2 times four boxes of 2 regrouped as seven boxes of 2</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="442" height="240" fill="#fff"/>
+<rect x="40.0" y="40.0" width="40.0" height="40.0" fill="#f3d9cc" stroke="#222" stroke-width="1.2" rx="4"/>
+<text x="60.0" y="67.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">2</text>
+<rect x="86.0" y="40.0" width="40.0" height="40.0" fill="#f3d9cc" stroke="#222" stroke-width="1.2" rx="4"/>
+<text x="106.0" y="67.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">2</text>
+<rect x="132.0" y="40.0" width="40.0" height="40.0" fill="#f3d9cc" stroke="#222" stroke-width="1.2" rx="4"/>
+<text x="152.0" y="67.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">2</text>
+<text x="106.0" y="105.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">2³: three twos</text>
+<text x="188.0" y="68.0" text-anchor="middle" font-size="22" fill="#222" font-weight="normal">×</text>
+<rect x="218.0" y="40.0" width="40.0" height="40.0" fill="#d9480f" stroke="#222" stroke-width="1.2" rx="4"/>
+<text x="238.0" y="67.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">2</text>
+<rect x="264.0" y="40.0" width="40.0" height="40.0" fill="#d9480f" stroke="#222" stroke-width="1.2" rx="4"/>
+<text x="284.0" y="67.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">2</text>
+<rect x="310.0" y="40.0" width="40.0" height="40.0" fill="#d9480f" stroke="#222" stroke-width="1.2" rx="4"/>
+<text x="330.0" y="67.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">2</text>
+<rect x="356.0" y="40.0" width="40.0" height="40.0" fill="#d9480f" stroke="#222" stroke-width="1.2" rx="4"/>
+<text x="376.0" y="67.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">2</text>
+<text x="307.0" y="105.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">2⁴: four twos</text>
+<rect x="40.0" y="150.0" width="40.0" height="40.0" fill="#f3d9cc" stroke="#222" stroke-width="1.2" rx="4"/>
+<text x="60.0" y="177.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">2</text>
+<rect x="86.0" y="150.0" width="40.0" height="40.0" fill="#f3d9cc" stroke="#222" stroke-width="1.2" rx="4"/>
+<text x="106.0" y="177.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">2</text>
+<rect x="132.0" y="150.0" width="40.0" height="40.0" fill="#f3d9cc" stroke="#222" stroke-width="1.2" rx="4"/>
+<text x="152.0" y="177.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">2</text>
+<rect x="178.0" y="150.0" width="40.0" height="40.0" fill="#d9480f" stroke="#222" stroke-width="1.2" rx="4"/>
+<text x="198.0" y="177.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">2</text>
+<rect x="224.0" y="150.0" width="40.0" height="40.0" fill="#d9480f" stroke="#222" stroke-width="1.2" rx="4"/>
+<text x="244.0" y="177.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">2</text>
+<rect x="270.0" y="150.0" width="40.0" height="40.0" fill="#d9480f" stroke="#222" stroke-width="1.2" rx="4"/>
+<text x="290.0" y="177.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">2</text>
+<rect x="316.0" y="150.0" width="40.0" height="40.0" fill="#d9480f" stroke="#222" stroke-width="1.2" rx="4"/>
+<text x="336.0" y="177.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">2</text>
+<text x="201.0" y="215.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="bold">2³ × 2⁴ = 2⁷ = 128: count the twos, 3 + 4 = 7</text>
+</svg>

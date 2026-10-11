@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 205" width="540" height="205" font-family="sans-serif" font-size="14" role="img" aria-label="Bars of fifths showing 2/5 plus 1/5 equals 3/5">
+<title>Bars of fifths showing 2/5 plus 1/5 equals 3/5</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="540" height="205" fill="#fff"/>
+<rect x="110.0" y="25.0" width="80.0" height="36.0" fill="#f3d9cc" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="190.0" y="25.0" width="80.0" height="36.0" fill="#f3d9cc" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="270.0" y="25.0" width="80.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="350.0" y="25.0" width="80.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="430.0" y="25.0" width="80.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<text x="98.0" y="48.0" text-anchor="end" font-size="14" fill="#222" font-weight="bold">2/5</text>
+<rect x="110.0" y="75.0" width="80.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="190.0" y="75.0" width="80.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="270.0" y="75.0" width="80.0" height="36.0" fill="#d9480f" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="350.0" y="75.0" width="80.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="430.0" y="75.0" width="80.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<text x="98.0" y="98.0" text-anchor="end" font-size="14" fill="#222" font-weight="bold">+ 1/5</text>
+<rect x="110.0" y="125.0" width="80.0" height="36.0" fill="#f3d9cc" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="190.0" y="125.0" width="80.0" height="36.0" fill="#f3d9cc" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="270.0" y="125.0" width="80.0" height="36.0" fill="#d9480f" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="350.0" y="125.0" width="80.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="430.0" y="125.0" width="80.0" height="36.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<text x="98.0" y="148.0" text-anchor="end" font-size="14" fill="#222" font-weight="bold">= 3/5</text>
+<text x="270.0" y="191.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">Same-size pieces: count them. The piece size, fifths, stays the same.</text>
+</svg>

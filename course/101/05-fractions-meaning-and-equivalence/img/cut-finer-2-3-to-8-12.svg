@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 220" width="620" height="220" font-family="sans-serif" font-size="14" role="img" aria-label="A bar of thirds with 2 shaded; each third cut into 4 gives 8 of 12 shaded, the same length">
+<title>A bar of thirds with 2 shaded; each third cut into 4 gives 8 of 12 shaded, the same length</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="620" height="220" fill="#fff"/>
+<rect x="110.0" y="30.0" width="160.0" height="40.0" fill="#f3d9cc" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="270.0" y="30.0" width="160.0" height="40.0" fill="#f3d9cc" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="430.0" y="30.0" width="160.0" height="40.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<text x="98.0" y="55.0" text-anchor="end" font-size="14" fill="#222" font-weight="bold">2/3</text>
+<text x="350.0" y="100.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="normal">cut every piece into 4</text>
+<line x1="350.0" y1="106.0" x2="350.0" y2="128.0" stroke="#d9480f" stroke-width="1.8" marker-end="url(#arrowacc)"/>
+<rect x="110.0" y="135.0" width="40.0" height="40.0" fill="#f3d9cc" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="150.0" y="135.0" width="40.0" height="40.0" fill="#f3d9cc" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="190.0" y="135.0" width="40.0" height="40.0" fill="#f3d9cc" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="230.0" y="135.0" width="40.0" height="40.0" fill="#f3d9cc" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="270.0" y="135.0" width="40.0" height="40.0" fill="#f3d9cc" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="310.0" y="135.0" width="40.0" height="40.0" fill="#f3d9cc" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="350.0" y="135.0" width="40.0" height="40.0" fill="#f3d9cc" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="390.0" y="135.0" width="40.0" height="40.0" fill="#f3d9cc" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="430.0" y="135.0" width="40.0" height="40.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="470.0" y="135.0" width="40.0" height="40.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="510.0" y="135.0" width="40.0" height="40.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="550.0" y="135.0" width="40.0" height="40.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<text x="98.0" y="160.0" text-anchor="end" font-size="14" fill="#222" font-weight="bold">8/12</text>
+<line x1="270.0" y1="135.0" x2="270.0" y2="175.0" stroke="#222" stroke-width="3"/>
+<line x1="430.0" y1="135.0" x2="430.0" y2="175.0" stroke="#222" stroke-width="3"/>
+<text x="310.0" y="206.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">4 times as many pieces, each 4 times smaller: 2/3 = (2×4)/(3×4) = 8/12</text>
+</svg>

@@ -1,0 +1,13 @@
+What is a factor?	A number that divides another with no remainder.	math::101::primes
+What is a multiple?	A number times a whole number. Multiples of 6: 6, 12, 18, ...	math::101::primes
+Define prime.	A number greater than 1 with exactly two factors: 1 and itself.	math::101::primes
+Is 1 prime?	No. It has only one factor.	math::101::primes
+Is 91 prime?	No. 91 = 7 × 13.	math::101::primes
+Why test divisors only up to the square root?	Factors pair up, and in each pair one factor is at most the square root.	math::101::primes
+Prime factorization of 84?	\(2^2 \times 3 \times 7\)	math::101::primes
+What does the Fundamental Theorem of Arithmetic say?	Every whole number above 1 has exactly one prime factorization.	math::101::primes
+gcd and lcm of 84 and 60?	gcd 12, lcm 420.	math::101::primes
+Link between gcd and lcm?	\(\gcd(a,b) \times \operatorname{lcm}(a,b) = a \times b\)	math::101::primes
+Euclid's algorithm in one line?	Replace the larger number with the remainder; repeat until the remainder is 0. The last nonzero remainder is the gcd.	math::101::primes
+Jobs every 6 and 15 minutes meet every?	30 minutes, the lcm.	math::101::primes
+Divisibility test for 3 and 9?	The digit sum divides by 3 (or 9).	math::101::primes

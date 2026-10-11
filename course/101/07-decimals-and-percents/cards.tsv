@@ -1,0 +1,12 @@
+Place values right of the point?	Tenths, hundredths, thousandths: 1/10, 1/100, 1/1000.	math::101::decimals
+0.375 as a fraction?	3/8	math::101::decimals
+1/3 as a decimal?	0.333..., a repeating decimal.	math::101::decimals
+Which is larger, 0.45 or 0.5?	0.5. Pad: 0.450 against 0.500.	math::101::decimals
+Rule for multiplying decimals?	Multiply as whole numbers, then give the answer as many decimal places as both factors together.	math::101::decimals
+1.2 × 0.3 = ?	0.36	math::101::decimals
+What does percent mean?	Per hundred. 37% = 37/100 = 0.37.	math::101::decimals
+15% of 80?	12. Multiply 0.15 × 80.	math::101::decimals
+Percent change formula?	\(\frac{\text{new} - \text{old}}{\text{old}} \times 100\%\)	math::101::decimals
+200 ms to 250 ms, and back?	+25% going up, −20% coming down. The base changes.	math::101::decimals
+Error budget of 99.9% over 30 days?	43.2 minutes. 0.001 × 43,200.	math::101::decimals
+Percentage points vs percent?	2% to 3% is +1 percentage point, but +50% relative.	math::101::decimals

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 810 185" width="810" height="185" font-family="sans-serif" font-size="14" role="img" aria-label="Two bars: 200 growing by 50 is plus 25 percent; 250 shrinking by 50 is minus 20 percent">
+<title>Two bars: 200 growing by 50 is plus 25 percent; 250 shrinking by 50 is minus 20 percent</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="810" height="185" fill="#fff"/>
+<rect x="150.0" y="40.0" width="400.0" height="34.0" fill="#f3d9cc" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="550.0" y="40.0" width="100.0" height="34.0" fill="#d9480f" stroke="#222" stroke-width="1.5" rx="0"/>
+<text x="138.0" y="62.0" text-anchor="end" font-size="14" fill="#222" font-weight="bold">200 → 250</text>
+<text x="350.0" y="62.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">base 200</text>
+<text x="600.0" y="62.0" text-anchor="middle" font-size="14" fill="#fff" font-weight="bold">+50</text>
+<text x="662.0" y="62.0" text-anchor="start" font-size="14" fill="#d9480f" font-weight="normal">50/200 = +25%</text>
+<rect x="150.0" y="110.0" width="500.0" height="34.0" fill="#f3d9cc" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="550.0" y="110.0" width="100.0" height="34.0" fill="#fff" stroke="#d9480f" stroke-width="2.5" rx="0"/>
+<line x1="554.0" y1="114.0" x2="646.0" y2="140.0" stroke="#d9480f" stroke-width="1.5"/>
+<text x="138.0" y="132.0" text-anchor="end" font-size="14" fill="#222" font-weight="bold">250 → 200</text>
+<text x="350.0" y="132.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">base 250 (longer)</text>
+<text x="662.0" y="132.0" text-anchor="start" font-size="14" fill="#d9480f" font-weight="normal">50/250 = −20%</text>
+<text x="405.0" y="173.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">Same 50 ms change. Different base, different percent.</text>
+</svg>

@@ -1,0 +1,10 @@
+What does the position of a digit tell you?	How big a bundle it counts: ones, tens, hundreds, thousands, and onward.	math::101::place-value
+Write 3,507 in expanded form.	3 × 1,000 + 5 × 100 + 0 × 10 + 7 × 1	math::101::place-value
+What job does the 0 in 3,507 do?	It holds the tens place. Without it the number collapses to 357.	math::101::place-value
+What happens to the digits when you multiply by 10?	Every digit moves one place left and a 0 fills the ones place.	math::101::place-value
+How do you compare two whole numbers?	Line up the places and read from the left. The first column that differs decides.	math::101::place-value
+Round 3,748 to the nearest hundred.	3,700. It is 48 from 3,700 and 52 from 3,800.	math::101::place-value
+Which way does a halfway number round?	Up, by convention. 3,750 rounds to 3,800.	math::101::place-value
+Distance between a and b on the number line?	The larger minus the smaller. From 23 to 61 is 38.	math::101::place-value
+What is binary 1011 in base ten?	11, because 8 + 0 + 2 + 1 = 11.	math::101::place-value
+What are the place values in base 2?	1, 2, 4, 8, 16, and onward. Each place is 2 times the place to its right.	math::101::place-value

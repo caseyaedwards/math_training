@@ -1,0 +1,11 @@
+Four group axioms	Closure, associativity, identity, inverses.	math::601::groups
+How many symmetries does a square have?	8: four turns (e, r, r², r³) and four flips (h, v, d, a).	math::601::groups
+Do symmetries of the square commute?	No. rh = d but hr = a.	math::601::groups
+Inverse of r in \(D_4\)	r³. Each flip is its own inverse.	math::601::groups
+Lagrange theorem	In a finite group, the size of a subgroup divides the size of the group.	math::601::groups
+Socks and shoes rule	\((xy)^{-1} = y^{-1}x^{-1}\).	math::601::groups
+Ring	A set with + and ×: a commutative group under +, associative × that distributes over +.	math::601::groups
+Field	A commutative ring where every nonzero element has a multiplicative inverse. Examples: Q, R, C, \(\mathbb{Z}_p\).	math::601::groups
+Why is \(\mathbb{Z}_6\) not a field?	2·3 = 0 with both nonzero. Zero divisors have no inverses.	math::601::groups
+Isomorphic groups	Groups with the same table up to renaming, such as the turns of a square and \(\mathbb{Z}_4\).	math::601::groups
+Why is the identity of a group unique?	If e and f are identities, e = ef = f.	math::601::groups

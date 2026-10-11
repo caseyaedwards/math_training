@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690 235" width="690" height="235" font-family="sans-serif" font-size="14" role="img" aria-label="Seventeen dots in three groups of five with two left over, and the same shown as jumps of 5 on a number line">
+<title>Seventeen dots in three groups of five with two left over, and the same shown as jumps of 5 on a number line</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="690" height="235" fill="#fff"/>
+<rect x="36.0" y="36.0" width="138.0" height="34.0" fill="none" stroke="#222" stroke-width="1.5" rx="6"/>
+<circle cx="53.0" cy="53.0" r="9" fill="#f3d9cc" stroke="#222" stroke-width="1"/>
+<circle cx="79.0" cy="53.0" r="9" fill="#f3d9cc" stroke="#222" stroke-width="1"/>
+<circle cx="105.0" cy="53.0" r="9" fill="#f3d9cc" stroke="#222" stroke-width="1"/>
+<circle cx="131.0" cy="53.0" r="9" fill="#f3d9cc" stroke="#222" stroke-width="1"/>
+<circle cx="157.0" cy="53.0" r="9" fill="#f3d9cc" stroke="#222" stroke-width="1"/>
+<rect x="184.0" y="36.0" width="138.0" height="34.0" fill="none" stroke="#222" stroke-width="1.5" rx="6"/>
+<circle cx="201.0" cy="53.0" r="9" fill="#f3d9cc" stroke="#222" stroke-width="1"/>
+<circle cx="227.0" cy="53.0" r="9" fill="#f3d9cc" stroke="#222" stroke-width="1"/>
+<circle cx="253.0" cy="53.0" r="9" fill="#f3d9cc" stroke="#222" stroke-width="1"/>
+<circle cx="279.0" cy="53.0" r="9" fill="#f3d9cc" stroke="#222" stroke-width="1"/>
+<circle cx="305.0" cy="53.0" r="9" fill="#f3d9cc" stroke="#222" stroke-width="1"/>
+<rect x="332.0" y="36.0" width="138.0" height="34.0" fill="none" stroke="#222" stroke-width="1.5" rx="6"/>
+<circle cx="349.0" cy="53.0" r="9" fill="#f3d9cc" stroke="#222" stroke-width="1"/>
+<circle cx="375.0" cy="53.0" r="9" fill="#f3d9cc" stroke="#222" stroke-width="1"/>
+<circle cx="401.0" cy="53.0" r="9" fill="#f3d9cc" stroke="#222" stroke-width="1"/>
+<circle cx="427.0" cy="53.0" r="9" fill="#f3d9cc" stroke="#222" stroke-width="1"/>
+<circle cx="453.0" cy="53.0" r="9" fill="#f3d9cc" stroke="#222" stroke-width="1"/>
+<circle cx="497.0" cy="53.0" r="9" fill="#d9480f" stroke="none" stroke-width="2"/>
+<circle cx="523.0" cy="53.0" r="9" fill="#d9480f" stroke="none" stroke-width="2"/>
+<text x="510.0" y="100.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">2 left</text>
+<text x="250.0" y="100.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">3 groups of 5</text>
+<line x1="25.0" y1="170.0" x2="655.0" y2="170.0" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="25.0" y1="170" x2="24.0" y2="170" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="40.0" y1="161.0" x2="40.0" y2="179.0" stroke="#222" stroke-width="2"/>
+<text x="40.0" y="198.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">0</text>
+<line x1="75.3" y1="161.0" x2="75.3" y2="179.0" stroke="#222" stroke-width="2"/>
+<text x="75.3" y="198.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">1</text>
+<line x1="110.6" y1="161.0" x2="110.6" y2="179.0" stroke="#222" stroke-width="2"/>
+<text x="110.6" y="198.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">2</text>
+<line x1="145.9" y1="161.0" x2="145.9" y2="179.0" stroke="#222" stroke-width="2"/>
+<text x="145.9" y="198.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">3</text>
+<line x1="181.2" y1="161.0" x2="181.2" y2="179.0" stroke="#222" stroke-width="2"/>
+<text x="181.2" y="198.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">4</text>
+<line x1="216.5" y1="161.0" x2="216.5" y2="179.0" stroke="#222" stroke-width="2"/>
+<text x="216.5" y="198.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">5</text>
+<line x1="251.8" y1="161.0" x2="251.8" y2="179.0" stroke="#222" stroke-width="2"/>
+<text x="251.8" y="198.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">6</text>
+<line x1="287.1" y1="161.0" x2="287.1" y2="179.0" stroke="#222" stroke-width="2"/>
+<text x="287.1" y="198.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">7</text>
+<line x1="322.4" y1="161.0" x2="322.4" y2="179.0" stroke="#222" stroke-width="2"/>
+<text x="322.4" y="198.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">8</text>
+<line x1="357.6" y1="161.0" x2="357.6" y2="179.0" stroke="#222" stroke-width="2"/>
+<text x="357.6" y="198.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">9</text>
+<line x1="392.9" y1="161.0" x2="392.9" y2="179.0" stroke="#222" stroke-width="2"/>
+<text x="392.9" y="198.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">10</text>
+<line x1="428.2" y1="161.0" x2="428.2" y2="179.0" stroke="#222" stroke-width="2"/>
+<text x="428.2" y="198.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">11</text>
+<line x1="463.5" y1="161.0" x2="463.5" y2="179.0" stroke="#222" stroke-width="2"/>
+<text x="463.5" y="198.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">12</text>
+<line x1="498.8" y1="161.0" x2="498.8" y2="179.0" stroke="#222" stroke-width="2"/>
+<text x="498.8" y="198.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">13</text>
+<line x1="534.1" y1="161.0" x2="534.1" y2="179.0" stroke="#222" stroke-width="2"/>
+<text x="534.1" y="198.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">14</text>
+<line x1="569.4" y1="161.0" x2="569.4" y2="179.0" stroke="#222" stroke-width="2"/>
+<text x="569.4" y="198.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">15</text>
+<line x1="604.7" y1="161.0" x2="604.7" y2="179.0" stroke="#222" stroke-width="2"/>
+<text x="604.7" y="198.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">16</text>
+<line x1="640.0" y1="161.0" x2="640.0" y2="179.0" stroke="#222" stroke-width="2"/>
+<text x="640.0" y="198.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">17</text>
+<path d="M40.0,162.0 Q128.2,118.0 216.5,162.0" fill="none" stroke="#222" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M216.5,162.0 Q304.7,118.0 392.9,162.0" fill="none" stroke="#222" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M392.9,162.0 Q481.2,118.0 569.4,162.0" fill="none" stroke="#222" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M569.4,162.0 Q604.7,138.0 640.0,162.0" fill="none" stroke="#d9480f" stroke-width="2.5" marker-end="url(#arrowacc)"/>
+<text x="345.0" y="225.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">17 = 5 × 3 + 2. Three full jumps of 5, then a short step of 2.</text>
+</svg>

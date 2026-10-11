@@ -1,0 +1,12 @@
+What does \(a^n\) mean?	n copies of a multiplied together.	math::101::exponents
+\(2^{10}\) = ?	1,024 (one KiB in bytes).	math::101::exponents
+Product rule?	\(a^m \times a^n = a^{m+n}\), same base only.	math::101::exponents
+Power of a power?	\((a^m)^n = a^{mn}\)	math::101::exponents
+Why is \(a^0 = 1\)?	Each step down in exponent divides by a. From \(a^1 = a\), one more step gives 1.	math::101::exponents
+\((-2)^3\) and \((-2)^4\)?	−8 and 16. Odd count of negatives is negative, even is positive.	math::101::exponents
+What is a square root?	The non-negative number whose square is the given number: the side of a square of that area.	math::101::exponents
+Between which whole numbers is \(\sqrt{50}\)?	7 and 8, since 49 < 50 < 64. About 7.07.	math::101::exponents
+Order of operations?	Parentheses; exponents and roots; × and ÷ left to right; + and − left to right.	math::101::exponents
+12 ÷ 4 × 2 = ?	6. Same rank, left to right.	math::101::exponents
+\(-3^2\) vs \((-3)^2\)?	−9 vs 9. The exponent binds tighter than the minus.	math::101::exponents
+What is 2 ^ 3 in Go?	1. ^ is bitwise XOR. Go has no power operator.	math::101::exponents

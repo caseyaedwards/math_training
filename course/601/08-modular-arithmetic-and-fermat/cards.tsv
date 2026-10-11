@@ -1,0 +1,10 @@
+\(a \equiv b \pmod n\) means	n divides a - b. Same remainder on division by n.	math::601::modular
+When does a have an inverse mod n?	Exactly when gcd(a, n) = 1. Bezout gives it.	math::601::modular
+Inverse of 7 mod 26	15, since 7·15 = 105 = 4·26 + 1.	math::601::modular
+Fermat little theorem	If p is prime and p does not divide a, then \(a^{p-1} \equiv 1 \pmod p\).	math::601::modular
+Key idea in the proof of Fermat	Multiplying 1, 2, ..., p-1 by a just shuffles them mod p. Compare products and cancel (p-1)!.	math::601::modular
+\(2^{100} \bmod 7\)	2. Since \(2^6 \equiv 1\) and 100 = 6·16 + 4, \(2^{100} \equiv 2^4 = 16 \equiv 2\).	math::601::modular
+Reduce the exponent mod what?	Mod p - 1 (for a prime modulus p and a coprime base), not mod p.	math::601::modular
+Why can you not divide by 2 mod 6?	gcd(2, 6) = 2. Times 2 collides: 1 and 4 both go to 2.	math::601::modular
+Carmichael number	A composite n like 561 = 3·11·17 with \(a^{n-1} \equiv 1\) for every a coprime to n. It fools the Fermat test.	math::601::modular
+-1 % 7 in Go versus math	Go gives -1. Math (and Python) give 6.	math::601::modular

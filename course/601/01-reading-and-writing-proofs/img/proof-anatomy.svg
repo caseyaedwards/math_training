@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 260" width="860" height="260" font-family="sans-serif" font-size="14">
+<title>Anatomy of a proof</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="860" height="260" fill="#fff"/>
+<rect x="20.0" y="70.0" width="190.0" height="70.0" fill="#f1f3f5" stroke="#d9480f" stroke-width="2" rx="6"/>
+<text x="115.0" y="100.9" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">Hypotheses</text>
+<text x="115.0" y="118.9" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">(what you are given)</text>
+<line x1="212.0" y1="105.0" x2="226.0" y2="105.0" stroke="#222" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="230.0" y="70.0" width="190.0" height="70.0" fill="#fff" stroke="#222" stroke-width="2" rx="6"/>
+<text x="325.0" y="100.9" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">Unpack definitions</text>
+<text x="325.0" y="118.9" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">(write them as algebra)</text>
+<line x1="422.0" y1="105.0" x2="436.0" y2="105.0" stroke="#222" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="440.0" y="70.0" width="190.0" height="70.0" fill="#fff" stroke="#222" stroke-width="2" rx="6"/>
+<text x="535.0" y="100.9" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">Chain of steps</text>
+<text x="535.0" y="118.9" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">(each with a reason)</text>
+<line x1="632.0" y1="105.0" x2="646.0" y2="105.0" stroke="#222" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="650.0" y="70.0" width="190.0" height="70.0" fill="#f1f3f5" stroke="#d9480f" stroke-width="2" rx="6"/>
+<text x="745.0" y="100.9" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">Conclusion</text>
+<text x="745.0" y="118.9" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">(what you had to show)</text>
+<rect x="335.0" y="190.0" width="190.0" height="50.0" fill="#fff" stroke="#888" stroke-width="2" rx="6"/>
+<text x="430.0" y="210.9" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">Known facts, axioms,</text>
+<text x="430.0" y="228.9" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">earlier theorems</text>
+<line x1="430.0" y1="188.0" x2="530.0" y2="144.0" stroke="#888" stroke-width="2" marker-end="url(#arr)" stroke-dasharray="5,4"/>
+<line x1="430.0" y1="188.0" x2="330.0" y2="144.0" stroke="#888" stroke-width="2" marker-end="url(#arr)" stroke-dasharray="5,4"/>
+<text x="430.0" y="40.0" text-anchor="middle" font-size="15" fill="#222" font-weight="normal">Every arrow must be justified. If one arrow fails, the whole proof fails.</text>
+</svg>

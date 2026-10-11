@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 240" width="760" height="240" font-family="sans-serif" font-size="14">
+<title>Sphere, torus and double torus with their Euler characteristics</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="760" height="240" fill="#fff"/>
+<circle cx="120.0" cy="105.0" r="65.0" fill="#f1f3f5" stroke="#222" stroke-width="2.5"/>
+<ellipse cx="120" cy="105" rx="65" ry="18" fill="none" stroke="#888" stroke-width="1.5" stroke-dasharray="4,4"/>
+<ellipse cx="370" cy="105" rx="105" ry="60" fill="#f1f3f5" stroke="#222" stroke-width="2.5"/>
+<path d="M 325.9 103 Q 370 132.0 414.1 103" fill="none" stroke="#222" stroke-width="2.5"/>
+<path d="M 334.72 108 Q 370 87.0 405.28 108" fill="#fff" stroke="#222" stroke-width="2.5"/>
+<rect x="490" y="50" width="250" height="110" rx="55" fill="#f1f3f5" stroke="#222" stroke-width="2.5"/>
+<path d="M 530 103 Q 560 125 590 103" fill="none" stroke="#222" stroke-width="2.5"/>
+<path d="M 536 107 Q 560 92 584 107" fill="#fff" stroke="#222" stroke-width="2.5"/>
+<path d="M 640 103 Q 670 125 700 103" fill="none" stroke="#222" stroke-width="2.5"/>
+<path d="M 646 107 Q 670 92 694 107" fill="#fff" stroke="#222" stroke-width="2.5"/>
+<text x="120.0" y="200.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">genus g = 0</text>
+<text x="120.0" y="222.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">χ = 2 − 2g = 2</text>
+<text x="370.0" y="200.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">genus g = 1</text>
+<text x="370.0" y="222.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">χ = 2 − 2g = 0</text>
+<text x="615.0" y="200.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">genus g = 2</text>
+<text x="615.0" y="222.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">χ = 2 − 2g = -2</text>
+</svg>

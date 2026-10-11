@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 170" width="700" height="170" font-family="sans-serif" font-size="14">
+<title>Least upper bound of a set</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="700" height="170" fill="#fff"/>
+<line x1="40.0" y1="80.0" x2="660.0" y2="80.0" stroke="#222" stroke-width="2" marker-end="url(#arr)"/>
+<line x1="100.0" y1="74.0" x2="100.0" y2="86.0" stroke="#222" stroke-width="1.5"/>
+<text x="100.0" y="106.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">0</text>
+<line x1="200.0" y1="74.0" x2="200.0" y2="86.0" stroke="#222" stroke-width="1.5"/>
+<text x="200.0" y="106.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">1</text>
+<line x1="300.0" y1="74.0" x2="300.0" y2="86.0" stroke="#222" stroke-width="1.5"/>
+<text x="300.0" y="106.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">2</text>
+<line x1="400.0" y1="74.0" x2="400.0" y2="86.0" stroke="#222" stroke-width="1.5"/>
+<text x="400.0" y="106.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">3</text>
+<line x1="500.0" y1="74.0" x2="500.0" y2="86.0" stroke="#222" stroke-width="1.5"/>
+<text x="500.0" y="106.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">4</text>
+<line x1="600.0" y1="74.0" x2="600.0" y2="86.0" stroke="#222" stroke-width="1.5"/>
+<text x="600.0" y="106.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">5</text>
+<line x1="100.0" y1="80.0" x2="241.4" y2="80.0" stroke="#222" stroke-width="7"/>
+<circle cx="241.4" cy="80.0" r="6.0" fill="#fff" stroke="#d9480f" stroke-width="2.5"/>
+<line x1="243.4" y1="60.0" x2="640.0" y2="60.0" stroke="#d9480f" stroke-width="3"/>
+<text x="170.0" y="60.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">S = {x ≥ 0 : x² &lt; 2}</text>
+<text x="440.0" y="48.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="normal">upper bounds of S</text>
+<text x="241.4" y="135.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">sup S = √2 ≈ 1.414</text>
+<text x="350.0" y="162.0" text-anchor="middle" font-size="13" fill="#555" font-weight="normal">In ℚ the orange ray has no left end. In ℝ it starts exactly at √2.</text>
+</svg>

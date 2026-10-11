@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 564 302" width="564" height="302" font-family="sans-serif" font-size="14" role="img" aria-label="Rectangles of 12 squares (1 by 12, 2 by 6, 3 by 4) and the single 1 by 7 rectangle for 7">
+<title>Rectangles of 12 squares (1 by 12, 2 by 6, 3 by 4) and the single 1 by 7 rectangle for 7</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="564" height="302" fill="#fff"/>
+<rect x="150.0" y="30.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="172.0" y="30.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="194.0" y="30.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="216.0" y="30.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="238.0" y="30.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="260.0" y="30.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="282.0" y="30.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="304.0" y="30.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="326.0" y="30.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="348.0" y="30.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="370.0" y="30.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="392.0" y="30.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<text x="130.0" y="46.0" text-anchor="end" font-size="14" fill="#222" font-weight="normal">1 × 12 = 12</text>
+<rect x="150.0" y="78.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="172.0" y="78.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="194.0" y="78.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="216.0" y="78.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="238.0" y="78.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="260.0" y="78.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="150.0" y="100.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="172.0" y="100.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="194.0" y="100.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="216.0" y="100.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="238.0" y="100.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="260.0" y="100.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<text x="130.0" y="105.0" text-anchor="end" font-size="14" fill="#222" font-weight="normal">2 × 6 = 12</text>
+<rect x="150.0" y="148.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="172.0" y="148.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="194.0" y="148.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="216.0" y="148.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="150.0" y="170.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="172.0" y="170.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="194.0" y="170.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="216.0" y="170.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="150.0" y="192.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="172.0" y="192.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="194.0" y="192.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="216.0" y="192.0" width="22.0" height="22.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<text x="130.0" y="186.0" text-anchor="end" font-size="14" fill="#222" font-weight="normal">3 × 4 = 12</text>
+<rect x="150.0" y="250.0" width="22.0" height="22.0" fill="#fff" stroke="#d9480f" stroke-width="1.5" rx="0"/>
+<rect x="172.0" y="250.0" width="22.0" height="22.0" fill="#fff" stroke="#d9480f" stroke-width="1.5" rx="0"/>
+<rect x="194.0" y="250.0" width="22.0" height="22.0" fill="#fff" stroke="#d9480f" stroke-width="1.5" rx="0"/>
+<rect x="216.0" y="250.0" width="22.0" height="22.0" fill="#fff" stroke="#d9480f" stroke-width="1.5" rx="0"/>
+<rect x="238.0" y="250.0" width="22.0" height="22.0" fill="#fff" stroke="#d9480f" stroke-width="1.5" rx="0"/>
+<rect x="260.0" y="250.0" width="22.0" height="22.0" fill="#fff" stroke="#d9480f" stroke-width="1.5" rx="0"/>
+<rect x="282.0" y="250.0" width="22.0" height="22.0" fill="#fff" stroke="#d9480f" stroke-width="1.5" rx="0"/>
+<text x="130.0" y="266.0" text-anchor="end" font-size="14" fill="#d9480f" font-weight="normal">1 × 7 = 7</text>
+<text x="319.0" y="266.0" text-anchor="start" font-size="14" fill="#d9480f" font-weight="normal">only one rectangle: 7 is prime</text>
+</svg>

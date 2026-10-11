@@ -1,0 +1,9 @@
+Template for proof by contradiction	Assume the claim is false. Follow valid steps to something impossible (R and not R). Conclude the claim is true.	math::601::contradiction
+Why is \(\sqrt{2}\) irrational? (outline)	Suppose \(\sqrt{2} = a/b\) in lowest terms. Then \(a^2 = 2b^2\), hence a is even, then b is even. Both even contradicts lowest terms.	math::601::contradiction
+Lemma used in the \(\sqrt{2}\) proof	If \(a^2\) is even, then a is even.	math::601::contradiction
+Why are there infinitely many primes? (outline)	Given a finite list, let N = product + 1. Each listed prime leaves remainder 1, hence divides nothing. A prime factor of N is missing from the list.	math::601::contradiction
+Is \(2 \cdot 3 \cdot 5 \cdot 7 \cdot 11 \cdot 13 + 1\) prime?	No: \(30031 = 59 \cdot 509\). The proof only needs some prime factor off the list.	math::601::contradiction
+Why does every integer \(n \geq 2\) have a prime factor?	Its smallest divisor at least 2 is prime. A factorization of it would give a smaller divisor.	math::601::contradiction
+Rational plus irrational is...	Irrational. If r + x = q, then x = q - r is rational, a contradiction.	math::601::contradiction
+When should you reach for contradiction?	Negative claims (irrational, no solution, no largest) and claims about infinity.	math::601::contradiction
+Is \(\log_2 3\) rational?	No. \(2^p = 3^q\) is impossible: left even, right odd.	math::601::contradiction

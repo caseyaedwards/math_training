@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 170" width="760" height="170" font-family="sans-serif" font-size="14">
+<title>Values of 6x plus 9y are exactly the multiples of 3</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="760" height="170" fill="#fff"/>
+<line x1="30.0" y1="90.0" x2="730.0" y2="90.0" stroke="#222" stroke-width="2"/>
+<line x1="40.0" y1="84.0" x2="40.0" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<text x="40.0" y="114.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">-12</text>
+<line x1="68.3" y1="84.0" x2="68.3" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<line x1="96.7" y1="84.0" x2="96.7" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<line x1="125.0" y1="84.0" x2="125.0" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<text x="125.0" y="114.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">-9</text>
+<line x1="153.3" y1="84.0" x2="153.3" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<line x1="181.7" y1="84.0" x2="181.7" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<line x1="210.0" y1="84.0" x2="210.0" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<text x="210.0" y="114.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">-6</text>
+<line x1="238.3" y1="84.0" x2="238.3" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<line x1="266.7" y1="84.0" x2="266.7" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<line x1="295.0" y1="84.0" x2="295.0" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<text x="295.0" y="114.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">-3</text>
+<line x1="323.3" y1="84.0" x2="323.3" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<line x1="351.7" y1="84.0" x2="351.7" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<line x1="380.0" y1="84.0" x2="380.0" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<text x="380.0" y="114.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">0</text>
+<line x1="408.3" y1="84.0" x2="408.3" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<line x1="436.7" y1="84.0" x2="436.7" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<line x1="465.0" y1="84.0" x2="465.0" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<text x="465.0" y="114.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">3</text>
+<line x1="493.3" y1="84.0" x2="493.3" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<line x1="521.7" y1="84.0" x2="521.7" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<line x1="550.0" y1="84.0" x2="550.0" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<text x="550.0" y="114.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">6</text>
+<line x1="578.3" y1="84.0" x2="578.3" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<line x1="606.7" y1="84.0" x2="606.7" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<line x1="635.0" y1="84.0" x2="635.0" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<text x="635.0" y="114.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">9</text>
+<line x1="663.3" y1="84.0" x2="663.3" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<line x1="691.7" y1="84.0" x2="691.7" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<line x1="720.0" y1="84.0" x2="720.0" y2="96.0" stroke="#222" stroke-width="1.5"/>
+<text x="720.0" y="114.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">12</text>
+<circle cx="40.0" cy="90.0" r="7.0" fill="#222" stroke="#222" stroke-width="1"/>
+<circle cx="125.0" cy="90.0" r="7.0" fill="#222" stroke="#222" stroke-width="1"/>
+<circle cx="210.0" cy="90.0" r="7.0" fill="#222" stroke="#222" stroke-width="1"/>
+<circle cx="295.0" cy="90.0" r="7.0" fill="#222" stroke="#222" stroke-width="1"/>
+<circle cx="380.0" cy="90.0" r="7.0" fill="#222" stroke="#222" stroke-width="1"/>
+<circle cx="465.0" cy="90.0" r="7.0" fill="#d9480f" stroke="#d9480f" stroke-width="1"/>
+<circle cx="550.0" cy="90.0" r="7.0" fill="#222" stroke="#222" stroke-width="1"/>
+<circle cx="635.0" cy="90.0" r="7.0" fill="#222" stroke="#222" stroke-width="1"/>
+<circle cx="720.0" cy="90.0" r="7.0" fill="#222" stroke="#222" stroke-width="1"/>
+<text x="465.0" y="58.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="normal">3 = 6·(−1) + 9·1</text>
+<text x="380.0" y="30.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">Every value of 6x + 9y with small integers x, y</text>
+<text x="380.0" y="150.0" text-anchor="middle" font-size="13" fill="#555" font-weight="normal">Only multiples of 3 appear, and 3 itself does: the smallest positive value is gcd(6, 9)</text>
+</svg>

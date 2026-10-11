@@ -1,0 +1,10 @@
+Division algorithm	For b > 0: a = bq + r with \(0 \leq r < b\), and q, r unique.	math::601::gcd
+Key lemma behind Euclid	If a = bq + r, then gcd(a, b) = gcd(b, r).	math::601::gcd
+Euclidean algorithm	Replace (a, b) by (b, a mod b) until the second number is 0. The first number is the gcd.	math::601::gcd
+gcd(1071, 462)	21. 1071 = 2·462 + 147, 462 = 3·147 + 21, 147 = 7·21.	math::601::gcd
+Bezout identity	There are integers x, y with ax + by = gcd(a, b).	math::601::gcd
+Bezout for 1071 and 462	1071·(-3) + 462·7 = 21.	math::601::gcd
+Euclid lemma	If p is prime and \(p \mid ab\), then \(p \mid a\) or \(p \mid b\).	math::601::gcd
+Euclid lemma fails for non-primes. Example?	6 divides 4·9 = 36, but 6 divides neither 4 nor 9.	math::601::gcd
+Square-tiling picture of gcd(24, 9)	Cut 9×9, 9×9, then 6×6, then 3×3, 3×3. The last square size, 3, is the gcd.	math::601::gcd
+Slowest inputs for Euclid	Consecutive Fibonacci numbers, such as 89 and 55: every quotient is 1.	math::601::gcd

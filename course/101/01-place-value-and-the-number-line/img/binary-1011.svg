@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 220" width="600" height="220" font-family="sans-serif" font-size="14" role="img" aria-label="Binary place value for 1011, which equals 11">
+<title>Binary place value for 1011, which equals 11</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="600" height="220" fill="#fff"/>
+<rect x="40.0" y="56.0" width="110.0" height="70.0" fill="#f3d9cc" stroke="#222" stroke-width="2" rx="0"/>
+<text x="95.0" y="46.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">Eights</text>
+<text x="95.0" y="106.0" text-anchor="middle" font-size="36" fill="#222" font-weight="bold">1</text>
+<text x="95.0" y="152.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">1 × 8</text>
+<text x="95.0" y="176.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">= 8</text>
+<rect x="150.0" y="56.0" width="110.0" height="70.0" fill="#fff" stroke="#222" stroke-width="2" rx="0"/>
+<text x="205.0" y="46.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">Fours</text>
+<text x="205.0" y="106.0" text-anchor="middle" font-size="36" fill="#222" font-weight="bold">0</text>
+<text x="205.0" y="152.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">0 × 4</text>
+<text x="205.0" y="176.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">= 0</text>
+<rect x="260.0" y="56.0" width="110.0" height="70.0" fill="#f3d9cc" stroke="#222" stroke-width="2" rx="0"/>
+<text x="315.0" y="46.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">Twos</text>
+<text x="315.0" y="106.0" text-anchor="middle" font-size="36" fill="#222" font-weight="bold">1</text>
+<text x="315.0" y="152.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">1 × 2</text>
+<text x="315.0" y="176.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">= 2</text>
+<rect x="370.0" y="56.0" width="110.0" height="70.0" fill="#f3d9cc" stroke="#222" stroke-width="2" rx="0"/>
+<text x="425.0" y="46.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">Ones</text>
+<text x="425.0" y="106.0" text-anchor="middle" font-size="36" fill="#222" font-weight="bold">1</text>
+<text x="425.0" y="152.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">1 × 1</text>
+<text x="425.0" y="176.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">= 1</text>
+<text x="300.0" y="206.0" text-anchor="middle" font-size="14" fill="#222" font-weight="normal">Base 2: each place is worth 2 times the place to its right. 1011 = 8 + 0 + 2 + 1 = 11.</text>
+</svg>

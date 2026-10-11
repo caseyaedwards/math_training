@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 215" width="680" height="215" font-family="sans-serif" font-size="14" role="img" aria-label="A month of 30 day cells with one day zoomed; 43.2 minutes of error budget fills a sliver of that day">
+<title>A month of 30 day cells with one day zoomed; 43.2 minutes of error budget fills a sliver of that day</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="680" height="215" fill="#fff"/>
+<rect x="40.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="60.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="80.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="100.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="120.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="140.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="160.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="180.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="200.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="220.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="240.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="260.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="280.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="300.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="320.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="340.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="360.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="380.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="400.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="420.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="440.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="460.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="480.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="500.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="520.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="540.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="560.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="580.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="600.0" y="40.0" width="20.0" height="30.0" fill="#fff" stroke="#222" stroke-width="1" rx="0"/>
+<rect x="620.0" y="40.0" width="20.0" height="30.0" fill="#f3d9cc" stroke="#222" stroke-width="1" rx="0"/>
+<text x="340.0" y="30.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">30 days = 43,200 minutes</text>
+<line x1="620.0" y1="70.0" x2="40.0" y2="120.0" stroke="#d9480f" stroke-width="1" stroke-dasharray="4 3"/>
+<line x1="640.0" y1="70.0" x2="640.0" y2="120.0" stroke="#d9480f" stroke-width="1" stroke-dasharray="4 3"/>
+<rect x="40.0" y="120.0" width="600.0" height="34.0" fill="#fff" stroke="#222" stroke-width="1.5" rx="0"/>
+<rect x="40.0" y="120.0" width="18.0" height="34.0" fill="#d9480f" stroke="#222" stroke-width="1.5" rx="0"/>
+<line x1="40.0" y1="154.0" x2="40.0" y2="162.0" stroke="#222" stroke-width="1.2"/>
+<text x="40.0" y="178.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">0 h</text>
+<line x1="190.0" y1="154.0" x2="190.0" y2="162.0" stroke="#222" stroke-width="1.2"/>
+<text x="190.0" y="178.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">6 h</text>
+<line x1="340.0" y1="154.0" x2="340.0" y2="162.0" stroke="#222" stroke-width="1.2"/>
+<text x="340.0" y="178.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">12 h</text>
+<line x1="490.0" y1="154.0" x2="490.0" y2="162.0" stroke="#222" stroke-width="1.2"/>
+<text x="490.0" y="178.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">18 h</text>
+<line x1="640.0" y1="154.0" x2="640.0" y2="162.0" stroke="#222" stroke-width="1.2"/>
+<text x="640.0" y="178.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">24 h</text>
+<text x="68.0" y="142.0" text-anchor="start" font-size="13" fill="#d9480f" font-weight="normal">43.2 min: the whole 99.9% budget, drawn inside one day</text>
+<text x="340.0" y="205.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">One zoomed day of the month. The budget covers about 3% of it.</text>
+</svg>

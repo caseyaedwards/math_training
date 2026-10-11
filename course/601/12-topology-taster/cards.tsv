@@ -1,0 +1,10 @@
+Open set in \(\mathbb{R}\)	Every point has some interval (x - r, x + r) around it inside the set.	math::601::topology
+Is [a, b] open?	No. The endpoint b has no breathing room.	math::601::topology
+Unions and intersections of open sets	Any union is open. Finite intersections are open. Infinite intersections need not be: the intersection of (-1/n, 1/n) is {0}.	math::601::topology
+Continuity with open sets	f is continuous exactly when the preimage of every open set is open.	math::601::topology
+Homeomorphism	A bijection that is continuous with a continuous inverse. Stretch and bend, never cut or glue.	math::601::topology
+Why is a coffee mug the same as a donut?	One deforms into the other without cutting or gluing. Both have one hole.	math::601::topology
+(-1, 1) and \(\mathbb{R}\)	Homeomorphic via \(f(x) = x/(1 - |x|)\) with inverse \(y/(1 + |y|)\).	math::601::topology
+Euler characteristic	\(\chi = V - E + F\). Cube: 8 - 12 + 6 = 2.	math::601::topology
+\(\chi\) of a torus	0. A 3 by 3 glued grid: 9 - 18 + 9.	math::601::topology
+\(\chi\) for a surface with g holes	\(2 - 2g\).	math::601::topology

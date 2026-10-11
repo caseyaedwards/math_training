@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 267" width="640" height="267" font-family="sans-serif" font-size="14" role="img" aria-label="Four-step ladder: parentheses, exponents, multiplication and division left to right, addition and subtraction left to right">
+<title>Four-step ladder: parentheses, exponents, multiplication and division left to right, addition and subtraction left to right</title>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arrowacc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="640" height="267" fill="#fff"/>
+<rect x="40.0" y="25.0" width="330.0" height="44.0" fill="#f3d9cc" stroke="#222" stroke-width="2" rx="6"/>
+<text x="62.0" y="53.0" text-anchor="middle" font-size="18" fill="#d9480f" font-weight="bold">1</text>
+<text x="85.0" y="53.0" text-anchor="start" font-size="14" fill="#222" font-weight="normal">Parentheses and other grouping</text>
+<text x="385.0" y="53.0" text-anchor="start" font-size="13" fill="#555" font-weight="normal">innermost first</text>
+<rect x="70.0" y="83.0" width="330.0" height="44.0" fill="#fff" stroke="#222" stroke-width="2" rx="6"/>
+<text x="92.0" y="111.0" text-anchor="middle" font-size="18" fill="#d9480f" font-weight="bold">2</text>
+<text x="115.0" y="111.0" text-anchor="start" font-size="14" fill="#222" font-weight="normal">Exponents and roots</text>
+<rect x="100.0" y="141.0" width="330.0" height="44.0" fill="#fff" stroke="#222" stroke-width="2" rx="6"/>
+<text x="122.0" y="169.0" text-anchor="middle" font-size="18" fill="#d9480f" font-weight="bold">3</text>
+<text x="145.0" y="169.0" text-anchor="start" font-size="14" fill="#222" font-weight="normal">Multiplication and division</text>
+<text x="445.0" y="169.0" text-anchor="start" font-size="13" fill="#555" font-weight="normal">same rank: left to right</text>
+<rect x="130.0" y="199.0" width="330.0" height="44.0" fill="#fff" stroke="#222" stroke-width="2" rx="6"/>
+<text x="152.0" y="227.0" text-anchor="middle" font-size="18" fill="#d9480f" font-weight="bold">4</text>
+<text x="175.0" y="227.0" text-anchor="start" font-size="14" fill="#222" font-weight="normal">Addition and subtraction</text>
+<text x="475.0" y="227.0" text-anchor="start" font-size="13" fill="#555" font-weight="normal">same rank: left to right</text>
+</svg>

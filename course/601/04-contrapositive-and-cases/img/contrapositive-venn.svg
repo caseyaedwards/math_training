@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 320" width="620" height="320" font-family="sans-serif" font-size="14">
+<title>P inside Q: P implies Q, and not Q implies not P</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="620" height="320" fill="#fff"/>
+<rect x="20.0" y="20.0" width="580.0" height="280.0" fill="#fff" stroke="#888" stroke-width="1.5" rx="0"/>
+<text x="40.0" y="45.0" text-anchor="start" font-size="13" fill="#555" font-weight="normal">all cases</text>
+<ellipse cx="270" cy="160" rx="190" ry="110" fill="#f1f3f5" stroke="#222" stroke-width="2"/>
+<ellipse cx="240" cy="165" rx="90" ry="55" fill="#fff" stroke="#d9480f" stroke-width="3"/>
+<text x="240.0" y="170.0" text-anchor="middle" font-size="16" fill="#d9480f" font-weight="bold">P true</text>
+<text x="390.0" y="110.0" text-anchor="middle" font-size="16" fill="#222" font-weight="bold">Q true</text>
+<circle cx="560.0" cy="258.0" r="6.0" fill="#222" stroke="#222" stroke-width="1"/>
+<text x="590.0" y="288.0" text-anchor="end" font-size="13" fill="#222" font-weight="normal">outside Q, hence outside P</text>
+</svg>

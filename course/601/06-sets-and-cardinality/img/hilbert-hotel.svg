@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 230" width="760" height="230" font-family="sans-serif" font-size="14">
+<title>Hilbert hotel makes room for one more guest</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="760" height="230" fill="#fff"/>
+<rect x="40.0" y="80.0" width="64.0" height="70.0" fill="#ffe8dc" stroke="#d9480f" stroke-width="2" rx="4"/>
+<text x="72.0" y="172.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">room 1</text>
+<text x="72.0" y="120.0" text-anchor="middle" font-size="14" fill="#d9480f" font-weight="bold">new</text>
+<rect x="116.0" y="80.0" width="64.0" height="70.0" fill="#f1f3f5" stroke="#222" stroke-width="2" rx="4"/>
+<text x="148.0" y="172.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">room 2</text>
+<text x="148.0" y="120.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">g1</text>
+<path d="M 72.0 74 Q 110.0 50 145.0 73" fill="none" stroke="#222" stroke-width="1.8" marker-end="url(#arr)"/>
+<rect x="192.0" y="80.0" width="64.0" height="70.0" fill="#f1f3f5" stroke="#222" stroke-width="2" rx="4"/>
+<text x="224.0" y="172.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">room 3</text>
+<text x="224.0" y="120.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">g2</text>
+<path d="M 148.0 74 Q 186.0 50 221.0 73" fill="none" stroke="#222" stroke-width="1.8" marker-end="url(#arr)"/>
+<rect x="268.0" y="80.0" width="64.0" height="70.0" fill="#f1f3f5" stroke="#222" stroke-width="2" rx="4"/>
+<text x="300.0" y="172.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">room 4</text>
+<text x="300.0" y="120.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">g3</text>
+<path d="M 224.0 74 Q 262.0 50 297.0 73" fill="none" stroke="#222" stroke-width="1.8" marker-end="url(#arr)"/>
+<rect x="344.0" y="80.0" width="64.0" height="70.0" fill="#f1f3f5" stroke="#222" stroke-width="2" rx="4"/>
+<text x="376.0" y="172.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">room 5</text>
+<text x="376.0" y="120.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">g4</text>
+<path d="M 300.0 74 Q 338.0 50 373.0 73" fill="none" stroke="#222" stroke-width="1.8" marker-end="url(#arr)"/>
+<rect x="420.0" y="80.0" width="64.0" height="70.0" fill="#f1f3f5" stroke="#222" stroke-width="2" rx="4"/>
+<text x="452.0" y="172.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">room 6</text>
+<text x="452.0" y="120.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">g5</text>
+<path d="M 376.0 74 Q 414.0 50 449.0 73" fill="none" stroke="#222" stroke-width="1.8" marker-end="url(#arr)"/>
+<rect x="496.0" y="80.0" width="64.0" height="70.0" fill="#f1f3f5" stroke="#222" stroke-width="2" rx="4"/>
+<text x="528.0" y="172.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">room 7</text>
+<text x="528.0" y="120.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">g6</text>
+<path d="M 452.0 74 Q 490.0 50 525.0 73" fill="none" stroke="#222" stroke-width="1.8" marker-end="url(#arr)"/>
+<rect x="572.0" y="80.0" width="64.0" height="70.0" fill="#f1f3f5" stroke="#222" stroke-width="2" rx="4"/>
+<text x="604.0" y="172.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">room 8</text>
+<text x="604.0" y="120.0" text-anchor="middle" font-size="14" fill="#222" font-weight="bold">g7</text>
+<path d="M 528.0 74 Q 566.0 50 601.0 73" fill="none" stroke="#222" stroke-width="1.8" marker-end="url(#arr)"/>
+<rect x="648.0" y="80.0" width="64.0" height="70.0" fill="#f1f3f5" stroke="#222" stroke-width="2" rx="4"/>
+<text x="680.0" y="172.0" text-anchor="middle" font-size="12" fill="#222" font-weight="normal">…</text>
+<text x="380.0" y="30.0" text-anchor="middle" font-size="13" fill="#222" font-weight="normal">A full hotel with infinitely many rooms: every guest moves from room n to room n + 1</text>
+<text x="380.0" y="212.0" text-anchor="middle" font-size="13" fill="#d9480f" font-weight="normal">Room 1 is now free for the new guest. Nobody lost a room.</text>
+</svg>

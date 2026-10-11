@@ -1,0 +1,9 @@
+Contrapositive of \(P \Rightarrow Q\)	\(\lnot Q \Rightarrow \lnot P\). Always equivalent to the original.	math::601::contrapositive
+Converse of \(P \Rightarrow Q\)	\(Q \Rightarrow P\). Not equivalent in general.	math::601::contrapositive
+Prove: if \(n^2\) is even then n is even.	Contrapositive: if n is odd, \(n^2 = 2(2k^2 + 2k) + 1\) is odd.	math::601::contrapositive
+Prove: \(n(n+1)\) is even.	Cases. n even: factor 2 from n. n odd: n + 1 is even.	math::601::contrapositive
+What can \(n^2\) leave on division by 4?	0 or 1 only. Even: \(4k^2\). Odd: \(4(k^2+k) + 1\).	math::601::contrapositive
+Triangle inequality	\(|x + y| \leq |x| + |y|\). Add \(-|x| \leq x \leq |x|\) and \(-|y| \leq y \leq |y|\).	math::601::contrapositive
+How do you prove P if and only if Q?	Prove both directions: \(P \Rightarrow Q\) and \(Q \Rightarrow P\).	math::601::contrapositive
+Rule for proof by cases	The cases must cover every possibility, for example even or odd, or remainders 0, 1, 2.	math::601::contrapositive
+Negation of x or y	not x and not y.	math::601::contrapositive

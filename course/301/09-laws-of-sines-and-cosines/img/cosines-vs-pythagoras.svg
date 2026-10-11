@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 330" width="780" height="330" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Law of cosines extends Pythagoras: with sides 4 and 4, an angle of 60, 90 or 120 degrees makes c squared less than, equal to or greater than 32</title>
+<rect x="0" y="0" width="780" height="330" fill="#ffffff"/>
+<path d="M 50 250 L 202 250 L 126 118.36 Z" fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<line x1="202" y1="250" x2="126" y2="118.36" stroke="#d9480f" stroke-width="3"/>
+<path d="M 76 250 L 75.99 249.32 L 75.96 248.64 L 75.92 247.96 L 75.86 247.28 L 75.78 246.61 L 75.68 245.93 L 75.56 245.26 L 75.43 244.59 L 75.28 243.93 L 75.11 243.27 L 74.93 242.62 L 74.73 241.97 L 74.51 241.32 L 74.27 240.68 L 74.02 240.05 L 73.75 239.42 L 73.47 238.81 L 73.17 238.2 L 72.85 237.59 L 72.52 237 L 72.17 236.42 L 71.81 235.84 L 71.43 235.27 L 71.03 234.72 L 70.63 234.17 L 70.21 233.64 L 69.77 233.11 L 69.32 232.6 L 68.86 232.1 L 68.38 231.62 L 67.9 231.14 L 67.4 230.68 L 66.89 230.23 L 66.36 229.79 L 65.83 229.37 L 65.28 228.97 L 64.73 228.57 L 64.16 228.19 L 63.58 227.83 L 63 227.48" fill="none" stroke="#222222" stroke-width="1.4" stroke-linejoin="round"/>
+<text x="56" y="272" font-size="14" fill="#222222" text-anchor="middle" font-weight="bold">C = 60°</text>
+<text x="174" y="184.18" font-size="13" fill="#d9480f" text-anchor="start" font-weight="bold">c = 4.00</text>
+<text x="126" y="300" font-size="14" fill="#d9480f" text-anchor="middle" font-weight="bold">c² = 16 &lt; 32</text>
+<path d="M 290 250 L 442 250 L 290 98 Z" fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<line x1="442" y1="250" x2="290" y2="98" stroke="#d9480f" stroke-width="3"/>
+<path d="M 316 250 L 315.98 248.98 L 315.92 247.96 L 315.82 246.94 L 315.68 245.93 L 315.5 244.93 L 315.28 243.93 L 315.02 242.94 L 314.73 241.97 L 314.39 241 L 314.02 240.05 L 313.61 239.11 L 313.17 238.2 L 312.68 237.3 L 312.17 236.42 L 311.62 235.56 L 311.03 234.72 L 310.42 233.9 L 309.77 233.11 L 309.09 232.35 L 308.38 231.62 L 307.65 230.91 L 306.89 230.23 L 306.1 229.58 L 305.28 228.97 L 304.44 228.38 L 303.58 227.83 L 302.7 227.32 L 301.8 226.83 L 300.89 226.39 L 299.95 225.98 L 299 225.61 L 298.03 225.27 L 297.06 224.98 L 296.07 224.72 L 295.07 224.5 L 294.07 224.32 L 293.06 224.18 L 292.04 224.08 L 291.02 224.02 L 290 224" fill="none" stroke="#222222" stroke-width="1.4" stroke-linejoin="round"/>
+<text x="296" y="272" font-size="14" fill="#222222" text-anchor="middle" font-weight="bold">C = 90°</text>
+<text x="376" y="174" font-size="13" fill="#d9480f" text-anchor="start" font-weight="bold">c = 5.66</text>
+<text x="366" y="300" font-size="14" fill="#1c4e80" text-anchor="middle" font-weight="bold">c² = 32 = 32</text>
+<path d="M 590 250 L 742 250 L 514 118.36 Z" fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<line x1="742" y1="250" x2="514" y2="118.36" stroke="#d9480f" stroke-width="3"/>
+<path d="M 616 250 L 615.96 248.64 L 615.86 247.28 L 615.68 245.93 L 615.43 244.59 L 615.11 243.27 L 614.73 241.97 L 614.27 240.68 L 613.75 239.42 L 613.17 238.2 L 612.52 237 L 611.81 235.84 L 611.03 234.72 L 610.21 233.64 L 609.32 232.6 L 608.38 231.62 L 607.4 230.68 L 606.36 229.79 L 605.28 228.97 L 604.16 228.19 L 603 227.48 L 601.8 226.83 L 600.58 226.25 L 599.32 225.73 L 598.03 225.27 L 596.73 224.89 L 595.41 224.57 L 594.07 224.32 L 592.72 224.14 L 591.36 224.04 L 590 224 L 588.64 224.04 L 587.28 224.14 L 585.93 224.32 L 584.59 224.57 L 583.27 224.89 L 581.97 225.27 L 580.68 225.73 L 579.42 226.25 L 578.2 226.83 L 577 227.48" fill="none" stroke="#222222" stroke-width="1.4" stroke-linejoin="round"/>
+<text x="596" y="272" font-size="14" fill="#222222" text-anchor="middle" font-weight="bold">C = 120°</text>
+<text x="638" y="184.18" font-size="13" fill="#d9480f" text-anchor="start" font-weight="bold">c = 6.93</text>
+<text x="628" y="300" font-size="14" fill="#d9480f" text-anchor="middle" font-weight="bold">c² = 48 &gt; 32</text>
+<text x="390" y="30" font-size="14" fill="#222222" text-anchor="middle" font-weight="bold">c² = a² + b² − 2ab cos C with a = b = 4, so a² + b² = 32</text>
+<text x="390" y="322" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">cos C &gt; 0 shortens c, cos 90° = 0 gives Pythagoras, cos C &lt; 0 lengthens c.</text>
+</svg>

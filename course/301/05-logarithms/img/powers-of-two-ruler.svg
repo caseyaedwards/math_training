@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" width="760" height="250" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>A base-2 ruler of sizes: each step is one more bit, and every 10 bits multiplies the size by 1,024</title><defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#222222"/></marker></defs>
+<rect x="0" y="0" width="760" height="250" fill="#ffffff"/>
+<line x1="40" y1="120" x2="715" y2="120" stroke="#222222" stroke-width="2" marker-end="url(#arr)"/>
+<line x1="40" y1="114" x2="40" y2="126" stroke="#222222" stroke-width="1.2"/>
+<text x="40" y="145" font-size="11" fill="#868e96" text-anchor="middle" font-weight="normal">0</text>
+<line x1="81.25" y1="114" x2="81.25" y2="126" stroke="#222222" stroke-width="1.2"/>
+<text x="81.25" y="145" font-size="11" fill="#868e96" text-anchor="middle" font-weight="normal">4</text>
+<line x1="122.5" y1="114" x2="122.5" y2="126" stroke="#222222" stroke-width="1.2"/>
+<text x="122.5" y="145" font-size="11" fill="#868e96" text-anchor="middle" font-weight="normal">8</text>
+<line x1="163.75" y1="114" x2="163.75" y2="126" stroke="#222222" stroke-width="1.2"/>
+<text x="163.75" y="145" font-size="11" fill="#868e96" text-anchor="middle" font-weight="normal">12</text>
+<line x1="205" y1="114" x2="205" y2="126" stroke="#222222" stroke-width="1.2"/>
+<text x="205" y="145" font-size="11" fill="#868e96" text-anchor="middle" font-weight="normal">16</text>
+<line x1="246.25" y1="114" x2="246.25" y2="126" stroke="#222222" stroke-width="1.2"/>
+<text x="246.25" y="145" font-size="11" fill="#868e96" text-anchor="middle" font-weight="normal">20</text>
+<line x1="287.5" y1="114" x2="287.5" y2="126" stroke="#222222" stroke-width="1.2"/>
+<text x="287.5" y="145" font-size="11" fill="#868e96" text-anchor="middle" font-weight="normal">24</text>
+<line x1="328.75" y1="114" x2="328.75" y2="126" stroke="#222222" stroke-width="1.2"/>
+<text x="328.75" y="145" font-size="11" fill="#868e96" text-anchor="middle" font-weight="normal">28</text>
+<line x1="370" y1="114" x2="370" y2="126" stroke="#222222" stroke-width="1.2"/>
+<text x="370" y="145" font-size="11" fill="#868e96" text-anchor="middle" font-weight="normal">32</text>
+<line x1="411.25" y1="114" x2="411.25" y2="126" stroke="#222222" stroke-width="1.2"/>
+<text x="411.25" y="145" font-size="11" fill="#868e96" text-anchor="middle" font-weight="normal">36</text>
+<line x1="452.5" y1="114" x2="452.5" y2="126" stroke="#222222" stroke-width="1.2"/>
+<text x="452.5" y="145" font-size="11" fill="#868e96" text-anchor="middle" font-weight="normal">40</text>
+<line x1="493.75" y1="114" x2="493.75" y2="126" stroke="#222222" stroke-width="1.2"/>
+<text x="493.75" y="145" font-size="11" fill="#868e96" text-anchor="middle" font-weight="normal">44</text>
+<line x1="535" y1="114" x2="535" y2="126" stroke="#222222" stroke-width="1.2"/>
+<text x="535" y="145" font-size="11" fill="#868e96" text-anchor="middle" font-weight="normal">48</text>
+<line x1="576.25" y1="114" x2="576.25" y2="126" stroke="#222222" stroke-width="1.2"/>
+<text x="576.25" y="145" font-size="11" fill="#868e96" text-anchor="middle" font-weight="normal">52</text>
+<line x1="617.5" y1="114" x2="617.5" y2="126" stroke="#222222" stroke-width="1.2"/>
+<text x="617.5" y="145" font-size="11" fill="#868e96" text-anchor="middle" font-weight="normal">56</text>
+<line x1="658.75" y1="114" x2="658.75" y2="126" stroke="#222222" stroke-width="1.2"/>
+<text x="658.75" y="145" font-size="11" fill="#868e96" text-anchor="middle" font-weight="normal">60</text>
+<line x1="700" y1="114" x2="700" y2="126" stroke="#222222" stroke-width="1.2"/>
+<text x="700" y="145" font-size="11" fill="#868e96" text-anchor="middle" font-weight="normal">64</text>
+<line x1="40" y1="104" x2="40" y2="136" stroke="#d9480f" stroke-width="2"/>
+<text x="40" y="96" font-size="14" fill="#d9480f" text-anchor="middle" font-weight="bold">1 B</text>
+<line x1="143.12" y1="104" x2="143.12" y2="136" stroke="#d9480f" stroke-width="2"/>
+<text x="143.12" y="96" font-size="14" fill="#d9480f" text-anchor="middle" font-weight="bold">KiB</text>
+<line x1="246.25" y1="104" x2="246.25" y2="136" stroke="#d9480f" stroke-width="2"/>
+<text x="246.25" y="96" font-size="14" fill="#d9480f" text-anchor="middle" font-weight="bold">MiB</text>
+<line x1="349.38" y1="104" x2="349.38" y2="136" stroke="#d9480f" stroke-width="2"/>
+<text x="349.38" y="96" font-size="14" fill="#d9480f" text-anchor="middle" font-weight="bold">GiB</text>
+<line x1="452.5" y1="104" x2="452.5" y2="136" stroke="#d9480f" stroke-width="2"/>
+<text x="452.5" y="96" font-size="14" fill="#d9480f" text-anchor="middle" font-weight="bold">TiB</text>
+<line x1="555.62" y1="104" x2="555.62" y2="136" stroke="#d9480f" stroke-width="2"/>
+<text x="555.62" y="96" font-size="14" fill="#d9480f" text-anchor="middle" font-weight="bold">PiB</text>
+<line x1="658.75" y1="104" x2="658.75" y2="136" stroke="#d9480f" stroke-width="2"/>
+<text x="658.75" y="96" font-size="14" fill="#d9480f" text-anchor="middle" font-weight="bold">EiB</text>
+<circle cx="122.5" cy="120" r="5" fill="#1c4e80" stroke="#1c4e80" stroke-width="1.5"/>
+<text x="122.5" y="180" font-size="12" fill="#1c4e80" text-anchor="middle" font-weight="normal">byte: 256 values</text>
+<line x1="122.5" y1="125" x2="122.5" y2="168" stroke="#1c4e80" stroke-width="1" stroke-dasharray="3 3"/>
+<circle cx="370" cy="120" r="5" fill="#1c4e80" stroke="#1c4e80" stroke-width="1.5"/>
+<text x="370" y="180" font-size="12" fill="#1c4e80" text-anchor="middle" font-weight="normal">IPv4: ~4.3 billion</text>
+<line x1="370" y1="125" x2="370" y2="168" stroke="#1c4e80" stroke-width="1" stroke-dasharray="3 3"/>
+<circle cx="700" cy="120" r="5" fill="#1c4e80" stroke="#1c4e80" stroke-width="1.5"/>
+<text x="700" y="180" font-size="12" fill="#1c4e80" text-anchor="end" font-weight="normal">uint64: ~1.8 × 10¹⁹</text>
+<line x1="700" y1="125" x2="700" y2="168" stroke="#1c4e80" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="40" y="70" font-size="12" fill="#868e96" text-anchor="start" font-weight="normal">bits →</text>
+<text x="380" y="40" font-size="14" fill="#222222" text-anchor="middle" font-weight="bold">Position on the ruler = log₂ of the size. One step right doubles the size.</text>
+<text x="380" y="230" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">2¹⁰ = 1,024 ≈ 10³: every 10 bits is about three more decimal digits.</text>
+</svg>

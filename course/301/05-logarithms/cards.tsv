@@ -1,0 +1,15 @@
+\( \log_b x = y \) means	\( b^y = x \). The logarithm is the exponent.	math::301::logarithms
+\( \log_2 8 \) asks what question?	How many 2s multiply to make 8? Answer: 3.	math::301::logarithms
+Domain and range of \( \log_b x \)	Domain \( x > 0 \); range all real numbers.	math::301::logarithms
+\( \log_b 1 \) and \( \log_b b \)	0 and 1.	math::301::logarithms
+Product law	\( \log_b(xy) = \log_b x + \log_b y \)	math::301::logarithms
+Quotient law	\( \log_b(x/y) = \log_b x - \log_b y \)	math::301::logarithms
+Power law	\( \log_b(x^k) = k \log_b x \)	math::301::logarithms
+Change of base	\( \log_b x = \frac{\ln x}{\ln b} \)	math::301::logarithms
+Bits needed for n distinct IDs	\( \lceil \log_2 n \rceil \)	math::301::logarithms
+Binary search probes on n sorted items	About \( \log_2 n \); a billion keys need about 30.	math::301::logarithms
+\( 2^{10} \) and its decimal approximation	1,024, about \( 10^3 \). Ten bits buy about three digits.	math::301::logarithms
+What does one order of magnitude mean?	A factor of 10; logs base 10 differ by 1.	math::301::logarithms
+Why do latency dashboards use log axes?	Equal spacing means equal ratios, so values from nanoseconds to seconds are all readable.	math::301::logarithms
+Rule of 70	At r percent growth per step, doubling takes about 70 / r steps.	math::301::logarithms
+Is \( \log(x + y) = \log x + \log y \)?	No. There is no rule for the log of a sum.	math::301::logarithms

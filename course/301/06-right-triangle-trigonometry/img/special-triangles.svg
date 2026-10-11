@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" width="640" height="320" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>The two special right triangles: 45-45-90 with sides 1, 1, root 2 and 30-60-90 with sides 1, root 3, 2</title>
+<rect x="0" y="0" width="640" height="320" fill="#ffffff"/>
+<path d="M 60 260 L 210 260 L 210 110 Z" fill="none" stroke="#222222" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M 194 260 L 194 244 L 210 244" fill="none" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="135" y="284" font-size="16" fill="#222222" text-anchor="middle" font-weight="normal">1</text>
+<text x="220" y="190" font-size="16" fill="#222222" text-anchor="start" font-weight="normal">1</text>
+<text x="121" y="179" font-size="16" fill="#d9480f" text-anchor="end" font-weight="bold">√2</text>
+<text x="100" y="252" font-size="13" fill="#222222" text-anchor="start" font-weight="normal">45°</text>
+<text x="180" y="152" font-size="13" fill="#222222" text-anchor="start" font-weight="normal">45°</text>
+<text x="135" y="40" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold">45-45-90 (half a square)</text>
+<path d="M 330 260 L 589.81 260 L 589.81 110 Z" fill="none" stroke="#222222" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M 573.81 260 L 573.81 244 L 589.81 244" fill="none" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="459.9" y="284" font-size="16" fill="#d9480f" text-anchor="middle" font-weight="bold">√3</text>
+<text x="599.81" y="190" font-size="16" fill="#222222" text-anchor="start" font-weight="normal">1</text>
+<text x="449.9" y="177" font-size="16" fill="#222222" text-anchor="end" font-weight="normal">2</text>
+<text x="382" y="252" font-size="13" fill="#222222" text-anchor="start" font-weight="normal">30°</text>
+<text x="563.81" y="154" font-size="13" fill="#222222" text-anchor="start" font-weight="normal">60°</text>
+<text x="460" y="40" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold">30-60-90 (half an equilateral triangle)</text>
+<text x="320" y="312" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">Drawn to scale. Memorize these two and you know sin, cos, tan of 30°, 45°, 60°.</text>
+</svg>

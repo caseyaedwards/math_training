@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 200" width="700" height="200" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Composition f(g(x)) as two machines in a pipeline</title><defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#222222"/></marker></defs>
+<rect x="0" y="0" width="700" height="200" fill="#ffffff"/>
+<text x="40" y="100" font-size="16" fill="#d9480f" text-anchor="middle" font-weight="bold">x = 3</text>
+<line x1="75" y1="95" x2="140" y2="95" stroke="#222222" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="145" y="60" width="150" height="70" rx="8" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="220" y="92" font-size="16" fill="#222222" text-anchor="middle" font-weight="bold">g</text>
+<text x="220" y="115" font-size="14" fill="#868e96" text-anchor="middle" font-weight="normal">add 1: x + 1</text>
+<line x1="295" y1="95" x2="400" y2="95" stroke="#222222" stroke-width="2" marker-end="url(#arr)"/>
+<text x="347" y="85" font-size="14" fill="#d9480f" text-anchor="middle" font-weight="bold">g(3) = 4</text>
+<rect x="405" y="60" width="150" height="70" rx="8" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<text x="480" y="92" font-size="16" fill="#222222" text-anchor="middle" font-weight="bold">f</text>
+<text x="480" y="115" font-size="14" fill="#868e96" text-anchor="middle" font-weight="normal">square: x²</text>
+<line x1="555" y1="95" x2="610" y2="95" stroke="#222222" stroke-width="2" marker-end="url(#arr)"/>
+<text x="650" y="100" font-size="16" fill="#d9480f" text-anchor="middle" font-weight="bold">16</text>
+<text x="350" y="30" font-size="15" fill="#222222" text-anchor="middle" font-weight="normal">(f ∘ g)(x) = f(g(x)): run g first, then feed its output to f</text>
+<text x="350" y="175" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">Like a shell pipeline: echo 3 | g | f. The rightmost function runs first.</text>
+</svg>

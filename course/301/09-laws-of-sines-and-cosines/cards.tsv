@@ -1,0 +1,12 @@
+Labeling rule for a general triangle	Side a is across from angle A, b across from B, c across from C.	math::301::laws-of-sines-cosines
+Law of sines	\( \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C} \)	math::301::laws-of-sines-cosines
+Law of cosines	\( c^2 = a^2 + b^2 - 2ab\cos C \)	math::301::laws-of-sines-cosines
+Proof idea of the law of sines	The height from C equals both \( b\sin A \) and \( a\sin B \).	math::301::laws-of-sines-cosines
+Law of cosines when \( C = 90^\circ \)	It becomes the Pythagorean theorem, since \( \cos 90^\circ = 0 \).	math::301::laws-of-sines-cosines
+Which law for SAS and SSS?	Law of cosines.	math::301::laws-of-sines-cosines
+Which law for ASA and AAS?	Law of sines (find the third angle from the 180° sum).	math::301::laws-of-sines-cosines
+Why is SSA called ambiguous?	It can give 0, 1 or 2 triangles, since \( \sin B = \sin(180^\circ - B) \).	math::301::laws-of-sines-cosines
+How to test the second SSA triangle	Check whether \( A + (180^\circ - B) < 180^\circ \).	math::301::laws-of-sines-cosines
+Area of a triangle from two sides and the included angle	\( \frac{1}{2}ab\sin C \)	math::301::laws-of-sines-cosines
+Best way to find the largest angle from SSS	Law of cosines; \( \cos^{-1} \) handles obtuse angles, \( \sin^{-1} \) does not.	math::301::laws-of-sines-cosines
+Does AAA determine a triangle?	No. It fixes the shape, not the size.	math::301::laws-of-sines-cosines

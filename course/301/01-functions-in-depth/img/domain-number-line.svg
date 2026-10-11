@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 140" width="640" height="140" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Number line showing the domain [3, 5) union (5, infinity): closed dot at 3, open dot at 5, shaded to the right</title><defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#222222"/></marker></defs>
+<rect x="0" y="0" width="640" height="140" fill="#ffffff"/>
+<line x1="30" y1="70" x2="615" y2="70" stroke="#222222" stroke-width="1.6" marker-end="url(#arr)"/>
+<line x1="40" y1="64" x2="40" y2="76" stroke="#222222" stroke-width="1.2"/>
+<text x="40" y="98" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">0</text>
+<line x1="102.22" y1="64" x2="102.22" y2="76" stroke="#222222" stroke-width="1.2"/>
+<text x="102.22" y="98" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">1</text>
+<line x1="164.44" y1="64" x2="164.44" y2="76" stroke="#222222" stroke-width="1.2"/>
+<text x="164.44" y="98" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">2</text>
+<line x1="226.67" y1="64" x2="226.67" y2="76" stroke="#222222" stroke-width="1.2"/>
+<text x="226.67" y="98" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">3</text>
+<line x1="288.89" y1="64" x2="288.89" y2="76" stroke="#222222" stroke-width="1.2"/>
+<text x="288.89" y="98" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">4</text>
+<line x1="351.11" y1="64" x2="351.11" y2="76" stroke="#222222" stroke-width="1.2"/>
+<text x="351.11" y="98" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">5</text>
+<line x1="413.33" y1="64" x2="413.33" y2="76" stroke="#222222" stroke-width="1.2"/>
+<text x="413.33" y="98" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">6</text>
+<line x1="475.56" y1="64" x2="475.56" y2="76" stroke="#222222" stroke-width="1.2"/>
+<text x="475.56" y="98" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">7</text>
+<line x1="537.78" y1="64" x2="537.78" y2="76" stroke="#222222" stroke-width="1.2"/>
+<text x="537.78" y="98" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">8</text>
+<line x1="600" y1="64" x2="600" y2="76" stroke="#222222" stroke-width="1.2"/>
+<text x="600" y="98" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">9</text>
+<line x1="226.67" y1="70" x2="610" y2="70" stroke="#d9480f" stroke-width="6"/>
+<circle cx="226.67" cy="70" r="7" fill="#d9480f" stroke="#d9480f" stroke-width="2"/>
+<circle cx="351.11" cy="70" r="7" fill="#ffffff" stroke="#d9480f" stroke-width="2.5"/>
+<text x="226.67" y="46" font-size="13" fill="#d9480f" text-anchor="middle" font-weight="normal">3 allowed (√0 = 0)</text>
+<text x="351.11" y="46" font-size="13" fill="#d9480f" text-anchor="middle" font-weight="normal">5 banned (divide by 0)</text>
+<text x="320" y="128" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">Domain of √(x − 3) / (x − 5): closed dot = included, open dot = excluded</text>
+</svg>

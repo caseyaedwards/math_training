@@ -1,0 +1,13 @@
+What makes a rule a function?	Each allowed input gets exactly one output. Two inputs can share an output.	math::301::functions
+Vertical line test	A graph is a function if no vertical line meets it more than once.	math::301::functions
+Three things to remove when finding a domain	Zeros of a denominator, negatives under an even root, and non-positive inputs to a logarithm.	math::301::functions
+Domain and range as shadows	Domain is the shadow of the graph on the x-axis. Range is the shadow on the y-axis.	math::301::functions
+What does \( (f \circ g)(x) \) mean, and which runs first?	\( f(g(x)) \). The inner function g runs first.	math::301::functions
+Is composition commutative?	No. For \( f(x)=x^2, g(x)=x+1 \): \( f(g(2))=9 \) but \( g(f(2))=5 \).	math::301::functions
+Does \( f^{-1}(x) \) mean \( 1/f(x) \)?	No. \( f^{-1} \) is the undo function: \( f^{-1}(f(x)) = x \).	math::301::functions
+Horizontal line test	A function has an inverse only if no horizontal line meets its graph more than once (one-to-one).	math::301::functions
+Three steps to find an inverse by algebra	Write \( y=f(x) \), swap x and y, solve for y.	math::301::functions
+How does the graph of \( f^{-1} \) relate to the graph of f?	It is the mirror image across the line \( y = x \).	math::301::functions
+Effect of \( f(x-h) \)	Shifts the graph right by h. Inside changes feel backwards.	math::301::functions
+Effect of \( a \cdot f(x) + k \)	Vertical stretch by a (flip if a<0), then up k.	math::301::functions
+Vertex of \( y = a(x-h)^2 + k \)	\( (h, k) \)	math::301::functions

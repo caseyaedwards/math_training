@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" width="760" height="330" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Side view of a double cone cut by four planes: circle, ellipse, parabola, hyperbola</title>
+<rect x="0" y="0" width="760" height="330" fill="#ffffff"/>
+<line x1="40" y1="55" x2="150" y2="275" stroke="#222222" stroke-width="1.8"/>
+<line x1="150" y1="55" x2="40" y2="275" stroke="#222222" stroke-width="1.8"/>
+<ellipse cx="95" cy="55" rx="55" ry="9" fill="none" stroke="#222222" stroke-width="1.5"/>
+<ellipse cx="95" cy="275" rx="55" ry="9" fill="none" stroke="#222222" stroke-width="1.5"/>
+<line x1="53" y1="95" x2="137" y2="95" stroke="#d9480f" stroke-width="3.5"/>
+<text x="95" y="305" font-size="15" fill="#d9480f" text-anchor="middle" font-weight="bold">circle</text>
+<text x="95" y="323" font-size="12" fill="#868e96" text-anchor="middle" font-weight="normal">flat cut</text>
+<line x1="230" y1="55" x2="340" y2="275" stroke="#222222" stroke-width="1.8"/>
+<line x1="340" y1="55" x2="230" y2="275" stroke="#222222" stroke-width="1.8"/>
+<ellipse cx="285" cy="55" rx="55" ry="9" fill="none" stroke="#222222" stroke-width="1.5"/>
+<ellipse cx="285" cy="275" rx="55" ry="9" fill="none" stroke="#222222" stroke-width="1.5"/>
+<line x1="250" y1="126" x2="340" y2="72" stroke="#d9480f" stroke-width="3.5"/>
+<text x="285" y="305" font-size="15" fill="#d9480f" text-anchor="middle" font-weight="bold">ellipse</text>
+<text x="285" y="323" font-size="12" fill="#868e96" text-anchor="middle" font-weight="normal">tilted cut, one nappe</text>
+<line x1="420" y1="55" x2="530" y2="275" stroke="#222222" stroke-width="1.8"/>
+<line x1="530" y1="55" x2="420" y2="275" stroke="#222222" stroke-width="1.8"/>
+<ellipse cx="475" cy="55" rx="55" ry="9" fill="none" stroke="#222222" stroke-width="1.5"/>
+<ellipse cx="475" cy="275" rx="55" ry="9" fill="none" stroke="#222222" stroke-width="1.5"/>
+<line x1="445" y1="165" x2="500" y2="55" stroke="#d9480f" stroke-width="3.5"/>
+<text x="475" y="305" font-size="15" fill="#d9480f" text-anchor="middle" font-weight="bold">parabola</text>
+<text x="475" y="323" font-size="12" fill="#868e96" text-anchor="middle" font-weight="normal">parallel to the side</text>
+<line x1="610" y1="55" x2="720" y2="275" stroke="#222222" stroke-width="1.8"/>
+<line x1="720" y1="55" x2="610" y2="275" stroke="#222222" stroke-width="1.8"/>
+<ellipse cx="665" cy="55" rx="55" ry="9" fill="none" stroke="#222222" stroke-width="1.5"/>
+<ellipse cx="665" cy="275" rx="55" ry="9" fill="none" stroke="#222222" stroke-width="1.5"/>
+<line x1="685" y1="275" x2="685" y2="55" stroke="#d9480f" stroke-width="3.5"/>
+<text x="665" y="305" font-size="15" fill="#d9480f" text-anchor="middle" font-weight="bold">hyperbola</text>
+<text x="665" y="323" font-size="12" fill="#868e96" text-anchor="middle" font-weight="normal">steep cut, both nappes</text>
+<text x="380" y="22" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">Slice a double cone with a flat plane (seen edge-on as the orange line)</text>
+</svg>

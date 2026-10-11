@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 340" width="780" height="340" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Unwrapping the unit circle: the height of the point becomes the sine graph</title><defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#222222"/></marker></defs>
+<rect x="0" y="0" width="780" height="340" fill="#ffffff"/>
+<circle cx="130" cy="160" r="90" fill="none" stroke="#222222" stroke-width="2"/>
+<line x1="25" y1="160" x2="235" y2="160" stroke="#222222" stroke-width="1.2"/>
+<line x1="130" y1="265" x2="130" y2="55" stroke="#222222" stroke-width="1.2"/>
+<line x1="280" y1="160" x2="740" y2="160" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="280" y1="275" x2="280" y2="45" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<path d="M 280 160 L 281.47 158.12 L 282.93 156.23 L 284.4 154.35 L 285.87 152.47 L 287.33 150.59 L 288.8 148.72 L 290.27 146.85 L 291.73 144.99 L 293.2 143.14 L 294.67 141.29 L 296.13 139.45 L 297.6 137.62 L 299.07 135.8 L 300.53 133.99 L 302 132.19 L 303.47 130.4 L 304.93 128.63 L 306.4 126.87 L 307.87 125.12 L 309.33 123.39 L 310.8 121.68 L 312.27 119.98 L 313.73 118.3 L 315.2 116.64 L 316.67 115 L 318.13 113.38 L 319.6 111.78 L 321.07 110.19 L 322.53 108.64 L 324 107.1 L 325.47 105.59 L 326.93 104.1 L 328.4 102.63 L 329.87 101.19 L 331.33 99.78 L 332.8 98.39 L 334.27 97.03 L 335.73 95.7 L 337.2 94.39 L 338.67 93.12 L 340.13 91.87 L 341.6 90.65 L 343.07 89.47 L 344.53 88.31 L 346 87.19 L 347.47 86.1 L 348.93 85.04 L 350.4 84.01 L 351.87 83.02 L 353.33 82.06 L 354.8 81.13 L 356.27 80.24 L 357.73 79.39 L 359.2 78.57 L 360.67 77.78 L 362.13 77.03 L 363.6 76.32 L 365.07 75.64 L 366.53 75.01 L 368 74.4 L 369.47 73.84 L 370.93 73.32 L 372.4 72.83 L 373.87 72.38 L 375.33 71.97 L 376.8 71.59 L 378.27 71.26 L 379.73 70.97 L 381.2 70.71 L 382.67 70.49 L 384.13 70.32 L 385.6 70.18 L 387.07 70.08 L 388.53 70.02 L 390 70 L 391.47 70.02 L 392.93 70.08 L 394.4 70.18 L 395.87 70.32 L 397.33 70.49 L 398.8 70.71 L 400.27 70.97 L 401.73 71.26 L 403.2 71.59 L 404.67 71.97 L 406.13 72.38 L 407.6 72.83 L 409.07 73.32 L 410.53 73.84 L 412 74.4 L 413.47 75.01 L 414.93 75.64 L 416.4 76.32 L 417.87 77.03 L 419.33 77.78 L 420.8 78.57 L 422.27 79.39 L 423.73 80.24 L 425.2 81.13 L 426.67 82.06 L 428.13 83.02 L 429.6 84.01 L 431.07 85.04 L 432.53 86.1 L 434 87.19 L 435.47 88.31 L 436.93 89.47 L 438.4 90.65 L 439.87 91.87 L 441.33 93.12 L 442.8 94.39 L 444.27 95.7 L 445.73 97.03 L 447.2 98.39 L 448.67 99.78 L 450.13 101.19 L 451.6 102.63 L 453.07 104.1 L 454.53 105.59 L 456 107.1 L 457.47 108.64 L 458.93 110.19 L 460.4 111.78 L 461.87 113.38 L 463.33 115 L 464.8 116.64 L 466.27 118.3 L 467.73 119.98 L 469.2 121.68 L 470.67 123.39 L 472.13 125.12 L 473.6 126.87 L 475.07 128.63 L 476.53 130.4 L 478 132.19 L 479.47 133.99 L 480.93 135.8 L 482.4 137.62 L 483.87 139.45 L 485.33 141.29 L 486.8 143.14 L 488.27 144.99 L 489.73 146.85 L 491.2 148.72 L 492.67 150.59 L 494.13 152.47 L 495.6 154.35 L 497.07 156.23 L 498.53 158.12 L 500 160 L 501.47 161.88 L 502.93 163.77 L 504.4 165.65 L 505.87 167.53 L 507.33 169.41 L 508.8 171.28 L 510.27 173.15 L 511.73 175.01 L 513.2 176.86 L 514.67 178.71 L 516.13 180.55 L 517.6 182.38 L 519.07 184.2 L 520.53 186.01 L 522 187.81 L 523.47 189.6 L 524.93 191.37 L 526.4 193.13 L 527.87 194.88 L 529.33 196.61 L 530.8 198.32 L 532.27 200.02 L 533.73 201.7 L 535.2 203.36 L 536.67 205 L 538.13 206.62 L 539.6 208.22 L 541.07 209.81 L 542.53 211.36 L 544 212.9 L 545.47 214.41 L 546.93 215.9 L 548.4 217.37 L 549.87 218.81 L 551.33 220.22 L 552.8 221.61 L 554.27 222.97 L 555.73 224.3 L 557.2 225.61 L 558.67 226.88 L 560.13 228.13 L 561.6 229.35 L 563.07 230.53 L 564.53 231.69 L 566 232.81 L 567.47 233.9 L 568.93 234.96 L 570.4 235.99 L 571.87 236.98 L 573.33 237.94 L 574.8 238.87 L 576.27 239.76 L 577.73 240.61 L 579.2 241.43 L 580.67 242.22 L 582.13 242.97 L 583.6 243.68 L 585.07 244.36 L 586.53 244.99 L 588 245.6 L 589.47 246.16 L 590.93 246.68 L 592.4 247.17 L 593.87 247.62 L 595.33 248.03 L 596.8 248.41 L 598.27 248.74 L 599.73 249.03 L 601.2 249.29 L 602.67 249.51 L 604.13 249.68 L 605.6 249.82 L 607.07 249.92 L 608.53 249.98 L 610 250 L 611.47 249.98 L 612.93 249.92 L 614.4 249.82 L 615.87 249.68 L 617.33 249.51 L 618.8 249.29 L 620.27 249.03 L 621.73 248.74 L 623.2 248.41 L 624.67 248.03 L 626.13 247.62 L 627.6 247.17 L 629.07 246.68 L 630.53 246.16 L 632 245.6 L 633.47 244.99 L 634.93 244.36 L 636.4 243.68 L 637.87 242.97 L 639.33 242.22 L 640.8 241.43 L 642.27 240.61 L 643.73 239.76 L 645.2 238.87 L 646.67 237.94 L 648.13 236.98 L 649.6 235.99 L 651.07 234.96 L 652.53 233.9 L 654 232.81 L 655.47 231.69 L 656.93 230.53 L 658.4 229.35 L 659.87 228.13 L 661.33 226.88 L 662.8 225.61 L 664.27 224.3 L 665.73 222.97 L 667.2 221.61 L 668.67 220.22 L 670.13 218.81 L 671.6 217.37 L 673.07 215.9 L 674.53 214.41 L 676 212.9 L 677.47 211.36 L 678.93 209.81 L 680.4 208.22 L 681.87 206.62 L 683.33 205 L 684.8 203.36 L 686.27 201.7 L 687.73 200.02 L 689.2 198.32 L 690.67 196.61 L 692.13 194.88 L 693.6 193.13 L 695.07 191.37 L 696.53 189.6 L 698 187.81 L 699.47 186.01 L 700.93 184.2 L 702.4 182.38 L 703.87 180.55 L 705.33 178.71 L 706.8 176.86 L 708.27 175.01 L 709.73 173.15 L 711.2 171.28 L 712.67 169.41 L 714.13 167.53 L 715.6 165.65 L 717.07 163.77 L 718.53 161.88 L 720 160" fill="none" stroke="#d9480f" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="207.94" cy="115" r="4.5" fill="#1c4e80" stroke="#1c4e80" stroke-width="1.5"/>
+<line x1="207.94" y1="115" x2="316.67" y2="115" stroke="#868e96" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="316.67" cy="115" r="4.5" fill="#1c4e80" stroke="#1c4e80" stroke-width="1.5"/>
+<text x="316.67" y="103" font-size="12" fill="#868e96" text-anchor="middle" font-weight="normal">30°</text>
+<circle cx="130" cy="70" r="4.5" fill="#1c4e80" stroke="#1c4e80" stroke-width="1.5"/>
+<line x1="130" y1="70" x2="390" y2="70" stroke="#868e96" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="390" cy="70" r="4.5" fill="#1c4e80" stroke="#1c4e80" stroke-width="1.5"/>
+<text x="390" y="58" font-size="12" fill="#868e96" text-anchor="middle" font-weight="normal">90°</text>
+<circle cx="52.06" cy="115" r="4.5" fill="#1c4e80" stroke="#1c4e80" stroke-width="1.5"/>
+<line x1="52.06" y1="115" x2="463.33" y2="115" stroke="#868e96" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="463.33" cy="115" r="4.5" fill="#1c4e80" stroke="#1c4e80" stroke-width="1.5"/>
+<text x="463.33" y="103" font-size="12" fill="#868e96" text-anchor="middle" font-weight="normal">150°</text>
+<circle cx="52.06" cy="205" r="4.5" fill="#1c4e80" stroke="#1c4e80" stroke-width="1.5"/>
+<line x1="52.06" y1="205" x2="536.67" y2="205" stroke="#868e96" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="536.67" cy="205" r="4.5" fill="#1c4e80" stroke="#1c4e80" stroke-width="1.5"/>
+<text x="536.67" y="227" font-size="12" fill="#868e96" text-anchor="middle" font-weight="normal">210°</text>
+<circle cx="130" cy="250" r="4.5" fill="#1c4e80" stroke="#1c4e80" stroke-width="1.5"/>
+<line x1="130" y1="250" x2="610" y2="250" stroke="#868e96" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="610" cy="250" r="4.5" fill="#1c4e80" stroke="#1c4e80" stroke-width="1.5"/>
+<text x="610" y="272" font-size="12" fill="#868e96" text-anchor="middle" font-weight="normal">270°</text>
+<circle cx="207.94" cy="205" r="4.5" fill="#1c4e80" stroke="#1c4e80" stroke-width="1.5"/>
+<line x1="207.94" y1="205" x2="683.33" y2="205" stroke="#868e96" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="683.33" cy="205" r="4.5" fill="#1c4e80" stroke="#1c4e80" stroke-width="1.5"/>
+<text x="683.33" y="227" font-size="12" fill="#868e96" text-anchor="middle" font-weight="normal">330°</text>
+<line x1="390" y1="156" x2="390" y2="164" stroke="#222222" stroke-width="1.2"/>
+<text x="390" y="178" font-size="12" fill="#222222" text-anchor="middle" font-weight="normal">π/2</text>
+<line x1="500" y1="156" x2="500" y2="164" stroke="#222222" stroke-width="1.2"/>
+<text x="500" y="178" font-size="12" fill="#222222" text-anchor="middle" font-weight="normal">π</text>
+<line x1="610" y1="156" x2="610" y2="164" stroke="#222222" stroke-width="1.2"/>
+<text x="610" y="178" font-size="12" fill="#222222" text-anchor="middle" font-weight="normal">3π/2</text>
+<line x1="720" y1="156" x2="720" y2="164" stroke="#222222" stroke-width="1.2"/>
+<text x="720" y="178" font-size="12" fill="#222222" text-anchor="middle" font-weight="normal">2π</text>
+<text x="274" y="74" font-size="12" fill="#222222" text-anchor="end" font-weight="normal">1</text>
+<text x="274" y="254" font-size="12" fill="#222222" text-anchor="end" font-weight="normal">−1</text>
+<text x="746" y="165" font-size="14" fill="#222222" text-anchor="start" font-weight="normal" font-style="italic">θ</text>
+<text x="680" y="60" font-size="14" fill="#d9480f" text-anchor="middle" font-weight="bold">y = sin θ</text>
+<text x="390" y="325" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">Walk around the circle at steady speed. Plot only the height. Out comes the sine wave.</text>
+</svg>

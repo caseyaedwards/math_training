@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 300" width="620" height="300" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Synthetic division of x^3 - 6x^2 + 11x - 6 by x - 1, showing multiply and add steps</title><defs><marker id="arrm" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1c4e80"/></marker><marker id="arrm" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="620" height="300" fill="#ffffff"/>
+<text x="90" y="95" font-size="22" fill="#d9480f" text-anchor="middle" font-weight="bold">1</text>
+<line x1="120" y1="65" x2="120" y2="175" stroke="#222222" stroke-width="2"/>
+<line x1="120" y1="175" x2="540" y2="175" stroke="#222222" stroke-width="2"/>
+<text x="180" y="95" font-size="20" fill="#222222" text-anchor="middle" font-weight="normal">1</text>
+<text x="180" y="210" font-size="20" fill="#222222" text-anchor="middle" font-weight="bold">1</text>
+<text x="280" y="95" font-size="20" fill="#222222" text-anchor="middle" font-weight="normal">-6</text>
+<text x="280" y="150" font-size="20" fill="#1c4e80" text-anchor="middle" font-weight="normal">1</text>
+<text x="280" y="210" font-size="20" fill="#222222" text-anchor="middle" font-weight="bold">-5</text>
+<text x="380" y="95" font-size="20" fill="#222222" text-anchor="middle" font-weight="normal">11</text>
+<text x="380" y="150" font-size="20" fill="#1c4e80" text-anchor="middle" font-weight="normal">-5</text>
+<text x="380" y="210" font-size="20" fill="#222222" text-anchor="middle" font-weight="bold">6</text>
+<text x="480" y="95" font-size="20" fill="#222222" text-anchor="middle" font-weight="normal">-6</text>
+<text x="480" y="150" font-size="20" fill="#1c4e80" text-anchor="middle" font-weight="normal">6</text>
+<text x="480" y="210" font-size="20" fill="#d9480f" text-anchor="middle" font-weight="bold">0</text>
+<line x1="190" y1="200" x2="266" y2="158" stroke="#1c4e80" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrm)"/>
+<line x1="280" y1="160" x2="280" y2="188" stroke="#868e96" stroke-width="1.2" marker-end="url(#arrm)"/>
+<line x1="290" y1="200" x2="366" y2="158" stroke="#1c4e80" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrm)"/>
+<line x1="380" y1="160" x2="380" y2="188" stroke="#868e96" stroke-width="1.2" marker-end="url(#arrm)"/>
+<line x1="390" y1="200" x2="466" y2="158" stroke="#1c4e80" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrm)"/>
+<line x1="480" y1="160" x2="480" y2="188" stroke="#868e96" stroke-width="1.2" marker-end="url(#arrm)"/>
+<line x1="180" y1="103" x2="180" y2="188" stroke="#868e96" stroke-width="1.2" marker-end="url(#arrm)"/>
+<text x="310" y="40" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold">Divide x³ − 6x² + 11x − 6 by (x − 1)</text>
+<text x="480" y="240" font-size="13" fill="#d9480f" text-anchor="middle" font-weight="normal">remainder 0</text>
+<text x="280" y="240" font-size="13" fill="#222222" text-anchor="middle" font-weight="normal">quotient x² − 5x + 6</text>
+<text x="310" y="280" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">Blue arrows: multiply by 1, write it in the next column. Gray arrows: add down.</text>
+</svg>

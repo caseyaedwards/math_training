@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 200" width="700" height="200" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Logarithm as a question: log base 2 of 8 asks how many 2s multiply to 8; the answer is 3</title>
+<rect x="0" y="0" width="700" height="200" fill="#ffffff"/>
+<text x="350" y="40" font-size="18" fill="#222222" text-anchor="middle" font-weight="bold">log₂ 8 = ?    asks    2^? = 8</text>
+<rect x="190" y="75" width="60" height="50" rx="6" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.6"/>
+<text x="220" y="107" font-size="20" fill="#1c4e80" text-anchor="middle" font-weight="bold">2</text>
+<text x="260" y="107" font-size="18" fill="#222222" text-anchor="middle" font-weight="normal">×</text>
+<rect x="270" y="75" width="60" height="50" rx="6" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.6"/>
+<text x="300" y="107" font-size="20" fill="#1c4e80" text-anchor="middle" font-weight="bold">2</text>
+<text x="340" y="107" font-size="18" fill="#222222" text-anchor="middle" font-weight="normal">×</text>
+<rect x="350" y="75" width="60" height="50" rx="6" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.6"/>
+<text x="380" y="107" font-size="20" fill="#1c4e80" text-anchor="middle" font-weight="bold">2</text>
+<text x="440" y="107" font-size="20" fill="#222222" text-anchor="start" font-weight="bold">= 8</text>
+<text x="300" y="155" font-size="14" fill="#d9480f" text-anchor="middle" font-weight="bold">three factors of 2</text>
+<text x="350" y="185" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">The logarithm is the exponent. It counts multiplications.</text>
+</svg>

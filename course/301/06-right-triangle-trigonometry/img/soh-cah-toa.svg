@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 330" width="520" height="330" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Right triangle with angle theta: opposite, adjacent and hypotenuse</title>
+<rect x="0" y="0" width="520" height="330" fill="#ffffff"/>
+<path d="M 80 260 L 420 260 L 420 60 Z" fill="#ffffff" stroke="#222222" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M 400 260 L 400 240 L 420 240" fill="none" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M 135 260 L 134.99 259.03 L 134.97 258.05 L 134.92 257.08 L 134.86 256.1 L 134.78 255.13 L 134.69 254.16 L 134.58 253.19 L 134.45 252.23 L 134.3 251.26 L 134.14 250.3 L 133.96 249.34 L 133.76 248.39 L 133.55 247.44 L 133.32 246.49 L 133.07 245.55 L 132.8 244.61 L 132.52 243.68 L 132.22 242.75 L 131.91 241.83 L 131.58 240.91 L 131.23 240 L 130.87 239.09 L 130.49 238.19 L 130.1 237.3 L 129.69 236.42 L 129.26 235.54 L 128.82 234.67 L 128.36 233.81 L 127.89 232.96 L 127.41 232.11" fill="none" stroke="#d9480f" stroke-width="2" stroke-linejoin="round"/>
+<text x="148" y="250" font-size="18" fill="#d9480f" text-anchor="start" font-weight="bold">θ</text>
+<text x="250" y="290" font-size="15" fill="#222222" text-anchor="middle" font-weight="normal">adjacent (next to θ)</text>
+<text x="432" y="165" font-size="15" fill="#222222" text-anchor="start" font-weight="normal">opposite</text>
+<text x="432" y="183" font-size="13" fill="#868e96" text-anchor="start" font-weight="normal">(across from θ)</text>
+<text x="232.0" y="150.0" font-size="15" fill="#222222" text-anchor="middle" transform="rotate(-30.47 232.0 150.0)">hypotenuse (longest, across from the right angle)</text>
+<text x="20" y="25" font-size="14" fill="#d9480f" text-anchor="start" font-weight="bold">SOH CAH TOA:</text>
+<text x="140" y="25" font-size="14" fill="#222222" text-anchor="start" font-weight="normal">sin θ = opp / hyp</text>
+<text x="268" y="25" font-size="14" fill="#222222" text-anchor="start" font-weight="normal">cos θ = adj / hyp</text>
+<text x="396" y="25" font-size="14" fill="#222222" text-anchor="start" font-weight="normal">tan θ = opp / adj</text>
+</svg>

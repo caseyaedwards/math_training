@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" width="520" height="360" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Law of cosines example: sides 5 and 8 with a 60 degree angle between them give a third side of 7</title>
+<rect x="0" y="0" width="520" height="360" fill="#ffffff"/>
+<path d="M 60 290 L 396 290 L 165 108.13 Z" fill="none" stroke="#222222" stroke-width="2.2" stroke-linejoin="round"/>
+<line x1="165" y1="108.13" x2="396" y2="290" stroke="#d9480f" stroke-width="3"/>
+<path d="M 94 290 L 93.99 289.41 L 93.98 288.81 L 93.95 288.22 L 93.92 287.63 L 93.87 287.04 L 93.81 286.45 L 93.75 285.86 L 93.67 285.27 L 93.58 284.68 L 93.48 284.1 L 93.38 283.51 L 93.26 282.93 L 93.13 282.35 L 92.99 281.77 L 92.84 281.2 L 92.68 280.63 L 92.51 280.06 L 92.34 279.49 L 92.15 278.93 L 91.95 278.37 L 91.74 277.82 L 91.52 277.26 L 91.3 276.72 L 91.06 276.17 L 90.81 275.63 L 90.56 275.1 L 90.29 274.56 L 90.02 274.04 L 89.74 273.52 L 89.44 273 L 89.14 272.49 L 88.83 271.98 L 88.51 271.48 L 88.19 270.99 L 87.85 270.5 L 87.51 270.02 L 87.15 269.54 L 86.79 269.07 L 86.42 268.6 L 86.05 268.15 L 85.66 267.69 L 85.27 267.25 L 84.87 266.81 L 84.46 266.38 L 84.04 265.96 L 83.62 265.54 L 83.19 265.13 L 82.75 264.73 L 82.31 264.34 L 81.85 263.95 L 81.4 263.58 L 80.93 263.21 L 80.46 262.85 L 79.98 262.49 L 79.5 262.15 L 79.01 261.81 L 78.52 261.49 L 78.02 261.17 L 77.51 260.86 L 77 260.56" fill="none" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="100" y="278" font-size="14" fill="#222222" text-anchor="start" font-weight="normal">60°</text>
+<text x="52" y="312" font-size="14" fill="#222222" text-anchor="middle" font-weight="bold">tower</text>
+<text x="404" y="312" font-size="14" fill="#222222" text-anchor="middle" font-weight="bold">site A</text>
+<text x="165" y="96.13" font-size="14" fill="#222222" text-anchor="middle" font-weight="bold">site B</text>
+<text x="228" y="312" font-size="15" fill="#222222" text-anchor="middle" font-weight="normal">8 km</text>
+<text x="102.5" y="199.07" font-size="15" fill="#222222" text-anchor="end" font-weight="normal">5 km</text>
+<text x="294.5" y="195.07" font-size="15" fill="#d9480f" text-anchor="start" font-weight="bold">? = 7 km</text>
+<circle cx="60" cy="290" r="4" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="396" cy="290" r="4" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="165" cy="108.13" r="4" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<text x="260" y="30" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">Drawn to scale. c² = 5² + 8² − 2·5·8·cos 60° = 49</text>
+</svg>

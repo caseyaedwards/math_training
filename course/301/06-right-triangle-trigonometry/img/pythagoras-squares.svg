@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 520" width="560" height="520" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Pythagorean theorem: on a 3-4-5 right triangle the squares on the legs, 9 and 16, add to the square on the hypotenuse, 25</title>
+<rect x="0" y="0" width="560" height="520" fill="#ffffff"/>
+<path d="M 200 330 L 360 330 L 360 490 L 200 490 Z" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M 200 330 L 200 210 L 80 210 L 80 330 Z" fill="#dbe4ee" stroke="#1c4e80" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M 200 210 L 360 330 L 480 170 L 320 50 Z" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M 200 330 L 360 330 L 200 210 Z" fill="#ffffff" stroke="#222222" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M 200 316 L 214 316 L 214 330" fill="none" stroke="#222222" stroke-width="1.2" stroke-linejoin="round"/>
+<text x="280" y="416" font-size="18" fill="#1c4e80" text-anchor="middle" font-weight="bold">4² = 16</text>
+<text x="140" y="276" font-size="18" fill="#1c4e80" text-anchor="middle" font-weight="bold">3² = 9</text>
+<text x="340" y="196" font-size="18" fill="#d9480f" text-anchor="middle" font-weight="bold">5² = 25</text>
+<text x="280" y="322" font-size="14" fill="#222222" text-anchor="middle" font-weight="normal">4</text>
+<text x="208" y="275" font-size="14" fill="#222222" text-anchor="start" font-weight="normal">3</text>
+<text x="274" y="288" font-size="14" fill="#222222" text-anchor="end" font-weight="normal">5</text>
+<text x="280" y="505" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">a² + b² = c²: 9 + 16 = 25. The hypotenuse c is across from the right angle.</text>
+</svg>

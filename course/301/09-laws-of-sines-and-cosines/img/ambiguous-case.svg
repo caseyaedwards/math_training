@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" width="640" height="380" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>The ambiguous case SSA: angle A = 30 degrees, b = 10, a = 6 gives two different triangles</title><defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#222222"/></marker></defs>
+<rect x="0" y="0" width="640" height="380" fill="#ffffff"/>
+<line x1="50" y1="270" x2="590" y2="270" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="50" y1="270" x2="396.41" y2="70" stroke="#222222" stroke-width="2.2"/>
+<path d="M 164.59 132.12 L 167.52 142.17 L 170.88 152.08 L 174.68 161.84 L 178.9 171.43 L 183.53 180.82 L 188.56 190 L 194 198.95 L 199.81 207.66 L 206.01 216.1 L 212.56 224.27 L 219.46 232.14 L 226.7 239.71 L 234.27 246.95 L 242.14 253.85 L 250.31 260.4 L 258.75 266.6 L 267.46 272.41 L 276.41 277.85 L 285.59 282.88 L 294.98 287.51 L 304.57 291.73 L 314.33 295.53 L 324.24 298.89 L 334.29 301.82 L 344.46 304.31 L 354.73 306.35 L 365.08 307.95 L 375.49 309.09 L 385.94 309.77 L 396.41 310 L 406.88 309.77 L 417.33 309.09 L 427.74 307.95 L 438.09 306.35 L 448.36 304.31 L 458.53 301.82 L 468.58 298.89 L 478.49 295.53 L 488.25 291.73 L 497.84 287.51 L 507.23 282.88 L 516.41 277.85 L 525.36 272.41 L 534.07 266.6 L 542.51 260.4 L 550.68 253.85 L 558.55 246.95 L 566.12 239.71 L 573.36 232.14 L 580.26 224.27 L 586.81 216.1 L 593.01 207.66 L 598.82 198.95 L 604.26 190 L 609.29 180.82 L 613.92 171.43 L 618.14 161.84 L 621.94 152.08 L 625.3 142.17 L 628.23 132.12" fill="none" stroke="#868e96" stroke-width="1.2" stroke-dasharray="5 4" stroke-linejoin="round"/>
+<line x1="396.41" y1="70" x2="263.75" y2="270" stroke="#1c4e80" stroke-width="2.4"/>
+<line x1="396.41" y1="70" x2="529.08" y2="270" stroke="#d9480f" stroke-width="2.4"/>
+<circle cx="50" cy="270" r="4.5" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="396.41" cy="70" r="4.5" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<circle cx="263.75" cy="270" r="4.5" fill="#1c4e80" stroke="#1c4e80" stroke-width="1.5"/>
+<circle cx="529.08" cy="270" r="4.5" fill="#d9480f" stroke="#d9480f" stroke-width="1.5"/>
+<path d="M 94 270 L 94 269.62 L 93.99 269.23 L 93.98 268.85 L 93.97 268.46 L 93.96 268.08 L 93.94 267.7 L 93.92 267.31 L 93.89 266.93 L 93.86 266.55 L 93.83 266.17 L 93.8 265.78 L 93.76 265.4 L 93.72 265.02 L 93.67 264.64 L 93.62 264.26 L 93.57 263.88 L 93.52 263.5 L 93.46 263.12 L 93.4 262.74 L 93.33 262.36 L 93.26 261.98 L 93.19 261.6 L 93.12 261.23 L 93.04 260.85 L 92.96 260.48 L 92.87 260.1 L 92.78 259.73 L 92.69 259.36 L 92.6 258.98 L 92.5 258.61 L 92.4 258.24 L 92.3 257.87 L 92.19 257.5 L 92.08 257.14 L 91.96 256.77 L 91.85 256.4 L 91.73 256.04 L 91.6 255.68 L 91.48 255.31 L 91.35 254.95 L 91.21 254.59 L 91.08 254.23 L 90.94 253.87 L 90.8 253.52 L 90.65 253.16 L 90.5 252.81 L 90.35 252.46 L 90.2 252.1 L 90.04 251.75 L 89.88 251.4 L 89.71 251.06 L 89.55 250.71 L 89.38 250.37 L 89.2 250.02 L 89.03 249.68 L 88.85 249.34 L 88.67 249.01 L 88.48 248.67 L 88.3 248.33 L 88.11 248" fill="none" stroke="#222222" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="102" y="262" font-size="13" fill="#222222" text-anchor="start" font-weight="normal">30°</text>
+<text x="42" y="292" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold">A</text>
+<text x="396.41" y="58" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold">C</text>
+<text x="263.75" y="292" font-size="15" fill="#1c4e80" text-anchor="middle" font-weight="bold">B₁</text>
+<text x="529.08" y="292" font-size="15" fill="#d9480f" text-anchor="middle" font-weight="bold">B₂</text>
+<text x="215.21" y="162" font-size="14" fill="#222222" text-anchor="end" font-weight="normal">b = 10</text>
+<text x="324.08" y="170" font-size="14" fill="#1c4e80" text-anchor="end" font-weight="normal">a = 6</text>
+<text x="470.74" y="170" font-size="14" fill="#d9480f" text-anchor="start" font-weight="normal">a = 6</text>
+<text x="320" y="362" font-size="13" fill="#868e96" text-anchor="middle" font-weight="normal">Swing side a = 6 from C: it lands on the base line twice. B ≈ 56.4° or B ≈ 123.6°.</text>
+</svg>

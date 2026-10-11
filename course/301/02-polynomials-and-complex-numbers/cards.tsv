@@ -1,0 +1,15 @@
+What two facts set the end behavior of a polynomial?	The degree (even or odd) and the sign of the leading coefficient.	math::301::polynomials
+End behavior of an even-degree polynomial with positive leading coefficient	Both ends point up, like \( x^2 \).	math::301::polynomials
+End behavior of an odd-degree polynomial with positive leading coefficient	Left end down, right end up, like \( x^3 \).	math::301::polynomials
+Factor theorem	\( p(r) = 0 \) exactly when \( (x - r) \) is a factor of \( p(x) \).	math::301::polynomials
+Remainder theorem	Dividing \( p(x) \) by \( (x - r) \) leaves remainder \( p(r) \).	math::301::polynomials
+Graph behavior at a zero of odd multiplicity vs even multiplicity	Odd: crosses the axis. Even: touches and turns back.	math::301::polynomials
+Maximum number of real zeros and turning points of a degree n polynomial	At most n zeros and at most n - 1 turning points.	math::301::polynomials
+Definition of \( i \)	\( i^2 = -1 \)	math::301::polynomials
+\( i^n \) depends only on what?	\( n \bmod 4 \): the cycle is \( i, -1, -i, 1 \).	math::301::polynomials
+Conjugate of \( a + bi \), and its product with \( a + bi \)	\( a - bi \); the product is \( a^2 + b^2 \), a real number.	math::301::polynomials
+How to divide complex numbers	Multiply top and bottom by the conjugate of the bottom.	math::301::polynomials
+Geometric meaning of multiplying by \( i \)	A quarter turn (90 degrees) counterclockwise about the origin.	math::301::polynomials
+Modulus \( |a + bi| \)	\( \sqrt{a^2 + b^2} \), the length of the arrow to \( (a, b) \).	math::301::polynomials
+Fundamental Theorem of Algebra	A degree n polynomial has exactly n complex roots, counting multiplicity.	math::301::polynomials
+Real coefficients and a root \( a + bi \) imply which other root?	The conjugate \( a - bi \).	math::301::polynomials

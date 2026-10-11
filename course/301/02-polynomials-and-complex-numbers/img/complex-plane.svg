@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 460" width="480" height="460" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>The complex plane: real part across, imaginary part up</title><defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#222222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#d9480f"/></marker><marker id="arrm" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1c4e80"/></marker><marker id="arrm" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#868e96"/></marker></defs>
+<rect x="0" y="0" width="480" height="460" fill="#ffffff"/>
+<line x1="71.11" y1="40" x2="71.11" y2="420" stroke="#dddddd" stroke-width="1"/>
+<line x1="113.33" y1="40" x2="113.33" y2="420" stroke="#dddddd" stroke-width="1"/>
+<line x1="155.56" y1="40" x2="155.56" y2="420" stroke="#dddddd" stroke-width="1"/>
+<line x1="197.78" y1="40" x2="197.78" y2="420" stroke="#dddddd" stroke-width="1"/>
+<line x1="240" y1="40" x2="240" y2="420" stroke="#dddddd" stroke-width="1"/>
+<line x1="282.22" y1="40" x2="282.22" y2="420" stroke="#dddddd" stroke-width="1"/>
+<line x1="324.44" y1="40" x2="324.44" y2="420" stroke="#dddddd" stroke-width="1"/>
+<line x1="366.67" y1="40" x2="366.67" y2="420" stroke="#dddddd" stroke-width="1"/>
+<line x1="408.89" y1="40" x2="408.89" y2="420" stroke="#dddddd" stroke-width="1"/>
+<line x1="50" y1="398.89" x2="430" y2="398.89" stroke="#dddddd" stroke-width="1"/>
+<line x1="50" y1="356.67" x2="430" y2="356.67" stroke="#dddddd" stroke-width="1"/>
+<line x1="50" y1="314.44" x2="430" y2="314.44" stroke="#dddddd" stroke-width="1"/>
+<line x1="50" y1="272.22" x2="430" y2="272.22" stroke="#dddddd" stroke-width="1"/>
+<line x1="50" y1="230" x2="430" y2="230" stroke="#dddddd" stroke-width="1"/>
+<line x1="50" y1="187.78" x2="430" y2="187.78" stroke="#dddddd" stroke-width="1"/>
+<line x1="50" y1="145.56" x2="430" y2="145.56" stroke="#dddddd" stroke-width="1"/>
+<line x1="50" y1="103.33" x2="430" y2="103.33" stroke="#dddddd" stroke-width="1"/>
+<line x1="50" y1="61.11" x2="430" y2="61.11" stroke="#dddddd" stroke-width="1"/>
+<line x1="50" y1="230" x2="438" y2="230" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="240" y1="420" x2="240" y2="32" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<text x="442" y="235" font-size="14" fill="#222222" text-anchor="start" font-weight="normal" font-style="italic">Re</text>
+<text x="246" y="30" font-size="14" fill="#222222" text-anchor="start" font-weight="normal" font-style="italic">Im</text>
+<line x1="71.11" y1="226" x2="71.11" y2="234" stroke="#222222" stroke-width="1.2"/>
+<text x="71.11" y="249" font-size="12" fill="#868e96" text-anchor="middle" font-weight="normal">-4</text>
+<line x1="113.33" y1="226" x2="113.33" y2="234" stroke="#222222" stroke-width="1.2"/>
+<text x="113.33" y="249" font-size="12" fill="#868e96" text-anchor="middle" font-weight="normal">-3</text>
+<line x1="155.56" y1="226" x2="155.56" y2="234" stroke="#222222" stroke-width="1.2"/>
+<text x="155.56" y="249" font-size="12" fill="#868e96" text-anchor="middle" font-weight="normal">-2</text>
+<line x1="197.78" y1="226" x2="197.78" y2="234" stroke="#222222" stroke-width="1.2"/>
+<text x="197.78" y="249" font-size="12" fill="#868e96" text-anchor="middle" font-weight="normal">-1</text>
+<line x1="282.22" y1="226" x2="282.22" y2="234" stroke="#222222" stroke-width="1.2"/>
+<text x="282.22" y="249" font-size="12" fill="#868e96" text-anchor="middle" font-weight="normal">1</text>
+<line x1="324.44" y1="226" x2="324.44" y2="234" stroke="#222222" stroke-width="1.2"/>
+<text x="324.44" y="249" font-size="12" fill="#868e96" text-anchor="middle" font-weight="normal">2</text>
+<line x1="366.67" y1="226" x2="366.67" y2="234" stroke="#222222" stroke-width="1.2"/>
+<text x="366.67" y="249" font-size="12" fill="#868e96" text-anchor="middle" font-weight="normal">3</text>
+<line x1="408.89" y1="226" x2="408.89" y2="234" stroke="#222222" stroke-width="1.2"/>
+<text x="408.89" y="249" font-size="12" fill="#868e96" text-anchor="middle" font-weight="normal">4</text>
+<line x1="236" y1="398.89" x2="244" y2="398.89" stroke="#222222" stroke-width="1.2"/>
+<text x="232" y="402.89" font-size="12" fill="#868e96" text-anchor="end" font-weight="normal">-4</text>
+<line x1="236" y1="356.67" x2="244" y2="356.67" stroke="#222222" stroke-width="1.2"/>
+<text x="232" y="360.67" font-size="12" fill="#868e96" text-anchor="end" font-weight="normal">-3</text>
+<line x1="236" y1="314.44" x2="244" y2="314.44" stroke="#222222" stroke-width="1.2"/>
+<text x="232" y="318.44" font-size="12" fill="#868e96" text-anchor="end" font-weight="normal">-2</text>
+<line x1="236" y1="272.22" x2="244" y2="272.22" stroke="#222222" stroke-width="1.2"/>
+<text x="232" y="276.22" font-size="12" fill="#868e96" text-anchor="end" font-weight="normal">-1</text>
+<line x1="236" y1="187.78" x2="244" y2="187.78" stroke="#222222" stroke-width="1.2"/>
+<text x="232" y="191.78" font-size="12" fill="#868e96" text-anchor="end" font-weight="normal">1</text>
+<line x1="236" y1="145.56" x2="244" y2="145.56" stroke="#222222" stroke-width="1.2"/>
+<text x="232" y="149.56" font-size="12" fill="#868e96" text-anchor="end" font-weight="normal">2</text>
+<line x1="236" y1="103.33" x2="244" y2="103.33" stroke="#222222" stroke-width="1.2"/>
+<text x="232" y="107.33" font-size="12" fill="#868e96" text-anchor="end" font-weight="normal">3</text>
+<line x1="236" y1="61.11" x2="244" y2="61.11" stroke="#222222" stroke-width="1.2"/>
+<text x="232" y="65.11" font-size="12" fill="#868e96" text-anchor="end" font-weight="normal">4</text>
+<line x1="240" y1="230" x2="366.67" y2="145.56" stroke="#d9480f" stroke-width="1.5" marker-end="url(#arra)"/>
+<text x="374.67" y="139.56" font-size="14" fill="#d9480f" text-anchor="start" font-weight="normal" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">3 + 2i</text>
+<line x1="240" y1="230" x2="366.67" y2="314.44" stroke="#868e96" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#arrm)"/>
+<text x="326.67" y="336.44" font-size="14" fill="#868e96" text-anchor="start" font-weight="normal" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">3 − 2i (conjugate)</text>
+<line x1="240" y1="230" x2="155.56" y2="103.33" stroke="#1c4e80" stroke-width="1.5" marker-end="url(#arrm)"/>
+<text x="155.56" y="91.33" font-size="14" fill="#1c4e80" text-anchor="middle" font-weight="normal" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">i(3 + 2i) = −2 + 3i</text>
+<line x1="240" y1="230" x2="240" y2="187.78" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<text x="234" y="191.78" font-size="14" fill="#222222" text-anchor="end" font-weight="normal" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">i</text>
+<path d="M 289.18 197.21 L 287.86 195.31 L 286.46 193.45 L 284.99 191.66 L 283.45 189.92 L 281.84 188.25 L 280.17 186.64 L 278.44 185.09 L 276.64 183.62 L 274.79 182.21 L 272.89 180.89 L 270.94 179.63 L 268.94 178.46 L 266.89 177.36 L 264.8 176.34 L 262.68 175.41 L 260.52 174.56 L 258.33 173.8 L 256.1 173.13 L 253.86 172.54 L 251.59 172.04 L 249.31 171.63 L 247.01 171.31 L 244.7 171.08 L 242.38 170.94 L 240.06 170.89 L 237.74 170.93 L 235.42 171.07 L 233.11 171.29 L 230.81 171.61 L 228.53 172.01 L 226.26 172.51 L 224.01 173.09 L 221.79 173.76 L 219.6 174.52 L 217.44 175.36 L 215.31 176.29 L 213.22 177.3 L 211.17 178.4 L 209.17 179.57 L 207.21 180.82" fill="none" stroke="#1c4e80" stroke-width="1.5" stroke-dasharray="4 3" stroke-linejoin="round"/>
+<text x="262.44" y="150.11" font-size="13" fill="#1c4e80" text-anchor="start" font-weight="normal" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">×i turns 90°</text>
+</svg>

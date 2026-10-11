@@ -40,7 +40,33 @@ a:visited { color: #6a3d9a; }
 code, pre { font-family: Menlo, Consolas, monospace; font-size: 14px; background: #f3f4f6; }
 pre { padding: 10px; overflow-x: auto; }
 table.toc td { padding: 2px 12px 2px 0; vertical-align: top; }
+.stepper { border: 1px solid #c8ccd0; background: #fff; padding: 10px; }
+.stepper img { max-width: 100%; height: auto; display: block; }
+.stepper button { font-family: Georgia, serif; font-size: 16px; padding: 4px 14px; margin-right: 6px; }
 @media (max-width: 680px) { .card { width: 100%; } }
+"""
+
+STEPPER_JS = """
+<script>
+(function () {
+  var box = document.getElementById("stepper");
+  if (!box) return;
+  var n = parseInt(box.getAttribute("data-steps"), 10), k = 1;
+  var img = box.querySelector("img"), label = box.querySelector(".pos");
+  function show(i) {
+    k = Math.max(1, Math.min(n, i));
+    img.src = "step-" + (k < 10 ? "0" : "") + k + ".svg";
+    label.textContent = "Step " + k + " of " + n;
+  }
+  box.querySelector(".prev").onclick = function () { show(k - 1); };
+  box.querySelector(".next").onclick = function () { show(k + 1); };
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "ArrowLeft") show(k - 1);
+    if (e.key === "ArrowRight") show(k + 1);
+  });
+  box.style.display = "block";
+})();
+</script>
 """
 
 
@@ -160,6 +186,13 @@ def _diagram_page(pg, prev_pg, next_pg) -> str:
         parts.append(f'<p class="concept">{_plain(wt.concept)}</p>')
     if wt.summary:
         parts.append(f"<p>{_plain(wt.summary)}</p>")
+    parts.append("<h2>Step through it</h2>")
+    parts.append(f'<div class="stepper" id="stepper" data-steps="{len(pg["steps"])}" style="display:none">'
+                 '<p><button class="prev">&larr; Back</button><button class="next">Next &rarr;</button> '
+                 '<span class="pos">Step 1 of ' + str(len(pg["steps"])) + '</span> '
+                 '<small>(or use the arrow keys)</small></p>'
+                 '<img src="step-01.svg" alt="Current step"></div>')
+    parts.append("<noscript><p>Turn on JavaScript to step through the diagram, or scroll down.</p></noscript>")
     parts.append("<h2>Watch it</h2>")
     parts.append('<p class="anim"><img src="animated.svg" alt="Animated walkthrough"></p>')
     parts.append("<h2>Step by step</h2>")
@@ -174,6 +207,7 @@ def _diagram_page(pg, prev_pg, next_pg) -> str:
     parts.append(f"<pre>cd svg-generator\npython3 -m svgmath render {d.slug} --out /tmp/{d.slug}</pre>")
     parts.append(f"<p>Source: <code>{d.module.replace('.', '/')}.py</code></p>")
     parts.append(nav_html)
+    parts.append(STEPPER_JS)
     return _page(wt.title, "\n".join(parts), depth=1)
 
 

@@ -1,9 +1,0 @@
----
-import Page from '../layouts/Page.astro';
-const entry = { repoPath: '', route: '/404/', crumbs: [{ title: 'Home', href: import.meta.env.BASE_URL }], prev: null, next: null };
----
-<Page title="Page Not Found" entry={entry} headings={[]}>
-  <h1>Page Not Found</h1>
-  <p>This page does not exist yet. The material is still being written, so the link may work later.</p>
-  <p><a href={import.meta.env.BASE_URL}>Return to the home page</a>.</p>
-</Page>

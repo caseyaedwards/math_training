@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" width="640" height="320" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Three meshed gears: speeds multiply along the chain</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="640" height="320" fill="#ffffff"/>
+<polygon points="251,160 250.62,168.8 244.54,176.67 242.73,184.85 244.91,194.54 241.54,202.68 233.14,208 228.64,215.06 227.37,224.92 221.42,231.42 211.71,233.54 205.06,238.64 200.5,247.47 192.68,251.54 182.83,250.21 174.85,252.73 167.54,259.47 158.8,260.62 150,256 141.63,255.63 132.46,259.47 123.86,257.56 117.17,250.21 109.43,247.01 99.5,247.47 92.07,242.73 88.29,233.54 82.12,227.88 72.63,224.92 67.27,217.93 66.86,208 62.99,200.57 55.09,194.54 52.44,186.14 55.46,176.67 54.37,168.37 49,160 49.38,151.2 55.46,143.33 57.27,135.15 55.09,125.46 58.46,117.32 66.86,112 71.36,104.94 72.63,95.08 78.58,88.58 88.29,86.46 94.94,81.36 99.5,72.53 107.32,68.46 117.17,69.79 125.15,67.27 132.46,60.53 141.2,59.38 150,64 158.37,64.37 167.54,60.53 176.14,62.44 182.83,69.79 190.57,72.99 200.5,72.53 207.93,77.27 211.71,86.46 217.88,92.12 227.37,95.08 232.73,102.07 233.14,112 237.01,119.43 244.91,125.46 247.56,133.86 244.54,143.33 245.63,151.63" fill="#868e96" fill-opacity="0.25" stroke="#222222" stroke-width="1.2" stroke-linejoin="round"/>
+<circle cx="150" cy="160" r="4" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<polygon points="320,160 318.74,169.58 310.71,176 305.63,182.63 301.5,192.04 292.58,195.74 283,192 274.72,190.91 264.5,192.04 256.84,186.16 255.29,176 252.09,168.28 246,160 247.26,150.42 255.29,144 260.37,137.37 264.5,127.96 273.42,124.26 283,128 291.28,129.09 301.5,127.96 309.16,133.84 310.71,144 313.91,151.72" fill="#d9480f" fill-opacity="0.25" stroke="#222222" stroke-width="1.2" stroke-linejoin="round"/>
+<circle cx="283" cy="160" r="4" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<polygon points="357,160 354.19,170.5 344,173.86 336,176 325.5,178.19 317.81,170.5 320,160 322.14,152 325.5,141.81 336,139 344,146.14 349.86,152" fill="#222222" fill-opacity="0.25" stroke="#222222" stroke-width="1.2" stroke-linejoin="round"/>
+<circle cx="336" cy="160" r="4" fill="#222222" stroke="#222222" stroke-width="1.5"/>
+<text x="150" y="290" text-anchor="middle" font-size="14" fill="#222222">x: 1 turn</text>
+<text x="283" y="222" text-anchor="middle" font-size="14" fill="#d9480f">u: 3 turns</text>
+<text x="345" y="192" text-anchor="start" font-size="14" fill="#222222">y: 6 turns</text>
+<text x="440" y="70" text-anchor="start" font-size="14" fill="#d9480f">du/dx = 3</text>
+<text x="440" y="95" text-anchor="start" font-size="14" fill="#222222">dy/du = 2</text>
+<text x="440" y="130" text-anchor="start" font-size="16" fill="#222222" font-weight="bold">dy/dx = 3 × 2 = 6</text>
+<text x="440" y="170" text-anchor="start" font-size="12" fill="#868e96">Each mesh multiplies the speed.</text>
+<text x="440" y="190" text-anchor="start" font-size="12" fill="#868e96">A chain of functions works the same way.</text>
+</svg>

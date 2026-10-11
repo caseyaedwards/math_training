@@ -1,0 +1,11 @@
+# Figures for The Derivative
+
+Hand-authored SVG figures for the [The Derivative](../README.md) lesson, in the order they appear. Each figure has a generator spec comment above its embed in the lesson.
+
+* [secant-to-tangent.svg](secant-to-tangent.svg): Parabola y equals x squared with a fixed orange point at (1, 1). Three dashed gray secant lines run from (1, 1) to points at x equals 3, 2, and 1.5, with slopes 4, 3, and 2.5. A solid orange tangent line with slope 2 touches the curve at (1, 1).
+* [secant-slope.svg](secant-slope.svg): A curve with two dots, one above a and one above a plus h. An orange secant line passes through both. A dashed right triangle shows the run h along the bottom and the rise f of a plus h minus f of a up the side.
+* [slope-function.svg](slope-function.svg): Two stacked graphs. Top: the parabola x squared with short orange tangent lines at x equals negative 1.5, 0, 1, and 2. Bottom: the orange line y equals 2x, with dots at heights negative 3, 0, 2, and 4 directly below each tangent point.
+* [corner-abs.svg](corner-abs.svg): The V-shaped graph of absolute value of x. The left arm has slope negative 1 and the right arm slope positive 1. Several dashed gray lines pass through the corner at the origin, each a different candidate tangent.
+* [sign-chart.svg](sign-chart.svg): Graph of x cubed minus 3x with a peak at (negative 1, 2) and a valley at (1, negative 2), each with a flat orange tangent. The rising regions are lightly shaded. Two sign rows underneath: f prime is plus, minus, plus; f double prime is minus (cap) left of 0 and plus (cup) right of 0.
+* [counter-and-rate.svg](counter-and-rate.svg): Two stacked graphs over 60 seconds. The top graph is a rising request counter N of t, with an orange tangent at t equals 15 whose slope is 300 requests per second. The bottom graph is the request rate N prime of t, a wave between 100 and 300, with an orange dot at height 300 at t equals 15.
+* [rate-window.svg](rate-window.svg): A wiggly rising counter over 60 seconds. A dashed gray secant from t equals 30 to 60 has slope 177 requests per second. A solid orange secant from t equals 57 to 60 has slope 285 requests per second. Both end at the same point.

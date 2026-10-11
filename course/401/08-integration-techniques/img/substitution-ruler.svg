@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 250" width="640" height="250" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Substitution u = x squared re-marks the ruler</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="640" height="250" fill="#ffffff"/>
+<line x1="50" y1="70" x2="414" y2="70" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="50" y1="180" x2="557" y2="180" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<text x="428" y="75" text-anchor="start" font-size="14" fill="#222222" font-style="italic">x</text>
+<text x="571" y="185" text-anchor="start" font-size="14" fill="#222222" font-style="italic">u</text>
+<line x1="50" y1="70" x2="50" y2="180" stroke="#868e96" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="50" y1="65" x2="50" y2="75" stroke="#222222" stroke-width="1.5"/>
+<line x1="50" y1="175" x2="50" y2="185" stroke="#222222" stroke-width="1.5"/>
+<text x="50" y="58" text-anchor="middle" font-size="12" fill="#222222">0</text>
+<text x="50" y="202" text-anchor="middle" font-size="12" fill="#222222">0</text>
+<line x1="115" y1="70" x2="66.25" y2="180" stroke="#868e96" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="115" y1="65" x2="115" y2="75" stroke="#222222" stroke-width="1.5"/>
+<line x1="66.25" y1="175" x2="66.25" y2="185" stroke="#222222" stroke-width="1.5"/>
+<line x1="180" y1="70" x2="115" y2="180" stroke="#868e96" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="180" y1="65" x2="180" y2="75" stroke="#222222" stroke-width="1.5"/>
+<line x1="115" y1="175" x2="115" y2="185" stroke="#222222" stroke-width="1.5"/>
+<text x="180" y="58" text-anchor="middle" font-size="12" fill="#222222">0.5</text>
+<text x="115" y="202" text-anchor="middle" font-size="12" fill="#222222">0.25</text>
+<line x1="245" y1="70" x2="196.25" y2="180" stroke="#868e96" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="245" y1="65" x2="245" y2="75" stroke="#222222" stroke-width="1.5"/>
+<line x1="196.25" y1="175" x2="196.25" y2="185" stroke="#222222" stroke-width="1.5"/>
+<line x1="310" y1="70" x2="310" y2="180" stroke="#868e96" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="310" y1="65" x2="310" y2="75" stroke="#222222" stroke-width="1.5"/>
+<line x1="310" y1="175" x2="310" y2="185" stroke="#222222" stroke-width="1.5"/>
+<text x="310" y="58" text-anchor="middle" font-size="12" fill="#222222">1</text>
+<text x="310" y="202" text-anchor="middle" font-size="12" fill="#222222">1</text>
+<line x1="375.86" y1="70" x2="458.41" y2="180" stroke="#d9480f" stroke-width="1"/>
+<line x1="375.86" y1="65" x2="375.86" y2="75" stroke="#222222" stroke-width="1.5"/>
+<line x1="458.41" y1="175" x2="458.41" y2="185" stroke="#222222" stroke-width="1.5"/>
+<text x="375.86" y="58" text-anchor="middle" font-size="12" fill="#d9480f">√(π/2)</text>
+<text x="458.41" y="202" text-anchor="middle" font-size="12" fill="#d9480f">π/2</text>
+<text x="50" y="30" text-anchor="start" font-size="12" fill="#868e96">Equal steps of 0.25 in x land on uneven steps in u = x², because du = 2x dx.</text>
+<text x="50" y="238" text-anchor="start" font-size="13" fill="#222222" font-weight="bold">∫ 2x cos(x²) dx from x = 0 to √(π/2)  becomes  ∫ cos u du from u = 0 to π/2</text>
+</svg>

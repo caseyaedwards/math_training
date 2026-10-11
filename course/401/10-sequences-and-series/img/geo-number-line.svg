@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 200" width="640" height="200" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Halving jumps on a number line toward 1</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="640" height="200" fill="#ffffff"/>
+<line x1="30" y1="100" x2="610" y2="100" stroke="#222222" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="40" y1="94" x2="40" y2="106" stroke="#222222" stroke-width="1.5"/>
+<text x="40" y="126" text-anchor="middle" font-size="12" fill="#222222">0</text>
+<line x1="310" y1="94" x2="310" y2="106" stroke="#222222" stroke-width="1.5"/>
+<text x="310" y="126" text-anchor="middle" font-size="12" fill="#222222">1/2</text>
+<line x1="445" y1="94" x2="445" y2="106" stroke="#222222" stroke-width="1.5"/>
+<text x="445" y="126" text-anchor="middle" font-size="12" fill="#222222">3/4</text>
+<line x1="580" y1="94" x2="580" y2="106" stroke="#222222" stroke-width="1.5"/>
+<text x="580" y="126" text-anchor="middle" font-size="12" fill="#222222">1</text>
+<path d="M 40 100 Q 175 28 310 100" fill="none" stroke="#d9480f" stroke-width="1.8"/>
+<path d="M 310 100 Q 377.5 58 445 100" fill="none" stroke="#d9480f" stroke-width="1.8"/>
+<path d="M 445 100 Q 478.75 73 512.5 100" fill="none" stroke="#d9480f" stroke-width="1.8"/>
+<path d="M 512.5 100 Q 529.38 80.5 546.25 100" fill="none" stroke="#d9480f" stroke-width="1.8"/>
+<path d="M 546.25 100 Q 554.69 84.25 563.12 100" fill="none" stroke="#d9480f" stroke-width="1.8"/>
+<path d="M 563.12 100 Q 567.34 86.12 571.56 100" fill="none" stroke="#d9480f" stroke-width="1.8"/>
+<path d="M 571.56 100 Q 573.67 87.06 575.78 100" fill="none" stroke="#d9480f" stroke-width="1.8"/>
+<text x="175" y="28" text-anchor="middle" font-size="14" fill="#d9480f">+1/2</text>
+<text x="377.5" y="58" text-anchor="middle" font-size="14" fill="#d9480f">+1/4</text>
+<text x="478.75" y="74" text-anchor="middle" font-size="12" fill="#d9480f">+1/8</text>
+<text x="320" y="180" text-anchor="middle" font-size="12" fill="#868e96">Each jump covers half the remaining gap. You never pass 1, and you get as close as you like.</text>
+</svg>

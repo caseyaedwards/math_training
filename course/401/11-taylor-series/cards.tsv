@@ -1,0 +1,11 @@
+Taylor coefficient \(c_k\) about a	\(f^{(k)}(a)/k!\)	math::401::taylor
+Series for \(e^x\)	\(1 + x + x^2/2! + x^3/3! + \dots\) (all x)	math::401::taylor
+Series for \(\sin x\)	\(x - x^3/3! + x^5/5! - \dots\) (all x)	math::401::taylor
+Series for \(\cos x\)	\(1 - x^2/2! + x^4/4! - \dots\) (all x)	math::401::taylor
+Series for \(1/(1-x)\)	\(1 + x + x^2 + \dots\) for \(|x| < 1\)	math::401::taylor
+Series for \(\ln(1+x)\)	\(x - x^2/2 + x^3/3 - \dots\) for \(-1 < x \le 1\)	math::401::taylor
+Degree 1 Taylor polynomial is better known as...	The tangent line (linear approximation).	math::401::taylor
+Radius of convergence	The distance from the center within which the series converges.	math::401::taylor
+Small-x shortcut for \((1 + x)^n\)	\(1 + nx\)	math::401::taylor
+Chance at least one of n parts fails, small p	About np (exact \(1 - (1-p)^n\)). Valid only while np is small.	math::401::taylor
+Rule of 70	r% growth per period doubles in about 70/r periods, from \(\ln(1+x) \approx x\).	math::401::taylor

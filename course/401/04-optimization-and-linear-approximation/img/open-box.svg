@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 340" width="640" height="340" font-family="Helvetica, Arial, sans-serif" font-size="14">
+<title>Cutting corners from a 12 by 12 sheet and folding a box</title>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222222"/></marker><marker id="arra" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker></defs>
+<rect x="0" y="0" width="640" height="340" fill="#ffffff"/>
+<rect x="30" y="50" width="240" height="240" rx="0" fill="#e9ecef" stroke="#222222" stroke-width="1.5"/>
+<rect x="30" y="50" width="40" height="40" rx="0" fill="#d9480f" fill-opacity="0.35" stroke="#d9480f" stroke-width="1.5"/>
+<rect x="230" y="50" width="40" height="40" rx="0" fill="#d9480f" fill-opacity="0.35" stroke="#d9480f" stroke-width="1.5"/>
+<rect x="30" y="250" width="40" height="40" rx="0" fill="#d9480f" fill-opacity="0.35" stroke="#d9480f" stroke-width="1.5"/>
+<rect x="230" y="250" width="40" height="40" rx="0" fill="#d9480f" fill-opacity="0.35" stroke="#d9480f" stroke-width="1.5"/>
+<line x1="70" y1="90" x2="70" y2="250" stroke="#222222" stroke-width="1" stroke-dasharray="5 4"/>
+<line x1="70" y1="90" x2="230" y2="90" stroke="#222222" stroke-width="1" stroke-dasharray="5 4"/>
+<line x1="230" y1="90" x2="230" y2="250" stroke="#222222" stroke-width="1" stroke-dasharray="5 4"/>
+<line x1="70" y1="250" x2="230" y2="250" stroke="#222222" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="50" y="75" text-anchor="middle" font-size="14" fill="#d9480f" font-style="italic">x</text>
+<text x="150" y="175" text-anchor="middle" font-size="14" fill="#222222">12 − 2x</text>
+<text x="150" y="40" text-anchor="middle" font-size="14" fill="#222222">12 cm</text>
+<text x="150" y="314" text-anchor="middle" font-size="12" fill="#868e96">cut the orange squares, fold on the dashes</text>
+<polygon points="470,150 566.99,206 470,262 373.01,206" fill="#e9ecef" fill-opacity="1" stroke="#222222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="373.01,206 470,262 470,234 373.01,178" fill="#d9480f" fill-opacity="0.25" stroke="#222222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="566.99,206 470,262 470,234 566.99,178" fill="#d9480f" fill-opacity="0.35" stroke="#222222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="470,150 373.01,206 373.01,178 470,122" fill="#d9480f" fill-opacity="0.15" stroke="#222222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="470,150 566.99,206 566.99,178 470,122" fill="#d9480f" fill-opacity="0.15" stroke="#222222" stroke-width="1.2" stroke-linejoin="round"/>
+<text x="470" y="302" text-anchor="middle" font-size="12" fill="#222222" font-weight="bold">x = 2: an 8 × 8 × 2 box, volume 128 cm³</text>
+</svg>

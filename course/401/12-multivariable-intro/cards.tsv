@@ -1,0 +1,10 @@
+Partial derivative \(\partial f/\partial x\)	Differentiate in x while holding every other variable constant.	math::401::multivariable
+Partials of \(x^2 y + 3y^3\)	\(f_x = 2xy\), \(f_y = x^2 + 9y^2\).	math::401::multivariable
+Gradient	\(\nabla f = (f_x, f_y)\): points straight uphill, length = steepness.	math::401::multivariable
+Gradient versus contour line	The gradient is perpendicular to the contour through the point.	math::401::multivariable
+Crowded contour lines mean...	A steep surface.	math::401::multivariable
+Gradient descent step	\((x, y) \leftarrow (x, y) - \eta\,\nabla f\)	math::401::multivariable
+Double integral as a sum	\(\iint f\,dA = \lim \sum f(x_i, y_j)\,\Delta A\): columns of height f over small cells.	math::401::multivariable
+Iterated integral	Integrate in one variable with the other held still, then integrate the result in the other.	math::401::multivariable
+\(\int_0^3\int_0^2 (x + y)\,dy\,dx\)	15	math::401::multivariable
+Latency \(10 + 0.5\lambda/n\) at \(\lambda = 1000, n = 10\): \(\partial L/\partial n\)	-5 ms per replica.	math::401::multivariable

@@ -1,0 +1,10 @@
+Substitution undoes which rule?	The chain rule.	math::401::techniques
+What to look for before substituting	An inside function g(x) whose derivative g'(x) also appears as a factor.	math::401::techniques
+\(\int 2x\cos(x^2)\,dx\)	\(\sin(x^2) + C\), with \(u = x^2\).	math::401::techniques
+Definite integral and substitution: the limits	Convert them to u values, or switch back to x before evaluating.	math::401::techniques
+Integration by parts formula	\(\int u\,dv = uv - \int v\,du\)	math::401::techniques
+Integration by parts undoes which rule?	The product rule.	math::401::techniques
+LIATE	Priority for choosing u: Logs, Inverse trig, Algebraic, Trig, Exponentials.	math::401::techniques
+\(\int x e^x\,dx\)	\(e^x(x - 1) + C\)	math::401::techniques
+\(\int \ln x\,dx\)	\(x\ln x - x + C\)	math::401::techniques
+Average gap between random arrivals at rate \(\lambda\)	\(\int_0^\infty \lambda t e^{-\lambda t}\,dt = 1/\lambda\)	math::401::techniques

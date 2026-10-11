@@ -1,0 +1,12 @@
+Power rule	\(\frac{d}{dx} x^n = n x^{n-1}\)	math::401::derivative-rules
+Product rule	\((fg)' = f'g + fg'\). Picture: a rectangle gains two strips.	math::401::derivative-rules
+Quotient rule	\((f/g)' = \frac{f'g - fg'}{g^2}\). Low d-high minus high d-low, over low squared.	math::401::derivative-rules
+Chain rule	\(\frac{dy}{dx} = \frac{dy}{du} \cdot \frac{du}{dx}\). Rates along a chain multiply.	math::401::derivative-rules
+\(\frac{d}{dx} e^x\)	\(e^x\). Slope equals height.	math::401::derivative-rules
+\(\frac{d}{dx} \ln x\)	\(1/x\)	math::401::derivative-rules
+\(\frac{d}{dx} \sin x\) and \(\frac{d}{dx} \cos x\)	\(\cos x\) and \(-\sin x\) (radians).	math::401::derivative-rules
+\(\frac{d}{dx} a^x\)	\(a^x \ln a\)	math::401::derivative-rules
+\(\frac{d}{dx} (3x^2+1)^5\)	\(30x(3x^2+1)^4\)	math::401::derivative-rules
+\(\frac{d}{dx} \sin(x^2)\)	\(2x \cos(x^2)\). Do not forget the inside derivative.	math::401::derivative-rules
+Why does the corner \(dx^2\) not matter in the power rule picture?	After dividing by dx it becomes dx, which goes to 0.	math::401::derivative-rules
+Unit conversion req/s to req/min is which rule?	The chain rule: multiply by 60 s per minute.	math::401::derivative-rules

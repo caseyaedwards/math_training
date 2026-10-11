@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 250" width="700" height="250" font-family="sans-serif" font-size="14">
+<title>Build the expression forward, then undo it backward</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="700" height="250" fill="#ffffff"/>
+<rect x="20" y="40" width="110" height="44" rx="6" fill="#ffffff" stroke="#222" stroke-width="2"/>
+<text x="75" y="67" text-anchor="middle" fill="#222" font-size="15" font-weight="bold">x</text>
+<rect x="250" y="40" width="110" height="44" rx="6" fill="#ffffff" stroke="#222" stroke-width="2"/>
+<text x="305" y="67" text-anchor="middle" fill="#222" font-size="15" font-weight="bold">3x</text>
+<rect x="480" y="40" width="170" height="44" rx="6" fill="#ffffff" stroke="#222" stroke-width="2"/>
+<text x="565" y="67" text-anchor="middle" fill="#222" font-size="15" font-weight="bold">3x + 5</text>
+<line x1="130" y1="62" x2="246" y2="62" stroke="#222" stroke-width="2" marker-end="url(#arr)"/>
+<line x1="360" y1="62" x2="476" y2="62" stroke="#222" stroke-width="2" marker-end="url(#arr)"/>
+<text x="190" y="52" text-anchor="middle" fill="#222" font-size="13">times 3</text>
+<text x="420" y="52" text-anchor="middle" fill="#222" font-size="13">plus 5</text>
+<text x="350" y="18" text-anchor="middle" fill="#222" font-size="13" font-weight="bold">build: what the equation does to x</text>
+<rect x="20" y="160" width="110" height="44" rx="6" fill="#fbe3d6" stroke="#d9480f" stroke-width="2"/>
+<text x="75" y="187" text-anchor="middle" fill="#d9480f" font-size="15" font-weight="bold">x = 5</text>
+<rect x="250" y="160" width="110" height="44" rx="6" fill="#fbe3d6" stroke="#d9480f" stroke-width="2"/>
+<text x="305" y="187" text-anchor="middle" fill="#d9480f" font-size="15" font-weight="bold">15</text>
+<rect x="480" y="160" width="170" height="44" rx="6" fill="#fbe3d6" stroke="#d9480f" stroke-width="2"/>
+<text x="565" y="187" text-anchor="middle" fill="#d9480f" font-size="15" font-weight="bold">20</text>
+<line x1="476" y1="182" x2="360" y2="182" stroke="#d9480f" stroke-width="2" marker-end="url(#arrA)"/>
+<line x1="246" y1="182" x2="130" y2="182" stroke="#d9480f" stroke-width="2" marker-end="url(#arrA)"/>
+<text x="420" y="172" text-anchor="middle" fill="#d9480f" font-size="13">minus 5</text>
+<text x="190" y="172" text-anchor="middle" fill="#d9480f" font-size="13">divide by 3</text>
+<text x="350" y="234" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">undo: reverse order, opposite operations</text>
+<line x1="565" y1="88" x2="565" y2="154" stroke="#999" stroke-width="1.5" stroke-dasharray="4 4" marker-end="url(#arr)"/>
+<text x="575" y="127" text-anchor="start" fill="#222" font-size="12">set equal to 20</text>
+</svg>

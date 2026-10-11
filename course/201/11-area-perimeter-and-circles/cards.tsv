@@ -1,0 +1,11 @@
+Perimeter vs area?	Perimeter: length of the fence. Area: unit squares inside.	math::201::area
+Area of a parallelogram.	\(bh\), with h perpendicular to b.	math::201::area
+Area of a triangle.	\(\frac{1}{2}bh\): half a parallelogram.	math::201::area
+Area of a trapezoid.	\(\frac{1}{2}(b_1 + b_2)h\)	math::201::area
+Definition of \(\pi\).	Circumference divided by diameter, the same for every circle, about 3.14159.	math::201::area
+Circumference of a circle.	\(C = 2\pi r = \pi d\)	math::201::area
+Area of a circle.	\(A = \pi r^2\)	math::201::area
+Why is circle area \(\pi r^2\)?	Slices rearrange into a near-parallelogram with base \(\pi r\) and height r.	math::201::area
+Area of a sector with angle \(\theta\).	\(\frac{\theta}{360}\pi r^2\)	math::201::area
+Rectangles with the same perimeter: which has the most area?	The square.	math::201::area
+The radius doubles. The area?	Multiplies by 4.	math::201::area

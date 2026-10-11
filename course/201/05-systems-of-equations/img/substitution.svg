@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 220" width="620" height="220" font-family="sans-serif" font-size="14">
+<title>Substitution: replace x with 1 + y inside the other equation</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="620" height="220" fill="#ffffff"/>
+<rect x="30" y="30" width="160" height="46" rx="6" fill="#fbe3d6" stroke="#d9480f" stroke-width="2"/>
+<text x="110" y="58" text-anchor="middle" fill="#d9480f" font-size="15" font-weight="bold">x = 1 + y</text>
+<text x="110" y="100" text-anchor="middle" fill="#222" font-size="12">from x − y = 1</text>
+<text x="380" y="60" text-anchor="middle" fill="#222" font-size="20" font-weight="bold">2x + 3y = 12</text>
+<path d="M 190 53 C 250 53 280 150 320 150" fill="none" stroke="#d9480f" stroke-width="2" marker-end="url(#arrA)"/>
+<text x="325" y="160" font-size="20" font-weight="bold" fill="#222">2(<tspan fill="#d9480f">1 + y</tspan>) + 3y = 12</text>
+<text x="320" y="200" text-anchor="start" fill="#222" font-size="13">one equation, one unknown: y = 2, then x = 3</text>
+</svg>

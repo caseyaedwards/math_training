@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 260" width="560" height="260" font-family="sans-serif" font-size="14">
+<title>A 90 degree sector is one quarter of the circle</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="560" height="260" fill="#ffffff"/>
+<circle cx="140" cy="130" r="100" fill="none" stroke="#222" stroke-width="2"/>
+<path d="M 140 130 L 240 130 A 100 100 0 0 0 140 30 Z" fill="#fbe3d6" stroke="#d9480f" stroke-width="2.5"/>
+<path d="M 156 130 L 156 114 L 140 114" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="190" y="148" text-anchor="middle" fill="#222" font-weight="bold">r = 4</text>
+<text x="320" y="80" text-anchor="start" fill="#222" font-size="13" font-weight="bold">fraction of circle = 90/360 = 1/4</text>
+<text x="320" y="110" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">sector area = 1/4 × π(4²) = 4π</text>
+<text x="320" y="140" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">arc length = 1/4 × 2π(4) = 2π</text>
+</svg>

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" width="640" height="300" font-family="sans-serif" font-size="14">
+<title>Powers of 2 as rows of squares that double each time</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="640" height="300" fill="#ffffff"/>
+<text x="70" y="42" text-anchor="end" fill="#222" font-weight="bold">2¹ = 2</text>
+<rect x="85" y="26" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="101" y="26" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<text x="70" y="94" text-anchor="end" fill="#222" font-weight="bold">2² = 4</text>
+<rect x="85" y="78" width="14" height="14" fill="#ffffff" stroke="#222" stroke-width="1.2"/>
+<rect x="101" y="78" width="14" height="14" fill="#ffffff" stroke="#222" stroke-width="1.2"/>
+<rect x="117" y="78" width="14" height="14" fill="#ffffff" stroke="#222" stroke-width="1.2"/>
+<rect x="133" y="78" width="14" height="14" fill="#ffffff" stroke="#222" stroke-width="1.2"/>
+<text x="70" y="146" text-anchor="end" fill="#222" font-weight="bold">2³ = 8</text>
+<rect x="85" y="130" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="101" y="130" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="117" y="130" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="133" y="130" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="149" y="130" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="165" y="130" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="181" y="130" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="197" y="130" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<text x="70" y="198" text-anchor="end" fill="#222" font-weight="bold">2⁴ = 16</text>
+<rect x="85" y="182" width="14" height="14" fill="#ffffff" stroke="#222" stroke-width="1.2"/>
+<rect x="101" y="182" width="14" height="14" fill="#ffffff" stroke="#222" stroke-width="1.2"/>
+<rect x="117" y="182" width="14" height="14" fill="#ffffff" stroke="#222" stroke-width="1.2"/>
+<rect x="133" y="182" width="14" height="14" fill="#ffffff" stroke="#222" stroke-width="1.2"/>
+<rect x="149" y="182" width="14" height="14" fill="#ffffff" stroke="#222" stroke-width="1.2"/>
+<rect x="165" y="182" width="14" height="14" fill="#ffffff" stroke="#222" stroke-width="1.2"/>
+<rect x="181" y="182" width="14" height="14" fill="#ffffff" stroke="#222" stroke-width="1.2"/>
+<rect x="197" y="182" width="14" height="14" fill="#ffffff" stroke="#222" stroke-width="1.2"/>
+<rect x="213" y="182" width="14" height="14" fill="#ffffff" stroke="#222" stroke-width="1.2"/>
+<rect x="229" y="182" width="14" height="14" fill="#ffffff" stroke="#222" stroke-width="1.2"/>
+<rect x="245" y="182" width="14" height="14" fill="#ffffff" stroke="#222" stroke-width="1.2"/>
+<rect x="261" y="182" width="14" height="14" fill="#ffffff" stroke="#222" stroke-width="1.2"/>
+<rect x="277" y="182" width="14" height="14" fill="#ffffff" stroke="#222" stroke-width="1.2"/>
+<rect x="293" y="182" width="14" height="14" fill="#ffffff" stroke="#222" stroke-width="1.2"/>
+<rect x="309" y="182" width="14" height="14" fill="#ffffff" stroke="#222" stroke-width="1.2"/>
+<rect x="325" y="182" width="14" height="14" fill="#ffffff" stroke="#222" stroke-width="1.2"/>
+<text x="70" y="250" text-anchor="end" fill="#222" font-weight="bold">2⁵ = 32</text>
+<rect x="85" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="101" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="117" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="133" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="149" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="165" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="181" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="197" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="213" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="229" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="245" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="261" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="277" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="293" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="309" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="325" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="341" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="357" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="373" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="389" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="405" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="421" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="437" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="453" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="469" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="485" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="501" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="517" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="533" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="549" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="565" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<rect x="581" y="234" width="14" height="14" fill="#fbe3d6" stroke="#d9480f" stroke-width="1.2"/>
+<text x="330" y="290" text-anchor="middle" fill="#222" font-size="13">each step multiplies by 2: exponent = how many 2s are multiplied</text>
+</svg>

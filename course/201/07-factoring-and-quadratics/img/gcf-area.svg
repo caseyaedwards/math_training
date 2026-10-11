@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 300" width="440" height="300" font-family="sans-serif" font-size="14">
+<title>Area model for factoring out a common factor: 2x(x + 3)</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="440" height="300" fill="#ffffff"/>
+<rect x="70" y="50" width="150" height="120" fill="#ffffff" stroke="#222" stroke-width="2"/>
+<rect x="220" y="50" width="120" height="120" fill="#fbe3d6" stroke="#d9480f" stroke-width="2"/>
+<rect x="70" y="50" width="270" height="120" fill="none" stroke="#222" stroke-width="3"/>
+<text x="145" y="117" text-anchor="middle" fill="#222" font-size="22" font-weight="bold">2x²</text>
+<text x="280" y="117" text-anchor="middle" fill="#d9480f" font-size="22" font-weight="bold">6x</text>
+<text x="145" y="38" text-anchor="middle" fill="#222">x</text>
+<text x="280" y="38" text-anchor="middle" fill="#222">3</text>
+<text x="54" y="115" text-anchor="end" fill="#222">2x</text>
+<text x="205" y="210" text-anchor="middle" fill="#222" font-size="16" font-weight="bold">2x² + 6x = 2x(x + 3)</text>
+<text x="205" y="234" text-anchor="middle" fill="#222" font-size="13">the shared side 2x is the common factor</text>
+</svg>

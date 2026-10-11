@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 340" width="420" height="340" font-family="sans-serif" font-size="14">
+<title>Area model: (x + 2)(x + 3) = x squared + 5x + 6</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="420" height="340" fill="#ffffff"/>
+<rect x="70" y="50" width="150" height="150" fill="#ffffff" stroke="#222" stroke-width="2"/>
+<rect x="220" y="50" width="120" height="150" fill="#fbe3d6" stroke="#d9480f" stroke-width="2"/>
+<rect x="70" y="200" width="150" height="80" fill="#fbe3d6" stroke="#d9480f" stroke-width="2"/>
+<rect x="220" y="200" width="120" height="80" fill="#e6e6e6" stroke="#222" stroke-width="2"/>
+<line x1="260" y1="50" x2="260" y2="280" stroke="#999" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="300" y1="50" x2="300" y2="280" stroke="#999" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="70" y1="240" x2="340" y2="240" stroke="#999" stroke-width="1" stroke-dasharray="3 3"/>
+<rect x="70" y="50" width="270" height="230" fill="none" stroke="#222" stroke-width="3"/>
+<text x="145" y="131" text-anchor="middle" fill="#222" font-size="22" font-weight="bold">x²</text>
+<text x="280" y="131" text-anchor="middle" fill="#d9480f" font-size="20" font-weight="bold">3x</text>
+<text x="145" y="227" text-anchor="middle" fill="#d9480f" font-size="20" font-weight="bold">2x</text>
+<text x="280" y="227" text-anchor="middle" fill="#222" font-size="20" font-weight="bold">6</text>
+<text x="145" y="38" text-anchor="middle" fill="#222">x</text>
+<text x="280" y="38" text-anchor="middle" fill="#222">3</text>
+<text x="56" y="130" text-anchor="middle" fill="#222">x</text>
+<text x="56" y="245" text-anchor="middle" fill="#222">2</text>
+<text x="205" y="310" text-anchor="middle" fill="#222" font-size="13">width x + 3, height x + 2</text>
+</svg>

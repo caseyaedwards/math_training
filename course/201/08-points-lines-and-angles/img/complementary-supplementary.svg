@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 230" width="640" height="230" font-family="sans-serif" font-size="14">
+<title>Complementary angles add to 90 degrees, supplementary angles add to 180</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="640" height="230" fill="#ffffff"/>
+<line x1="60" y1="170" x2="190" y2="170" stroke="#222" stroke-width="2.5"/>
+<line x1="60" y1="170" x2="60" y2="40" stroke="#222" stroke-width="2.5"/>
+<line x1="60" y1="170" x2="166.49" y2="95.44" stroke="#d9480f" stroke-width="2.5"/>
+<path d="M 100 170 A 40 40 0 0 0 92.77 147.06" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<path d="M 105.05 138.45 A 55 55 0 0 0 60 115" fill="none" stroke="#222" stroke-width="2.5"/>
+<text x="122" y="160" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">35°</text>
+<text x="104" y="108" text-anchor="start" fill="#222" font-size="13" font-weight="bold">55°</text>
+<text x="130" y="215" text-anchor="middle" fill="#222" font-size="13" font-weight="bold">complementary: 35 + 55 = 90</text>
+<line x1="330" y1="170" x2="610" y2="170" stroke="#222" stroke-width="2.5"/>
+<line x1="470" y1="170" x2="576.49" y2="95.44" stroke="#d9480f" stroke-width="2.5"/>
+<path d="M 510 170 A 40 40 0 0 0 502.77 147.06" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<path d="M 494.57 152.79 A 30 30 0 0 0 440 170" fill="none" stroke="#222" stroke-width="2.5"/>
+<text x="530" y="160" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">35°</text>
+<text x="430" y="130" text-anchor="middle" fill="#222" font-size="13" font-weight="bold">145°</text>
+<circle cx="470" cy="170" r="3" fill="#222" stroke="#222" stroke-width="2"/>
+<text x="470" y="215" text-anchor="middle" fill="#222" font-size="13" font-weight="bold">supplementary: 35 + 145 = 180</text>
+</svg>

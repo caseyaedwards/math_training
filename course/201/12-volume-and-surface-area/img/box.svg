@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="480" height="300" font-family="sans-serif" font-size="14">
+<title>Rectangular box 4 by 2 by 3 in oblique view</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="480" height="300" fill="#ffffff"/>
+<polygon points="110,110 166,70 326,70 270,110" fill="#e6e6e6" stroke="#222" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="270,110 326,70 326,190 270,230" fill="#d4d4d4" stroke="#222" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="110,110 270,110 270,230 110,230" fill="#fbe3d6" stroke="#d9480f" stroke-width="2.5" stroke-linejoin="round"/>
+<line x1="166" y1="190" x2="166" y2="70" stroke="#555" stroke-width="1.5" stroke-dasharray="5 4"/>
+<line x1="166" y1="190" x2="326" y2="190" stroke="#555" stroke-width="1.5" stroke-dasharray="5 4"/>
+<line x1="166" y1="190" x2="110" y2="230" stroke="#555" stroke-width="1.5" stroke-dasharray="5 4"/>
+<line x1="150" y1="110" x2="150" y2="230" stroke="#d9480f" stroke-width="0.8"/>
+<line x1="190" y1="110" x2="190" y2="230" stroke="#d9480f" stroke-width="0.8"/>
+<line x1="230" y1="110" x2="230" y2="230" stroke="#d9480f" stroke-width="0.8"/>
+<line x1="110" y1="150" x2="270" y2="150" stroke="#d9480f" stroke-width="0.8"/>
+<line x1="110" y1="190" x2="270" y2="190" stroke="#d9480f" stroke-width="0.8"/>
+<text x="190" y="254" text-anchor="middle" fill="#222" font-weight="bold">length 4</text>
+<text x="100" y="175" text-anchor="end" fill="#222" font-weight="bold">height 3</text>
+<text x="312" y="220" text-anchor="start" fill="#222" font-weight="bold">width 2</text>
+<text x="240" y="290" text-anchor="middle" fill="#222" font-weight="bold">V = 4 × 2 × 3 = 24 cubes</text>
+</svg>

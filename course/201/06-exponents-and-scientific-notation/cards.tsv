@@ -1,0 +1,12 @@
+\(a^m \cdot a^n = ?\)	\(a^{m+n}\)	math::201::exponents
+\(\frac{a^m}{a^n} = ?\)	\(a^{m-n}\)	math::201::exponents
+\((a^m)^n = ?\)	\(a^{mn}\)	math::201::exponents
+\((ab)^n = ?\)	\(a^n b^n\)	math::201::exponents
+\(a^0 = ?\) (a not 0)	1	math::201::exponents
+\(a^{-n} = ?\)	\(\frac{1}{a^n}\)	math::201::exponents
+Why is \(2^0 = 1\)?	Each step down the ladder divides by 2: 8, 4, 2, 1. Also \(2^3 / 2^3 = 1\).	math::201::exponents
+Is \(2^{-3}\) negative?	No. It is \(\frac{1}{8}\).	math::201::exponents
+What form does scientific notation take?	\(m \times 10^e\) with \(1 \le m < 10\).	math::201::exponents
+Write 0.00025 in scientific notation.	\(2.5 \times 10^{-4}\)	math::201::exponents
+\(2^{32}\) is about?	\(4.29 \times 10^9\), the number of IPv4 addresses.	math::201::exponents
+\((3 \times 10^4)(5 \times 10^6) = ?\)	\(1.5 \times 10^{11}\)	math::201::exponents

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 420" width="440" height="420" font-family="sans-serif" font-size="14">
+<title>Graph of y = x squared passes the vertical line test</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="440" height="420" fill="#ffffff"/>
+<line x1="60" y1="370" x2="60" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="94" y1="370" x2="94" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="128" y1="370" x2="128" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="162" y1="370" x2="162" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="196" y1="370" x2="196" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="230" y1="370" x2="230" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="264" y1="370" x2="264" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="298" y1="370" x2="298" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="332" y1="370" x2="332" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="370" x2="332" y2="370" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="336" x2="332" y2="336" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="302" x2="332" y2="302" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="268" x2="332" y2="268" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="234" x2="332" y2="234" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="200" x2="332" y2="200" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="166" x2="332" y2="166" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="132" x2="332" y2="132" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="98" x2="332" y2="98" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="64" x2="332" y2="64" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="60" y1="30" x2="332" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="52" y1="336" x2="346" y2="336" stroke="#222" stroke-width="2" marker-end="url(#arr)"/>
+<text x="348" y="328" text-anchor="middle" fill="#222" font-style="italic">x</text>
+<line x1="196" y1="378" x2="196" y2="16" stroke="#222" stroke-width="2" marker-end="url(#arr)"/>
+<text x="208" y="18" text-anchor="middle" fill="#222" font-style="italic">y</text>
+<text x="60" y="353" text-anchor="middle" fill="#222" font-size="12">−4</text>
+<text x="94" y="353" text-anchor="middle" fill="#222" font-size="12">−3</text>
+<text x="128" y="353" text-anchor="middle" fill="#222" font-size="12">−2</text>
+<text x="162" y="353" text-anchor="middle" fill="#222" font-size="12">−1</text>
+<text x="230" y="353" text-anchor="middle" fill="#222" font-size="12">1</text>
+<text x="264" y="353" text-anchor="middle" fill="#222" font-size="12">2</text>
+<text x="298" y="353" text-anchor="middle" fill="#222" font-size="12">3</text>
+<text x="332" y="353" text-anchor="middle" fill="#222" font-size="12">4</text>
+<text x="190" y="374" text-anchor="end" fill="#222" font-size="12">−1</text>
+<text x="190" y="306" text-anchor="end" fill="#222" font-size="12">1</text>
+<text x="190" y="272" text-anchor="end" fill="#222" font-size="12">2</text>
+<text x="190" y="238" text-anchor="end" fill="#222" font-size="12">3</text>
+<text x="190" y="204" text-anchor="end" fill="#222" font-size="12">4</text>
+<text x="190" y="170" text-anchor="end" fill="#222" font-size="12">5</text>
+<text x="190" y="136" text-anchor="end" fill="#222" font-size="12">6</text>
+<text x="190" y="102" text-anchor="end" fill="#222" font-size="12">7</text>
+<text x="190" y="68" text-anchor="end" fill="#222" font-size="12">8</text>
+<text x="190" y="34" text-anchor="end" fill="#222" font-size="12">9</text>
+<text x="190" y="352" text-anchor="end" fill="#222" font-size="12">0</text>
+<polyline points="94,30 95.02,36.09 96.04,42.12 97.06,48.08 98.08,53.99 99.1,59.83 100.12,65.62 101.14,71.34 102.16,77 103.18,82.6 104.2,88.14 105.22,93.62 106.24,99.03 107.26,104.39 108.28,109.68 109.3,114.92 110.32,120.09 111.34,125.2 112.36,130.25 113.38,135.23 114.4,140.16 115.42,145.03 116.44,149.83 117.46,154.57 118.48,159.25 119.5,163.88 120.52,168.43 121.54,172.93 122.56,177.37 123.58,181.75 124.6,186.06 125.62,190.31 126.64,194.51 127.66,198.64 128.68,202.71 129.7,206.72 130.72,210.66 131.74,214.55 132.76,218.37 133.78,222.14 134.8,225.84 135.82,229.48 136.84,233.06 137.86,236.58 138.88,240.04 139.9,243.44 140.92,246.77 141.94,250.04 142.96,253.26 143.98,256.41 145,259.5 146.02,262.53 147.04,265.5 148.06,268.4 149.08,271.25 150.1,274.03 151.12,276.76 152.14,279.42 153.16,282.02 154.18,284.56 155.2,287.04 156.22,289.46 157.24,291.81 158.26,294.11 159.28,296.34 160.3,298.51 161.32,300.63 162.34,302.68 163.36,304.67 164.38,306.59 165.4,308.46 166.42,310.27 167.44,312.01 168.46,313.69 169.48,315.31 170.5,316.88 171.52,318.37 172.54,319.81 173.56,321.19 174.58,322.51 175.6,323.76 176.62,324.95 177.64,326.09 178.66,327.16 179.68,328.17 180.7,329.12 181.72,330 182.74,330.83 183.76,331.59 184.78,332.3 185.8,332.94 186.82,333.52 187.84,334.04 188.86,334.5 189.88,334.9 190.9,335.23 191.92,335.51 192.94,335.72 193.96,335.88 194.98,335.97 196,336 197.02,335.97 198.04,335.88 199.06,335.72 200.08,335.51 201.1,335.23 202.12,334.9 203.14,334.5 204.16,334.04 205.18,333.52 206.2,332.94 207.22,332.3 208.24,331.59 209.26,330.83 210.28,330 211.3,329.12 212.32,328.17 213.34,327.16 214.36,326.09 215.38,324.95 216.4,323.76 217.42,322.51 218.44,321.19 219.46,319.81 220.48,318.37 221.5,316.88 222.52,315.31 223.54,313.69 224.56,312.01 225.58,310.27 226.6,308.46 227.62,306.59 228.64,304.67 229.66,302.68 230.68,300.63 231.7,298.52 232.72,296.34 233.74,294.11 234.76,291.81 235.78,289.46 236.8,287.04 237.82,284.56 238.84,282.02 239.86,279.42 240.88,276.76 241.9,274.04 242.92,271.25 243.94,268.4 244.96,265.5 245.98,262.53 247,259.5 248.02,256.41 249.04,253.26 250.06,250.04 251.08,246.77 252.1,243.43 253.12,240.04 254.14,236.58 255.16,233.06 256.18,229.48 257.2,225.84 258.22,222.14 259.24,218.37 260.26,214.55 261.28,210.66 262.3,206.72 263.32,202.71 264.34,198.64 265.36,194.51 266.38,190.31 267.4,186.06 268.42,181.75 269.44,177.37 270.46,172.93 271.48,168.43 272.5,163.88 273.52,159.25 274.54,154.57 275.56,149.83 276.58,145.03 277.6,140.16 278.62,135.23 279.64,130.25 280.66,125.2 281.68,120.09 282.7,114.92 283.72,109.68 284.74,104.39 285.76,99.03 286.78,93.62 287.8,88.14 288.82,82.6 289.84,77 290.86,71.34 291.88,65.62 292.9,59.84 293.92,53.99 294.94,48.08 295.96,42.12 296.98,36.09 298,30" fill="none" stroke="#222" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="94" cy="30" r="4" fill="#d9480f" stroke="#d9480f" stroke-width="1"/>
+<circle cx="128" cy="200" r="4" fill="#d9480f" stroke="#d9480f" stroke-width="1"/>
+<circle cx="162" cy="302" r="4" fill="#d9480f" stroke="#d9480f" stroke-width="1"/>
+<circle cx="196" cy="336" r="4" fill="#d9480f" stroke="#d9480f" stroke-width="1"/>
+<circle cx="230" cy="302" r="4" fill="#d9480f" stroke="#d9480f" stroke-width="1"/>
+<circle cx="264" cy="200" r="4" fill="#d9480f" stroke="#d9480f" stroke-width="1"/>
+<circle cx="298" cy="30" r="4" fill="#d9480f" stroke="#d9480f" stroke-width="1"/>
+<line x1="264" y1="370" x2="264" y2="30" stroke="#d9480f" stroke-width="2" stroke-dasharray="7 5"/>
+<circle cx="264" cy="200" r="5" fill="#d9480f" stroke="#d9480f" stroke-width="1"/>
+<text x="274" y="204" text-anchor="start" fill="#222">(2, 4)</text>
+<text x="256" y="50.4" text-anchor="end" fill="#d9480f" font-size="13">x = 2 hits once</text>
+</svg>

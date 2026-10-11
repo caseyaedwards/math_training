@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 280" width="620" height="280" font-family="sans-serif" font-size="14">
+<title>Doubling the side of a cube: area times 4, volume times 8</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="620" height="280" fill="#ffffff"/>
+<polygon points="60,160 100,160 120,146 80,146" fill="#f4f4f4" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="100,200 120,186 120,146 100,160" fill="#dcdcdc" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="60,200 100,200 100,160 60,160" fill="#ffffff" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<text x="90" y="240" text-anchor="middle" fill="#222" font-weight="bold">side 1</text>
+<text x="90" y="260" text-anchor="middle" fill="#222" font-size="13">face 1, volume 1</text>
+<polygon points="280,166 320,166 340,152 300,152" fill="#ffffff" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="320,206 340,192 340,152 320,166" fill="#e6e6e6" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="280,206 320,206 320,166 280,166" fill="#fbe3d6" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="320,166 360,166 380,152 340,152" fill="#ffffff" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="360,206 380,192 380,152 360,166" fill="#e6e6e6" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="320,206 360,206 360,166 320,166" fill="#fbe3d6" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="280,126 320,126 340,112 300,112" fill="#ffffff" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="320,166 340,152 340,112 320,126" fill="#e6e6e6" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="280,166 320,166 320,126 280,126" fill="#fbe3d6" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="320,126 360,126 380,112 340,112" fill="#ffffff" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="360,166 380,152 380,112 360,126" fill="#e6e6e6" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="320,166 360,166 360,126 320,126" fill="#fbe3d6" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="260,180 300,180 320,166 280,166" fill="#ffffff" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="300,220 320,206 320,166 300,180" fill="#e6e6e6" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="260,220 300,220 300,180 260,180" fill="#fbe3d6" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="300,180 340,180 360,166 320,166" fill="#ffffff" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="340,220 360,206 360,166 340,180" fill="#e6e6e6" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="300,220 340,220 340,180 300,180" fill="#fbe3d6" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="260,140 300,140 320,126 280,126" fill="#ffffff" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="300,180 320,166 320,126 300,140" fill="#e6e6e6" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="260,180 300,180 300,140 260,140" fill="#fbe3d6" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="300,140 340,140 360,126 320,126" fill="#ffffff" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="340,180 360,166 360,126 340,140" fill="#e6e6e6" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="300,180 340,180 340,140 300,140" fill="#fbe3d6" stroke="#222" stroke-width="1.2" stroke-linejoin="round"/>
+<text x="320" y="260" text-anchor="middle" fill="#222" font-size="13" font-weight="bold">side 2: face 4, volume 8</text>
+<text x="500" y="100" text-anchor="middle" fill="#222" font-size="15" font-weight="bold">scale ×k:</text>
+<text x="500" y="125" text-anchor="middle" fill="#222">length ×k</text>
+<text x="500" y="148" text-anchor="middle" fill="#d9480f" font-weight="bold">area ×k²</text>
+<text x="500" y="171" text-anchor="middle" fill="#d9480f" font-weight="bold">volume ×k³</text>
+</svg>

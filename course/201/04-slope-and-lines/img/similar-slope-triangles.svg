@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 330" width="440" height="330" font-family="sans-serif" font-size="14">
+<title>Two slope triangles on the same line have the same ratio</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="440" height="330" fill="#ffffff"/>
+<line x1="40" y1="282" x2="40" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="76" y1="282" x2="76" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="112" y1="282" x2="112" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="148" y1="282" x2="148" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="184" y1="282" x2="184" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="220" y1="282" x2="220" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="256" y1="282" x2="256" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="292" y1="282" x2="292" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="328" y1="282" x2="328" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="364" y1="282" x2="364" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="400" y1="282" x2="400" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="40" y1="282" x2="400" y2="282" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="40" y1="246" x2="400" y2="246" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="40" y1="210" x2="400" y2="210" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="40" y1="174" x2="400" y2="174" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="40" y1="138" x2="400" y2="138" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="40" y1="102" x2="400" y2="102" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="40" y1="66" x2="400" y2="66" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="40" y1="30" x2="400" y2="30" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="32" y1="282" x2="414" y2="282" stroke="#222" stroke-width="2" marker-end="url(#arr)"/>
+<text x="416" y="274" text-anchor="middle" fill="#222" font-style="italic">x</text>
+<line x1="40" y1="290" x2="40" y2="16" stroke="#222" stroke-width="2" marker-end="url(#arr)"/>
+<text x="52" y="18" text-anchor="middle" fill="#222" font-style="italic">y</text>
+<text x="76" y="299" text-anchor="middle" fill="#222" font-size="12">1</text>
+<text x="112" y="299" text-anchor="middle" fill="#222" font-size="12">2</text>
+<text x="148" y="299" text-anchor="middle" fill="#222" font-size="12">3</text>
+<text x="184" y="299" text-anchor="middle" fill="#222" font-size="12">4</text>
+<text x="220" y="299" text-anchor="middle" fill="#222" font-size="12">5</text>
+<text x="256" y="299" text-anchor="middle" fill="#222" font-size="12">6</text>
+<text x="292" y="299" text-anchor="middle" fill="#222" font-size="12">7</text>
+<text x="328" y="299" text-anchor="middle" fill="#222" font-size="12">8</text>
+<text x="364" y="299" text-anchor="middle" fill="#222" font-size="12">9</text>
+<text x="400" y="299" text-anchor="middle" fill="#222" font-size="12">10</text>
+<text x="34" y="250" text-anchor="end" fill="#222" font-size="12">1</text>
+<text x="34" y="214" text-anchor="end" fill="#222" font-size="12">2</text>
+<text x="34" y="178" text-anchor="end" fill="#222" font-size="12">3</text>
+<text x="34" y="142" text-anchor="end" fill="#222" font-size="12">4</text>
+<text x="34" y="106" text-anchor="end" fill="#222" font-size="12">5</text>
+<text x="34" y="70" text-anchor="end" fill="#222" font-size="12">6</text>
+<text x="34" y="34" text-anchor="end" fill="#222" font-size="12">7</text>
+<text x="34" y="298" text-anchor="end" fill="#222" font-size="12">0</text>
+<polyline points="40,246 220,156 400,66" fill="none" stroke="#222" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="76,228 148,228 148,192" fill="#fbe3d6" stroke="#d9480f" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="184,174 328,174 328,102" fill="#fbe3d6" stroke="#d9480f" stroke-width="2" stroke-linejoin="round"/>
+<text x="112" y="246" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">run 2</text>
+<text x="154" y="214" text-anchor="start" fill="#d9480f" font-size="12" font-weight="bold">rise 1</text>
+<text x="256" y="192" text-anchor="middle" fill="#d9480f" font-size="12" font-weight="bold">run 4</text>
+<text x="334" y="142" text-anchor="start" fill="#d9480f" font-size="12" font-weight="bold">rise 2</text>
+<text x="130" y="55.2" text-anchor="start" fill="#222" font-weight="bold">1/2 = 2/4: same slope</text>
+</svg>

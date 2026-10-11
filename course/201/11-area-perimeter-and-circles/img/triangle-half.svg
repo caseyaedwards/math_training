@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 230" width="560" height="230" font-family="sans-serif" font-size="14">
+<title>Two copies of a triangle make a parallelogram: a triangle is half of b times h</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="560" height="230" fill="#ffffff"/>
+<polygon points="60,180 260,180 120,50" fill="#fbe3d6" stroke="#d9480f" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="260,180 320,50 120,50" fill="#ffffff" stroke="#222" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<line x1="120" y1="50" x2="120" y2="180" stroke="#d9480f" stroke-width="1.5" stroke-dasharray="4 4"/>
+<text x="126" y="115" text-anchor="start" fill="#d9480f" font-weight="bold">h</text>
+<text x="160" y="202" text-anchor="middle" fill="#222" font-weight="bold">b</text>
+<text x="330" y="150" text-anchor="start" fill="#222" font-size="12">copy, turned around</text>
+<text x="440" y="100" text-anchor="middle" fill="#222" font-size="15" font-weight="bold">triangle =</text>
+<text x="440" y="124" text-anchor="middle" fill="#d9480f" font-size="15" font-weight="bold">½ × b × h</text>
+</svg>

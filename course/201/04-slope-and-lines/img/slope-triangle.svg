@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440" width="440" height="440" font-family="sans-serif" font-size="14">
+<title>The line y = 2x - 1 with a rise-over-run triangle</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="440" height="440" fill="#ffffff"/>
+<line x1="50" y1="400" x2="50" y2="40" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="80" y1="400" x2="80" y2="40" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="110" y1="400" x2="110" y2="40" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="140" y1="400" x2="140" y2="40" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="170" y1="400" x2="170" y2="40" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="200" y1="400" x2="200" y2="40" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="230" y1="400" x2="230" y2="40" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="260" y1="400" x2="260" y2="40" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="290" y1="400" x2="290" y2="40" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="320" y1="400" x2="320" y2="40" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="350" y1="400" x2="350" y2="40" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="50" y1="400" x2="350" y2="400" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="50" y1="370" x2="350" y2="370" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="50" y1="340" x2="350" y2="340" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="50" y1="310" x2="350" y2="310" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="50" y1="280" x2="350" y2="280" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="50" y1="250" x2="350" y2="250" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="50" y1="220" x2="350" y2="220" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="50" y1="190" x2="350" y2="190" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="50" y1="160" x2="350" y2="160" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="50" y1="130" x2="350" y2="130" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="50" y1="100" x2="350" y2="100" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="50" y1="70" x2="350" y2="70" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="50" y1="40" x2="350" y2="40" stroke="#d0d0d0" stroke-width="1"/>
+<line x1="42" y1="220" x2="364" y2="220" stroke="#222" stroke-width="2" marker-end="url(#arr)"/>
+<text x="366" y="212" text-anchor="middle" fill="#222" font-style="italic">x</text>
+<line x1="200" y1="408" x2="200" y2="26" stroke="#222" stroke-width="2" marker-end="url(#arr)"/>
+<text x="212" y="28" text-anchor="middle" fill="#222" font-style="italic">y</text>
+<text x="50" y="237" text-anchor="middle" fill="#222" font-size="12">−5</text>
+<text x="80" y="237" text-anchor="middle" fill="#222" font-size="12">−4</text>
+<text x="110" y="237" text-anchor="middle" fill="#222" font-size="12">−3</text>
+<text x="140" y="237" text-anchor="middle" fill="#222" font-size="12">−2</text>
+<text x="170" y="237" text-anchor="middle" fill="#222" font-size="12">−1</text>
+<text x="230" y="237" text-anchor="middle" fill="#222" font-size="12">1</text>
+<text x="260" y="237" text-anchor="middle" fill="#222" font-size="12">2</text>
+<text x="290" y="237" text-anchor="middle" fill="#222" font-size="12">3</text>
+<text x="320" y="237" text-anchor="middle" fill="#222" font-size="12">4</text>
+<text x="350" y="237" text-anchor="middle" fill="#222" font-size="12">5</text>
+<text x="194" y="404" text-anchor="end" fill="#222" font-size="12">−6</text>
+<text x="194" y="374" text-anchor="end" fill="#222" font-size="12">−5</text>
+<text x="194" y="344" text-anchor="end" fill="#222" font-size="12">−4</text>
+<text x="194" y="314" text-anchor="end" fill="#222" font-size="12">−3</text>
+<text x="194" y="284" text-anchor="end" fill="#222" font-size="12">−2</text>
+<text x="194" y="254" text-anchor="end" fill="#222" font-size="12">−1</text>
+<text x="194" y="194" text-anchor="end" fill="#222" font-size="12">1</text>
+<text x="194" y="164" text-anchor="end" fill="#222" font-size="12">2</text>
+<text x="194" y="134" text-anchor="end" fill="#222" font-size="12">3</text>
+<text x="194" y="104" text-anchor="end" fill="#222" font-size="12">4</text>
+<text x="194" y="74" text-anchor="end" fill="#222" font-size="12">5</text>
+<text x="194" y="44" text-anchor="end" fill="#222" font-size="12">6</text>
+<text x="194" y="236" text-anchor="end" fill="#222" font-size="12">0</text>
+<polyline points="125,400 215,220 305,40" fill="none" stroke="#222" stroke-width="3" stroke-linejoin="round"/>
+<line x1="230" y1="190" x2="290" y2="190" stroke="#d9480f" stroke-width="3"/>
+<line x1="290" y1="190" x2="290" y2="70" stroke="#d9480f" stroke-width="3"/>
+<text x="260" y="210" text-anchor="middle" fill="#d9480f" font-weight="bold">run = 2</text>
+<text x="298" y="130" text-anchor="start" fill="#d9480f" font-weight="bold">rise = 4</text>
+<circle cx="230" cy="190" r="5" fill="#222" stroke="#222" stroke-width="1"/>
+<text x="242" y="188" text-anchor="start" fill="#222">(1, 1)</text>
+<circle cx="290" cy="70" r="5" fill="#222" stroke="#222" stroke-width="1"/>
+<text x="282" y="62" text-anchor="end" fill="#222">(3, 5)</text>
+<circle cx="200" cy="250" r="5" fill="#d9480f" stroke="#d9480f" stroke-width="1"/>
+<text x="210" y="254" text-anchor="start" fill="#222">b = −1</text>
+<text x="125" y="61" text-anchor="middle" fill="#222" font-size="16" font-weight="bold">y = 2x − 1</text>
+</svg>

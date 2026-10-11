@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 270" width="620" height="270" font-family="sans-serif" font-size="14">
+<title>Circle cut into 8 sectors and rearranged into a near-parallelogram</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="620" height="270" fill="#ffffff"/>
+<path d="M 110 130 L 140.61 56.09 A 80 80 0 0 0 79.39 56.09 Z" fill="#fbe3d6" stroke="#222" stroke-width="1.5"/>
+<path d="M 110 130 L 79.39 56.09 A 80 80 0 0 0 36.09 99.39 Z" fill="#e6e6e6" stroke="#222" stroke-width="1.5"/>
+<path d="M 110 130 L 36.09 99.39 A 80 80 0 0 0 36.09 160.61 Z" fill="#fbe3d6" stroke="#222" stroke-width="1.5"/>
+<path d="M 110 130 L 36.09 160.61 A 80 80 0 0 0 79.39 203.91 Z" fill="#e6e6e6" stroke="#222" stroke-width="1.5"/>
+<path d="M 110 130 L 79.39 203.91 A 80 80 0 0 0 140.61 203.91 Z" fill="#fbe3d6" stroke="#222" stroke-width="1.5"/>
+<path d="M 110 130 L 140.61 203.91 A 80 80 0 0 0 183.91 160.61 Z" fill="#e6e6e6" stroke="#222" stroke-width="1.5"/>
+<path d="M 110 130 L 183.91 160.61 A 80 80 0 0 0 183.91 99.39 Z" fill="#fbe3d6" stroke="#222" stroke-width="1.5"/>
+<path d="M 110 130 L 183.91 99.39 A 80 80 0 0 0 140.61 56.09 Z" fill="#e6e6e6" stroke="#222" stroke-width="1.5"/>
+<text x="110" y="240" text-anchor="middle" fill="#222" font-weight="bold">area = ?</text>
+<path d="M 260 180 L 229.39 106.09 A 80 80 0 0 1 290.61 106.09 Z" fill="#fbe3d6" stroke="#222" stroke-width="1.5"/>
+<path d="M 290.61 106.09 L 260 180 A 80 80 0 0 0 321.23 180 Z" fill="#e6e6e6" stroke="#222" stroke-width="1.5"/>
+<path d="M 321.23 180 L 290.61 106.09 A 80 80 0 0 1 351.84 106.09 Z" fill="#fbe3d6" stroke="#222" stroke-width="1.5"/>
+<path d="M 351.84 106.09 L 321.23 180 A 80 80 0 0 0 382.46 180 Z" fill="#e6e6e6" stroke="#222" stroke-width="1.5"/>
+<path d="M 382.46 180 L 351.84 106.09 A 80 80 0 0 1 413.07 106.09 Z" fill="#fbe3d6" stroke="#222" stroke-width="1.5"/>
+<path d="M 413.07 106.09 L 382.46 180 A 80 80 0 0 0 443.69 180 Z" fill="#e6e6e6" stroke="#222" stroke-width="1.5"/>
+<path d="M 443.69 180 L 413.07 106.09 A 80 80 0 0 1 474.3 106.09 Z" fill="#fbe3d6" stroke="#222" stroke-width="1.5"/>
+<path d="M 474.3 106.09 L 443.69 180 A 80 80 0 0 0 504.92 180 Z" fill="#e6e6e6" stroke="#222" stroke-width="1.5"/>
+<line x1="229.39" y1="80.09" x2="474.3" y2="80.09" stroke="#d9480f" stroke-width="2" marker-end="url(#arrA)"/>
+<line x1="474.3" y1="80.09" x2="229.39" y2="80.09" stroke="#d9480f" stroke-width="2" marker-end="url(#arrA)"/>
+<text x="351.84" y="72.09" text-anchor="middle" fill="#d9480f" font-size="13" font-weight="bold">about half the circumference = πr</text>
+<line x1="504.3" y1="180" x2="504.3" y2="106.09" stroke="#d9480f" stroke-width="2" marker-end="url(#arrA)"/>
+<line x1="504.3" y1="106.09" x2="504.3" y2="180" stroke="#d9480f" stroke-width="2" marker-end="url(#arrA)"/>
+<text x="514.3" y="148.04" text-anchor="start" fill="#d9480f" font-size="13" font-weight="bold">about r</text>
+<text x="371.84" y="230" text-anchor="middle" fill="#222" font-weight="bold">area ≈ πr × r = πr²</text>
+</svg>

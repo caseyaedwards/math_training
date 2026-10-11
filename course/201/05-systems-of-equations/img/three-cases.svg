@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 230" width="680" height="230" font-family="sans-serif" font-size="14">
+<title>Three possible outcomes for two lines</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="680" height="230" fill="#ffffff"/>
+<rect x="30" y="20" width="160" height="150" fill="none" stroke="#999" stroke-width="1"/>
+<line x1="45" y1="150" x2="175" y2="40" stroke="#222" stroke-width="3"/>
+<line x1="45" y1="50" x2="175" y2="140" stroke="#d9480f" stroke-width="3"/>
+<circle cx="110" cy="95" r="6" fill="#222" stroke="#222" stroke-width="2"/>
+<text x="110" y="195" text-anchor="middle" fill="#222" font-weight="bold">one solution</text>
+<text x="110" y="215" text-anchor="middle" fill="#222" font-size="13">lines cross</text>
+<rect x="260" y="20" width="160" height="150" fill="none" stroke="#999" stroke-width="1"/>
+<line x1="275" y1="130" x2="385" y2="30" stroke="#222" stroke-width="3"/>
+<line x1="295" y1="160" x2="405" y2="60" stroke="#d9480f" stroke-width="3"/>
+<text x="340" y="195" text-anchor="middle" fill="#222" font-weight="bold">no solution</text>
+<text x="340" y="215" text-anchor="middle" fill="#222" font-size="13">parallel lines</text>
+<rect x="490" y="20" width="160" height="150" fill="none" stroke="#999" stroke-width="1"/>
+<line x1="505" y1="150" x2="635" y2="40" stroke="#222" stroke-width="7"/>
+<line x1="505" y1="150" x2="635" y2="40" stroke="#d9480f" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="570" y="195" text-anchor="middle" fill="#222" font-weight="bold">infinitely many</text>
+<text x="570" y="215" text-anchor="middle" fill="#222" font-size="13">same line twice</text>
+</svg>

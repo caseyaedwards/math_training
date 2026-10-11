@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 460" width="420" height="460" font-family="sans-serif" font-size="14">
+<title>Squares on the sides of a 3-4-5 right triangle</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="420" height="460" fill="#ffffff"/>
+<polygon points="60,210 150,210 150,300 60,300" fill="#fbe3d6" stroke="#d9480f" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="150,300 270,300 270,420 150,420" fill="#fbe3d6" stroke="#d9480f" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="150,210 270,300 360,180 240,90" fill="#e6e6e6" stroke="#222" stroke-width="2" stroke-linejoin="round"/>
+<line x1="120" y1="210" x2="120" y2="300" stroke="#d9480f" stroke-width="0.8"/>
+<line x1="60" y1="270" x2="150" y2="270" stroke="#d9480f" stroke-width="0.8"/>
+<line x1="90" y1="210" x2="90" y2="300" stroke="#d9480f" stroke-width="0.8"/>
+<line x1="60" y1="240" x2="150" y2="240" stroke="#d9480f" stroke-width="0.8"/>
+<line x1="180" y1="300" x2="180" y2="420" stroke="#d9480f" stroke-width="0.8"/>
+<line x1="150" y1="330" x2="270" y2="330" stroke="#d9480f" stroke-width="0.8"/>
+<line x1="210" y1="300" x2="210" y2="420" stroke="#d9480f" stroke-width="0.8"/>
+<line x1="150" y1="360" x2="270" y2="360" stroke="#d9480f" stroke-width="0.8"/>
+<line x1="240" y1="300" x2="240" y2="420" stroke="#d9480f" stroke-width="0.8"/>
+<line x1="150" y1="390" x2="270" y2="390" stroke="#d9480f" stroke-width="0.8"/>
+<polygon points="150,210 270,300 150,300" fill="#ffffff" stroke="#222" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 162 300 L 162 288 L 150 288" fill="none" stroke="#222" stroke-width="1.5"/>
+<text x="105" y="261" text-anchor="middle" fill="#d9480f" font-size="20" font-weight="bold">9</text>
+<text x="210" y="366" text-anchor="middle" fill="#d9480f" font-size="20" font-weight="bold">16</text>
+<text x="255" y="201" text-anchor="middle" fill="#222" font-size="22" font-weight="bold">25</text>
+<text x="156" y="260" text-anchor="start" fill="#222" font-weight="bold">3</text>
+<text x="228" y="292" text-anchor="middle" fill="#222" font-weight="bold">4</text>
+<text x="196" y="271" text-anchor="middle" fill="#222" font-weight="bold">5</text>
+<text x="210" y="445" text-anchor="middle" fill="#222" font-size="16" font-weight="bold">9 + 16 = 25</text>
+</svg>

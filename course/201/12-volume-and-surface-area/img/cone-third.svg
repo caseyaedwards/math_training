@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" width="640" height="300" font-family="sans-serif" font-size="14">
+<title>A cone fills one third of the cylinder with the same base and height</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+</defs>
+<rect x="0" y="0" width="640" height="300" fill="#ffffff"/>
+<path d="M 60 60 L 60 230 A 70 21.0 0 0 0 200 230 L 200 60" fill="#ffffff" stroke="#222" stroke-width="2"/>
+<ellipse cx="130" cy="60" rx="70" ry="21" fill="#ffffff" stroke="#222" stroke-width="2"/>
+<polyline points="60,230 130,60 200,230" fill="#fbe3d6" stroke="#d9480f" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M 60 230 A 70 21 0 0 0 200 230" fill="#fbe3d6" stroke="#d9480f" stroke-width="2.5"/>
+<text x="130" y="275" text-anchor="middle" fill="#d9480f" font-weight="bold">cone = 1/3 πr²h</text>
+<polygon points="280,100 300,160 320,100" fill="#fbe3d6" stroke="#d9480f" stroke-width="2" stroke-linejoin="round"/>
+<ellipse cx="300" cy="100" rx="20" ry="6" fill="#fbe3d6" stroke="#d9480f" stroke-width="2"/>
+<polygon points="330,100 350,160 370,100" fill="#fbe3d6" stroke="#d9480f" stroke-width="2" stroke-linejoin="round"/>
+<ellipse cx="350" cy="100" rx="20" ry="6" fill="#fbe3d6" stroke="#d9480f" stroke-width="2"/>
+<polygon points="380,100 400,160 420,100" fill="#fbe3d6" stroke="#d9480f" stroke-width="2" stroke-linejoin="round"/>
+<ellipse cx="400" cy="100" rx="20" ry="6" fill="#fbe3d6" stroke="#d9480f" stroke-width="2"/>
+<text x="470" y="135" text-anchor="middle" fill="#222" font-size="26" font-weight="bold">=</text>
+<path d="M 500 80 L 500 170 A 40 12.0 0 0 0 580 170 L 580 80" fill="#fbe3d6" stroke="#222" stroke-width="2"/>
+<ellipse cx="540" cy="80" rx="40" ry="12" fill="#ffffff" stroke="#222" stroke-width="2"/>
+<text x="450" y="230" text-anchor="middle" fill="#222" font-size="13" font-weight="bold">three full cones fill one cylinder</text>
+<text x="450" y="250" text-anchor="middle" fill="#222" font-size="13">(same base, same height)</text>
+</svg>

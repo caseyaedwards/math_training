@@ -1,0 +1,10 @@
+Formula for slope through two points.	\(m = \frac{y_2 - y_1}{x_2 - x_1}\), rise over run.	math::201::lines
+In \(y = mx + b\), what are m and b?	m is the slope, b is the y-intercept (value at x = 0).	math::201::lines
+Slope of a horizontal line?	0	math::201::lines
+Slope of a vertical line?	Undefined (run is 0).	math::201::lines
+Slopes of parallel lines?	Equal.	math::201::lines
+Slopes of perpendicular lines?	They multiply to \(-1\), for example 2 and \(-\frac{1}{2}\).	math::201::lines
+Point-slope form.	\(y - y_1 = m(x - x_1)\)	math::201::lines
+Line through \((2, 3)\) and \((6, 1)\)?	\(y = -\frac{1}{2}x + 4\)	math::201::lines
+Convert \(2x + 3y = 6\) to slope-intercept form.	\(y = -\frac{2}{3}x + 2\)	math::201::lines
+What are the units of a slope?	Output units per input unit, for example GB per day.	math::201::lines

@@ -1,0 +1,10 @@
+Angles of a triangle add to?	180 degrees.	math::201::triangles
+How does a parallel line prove the angle sum?	The line through one vertex parallel to the opposite side copies the two base angles there (alternate interior angles); all three sit on a straight line.	math::201::triangles
+Exterior angle theorem.	An exterior angle equals the sum of the two remote interior angles.	math::201::triangles
+Four congruence shortcuts.	SSS, SAS, ASA, AAS.	math::201::triangles
+Why does SSA fail?	The second side can swing to two positions, giving two different triangles.	math::201::triangles
+Congruent vs similar?	Congruent: same shape and size. Similar: same shape, sides scaled by one factor k.	math::201::triangles
+AA similarity.	Two matching angles make two triangles similar.	math::201::triangles
+Scale a figure by k. Area scales by?	\(k^2\)	math::201::triangles
+Isosceles triangle: what about its base angles?	They are equal.	math::201::triangles
+2 m pole, 3 m shadow, tree with 18 m shadow. Tree height?	12 m	math::201::triangles

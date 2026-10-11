@@ -1,0 +1,10 @@
+In \((x, y)\), which coordinate comes first?	x, the horizontal step.	math::201::functions
+Which quadrant has x negative and y positive?	Quadrant II.	math::201::functions
+What is a function?	A rule that gives exactly one output for each input.	math::201::functions
+Is it allowed for two inputs to share one output?	Yes. Only one input with two outputs breaks the rule.	math::201::functions
+What does \(f(3)\) mean?	The output of f when the input is 3. Not multiplication.	math::201::functions
+\(f(x) = 2x + 1\). Find \(f(-2)\).	\(-3\)	math::201::functions
+What is the domain of a function?	The set of allowed inputs.	math::201::functions
+Domain of \(h(x) = \frac{1}{x - 2}\)?	All real numbers except 2.	math::201::functions
+State the vertical line test.	A graph is a function when no vertical line hits it more than once.	math::201::functions
+Why is DNS round robin not a function of the hostname?	One name maps to several addresses: one input, many outputs.	math::201::functions
